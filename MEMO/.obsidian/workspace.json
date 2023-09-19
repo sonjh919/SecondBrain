@@ -34,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,6 +138,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f7eef9a78b93db49",
-  "lastOpenFiles": []
+  "active": "22e62c815c87a34c",
+  "lastOpenFiles": [
+    "Area",
+    "Project",
+    "Resource",
+    "Archive",
+    "무제 폴더",
+    "Project/Area",
+    "Project"
+  ]
 }
