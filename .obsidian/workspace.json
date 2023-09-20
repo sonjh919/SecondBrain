@@ -11,9 +11,17 @@
             "id": "f7eef9a78b93db49",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "346ea2c6e0d3d0d7",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/Second brain/second brain.md",
+                "file": "sortspec.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/Second brain/second brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/Second brain/second brain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Resource/Second brain/second brain.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,19 +149,26 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f7eef9a78b93db49",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
+    "Area/Obsidian 설정",
+    "Area/독수리",
+    "Project/Second brain 이론 정리, 적용/second brain.md",
+    "Project/Second brain 이론 정리, 적용",
+    "sortspec.md",
+    "Resource/Second brain 이론 정리, 적용/second brain.md",
+    "Resource/Second brain 이론 정리, 적용",
     "Resource/Second brain/second brain.md",
+    "Inbox",
     "Resource/Second brain",
-    "무제 폴더",
     "Area",
     "Project",
     "Resource",
     "Archive",
-    "Project/Area",
-    "Project"
+    "Project/Area"
   ]
 }
