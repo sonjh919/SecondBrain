@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Python/문법/자료형/자료형.md",
+                "file": "Project/Python/Error/Python error.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Python/문법/자료형/자료형.md",
+                "file": "Project/Python/Error/Python error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Python/문법/자료형/자료형.md",
+                "file": "Project/Python/Error/Python error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Python/문법/자료형/자료형.md"
+                "file": "Project/Python/Error/Python error.md"
               }
             }
           },
@@ -175,10 +175,17 @@
   },
   "active": "f7eef9a78b93db49",
   "lastOpenFiles": [
-    "Project/Python/문법/자료형/숫자형.md",
+    "Project/Python/라이브러리/itertools.md",
+    "Project/Python/Error/Python error.md",
+    "Project/Python/라이브러리/heapq.md",
+    "Project/Python/라이브러리/bisect.md",
+    "Project/Python/라이브러리/collections.md",
+    "Project/Python/라이브러리/내장 라이브러리.md",
+    "Project/Python/라이브러리/Python 라이브러리.md",
+    "Project/Python/라이브러리/math.md",
     "Project/Python/문법/자료형/자료형.md",
+    "Project/Python/문법/자료형/숫자형.md",
     "Project/Python/문법/Python 문법.md",
-    "Python 라이브러리.md",
     "Project/Python/라이브러리",
     "Project/Python/MOC.md",
     "Project/Python/문법/제어문/for.md",
@@ -202,13 +209,7 @@
     "Excalidraw/Drawing 2023-09-22 17.35.51.excalidraw.md",
     "Archive/Obsidian 설정/sortspec.md",
     "Excalidraw",
-    "Project/Second brain 이론 정리, 적용/PARA.md",
-    "Project/Algorithm & Data Structure/Greedy.md",
     "Project/Python/문법",
-    "Project/Python/Error",
-    "[.md",
-    "Project/Algorithm & Data Structure/시간 복잡도.md",
-    "Project/Algorithm & Data Structure/공간 복잡도.md",
-    "sortspec.md"
+    "Project/Python/Error"
   ]
 }

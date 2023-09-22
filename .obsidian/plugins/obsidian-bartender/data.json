@@ -4,10 +4,10 @@
   "fileExplorerOrder": {
     "/": [
       "Inbox",
-      "함수.md",
       "Project",
       "Area",
       "Resource",
+      "Python 라이브러리.md",
       "Archive"
     ],
     "Project/Python/문법": [
