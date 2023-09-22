@@ -4,6 +4,7 @@
   "fileExplorerOrder": {
     "/": [
       "Inbox",
+      "함수.md",
       "Project",
       "Area",
       "Resource",
@@ -11,19 +12,19 @@
     ],
     "Project/Python/문법": [
       "Project/Python/문법/Python 문법.md",
-      "Project/Python/문법/자료형.md",
-      "Project/Python/문법/숫자형.md",
-      "Project/Python/문법/문자열.md",
-      "Project/Python/문법/리스트.md",
-      "Project/Python/문법/튜플.md",
-      "Project/Python/문법/딕셔너리.md",
-      "Project/Python/문법/집합.md",
-      "Project/Python/문법/불.md"
+      "Project/Python/문법/자료형",
+      "Project/Python/문법/제어문",
+      "Project/Python/문법/입출력"
     ],
     "Project/Algorithm & Data Structure": [
       "Project/Algorithm & Data Structure/시간 복잡도.md",
       "Project/Algorithm & Data Structure/공간 복잡도.md",
       "Project/Algorithm & Data Structure/Greedy.md"
+    ],
+    "Project/Python": [
+      "Project/Python/MOC.md",
+      "Project/Python/문법",
+      "Project/Python/Error"
     ]
   },
   "actionBarOrder": {},

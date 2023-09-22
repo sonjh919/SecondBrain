@@ -28,9 +28,14 @@
   "anuppuccin-theme-settings@@anp-simple-rainbow-indentation-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": true,
   "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
-  "anuppuccin-theme-settings@@anp-h3-color-custom": "anp-h3-blue",
+  "anuppuccin-theme-settings@@anp-h3-color-custom": "anp-h3-lavender",
   "anuppuccin-theme-settings@@anp-decoration-toggle": true,
   "anuppuccin-theme-settings@@anp-list-toggle": true,
   "anuppuccin-theme-settings@@callout-title-opacity": 0.3,
-  "anuppuccin-theme-settings@@anp-color-transition-toggle": false
+  "anuppuccin-theme-settings@@anp-color-transition-toggle": false,
+  "anuppuccin-theme-settings@@anp-h2-color-custom": "anp-h2-blue",
+  "anuppuccin-theme-settings@@anp-codeblock-numbers": true,
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-edit": "anp-codeblock-edit-nowrap",
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-preview": "anp-codeblock-preview-nowrap",
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-hl-preview": "anp-codeblock-preview-hl-nowrap"
 }

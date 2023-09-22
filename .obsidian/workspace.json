@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Python/문법/자료형.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b4690e367a7b72d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/Python/문법/Python 문법.md",
+                "file": "Project/Python/문법/자료형/자료형.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Python/문법/Python 문법.md",
+                "file": "Project/Python/문법/자료형/자료형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Python/문법/Python 문법.md",
+                "file": "Project/Python/문법/자료형/자료형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,12 +128,20 @@
             }
           },
           {
+            "id": "0b4690e367a7b72d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "8dc63a58024375e2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Python/문법/Python 문법.md"
+                "file": "Project/Python/문법/자료형/자료형.md"
               }
             }
           },
@@ -159,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -178,22 +173,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b4690e367a7b72d",
+  "active": "f7eef9a78b93db49",
   "lastOpenFiles": [
-    "Project/Python/문법/자료형.md",
+    "Project/Python/문법/자료형/숫자형.md",
+    "Project/Python/문법/자료형/자료형.md",
     "Project/Python/문법/Python 문법.md",
-    "Project/Python/문법/숫자형.md",
-    "Project/Python/문법/문자열.md",
+    "Python 라이브러리.md",
+    "Project/Python/라이브러리",
+    "Project/Python/MOC.md",
+    "Project/Python/문법/제어문/for.md",
+    "Project/Python/문법/입출력/입출력.md",
+    "Project/Python/문법/함수/함수.md",
+    "Project/Python/문법/함수",
+    "Project/Python/문법/자료형/딕셔너리.md",
+    "Project/Python/문법/자료형/불.md",
+    "Project/Python/문법/제어문/while.md",
+    "Project/Python/문법/제어문/if.md",
+    "Project/Python/문법/제어문/제어문.md",
+    "Project/Python/문법/자료형/리스트.md",
+    "Project/Python/문법/자료형/튜플.md",
+    "Project/Python/문법/자료형/집합.md",
+    "Project/Python/문법/자료형/문자열.md",
+    "Project/Python/문법/입출력",
+    "Project/Python/문법/제어문",
+    "Project/Python/문법/자료형",
     "Context/spacesLastSync.log",
     "Context",
     "Excalidraw/Drawing 2023-09-22 17.35.51.excalidraw.md",
     "Archive/Obsidian 설정/sortspec.md",
     "Excalidraw",
-    "Project/Python/문법/불.md",
-    "Project/Python/문법/집합.md",
-    "Project/Python/문법/딕셔너리.md",
-    "Project/Python/문법/리스트.md",
-    "Project/Python/문법/튜플.md",
     "Project/Second brain 이론 정리, 적용/PARA.md",
     "Project/Algorithm & Data Structure/Greedy.md",
     "Project/Python/문법",
@@ -201,13 +209,6 @@
     "[.md",
     "Project/Algorithm & Data Structure/시간 복잡도.md",
     "Project/Algorithm & Data Structure/공간 복잡도.md",
-    "Project/Algorithm & Data Structure",
-    "Project/Python",
-    "Archive/Obsidian 설정",
-    "Area/독수리",
-    "Project/Second brain 이론 정리, 적용",
-    "sortspec.md",
-    "Resource/Second brain 이론 정리, 적용/second brain.md",
-    "Resource/Second brain/second brain.md"
+    "sortspec.md"
   ]
 }
