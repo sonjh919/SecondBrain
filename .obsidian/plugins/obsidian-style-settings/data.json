@@ -6,7 +6,7 @@
   "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
   "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": true,
   "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-atom-light",
-  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-dracula",
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-generic-dark",
   "anuppuccin-theme-settings@@anp-active-line": "anp-current-line",
   "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-block",
   "anuppuccin-theme-settings@@anp-callout-color-toggle": true,
@@ -27,5 +27,7 @@
   "anuppuccin-theme-settings@@anp-simple-rainbow-icon-folder-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-indentation-toggle": true,
   "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": true,
-  "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout"
+  "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
+  "anuppuccin-theme-settings@@anp-h3-color-custom": "anp-h3-blue",
+  "anuppuccin-theme-settings@@anp-decoration-toggle": true
 }

@@ -1,0 +1,33 @@
+{
+  "statusBarOrder": [],
+  "ribbonBarOrder": [],
+  "fileExplorerOrder": {
+    "/": [
+      "Inbox",
+      "Project",
+      "Area",
+      "Resource",
+      "Archive"
+    ],
+    "Project/Python/문법": [
+      "Project/Python/문법/Python 문법.md",
+      "Project/Python/문법/자료형.md",
+      "Project/Python/문법/숫자형.md",
+      "Project/Python/문법/문자열.md",
+      "Project/Python/문법/리스트.md",
+      "Project/Python/문법/튜플.md",
+      "Project/Python/문법/딕셔너리.md",
+      "Project/Python/문법/집합.md",
+      "Project/Python/문법/불.md"
+    ],
+    "Project/Algorithm & Data Structure": [
+      "Project/Algorithm & Data Structure/시간 복잡도.md",
+      "Project/Algorithm & Data Structure/공간 복잡도.md",
+      "Project/Algorithm & Data Structure/Greedy.md"
+    ]
+  },
+  "actionBarOrder": {},
+  "autoHide": false,
+  "autoHideDelay": 2000,
+  "dragDelay": 200
+}

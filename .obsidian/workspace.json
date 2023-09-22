@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Algorithm & Data Structure/Greedy.md",
+                "file": "Project/Python/문법/자료형.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b4690e367a7b72d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/Python/문법/자료형.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "custom"
               }
             }
           },
@@ -64,6 +77,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "10a006f38cdebf79",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Algorithm & Data Structure/Greedy.md",
+                "file": "Project/Python/문법/자료형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Algorithm & Data Structure/Greedy.md",
+                "file": "Project/Python/문법/자료형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Algorithm & Data Structure/Greedy.md"
+                "file": "Project/Python/문법/자료형.md"
               }
             }
           },
@@ -146,6 +167,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -153,31 +175,39 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "custom-sort:Toggle custom sorting": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "0b4690e367a7b72d",
   "lastOpenFiles": [
+    "Project/Python/문법/Python 문법.md",
+    "Project/Python/문법/자료형.md",
+    "Project/Python/문법/숫자형.md",
+    "Project/Python/문법/문자열.md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "Excalidraw/Drawing 2023-09-22 17.35.51.excalidraw.md",
+    "Archive/Obsidian 설정/sortspec.md",
+    "Excalidraw",
+    "Project/Python/문법/불.md",
+    "Project/Python/문법/집합.md",
+    "Project/Python/문법/딕셔너리.md",
+    "Project/Python/문법/리스트.md",
+    "Project/Python/문법/튜플.md",
+    "Project/Second brain 이론 정리, 적용/PARA.md",
+    "Project/Algorithm & Data Structure/Greedy.md",
+    "Project/Python/문법",
     "Project/Python/Error",
     "[.md",
-    "Project/Algorithm & Data Structure/Greedy.md",
     "Project/Algorithm & Data Structure/시간 복잡도.md",
     "Project/Algorithm & Data Structure/공간 복잡도.md",
-    "Project/Second brain 이론 정리, 적용/PARA.md",
     "Project/Algorithm & Data Structure",
     "Project/Python",
-    "Archive/Obsidian 설정/sortspec.md",
     "Archive/Obsidian 설정",
     "Area/독수리",
     "Project/Second brain 이론 정리, 적용",
     "sortspec.md",
     "Resource/Second brain 이론 정리, 적용/second brain.md",
-    "Resource/Second brain 이론 정리, 적용",
-    "Resource/Second brain/second brain.md",
-    "Inbox",
-    "Resource/Second brain",
-    "Area",
-    "Project"
+    "Resource/Second brain/second brain.md"
   ]
 }
