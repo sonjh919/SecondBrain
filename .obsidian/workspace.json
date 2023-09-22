@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Second brain 이론 정리, 적용/PARA.md",
+                "file": "Project/Algorithm & Data Structure/Greedy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Second brain 이론 정리, 적용/PARA.md",
+                "file": "Project/Algorithm & Data Structure/Greedy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Second brain 이론 정리, 적용/PARA.md",
+                "file": "Project/Algorithm & Data Structure/Greedy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Second brain 이론 정리, 적용/PARA.md"
+                "file": "Project/Algorithm & Data Structure/Greedy.md"
               }
             }
+          },
+          {
+            "id": "f332e7319e20ee7e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,10 +159,15 @@
   },
   "active": "22e62c815c87a34c",
   "lastOpenFiles": [
+    "Project/Python/Error",
+    "[.md",
+    "Project/Algorithm & Data Structure/Greedy.md",
+    "Project/Algorithm & Data Structure/시간 복잡도.md",
+    "Project/Algorithm & Data Structure/공간 복잡도.md",
+    "Project/Second brain 이론 정리, 적용/PARA.md",
     "Project/Algorithm & Data Structure",
     "Project/Python",
     "Archive/Obsidian 설정/sortspec.md",
-    "Project/Second brain 이론 정리, 적용/PARA.md",
     "Archive/Obsidian 설정",
     "Area/독수리",
     "Project/Second brain 이론 정리, 적용",
@@ -165,7 +178,6 @@
     "Inbox",
     "Resource/Second brain",
     "Area",
-    "Project",
-    "Resource"
+    "Project"
   ]
 }
