@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Python/문법/자료형.md",
+                "file": "Project/Python/문법/Python 문법.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Python/문법/자료형.md",
+                "file": "Project/Python/문법/Python 문법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Python/문법/자료형.md",
+                "file": "Project/Python/문법/Python 문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Python/문법/자료형.md"
+                "file": "Project/Python/문법/Python 문법.md"
               }
             }
           },
@@ -180,8 +180,8 @@
   },
   "active": "0b4690e367a7b72d",
   "lastOpenFiles": [
-    "Project/Python/문법/Python 문법.md",
     "Project/Python/문법/자료형.md",
+    "Project/Python/문법/Python 문법.md",
     "Project/Python/문법/숫자형.md",
     "Project/Python/문법/문자열.md",
     "Context/spacesLastSync.log",
