@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "46221ed833e2e82c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/Python/Error/TypeError/list indices must be integers or slices, not str.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Python/Error/Python error.md",
+                "file": "Project/Python/Error/TypeError/list indices must be integers or slices, not str.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Python/Error/Python error.md",
+                "file": "Project/Python/Error/TypeError/list indices must be integers or slices, not str.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Python/Error/Python error.md"
+                "file": "Project/Python/Error/TypeError/list indices must be integers or slices, not str.md"
               }
             }
           },
@@ -173,43 +186,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f7eef9a78b93db49",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
-    "Project/Python/라이브러리/itertools.md",
+    "Project/Python/Error/TypeError/sequence item 0 expected str instance, int found.md",
+    "Project/Python/Error/TypeError/list indices must be integers or slices, not str.md",
+    "Project/Python/Error/Index Error/list assignment index out of range.md",
+    "Project/Python/Error/TypeError/TypeError.md",
+    "Project/Python/Error/Value Error/ValueError.md",
     "Project/Python/Error/Python error.md",
+    "Project/Python/Error/ZeroDivisionError/ZeroDivisionError.md",
+    "Project/Python/Error/OverFlowError/OverFlowError.md",
+    "Project/Python/Error/AttributeError/AttributeError.md",
+    "Project/Python/Error/FileNotFoundError/FileNotFoundError.md",
+    "Project/Python/Error/KeyError/KeyError.md",
+    "Project/Python/Error/NameError/NameError.md",
+    "Project/Python/Error/Syntax Error/SyntaxError.md",
+    "Project/Python/Error/Index Error/IndexError.md",
+    "Project/Python/Error/OverFlowError",
+    "Project/Python/Error/AttributeError",
+    "Project/Python/Error/FileNotFoundError",
+    "Project/Python/Error/KeyError",
+    "Project/Python/Error/TypeError",
+    "Project/Python/Error/ZeroDivisionError",
+    "Project/Python/Error/NameError",
+    "Project/Python/Error/무제 폴더 1/무제 파일.md",
+    "Project/Python/Error/무제 폴더 9",
+    "Project/Python/Error/무제 폴더 8",
+    "Project/Python/Error/무제 폴더 7",
+    "Project/Python/라이브러리/내장 라이브러리.md",
+    "Project/Python/문법/Python 문법.md",
+    "Project/Python/라이브러리/itertools.md",
     "Project/Python/라이브러리/heapq.md",
     "Project/Python/라이브러리/bisect.md",
     "Project/Python/라이브러리/collections.md",
-    "Project/Python/라이브러리/내장 라이브러리.md",
     "Project/Python/라이브러리/Python 라이브러리.md",
     "Project/Python/라이브러리/math.md",
     "Project/Python/문법/자료형/자료형.md",
     "Project/Python/문법/자료형/숫자형.md",
-    "Project/Python/문법/Python 문법.md",
-    "Project/Python/라이브러리",
-    "Project/Python/MOC.md",
-    "Project/Python/문법/제어문/for.md",
-    "Project/Python/문법/입출력/입출력.md",
-    "Project/Python/문법/함수/함수.md",
-    "Project/Python/문법/함수",
-    "Project/Python/문법/자료형/딕셔너리.md",
-    "Project/Python/문법/자료형/불.md",
-    "Project/Python/문법/제어문/while.md",
-    "Project/Python/문법/제어문/if.md",
-    "Project/Python/문법/제어문/제어문.md",
-    "Project/Python/문법/자료형/리스트.md",
-    "Project/Python/문법/자료형/튜플.md",
-    "Project/Python/문법/자료형/집합.md",
-    "Project/Python/문법/자료형/문자열.md",
-    "Project/Python/문법/입출력",
-    "Project/Python/문법/제어문",
-    "Project/Python/문법/자료형",
-    "Context/spacesLastSync.log",
-    "Context",
-    "Excalidraw/Drawing 2023-09-22 17.35.51.excalidraw.md",
-    "Archive/Obsidian 설정/sortspec.md",
-    "Excalidraw",
-    "Project/Python/문법",
-    "Project/Python/Error"
+    "Project/Python/MOC.md"
   ]
 }

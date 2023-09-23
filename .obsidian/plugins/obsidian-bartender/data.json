@@ -5,10 +5,11 @@
     "/": [
       "Inbox",
       "Project",
+      "list indices must be integers or slices, not str.md",
       "Area",
       "Resource",
-      "Python 라이브러리.md",
-      "Archive"
+      "Archive",
+      "sequence item 0 expected str instance, int found.md"
     ],
     "Project/Python/문법": [
       "Project/Python/문법/Python 문법.md",
@@ -25,6 +26,19 @@
       "Project/Python/MOC.md",
       "Project/Python/문법",
       "Project/Python/Error"
+    ],
+    "Project/Python/Error": [
+      "Project/Python/Error/Python error.md",
+      "Project/Python/Error/Value Error",
+      "Project/Python/Error/Index Error",
+      "Project/Python/Error/Syntax Error",
+      "Project/Python/Error/NameError",
+      "Project/Python/Error/ZeroDivisionError",
+      "Project/Python/Error/TypeError",
+      "Project/Python/Error/KeyError",
+      "Project/Python/Error/FileNotFoundError",
+      "Project/Python/Error/AttributeError",
+      "Project/Python/Error/OverFlowError"
     ]
   },
   "actionBarOrder": {},
