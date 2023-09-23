@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Python/Error/TypeError/list indices must be integers or slices, not str.md",
+                "file": "Project/Python/Python MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Python/Error/TypeError/list indices must be integers or slices, not str.md",
+                "file": "Project/Python/Python MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Python/Error/TypeError/list indices must be integers or slices, not str.md",
+                "file": "Project/Python/Python MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Python/Error/TypeError/list indices must be integers or slices, not str.md"
+                "file": "Project/Python/Python MOC.md"
               }
             }
           },
@@ -186,14 +186,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "46221ed833e2e82c",
   "lastOpenFiles": [
+    "Project/Python/Error/Python error.md",
     "Project/Python/Error/TypeError/sequence item 0 expected str instance, int found.md",
     "Project/Python/Error/TypeError/list indices must be integers or slices, not str.md",
     "Project/Python/Error/Index Error/list assignment index out of range.md",
     "Project/Python/Error/TypeError/TypeError.md",
     "Project/Python/Error/Value Error/ValueError.md",
-    "Project/Python/Error/Python error.md",
     "Project/Python/Error/ZeroDivisionError/ZeroDivisionError.md",
     "Project/Python/Error/OverFlowError/OverFlowError.md",
     "Project/Python/Error/AttributeError/AttributeError.md",
@@ -223,6 +223,6 @@
     "Project/Python/라이브러리/math.md",
     "Project/Python/문법/자료형/자료형.md",
     "Project/Python/문법/자료형/숫자형.md",
-    "Project/Python/MOC.md"
+    "Project/Python/Python MOC.md"
   ]
 }
