@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "93093b86775e7347",
+        "id": "8e73b57fa241a167",
         "type": "tabs",
         "children": [
           {
-            "id": "f7eef9a78b93db49",
+            "id": "100177b19c1ff051",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Python/Error/Python error.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46221ed833e2e82c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/Coding Test/Coding Test.md",
+                "file": "Project/Coding Test/구현/백준 5622 파이썬 - 다이얼.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Coding Test/Coding Test.md",
+                "file": "Project/Coding Test/구현/백준 5622 파이썬 - 다이얼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Coding Test/Coding Test.md",
+                "file": "Project/Coding Test/구현/백준 5622 파이썬 - 다이얼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Coding Test/Coding Test.md"
+                "file": "Project/Coding Test/구현/백준 5622 파이썬 - 다이얼.md"
               }
             }
           },
@@ -171,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 313
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,25 +173,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "46221ed833e2e82c",
+  "active": "100177b19c1ff051",
   "lastOpenFiles": [
-    "Project/Python/Python MOC.md",
+    "Archive/IMG/5622.png",
+    "Project/Coding Test/구현/백준 5622 파이썬 - 다이얼.md",
+    "Pasted image 20230924105851.png.md",
+    "Archive/IMG/Pasted image 20230924105851.png",
+    "Project/Coding Test/구현/구현.md",
     "Project/Coding Test/Coding Test.md",
-    "Project/Coding Test",
-    "Project/Python/Error/Python error.md",
+    "Project/Python/Error/Index Error/list assignment index out of range.md",
     "Project/Python/Error/TypeError/sequence item 0 expected str instance, int found.md",
     "Project/Python/Error/TypeError/list indices must be integers or slices, not str.md",
-    "Project/Python/Error/Index Error/list assignment index out of range.md",
-    "Project/Python/Error/TypeError/TypeError.md",
-    "Project/Python/Error/Value Error/ValueError.md",
-    "Project/Python/Error/ZeroDivisionError/ZeroDivisionError.md",
+    "Project/Python/Error/Python error.md",
+    "Project/Python/문법/제어문/for.md",
+    "Project/Python/문법/자료형/리스트.md",
+    "Project/Python/Python MOC.md",
+    "Project/Python/문법/자료형/자료형.md",
     "Project/Python/Error/OverFlowError/OverFlowError.md",
     "Project/Python/Error/AttributeError/AttributeError.md",
     "Project/Python/Error/FileNotFoundError/FileNotFoundError.md",
     "Project/Python/Error/KeyError/KeyError.md",
+    "Project/Python/Error/TypeError/TypeError.md",
+    "Project/Python/Error/ZeroDivisionError/ZeroDivisionError.md",
     "Project/Python/Error/NameError/NameError.md",
     "Project/Python/Error/Syntax Error/SyntaxError.md",
     "Project/Python/Error/Index Error/IndexError.md",
+    "Project/Python/Error/Value Error/ValueError.md",
+    "Project/Coding Test/구현",
+    "Archive/IMG",
+    "Project/Coding Test",
     "Project/Python/Error/OverFlowError",
     "Project/Python/Error/AttributeError",
     "Project/Python/Error/FileNotFoundError",
@@ -213,16 +210,7 @@
     "Project/Python/Error/ZeroDivisionError",
     "Project/Python/Error/NameError",
     "Project/Python/Error/무제 폴더 1/무제 파일.md",
-    "Project/Python/Error/무제 폴더 9",
-    "Project/Python/Error/무제 폴더 8",
     "Project/Python/라이브러리/내장 라이브러리.md",
-    "Project/Python/문법/Python 문법.md",
-    "Project/Python/라이브러리/itertools.md",
-    "Project/Python/라이브러리/heapq.md",
-    "Project/Python/라이브러리/bisect.md",
-    "Project/Python/라이브러리/collections.md",
-    "Project/Python/라이브러리/Python 라이브러리.md",
-    "Project/Python/라이브러리/math.md",
-    "Project/Python/문법/자료형/자료형.md"
+    "Project/Python/문법/Python 문법.md"
   ]
 }
