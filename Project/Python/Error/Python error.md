@@ -13,3 +13,4 @@
 + [[FileNotFoundError]]
 + [[AttributeError]]
 + [[OverFlowError]]
++ [[NotImplementedError]]

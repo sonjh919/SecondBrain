@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Second brain 이론 정리, 적용/PARA.md",
+                "file": "Project/Coding Test/구현/백준 11718 파이썬 - 그대로 출력하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Second brain 이론 정리, 적용/PARA.md",
+                "file": "Project/Coding Test/구현/백준 11718 파이썬 - 그대로 출력하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Second brain 이론 정리, 적용/PARA.md",
+                "file": "Project/Coding Test/구현/백준 11718 파이썬 - 그대로 출력하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Second brain 이론 정리, 적용/PARA.md"
+                "file": "Project/Coding Test/구현/백준 11718 파이썬 - 그대로 출력하기.md"
               }
             }
           },
@@ -176,29 +176,35 @@
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
     "Project/Coding Test/구현/백준 5622 파이썬 - 다이얼.md",
+    "Project/Coding Test/구현/백준 11718 파이썬 - 그대로 출력하기.md",
+    "Archive/IMG/11718.png",
+    "Project/Coding Test/구현/구현.md",
+    "Project/Python/문법/예외 처리/예외 처리.md",
+    "Project/Python/Error/TypeError/TypeError.md",
+    "Project/Python/Error/Python error.md",
+    "Project/Python/Error/NotImplementedError/NotImplementedError.md",
+    "Project/Python/Error/OverFlowError/OverFlowError.md",
+    "Project/Python/Error/NotImplementedError",
+    "Project/Python/Python MOC.md",
+    "Project/Python/문법/Python 문법.md",
+    "Project/Python/문법/예외 처리",
+    "Project/Second brain 이론 정리, 적용/PARA.md",
     "Archive/IMG/5622.png",
     "Pasted image 20230924105851.png.md",
     "Archive/IMG/Pasted image 20230924105851.png",
-    "Project/Coding Test/구현/구현.md",
     "Project/Coding Test/Coding Test.md",
     "Project/Python/Error/Index Error/list assignment index out of range.md",
     "Project/Python/Error/TypeError/sequence item 0 expected str instance, int found.md",
     "Project/Python/Error/TypeError/list indices must be integers or slices, not str.md",
-    "Project/Python/Error/Python error.md",
     "Project/Python/문법/제어문/for.md",
     "Project/Python/문법/자료형/리스트.md",
-    "Project/Python/Python MOC.md",
     "Project/Python/문법/자료형/자료형.md",
-    "Project/Python/Error/OverFlowError/OverFlowError.md",
     "Project/Python/Error/AttributeError/AttributeError.md",
     "Project/Python/Error/FileNotFoundError/FileNotFoundError.md",
     "Project/Python/Error/KeyError/KeyError.md",
-    "Project/Python/Error/TypeError/TypeError.md",
     "Project/Python/Error/ZeroDivisionError/ZeroDivisionError.md",
     "Project/Python/Error/NameError/NameError.md",
     "Project/Python/Error/Syntax Error/SyntaxError.md",
-    "Project/Python/Error/Index Error/IndexError.md",
-    "Project/Python/Error/Value Error/ValueError.md",
     "Project/Coding Test/구현",
     "Archive/IMG",
     "Project/Coding Test",
@@ -206,11 +212,6 @@
     "Project/Python/Error/AttributeError",
     "Project/Python/Error/FileNotFoundError",
     "Project/Python/Error/KeyError",
-    "Project/Python/Error/TypeError",
-    "Project/Python/Error/ZeroDivisionError",
-    "Project/Python/Error/NameError",
-    "Project/Python/Error/무제 폴더 1/무제 파일.md",
-    "Project/Python/라이브러리/내장 라이브러리.md",
-    "Project/Python/문법/Python 문법.md"
+    "Project/Python/Error/TypeError"
   ]
 }
