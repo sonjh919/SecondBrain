@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Coding Test/구현/백준 1157 파이썬 - 단어 공부.md",
+                "file": "Project/Coding Test/구현/백준 1316 파이썬 - 그룹 단어 체커.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Coding Test/구현/백준 1157 파이썬 - 단어 공부.md",
+                "file": "Project/Coding Test/구현/백준 1316 파이썬 - 그룹 단어 체커.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Coding Test/구현/백준 1157 파이썬 - 단어 공부.md",
+                "file": "Project/Coding Test/구현/백준 1316 파이썬 - 그룹 단어 체커.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Coding Test/구현/백준 1157 파이썬 - 단어 공부.md"
+                "file": "Project/Coding Test/구현/백준 1316 파이썬 - 그룹 단어 체커.md"
               }
             }
           },
@@ -175,9 +175,12 @@
   },
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
+    "Project/Coding Test/구현/백준 1157 파이썬 - 단어 공부.md",
+    "Archive/IMG/1316.png",
+    "Project/Coding Test/구현/백준 1316 파이썬 - 그룹 단어 체커.md",
+    "Project/Coding Test/구현/구현.md",
     "Project/Coding Test/구현/백준 5622 파이썬 - 다이얼.md",
     "Project/Coding Test/구현/백준 11718 파이썬 - 그대로 출력하기.md",
-    "Project/Coding Test/구현/백준 1157 파이썬 - 단어 공부.md",
     "Project/Python/문법/예외 처리/예외 처리.md",
     "예외처리.md",
     "Project/Python/문법/Python 문법.md",
@@ -192,7 +195,6 @@
     "Project/Python/라이브러리/내장 라이브러리.md",
     "Project/Python/문법/함수/함수.md",
     "Archive/IMG/1157.png",
-    "Project/Coding Test/구현/구현.md",
     "Area/Git/Commit 종류 명시.md",
     "Area/Git",
     "Project/Python/Error/NotImplementedError/NotImplementedError.md",
@@ -204,9 +206,7 @@
     "Project/Python/Error/OverFlowError/OverFlowError.md",
     "Project/Python/Error/NotImplementedError",
     "Project/Python/문법/예외 처리",
-    "Project/Second brain 이론 정리, 적용/PARA.md",
     "Archive/IMG/5622.png",
-    "Pasted image 20230924105851.png.md",
     "Archive/IMG/Pasted image 20230924105851.png",
     "Project/Coding Test/구현",
     "Archive/IMG",
