@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Coding Test/구현/백준 9506 파이썬 - 약수들의 합.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Coding Test/구현/백준 9506 파이썬 - 약수들의 합.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Project/Coding Test/구현/백준 9506 파이썬 - 약수들의 합.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,12 +169,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "100177b19c1ff051",
+  "active": "0b4690e367a7b72d",
   "lastOpenFiles": [
-    "Project/Coding Test/구현/구현.md",
-    "Archive/IMG/9506.png",
     "Project/Coding Test/구현/백준 9506 파이썬 - 약수들의 합.md",
     "Project/Coding Test/구현/백준 5622 파이썬 - 다이얼.md",
+    "Project/Coding Test/구현/백준 1316 파이썬 - 그룹 단어 체커.md",
+    "Project/Coding Test/구현/구현.md",
+    "Archive/IMG/9506.png",
     "Project/Coding Test/Coding Test.md",
     "Project/Coding Test/구현/백준 1157 파이썬 - 단어 공부.md",
     "Project/Coding Test/구현/백준 11005 파이썬 - 진법 변환 2.md",
