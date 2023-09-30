@@ -10,7 +10,7 @@ math.ceil(3.4) # 4
 math.ceil(-3.4) # -3
 
 # 버림
-int()
+int(-3.4) # -3 실수 -> 정수 형변환은 버림
 math.trunc(3) # 3
 math.trunc(3.4) # 3
 math.trunc(-3.4) # -3 소수점을 그냥 버리는 것
