@@ -35,18 +35,5 @@ for number in range(len(marks)):
     print("%d번 학생 축하합니다. 합격입니다." % (number+1))
 ```
 
-### List Comprehension
-
-- [[리스트]] 안에 for문을 포함하여 작성할 수 있다.
-
-```python
-[표현식 for 항목1 in 반복_가능_객체1 if 조건문1
-      for 항목2 in 반복_가능_객체2 if 조건문2
-      ...
-      for 항목n in 반복_가능_객체n if 조건문n]
-
->>> result = [x*y for x in range(2,10)  # 구구단
-...               for y in range(1,10)]
-```
 
 
