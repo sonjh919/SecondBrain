@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Python/문법/함수/Enumerate.md",
+                "file": "Project/Coding Test/구현/백준 11005 파이썬 - 진법 변환 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project/Coding Test/구현/백준 11005 파이썬 - 진법 변환 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Project/Coding Test/구현/백준 11005 파이썬 - 진법 변환 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Project/Coding Test/구현/백준 11005 파이썬 - 진법 변환 2.md"
+              }
             }
           },
           {
@@ -169,16 +173,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b4690e367a7b72d",
+  "active": "100177b19c1ff051",
   "lastOpenFiles": [
+    "Archive/IMG/11005.png",
+    "Project/Coding Test/구현/백준 11005 파이썬 - 진법 변환 2.md",
+    "Project/Coding Test/구현/백준 11718 파이썬 - 그대로 출력하기.md",
+    "Project/Coding Test/구현/백준 5622 파이썬 - 다이얼.md",
+    "Project/Coding Test/구현/구현.md",
+    "Project/Python/문법/자료형/불.md",
+    "Project/Python/문법/자료형/문자열.md",
     "Project/Python/문법/함수/Enumerate.md",
     "Project/Python/문법/제어문/for.md",
-    "Project/Coding Test/구현/백준 5622 파이썬 - 다이얼.md",
     "Project/Coding Test/구현/백준 1316 파이썬 - 그룹 단어 체커.md",
     "Project/Coding Test/구현/백준 1157 파이썬 - 단어 공부.md",
     "Archive/IMG/1316.png",
-    "Project/Coding Test/구현/구현.md",
-    "Project/Coding Test/구현/백준 11718 파이썬 - 그대로 출력하기.md",
     "Project/Python/문법/예외 처리/예외 처리.md",
     "예외처리.md",
     "Project/Python/문법/Python 문법.md",
@@ -196,11 +204,7 @@
     "Area/Git/Commit 종류 명시.md",
     "Area/Git",
     "Project/Python/Error/NotImplementedError/NotImplementedError.md",
-    "Project/Python/Error/Python error.md",
-    "Project/Python/Python MOC.md",
-    "Project/Coding Test/Coding Test.md",
     "Archive/IMG/11718.png",
-    "Project/Python/Error/TypeError/TypeError.md",
     "Project/Python/Error/NotImplementedError",
     "Project/Python/문법/예외 처리",
     "Archive/IMG/5622.png",
