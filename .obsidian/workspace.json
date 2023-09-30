@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Python/라이브러리/math.md",
+                "file": "Project/Python/문법/자료형/리스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Python/라이브러리/math.md",
+                "file": "Project/Python/문법/자료형/리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Python/라이브러리/math.md",
+                "file": "Project/Python/문법/자료형/리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Python/라이브러리/math.md"
+                "file": "Project/Python/문법/자료형/리스트.md"
               }
             }
           },
@@ -175,10 +175,14 @@
   },
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
+    "Project/Python/문법/함수/함수.md",
+    "Project/Python/문법/자료형/자료형.md",
+    "Project/Python/문법/자료형/숫자형.md",
+    "Project/Python/문법/함수/Enumerate.md",
+    "Project/Python/라이브러리/math.md",
     "Project/Python/라이브러리/내장 라이브러리.md",
     "Project/Python/라이브러리/Python 라이브러리.md",
     "Project/Python/라이브러리/itertools.md",
-    "Project/Python/라이브러리/math.md",
     "Project/Python/라이브러리/heapq.md",
     "Project/Python/라이브러리/collections.md",
     "Project/Python/라이브러리/bisect.md",
@@ -189,7 +193,6 @@
     "Project/Coding Test/구현/구현.md",
     "Project/Python/문법/자료형/불.md",
     "Project/Python/문법/자료형/문자열.md",
-    "Project/Python/문법/함수/Enumerate.md",
     "Project/Python/문법/제어문/for.md",
     "Project/Coding Test/구현/백준 1316 파이썬 - 그룹 단어 체커.md",
     "Project/Coding Test/구현/백준 1157 파이썬 - 단어 공부.md",
@@ -199,11 +202,9 @@
     "Project/Python/문법/Python 문법.md",
     "Project/Python/문법/자료형/집합.md",
     "Project/Python/문법/자료형/리스트.md",
-    "Project/Python/문법/함수/함수.md",
     "Archive/IMG/1157.png",
     "Area/Git/Commit 종류 명시.md",
     "Area/Git",
-    "Project/Python/Error/NotImplementedError/NotImplementedError.md",
     "Archive/IMG/11718.png",
     "Project/Python/Error/NotImplementedError",
     "Project/Python/문법/예외 처리",
