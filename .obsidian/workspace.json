@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Python/라이브러리/itertools.md",
+                "file": "Project/기획/기획.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Python/라이브러리/itertools.md",
+                "file": "Project/기획/기획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Python/라이브러리/itertools.md",
+                "file": "Project/기획/기획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Python/라이브러리/itertools.md"
+                "file": "Project/기획/기획.md"
               }
             }
           },
@@ -175,6 +175,9 @@
   },
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
+    "Project/Python/라이브러리/itertools.md",
+    "Project/기획/기획.md",
+    "Project/기획",
     "Project/Python/라이브러리/collections.md",
     "Project/Coding Test/구현/백준 9506 파이썬 - 약수들의 합.md",
     "Project/Coding Test/구현/백준 5622 파이썬 - 다이얼.md",
@@ -199,11 +202,9 @@
     "Project/Python/문법/자료형/숫자형.md",
     "Project/Python/라이브러리/math.md",
     "Project/Python/라이브러리/Python 라이브러리.md",
-    "Project/Python/라이브러리/itertools.md",
     "Project/Python/라이브러리/heapq.md",
     "Project/Python/라이브러리/bisect.md",
     "Archive/IMG/11005.png",
-    "Project/Python/문법/자료형/불.md",
     "Archive/IMG/1316.png",
     "Archive/IMG/1157.png",
     "Area/Git",
@@ -216,7 +217,6 @@
     "Archive/IMG",
     "Project/Coding Test",
     "Project/Python/Error/OverFlowError",
-    "Project/Python/Error/AttributeError",
-    "Project/Python/Error/FileNotFoundError"
+    "Project/Python/Error/AttributeError"
   ]
 }
