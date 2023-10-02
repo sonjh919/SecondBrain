@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Coding Test/구현/백준 9506 파이썬 - 약수들의 합.md",
+                "file": "Project/Python/라이브러리/itertools.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project/Python/라이브러리/itertools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Project/Python/라이브러리/itertools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Project/Python/라이브러리/itertools.md"
+              }
             }
           },
           {
@@ -169,8 +173,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b4690e367a7b72d",
+  "active": "100177b19c1ff051",
   "lastOpenFiles": [
+    "Project/Python/라이브러리/collections.md",
     "Project/Coding Test/구현/백준 9506 파이썬 - 약수들의 합.md",
     "Project/Coding Test/구현/백준 5622 파이썬 - 다이얼.md",
     "Project/Coding Test/구현/백준 1316 파이썬 - 그룹 단어 체커.md",
@@ -196,7 +201,6 @@
     "Project/Python/라이브러리/Python 라이브러리.md",
     "Project/Python/라이브러리/itertools.md",
     "Project/Python/라이브러리/heapq.md",
-    "Project/Python/라이브러리/collections.md",
     "Project/Python/라이브러리/bisect.md",
     "Archive/IMG/11005.png",
     "Project/Python/문법/자료형/불.md",
