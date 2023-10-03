@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/기획/프로젝트 기획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/기획/프로젝트 기획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Project/기획/프로젝트 기획.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,10 +169,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "100177b19c1ff051",
+  "active": "0b4690e367a7b72d",
   "lastOpenFiles": [
-    "Project/기획/사용자 중심 디자인(User-Centered Design, UCD).md",
     "Project/기획/프로젝트 기획.md",
+    "Project/기획/사용자 중심 디자인(User-Centered Design, UCD).md",
     "Project/Coding Test/구현/백준 1316 파이썬 - 그룹 단어 체커.md",
     "Project/Python/문법/기타/MOC.md",
     "Project/Python/라이브러리/itertools.md",
