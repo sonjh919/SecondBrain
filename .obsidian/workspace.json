@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Python/문법/자료형/숫자형.md",
+                "file": "Project/기획/프로젝트 기획.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Python/문법/자료형/숫자형.md",
+                "file": "Project/기획/프로젝트 기획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Python/문법/자료형/숫자형.md",
+                "file": "Project/기획/프로젝트 기획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Python/문법/자료형/숫자형.md"
+                "file": "Project/기획/프로젝트 기획.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
+    "Project/Python/문법/자료형/숫자형.md",
     "Project/Python/문법/자료형/문자열.md",
     "Project/Python/문법/입출력/입출력.md",
     "Project/Python/문법/기타/Enumerate.md",
@@ -202,7 +203,6 @@
     "Project/Python/문법/기타",
     "Project/Python/문법/함수/함수.md",
     "Project/Python/문법/자료형/자료형.md",
-    "Project/Python/문법/자료형/숫자형.md",
     "Project/Python/라이브러리/math.md",
     "Archive/IMG/11005.png",
     "Archive/IMG/1316.png",
