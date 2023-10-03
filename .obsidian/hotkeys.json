@@ -6,5 +6,11 @@
       ],
       "key": "S"
     }
+  ],
+  "editor:toggle-spellcheck": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
   ]
 }
