@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/기획/프로젝트 기획.md",
+                "file": "Project/Python/라이브러리/itertools.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project/Python/라이브러리/itertools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Project/Python/라이브러리/itertools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Project/Python/라이브러리/itertools.md"
+              }
             }
           },
           {
@@ -169,7 +173,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b4690e367a7b72d",
+  "active": "100177b19c1ff051",
   "lastOpenFiles": [
     "Project/기획/프로젝트 기획.md",
     "Project/기획/사용자 중심 디자인(User-Centered Design, UCD).md",
