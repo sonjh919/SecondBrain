@@ -12,3 +12,5 @@ print("".join(l)) # 'abc'
 l = [1, 2, 3]
 " + ".join(str(i) for i in l)
 ```
+
++ 반대로는 split함수가 있다.
