@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Python/문법/기타/Enumerate.md",
+                "file": "Project/Coding Test/정렬/백준 10989 파이썬 - 수 정렬하기 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Python/문법/기타/Enumerate.md",
+                "file": "Project/Coding Test/정렬/백준 10989 파이썬 - 수 정렬하기 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Python/문법/기타/Enumerate.md",
+                "file": "Project/Coding Test/정렬/백준 10989 파이썬 - 수 정렬하기 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Python/문법/기타/Enumerate.md"
+                "file": "Project/Coding Test/정렬/백준 10989 파이썬 - 수 정렬하기 3.md"
               }
             }
           },
@@ -175,38 +175,38 @@
   },
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
+    "Project/Python/문법/함수/함수.md",
+    "Project/Python/문법/함수/lambda.md",
+    "Project/Python/문법/기타/Enumerate.md",
+    "Project/Python/문법/기타/sort.md",
+    "Project/Python/문법/자료형/리스트.md",
+    "Project/Python/문법/기타/MOC.md",
+    "Project/Python/문법/기타/Comprehension.md",
     "Project/Python/문법/기타/join.md",
     "Project/Algorithm & Data Structure/공간 복잡도.md",
     "Project/Coding Test/정렬/백준 10989 파이썬 - 수 정렬하기 3.md",
     "Project/Python/문법/입출력/입출력.md",
     "Project/Python/문법/자료형/문자열.md",
-    "Project/Python/문법/자료형/리스트.md",
     "Archive/IMG/10989.png",
     "Project/Coding Test/브루트포스/백준 1436 파이썬 - 영화감독 숌.md",
     "Project/Coding Test/Coding Test.md",
     "Project/Coding Test/정렬",
-    "Project/Python/문법/기타/Comprehension.md",
     "Project/Python/라이브러리/내장 라이브러리.md",
     "Project/Coding Test/구현/백준 1157 파이썬 - 단어 공부.md",
     "Project/Coding Test/구현/구현.md",
     "Archive/IMG/1436.png",
     "Project/Algorithm & Data Structure/시간 복잡도.md",
     "Project/Coding Test/브루트포스",
-    "Project/Python/문법/기타/Enumerate.md",
-    "Project/Python/문법/함수/함수.md",
     "Project/기획/프로젝트 기획.md",
     "Project/Python/문법/자료형/숫자형.md",
     "Project/Python/라이브러리/itertools.md",
     "Project/기획/사용자 중심 디자인(User-Centered Design, UCD).md",
     "Project/Coding Test/구현/백준 1316 파이썬 - 그룹 단어 체커.md",
-    "Project/Python/문법/기타/MOC.md",
     "Project/기획",
     "Project/Python/라이브러리/collections.md",
     "Project/Coding Test/구현/백준 9506 파이썬 - 약수들의 합.md",
     "Project/Coding Test/구현/백준 5622 파이썬 - 다이얼.md",
     "Archive/IMG/9506.png",
-    "Project/Coding Test/구현/백준 11005 파이썬 - 진법 변환 2.md",
-    "Project/Coding Test/구현/백준 11718 파이썬 - 그대로 출력하기.md",
     "Project/Python/문법/기타",
     "Archive/IMG/11005.png",
     "Archive/IMG/1316.png",

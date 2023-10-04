@@ -1,2 +1,4 @@
 [[Enumerate]]
 [[join]]
+[[Comprehension]]
+[[sort]]
