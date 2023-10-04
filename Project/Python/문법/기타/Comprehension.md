@@ -14,3 +14,9 @@ point = [[row for row in range(9)] for col in range(9)] # 이중 격자
 l = list(range(10))
 # 0 1 2 3 4 5 6 7 8 9
 ```
+
+### Dictionary Comprehension
++ [[딕셔너리]]에서도 사용할 수 있다.
+```python
+dic = {tmp[i]:i for i in range(len(tmp))}
+```
