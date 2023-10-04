@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Coding Test/브루트포스/백준 1436 파이썬 - 영화감독 숌.md",
+                "file": "Project/Python/문법/자료형/리스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Coding Test/브루트포스/백준 1436 파이썬 - 영화감독 숌.md",
+                "file": "Project/Python/문법/자료형/리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Coding Test/브루트포스/백준 1436 파이썬 - 영화감독 숌.md",
+                "file": "Project/Python/문법/자료형/리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Coding Test/브루트포스/백준 1436 파이썬 - 영화감독 숌.md"
+                "file": "Project/Python/문법/자료형/리스트.md"
               }
             }
           },
@@ -175,15 +175,16 @@
   },
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
-    "Project/Coding Test/구현/백준 1157 파이썬 - 단어 공부.md",
+    "Project/Python/라이브러리/내장 라이브러리.md",
+    "Project/Python/문법/자료형/리스트.md",
     "Project/Coding Test/브루트포스/백준 1436 파이썬 - 영화감독 숌.md",
+    "Project/Coding Test/구현/백준 1157 파이썬 - 단어 공부.md",
     "Project/Coding Test/구현/구현.md",
     "Archive/IMG/1436.png",
     "Project/Algorithm & Data Structure/시간 복잡도.md",
     "Project/Coding Test/브루트포스",
     "Project/Python/문법/기타/Enumerate.md",
     "Project/Python/문법/자료형/문자열.md",
-    "Project/Python/문법/자료형/리스트.md",
     "Project/Python/문법/함수/함수.md",
     "Project/기획/프로젝트 기획.md",
     "Project/Python/문법/자료형/숫자형.md",
@@ -202,7 +203,6 @@
     "Project/Coding Test/Coding Test.md",
     "Project/Coding Test/구현/백준 11005 파이썬 - 진법 변환 2.md",
     "Project/Coding Test/구현/백준 11718 파이썬 - 그대로 출력하기.md",
-    "Project/Python/라이브러리/내장 라이브러리.md",
     "Project/Python/문법/제어문/for.md",
     "Project/Python/문법/기타",
     "Archive/IMG/11005.png",
