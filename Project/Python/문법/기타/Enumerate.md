@@ -38,3 +38,13 @@ for r, row in enumerate(matrix):
 ...     for c, letter in enumerate(row):
 ...             print(r, c, letter)
 ```
+
++ enumerate와 2차원 list에서 list의 범위 정하기
+```python
+for row in range(N-7):  
+	for col in range(M-7):
+	
+		for r,x in enumerate(l[row:row+8]):  
+			for c,y in enumerate(x[col:col+8]):
+				print(r, c, y)
+```
