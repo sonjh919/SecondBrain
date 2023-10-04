@@ -48,3 +48,9 @@ for row in range(N-7):
 			for c,y in enumerate(x[col:col+8]):
 				print(r, c, y)
 ```
+
++ list 거꾸로 출력하기
+```python
+for c,x in reversed(list(enumerate(row))):  
+	print(x, end=' ')
+```
