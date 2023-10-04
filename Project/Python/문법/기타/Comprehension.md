@@ -8,3 +8,9 @@ result = [x*y for x in range(2,10)  # 구구단
 
 point = [[row for row in range(9)] for col in range(9)] # 이중 격자
 ```
+
++ range를 넣을 수도 있다.
+```python
+l = list(range(10))
+# 0 1 2 3 4 5 6 7 8 9
+```
