@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Coding Test/수학/백준 1929 파이썬 - 소수 구하기.md",
+                "file": "Project/Coding Test/수학/백준 17103 파이썬 - 골드바흐 파티션.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Coding Test/수학/백준 1929 파이썬 - 소수 구하기.md",
+                "file": "Project/Coding Test/수학/백준 17103 파이썬 - 골드바흐 파티션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Coding Test/수학/백준 1929 파이썬 - 소수 구하기.md",
+                "file": "Project/Coding Test/수학/백준 17103 파이썬 - 골드바흐 파티션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Coding Test/수학/백준 1929 파이썬 - 소수 구하기.md"
+                "file": "Project/Coding Test/수학/백준 17103 파이썬 - 골드바흐 파티션.md"
               }
             }
           },
@@ -180,8 +180,10 @@
   },
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
-    "Archive/IMG/1929.png",
+    "Archive/IMG/17103.png",
+    "Project/Coding Test/수학/백준 17103 파이썬 - 골드바흐 파티션.md",
     "Project/Coding Test/수학/백준 1929 파이썬 - 소수 구하기.md",
+    "Archive/IMG/1929.png",
     "Project/Coding Test/정렬/백준 10989 파이썬 - 수 정렬하기 3.md",
     "Project/Coding Test/수학",
     "Project/Coding Test/정렬/백준 18870 파이썬 - 좌표 압축.md",
@@ -208,7 +210,6 @@
     "Project/Python/문법/기타/join.md",
     "Project/Python/문법/자료형/문자열.md",
     "Archive/IMG/10989.png",
-    "Project/Coding Test/브루트포스/백준 1436 파이썬 - 영화감독 숌.md",
     "Project/Coding Test/정렬",
     "Archive/IMG/1436.png",
     "Project/Coding Test/브루트포스",
@@ -222,7 +223,6 @@
     "Archive/IMG/11718.png",
     "Project/Python/Error/NotImplementedError",
     "Project/Python/문법/예외 처리",
-    "Archive/IMG/5622.png",
     "Project/Coding Test/구현",
     "Archive/IMG"
   ]
