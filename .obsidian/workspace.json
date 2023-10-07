@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Python/문법/자료형/딕셔너리.md",
+                "file": "Project/Python/문법/입출력/입출력.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Python/문법/자료형/딕셔너리.md",
+                "file": "Project/Python/문법/입출력/입출력.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Python/문법/자료형/딕셔너리.md",
+                "file": "Project/Python/문법/입출력/입출력.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Python/문법/자료형/딕셔너리.md"
+                "file": "Project/Python/문법/입출력/입출력.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
+    "Project/Python/문법/자료형/딕셔너리.md",
     "Project/Python/라이브러리/bisect.md",
     "Project/Algorithm & Data Structure/이진 탐색.md",
     "Project/Algorithm & Data Structure/Greedy.md",
@@ -183,7 +184,6 @@
     "Project/Algorithm & Data Structure/시간 복잡도.md",
     "Archive/IMG/18870.png",
     "Project/Coding Test/정렬/백준 10989 파이썬 - 수 정렬하기 3.md",
-    "Project/Python/문법/자료형/딕셔너리.md",
     "Project/Python/문법/기타/Comprehension.md",
     "Project/Python/문법/자료형/리스트.md",
     "Project/Algorithm & Data Structure/공간 복잡도.md",
