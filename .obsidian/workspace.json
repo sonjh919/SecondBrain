@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Python/문법/기타/Enumerate.md",
+                "file": "Project/Python/문법/제어문/for.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Python/문법/기타/Enumerate.md",
+                "file": "Project/Python/문법/제어문/for.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Python/문법/기타/Enumerate.md",
+                "file": "Project/Python/문법/제어문/for.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Python/문법/기타/Enumerate.md"
+                "file": "Project/Python/문법/제어문/for.md"
               }
             }
           },
@@ -180,6 +180,9 @@
   },
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
+    "Project/Python/문법/제어문/while.md",
+    "Project/Python/문법/제어문/for.md",
+    "Project/Python/문법/기타/Enumerate.md",
     "Project/Python/라이브러리/itertools.md",
     "Project/Python/문법/기타/list 집합.md",
     "Project/Python/문법/자료형/리스트.md",
@@ -197,7 +200,6 @@
     "Project/Algorithm & Data Structure/공간 복잡도.md",
     "Project/Python/문법/함수/함수.md",
     "Project/Python/문법/함수/lambda.md",
-    "Project/Python/문법/기타/Enumerate.md",
     "Project/Python/문법/기타/sort.md",
     "Project/Python/문법/기타/MOC.md",
     "Project/Python/문법/기타/join.md",
@@ -207,8 +209,6 @@
     "Project/Coding Test/Coding Test.md",
     "Project/Coding Test/정렬",
     "Project/Python/라이브러리/내장 라이브러리.md",
-    "Project/Coding Test/구현/백준 1157 파이썬 - 단어 공부.md",
-    "Project/Coding Test/구현/구현.md",
     "Archive/IMG/1436.png",
     "Project/Coding Test/브루트포스",
     "Project/기획",

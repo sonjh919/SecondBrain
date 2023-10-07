@@ -36,4 +36,20 @@ for number in range(len(marks)):
 ```
 
 
-
+### for-else
++ for에도 else를 쓸 수 있다.
++ break로 중간에 for문을 나가게 되면 else문은 실행되지 않는다.
+```python
+>>> for x in [1, 2, 3, 4]:
+...     if x % 3:
+...         print(x)  # x가 3의 배수가 아니면 출력
+...     else:
+...         break  # x가 3의 배수이면 반복문에서 빠져나감
+... else:
+...     print("리스트의 원소를 모두 출력했어요")
+... 
+'''
+1
+2
+'''
+```
