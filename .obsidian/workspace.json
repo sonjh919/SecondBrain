@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Python/라이브러리/bisect.md",
+                "file": "Project/Python/문법/자료형/딕셔너리.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Python/라이브러리/bisect.md",
+                "file": "Project/Python/문법/자료형/딕셔너리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Python/라이브러리/bisect.md",
+                "file": "Project/Python/문법/자료형/딕셔너리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Python/라이브러리/bisect.md"
+                "file": "Project/Python/문법/자료형/딕셔너리.md"
               }
             }
           },
@@ -175,9 +175,9 @@
   },
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
+    "Project/Python/라이브러리/bisect.md",
     "Project/Algorithm & Data Structure/이진 탐색.md",
     "Project/Algorithm & Data Structure/Greedy.md",
-    "Project/Python/라이브러리/bisect.md",
     "Project/Coding Test/정렬/백준 18870 파이썬 - 좌표 압축.md",
     "Project/Python/문법/입출력/입출력.md",
     "Project/Algorithm & Data Structure/시간 복잡도.md",
