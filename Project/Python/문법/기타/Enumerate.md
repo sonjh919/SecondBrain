@@ -54,3 +54,9 @@ for row in range(N-7):
 for c,x in reversed(list(enumerate(row))):  
 	print(x, end=' ')
 ```
+
++ enumerate를 쓰면서 범위 정하기
+```python
+for i,x in enumerate(l[:len(l)-1]):
+	print(x)
+```
