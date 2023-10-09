@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Algorithm & Data Structure/Queue.md",
+                "file": "Project/Algorithm & Data Structure/덱 (Deque).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Algorithm & Data Structure/Queue.md",
+                "file": "Project/Algorithm & Data Structure/덱 (Deque).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Algorithm & Data Structure/Queue.md",
+                "file": "Project/Algorithm & Data Structure/덱 (Deque).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Algorithm & Data Structure/Queue.md"
+                "file": "Project/Algorithm & Data Structure/덱 (Deque).md"
               }
             }
           },
@@ -180,16 +180,16 @@
   },
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
+    "Project/Algorithm & Data Structure/Stack.md",
+    "Project/Algorithm & Data Structure/Queue.md",
     "Project/Algorithm & Data Structure/덱 (Deque).md",
     "Project/Algorithm & Data Structure/시간 복잡도.md",
     "Project/Python/라이브러리/math.md",
     "Project/Python/라이브러리/내장 라이브러리.md",
     "Project/Algorithm & Data Structure/Algorithm & Data Structure MOC.md",
     "Project/Coding Test/Coding Test.md",
-    "Project/Algorithm & Data Structure/Queue.md",
     "Project/Coding Test/수학/백준 17103 파이썬 - 골드바흐 파티션.md",
     "Project/Coding Test/정렬/백준 10989 파이썬 - 수 정렬하기 3.md",
-    "Project/Algorithm & Data Structure/Stack.md",
     "Archive/IMG/Deque.png",
     "Archive/IMG/Queue.png",
     "Archive/IMG/Stack.png",

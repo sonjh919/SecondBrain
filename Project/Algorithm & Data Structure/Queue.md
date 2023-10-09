@@ -6,7 +6,7 @@
 ![[Queue.png]]
 
 ## 파이썬에서 Queue 사용하기
-### list 사용
+### list
 + list를 사용할 수도 있지만, 성능 면에서 추천하지 않는다.
 + pop(0)또는 insert() 함수의 [[시간 복잡도]]는 O(n)이기 때문에 데이터가 많아질수록 느려진다.
 ```python
@@ -18,8 +18,14 @@ queue.pop(0) # Dequeue
 queue.insert(0, 4) # Enqueue
 queue.pop() # Dequeue
 ```
-
-### deque 사용
+### queue
+```python
+from queue import Queue
+queue = Queue()
+queue.put(4) # Enqueue
+queue.get() # Dequeue
+```
+### deque
 ```python
 from collections import deque
 queue = deque([1,2,3])

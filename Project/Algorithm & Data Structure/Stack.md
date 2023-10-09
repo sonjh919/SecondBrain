@@ -5,10 +5,19 @@
 
 ![[Stack.png]]
 
-### 파이썬에서 Stack 사용하기
+## 파이썬에서 Stack 사용하기
+### list
 ```python
 stack = [1, 2, 3] # init
 stack.append(4) # push
 stack.pop() # pop
 top = stack[-1] # top
+```
+
+### deque
+```python
+from collections import deque
+queue = deque([1,2,3])
+queue.append(4) # Enqueue
+queue.pop() # Dequeue
 ```
