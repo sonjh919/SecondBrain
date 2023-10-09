@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Algorithm & Data Structure/Stack.md",
+                "file": "Project/Algorithm & Data Structure/Queue.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Algorithm & Data Structure/Stack.md",
+                "file": "Project/Algorithm & Data Structure/Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Algorithm & Data Structure/Stack.md",
+                "file": "Project/Algorithm & Data Structure/Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Algorithm & Data Structure/Stack.md"
+                "file": "Project/Algorithm & Data Structure/Queue.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,12 +180,22 @@
   },
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
+    "Project/Algorithm & Data Structure/덱 (Deque).md",
+    "Project/Algorithm & Data Structure/시간 복잡도.md",
+    "Project/Python/라이브러리/math.md",
+    "Project/Python/라이브러리/내장 라이브러리.md",
+    "Project/Algorithm & Data Structure/Algorithm & Data Structure MOC.md",
+    "Project/Coding Test/Coding Test.md",
+    "Project/Algorithm & Data Structure/Queue.md",
     "Project/Coding Test/수학/백준 17103 파이썬 - 골드바흐 파티션.md",
+    "Project/Coding Test/정렬/백준 10989 파이썬 - 수 정렬하기 3.md",
     "Project/Algorithm & Data Structure/Stack.md",
+    "Archive/IMG/Deque.png",
+    "Archive/IMG/Queue.png",
+    "Archive/IMG/Stack.png",
     "Archive/IMG/17103.png",
     "Project/Coding Test/수학/백준 1929 파이썬 - 소수 구하기.md",
     "Archive/IMG/1929.png",
-    "Project/Coding Test/정렬/백준 10989 파이썬 - 수 정렬하기 3.md",
     "Project/Coding Test/수학",
     "Project/Coding Test/정렬/백준 18870 파이썬 - 좌표 압축.md",
     "Project/Python/문법/제어문/for.md",
@@ -196,7 +206,6 @@
     "Project/Python/문법/자료형/리스트.md",
     "Project/Python/문법/자료형/딕셔너리.md",
     "Project/Python/문법/기타/Comprehension.md",
-    "Project/Algorithm & Data Structure/시간 복잡도.md",
     "Project/Python/문법/기타/isalpha, isdecimal.md",
     "Project/Python/문법/입출력/입출력.md",
     "Project/Python/라이브러리/bisect.md",
@@ -204,12 +213,6 @@
     "Project/Algorithm & Data Structure/Greedy.md",
     "Archive/IMG/18870.png",
     "Project/Algorithm & Data Structure/공간 복잡도.md",
-    "Project/Python/문법/함수/함수.md",
-    "Project/Python/문법/함수/lambda.md",
-    "Project/Python/문법/기타/sort.md",
-    "Project/Python/문법/기타/MOC.md",
-    "Project/Python/문법/기타/join.md",
-    "Project/Python/문법/자료형/문자열.md",
     "Archive/IMG/10989.png",
     "Project/Coding Test/정렬",
     "Archive/IMG/1436.png",
@@ -218,10 +221,7 @@
     "Archive/IMG/9506.png",
     "Project/Python/문법/기타",
     "Archive/IMG/11005.png",
-    "Archive/IMG/1316.png",
-    "Archive/IMG/1157.png",
     "Area/Git",
-    "Archive/IMG/11718.png",
     "Project/Python/Error/NotImplementedError",
     "Project/Python/문법/예외 처리",
     "Project/Coding Test/구현",
