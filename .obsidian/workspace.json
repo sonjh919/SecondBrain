@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Algorithm & Data Structure/덱 (Deque).md",
+                "file": "Project/Algorithm & Data Structure/Queue.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Algorithm & Data Structure/덱 (Deque).md",
+                "file": "Project/Algorithm & Data Structure/Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Algorithm & Data Structure/덱 (Deque).md",
+                "file": "Project/Algorithm & Data Structure/Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Algorithm & Data Structure/덱 (Deque).md"
+                "file": "Project/Algorithm & Data Structure/Queue.md"
               }
             }
           },
@@ -180,13 +180,14 @@
   },
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
+    "Project/Algorithm & Data Structure/Algorithm & Data Structure MOC.md",
     "Project/Algorithm & Data Structure/Stack.md",
-    "Project/Algorithm & Data Structure/Queue.md",
+    "Project/Algorithm & Data Structure/이진 탐색.md",
     "Project/Algorithm & Data Structure/덱 (Deque).md",
+    "Project/Algorithm & Data Structure/Queue.md",
     "Project/Algorithm & Data Structure/시간 복잡도.md",
     "Project/Python/라이브러리/math.md",
     "Project/Python/라이브러리/내장 라이브러리.md",
-    "Project/Algorithm & Data Structure/Algorithm & Data Structure MOC.md",
     "Project/Coding Test/Coding Test.md",
     "Project/Coding Test/수학/백준 17103 파이썬 - 골드바흐 파티션.md",
     "Project/Coding Test/정렬/백준 10989 파이썬 - 수 정렬하기 3.md",
@@ -209,7 +210,6 @@
     "Project/Python/문법/기타/isalpha, isdecimal.md",
     "Project/Python/문법/입출력/입출력.md",
     "Project/Python/라이브러리/bisect.md",
-    "Project/Algorithm & Data Structure/이진 탐색.md",
     "Project/Algorithm & Data Structure/Greedy.md",
     "Archive/IMG/18870.png",
     "Project/Algorithm & Data Structure/공간 복잡도.md",

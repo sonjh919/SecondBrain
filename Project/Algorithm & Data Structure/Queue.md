@@ -11,6 +11,7 @@
 + pop(0)또는 insert() 함수의 [[시간 복잡도]]는 O(n)이기 때문에 데이터가 많아질수록 느려진다.
 ```python
 queue = [1, 2, 3] # init
+
 queue.append(4) # Enqueue
 queue.pop(0) # Dequeue
 

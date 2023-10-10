@@ -9,7 +9,9 @@
 ### deque
 ```python
 from collections import deque
+
 dq = deque([1,2,3]) # deque 생성
+
 dq.appendleft(0) # 왼쪽에 삽입
 dq.append(4) # 오른쪽에 삽입
 
