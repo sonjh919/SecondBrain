@@ -11,13 +11,8 @@
             "id": "100177b19c1ff051",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/Algorithm & Data Structure/Queue.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Algorithm & Data Structure/Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Algorithm & Data Structure/Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Project/Algorithm & Data Structure/Queue.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,11 +171,11 @@
   },
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
+    "Project/Algorithm & Data Structure/Queue.md",
     "Project/Algorithm & Data Structure/Algorithm & Data Structure MOC.md",
     "Project/Algorithm & Data Structure/Stack.md",
     "Project/Algorithm & Data Structure/이진 탐색.md",
     "Project/Algorithm & Data Structure/덱 (Deque).md",
-    "Project/Algorithm & Data Structure/Queue.md",
     "Project/Algorithm & Data Structure/시간 복잡도.md",
     "Project/Python/라이브러리/math.md",
     "Project/Python/라이브러리/내장 라이브러리.md",
