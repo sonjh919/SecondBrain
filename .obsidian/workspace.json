@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/Second brain 이론 정리, 적용/PARA.md",
+                "file": "Project/JAVA/Java Compiler.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/Second brain 이론 정리, 적용/PARA.md",
+                "file": "Project/JAVA/Java Compiler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/Second brain 이론 정리, 적용/PARA.md",
+                "file": "Project/JAVA/Java Compiler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Python/문법/기타/Comprehension.md",
+                "file": "Resource/Python/문법/기타/Comprehension.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Second brain 이론 정리, 적용/PARA.md"
+                "file": "Project/JAVA/Java Compiler.md"
               }
             }
           },
@@ -179,14 +179,17 @@
   },
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
+    "Resource/Second brain 이론 정리, 적용/PARA.md",
+    "Project/JAVA/Java Compiler.md",
+    "Project/JAVA",
     "Project/Algorithm & Data Structure/Queue.md",
     "Project/Algorithm & Data Structure/Algorithm & Data Structure MOC.md",
     "Project/Algorithm & Data Structure/Stack.md",
     "Project/Algorithm & Data Structure/이진 탐색.md",
     "Project/Algorithm & Data Structure/덱 (Deque).md",
     "Project/Algorithm & Data Structure/시간 복잡도.md",
-    "Project/Python/라이브러리/math.md",
-    "Project/Python/라이브러리/내장 라이브러리.md",
+    "Resource/Python/라이브러리/math.md",
+    "Resource/Python/라이브러리/내장 라이브러리.md",
     "Project/Coding Test/Coding Test.md",
     "Project/Coding Test/수학/백준 17103 파이썬 - 골드바흐 파티션.md",
     "Project/Coding Test/정렬/백준 10989 파이썬 - 수 정렬하기 3.md",
@@ -198,32 +201,29 @@
     "Archive/IMG/1929.png",
     "Project/Coding Test/수학",
     "Project/Coding Test/정렬/백준 18870 파이썬 - 좌표 압축.md",
-    "Project/Python/문법/제어문/for.md",
-    "Project/Python/문법/제어문/while.md",
-    "Project/Python/문법/기타/Enumerate.md",
-    "Project/Python/라이브러리/itertools.md",
-    "Project/Python/문법/기타/list 집합.md",
-    "Project/Python/문법/자료형/리스트.md",
-    "Project/Python/문법/자료형/딕셔너리.md",
-    "Project/Python/문법/기타/Comprehension.md",
-    "Project/Python/문법/기타/isalpha, isdecimal.md",
-    "Project/Python/문법/입출력/입출력.md",
-    "Project/Python/라이브러리/bisect.md",
-    "Project/Algorithm & Data Structure/Greedy.md",
+    "Resource/Python/문법/제어문/for.md",
+    "Resource/Python/문법/제어문/while.md",
+    "Resource/Python/문법/기타/Enumerate.md",
+    "Resource/Python/라이브러리/itertools.md",
+    "Resource/Python/문법/기타/list 집합.md",
+    "Resource/Python/문법/자료형/리스트.md",
+    "Resource/Python/문법/자료형/딕셔너리.md",
+    "Resource/Python/문법/기타/Comprehension.md",
+    "Resource/Python/문법/기타/isalpha, isdecimal.md",
+    "Resource/Python/문법/입출력/입출력.md",
+    "Resource/Python/라이브러리/bisect.md",
     "Archive/IMG/18870.png",
-    "Project/Algorithm & Data Structure/공간 복잡도.md",
     "Archive/IMG/10989.png",
     "Project/Coding Test/정렬",
     "Archive/IMG/1436.png",
     "Project/Coding Test/브루트포스",
     "Project/기획",
     "Archive/IMG/9506.png",
-    "Project/Python/문법/기타",
+    "Resource/Python/문법/기타",
     "Archive/IMG/11005.png",
     "Area/Git",
-    "Project/Python/Error/NotImplementedError",
-    "Project/Python/문법/예외 처리",
-    "Project/Coding Test/구현",
-    "Archive/IMG"
+    "Resource/Python/Error/NotImplementedError",
+    "Resource/Python/문법/예외 처리",
+    "Project/Coding Test/구현"
   ]
 }

@@ -1,3 +1,3 @@
 [[Python 문법]]
-[[Python Error]]
+[[Python error]]
 [[Python 라이브러리]]
