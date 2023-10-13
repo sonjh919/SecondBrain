@@ -42,7 +42,7 @@
 
 - 편집기, 탐색기, 실행도구, 실행 환경 등을 하나로 통합한 개발 환경
 - EX)   **[Eclipse](https://www.eclipse.org/downloads/), [IntelliJ](https://www.jetbrains.com/ko-kr/idea/)**
-### Import와 Export
+## Import와 Export
 
 ### Export
 
@@ -54,7 +54,7 @@
 - 외부의 Java project를 Eclipse안으로 **가져오기**할 때 사용한다.
 - Import → General → Existing Projects into Workspace
 
-### Package
+## Package
 - 가장 첫번째 줄에 작성된다.
 - 모든 Class는 Package 안에 있는 것을 권장한다.
 
