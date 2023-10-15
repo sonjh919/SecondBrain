@@ -33,6 +33,6 @@
  + app 개발 시 사용되는 Interface
 
 - OS(interface)가 다르면 실행할 수가 없다.
-- 호환성을 위해 독자적인 java platform을 가지고 OS가 바이트코드를 해석할 수 있게 도와주는 역할인 **JVM (Java Virtual Machine)**이 만들어졌다.
+- 호환성을 위해 독자적인 java platform을 가지고 OS가 바이트코드를 해석할 수 있게 도와주는 역할인 **JVM (Java Virtual Machine)이 만들어졌다.
 
 **_Program.java_ → 컴파일러(_JDK_ / _JRE_) → _Program.class_(중간 / 바이트 코드) → 인터프리터 → _JVM_→ 이진코드**
