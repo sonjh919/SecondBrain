@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/기획/프로젝트 기획.md",
+                "file": "Project/JAVA/Java Compiler.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/기획/프로젝트 기획.md",
+                "file": "Project/JAVA/Java Compiler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/기획/프로젝트 기획.md",
+                "file": "Project/JAVA/Java Compiler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/기획/프로젝트 기획.md"
+                "file": "Project/JAVA/Java Compiler.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   },
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
+    "Resource/기획/프로젝트 기획.md",
     "Project/JAVA/Java Compiler.md",
     "Project/JAVA/IDE.md",
     "Project/JAVA/Java 실행 과정.md",
@@ -211,7 +212,6 @@
     "Resource/Python/문법/자료형/리스트.md",
     "Resource/Python/문법/자료형/딕셔너리.md",
     "Resource/Python/문법/기타/Comprehension.md",
-    "Resource/Python/문법/기타/isalpha, isdecimal.md",
     "Archive/IMG/18870.png",
     "Archive/IMG/10989.png",
     "Project/Coding Test/정렬",
