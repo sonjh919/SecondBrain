@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/JAVA/Java와 WORA.md",
+                "file": "Project/JAVA/Java 개발 환경과 실행 순서.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/JAVA/Java와 WORA.md",
+                "file": "Project/JAVA/Java 개발 환경과 실행 순서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/JAVA/Java와 WORA.md",
+                "file": "Project/JAVA/Java 개발 환경과 실행 순서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/JAVA/Java와 WORA.md"
+                "file": "Project/JAVA/Java 개발 환경과 실행 순서.md"
               }
             }
           },
@@ -179,9 +179,10 @@
   },
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
-    "Resource/기획/프로젝트 기획.md",
-    "Project/JAVA/Java와 WORA.md",
     "Project/JAVA/IDE.md",
+    "Project/JAVA/Java 개발 환경과 실행 순서.md",
+    "Project/JAVA/Java의 탄생 과정과 특징.md",
+    "Resource/기획/프로젝트 기획.md",
     "Project/JAVA/Java 실행 과정.md",
     "Resource/Second brain 이론 정리, 적용/PARA.md",
     "Project/JAVA",
@@ -211,7 +212,6 @@
     "Resource/Python/문법/기타/list 집합.md",
     "Resource/Python/문법/자료형/리스트.md",
     "Resource/Python/문법/자료형/딕셔너리.md",
-    "Resource/Python/문법/기타/Comprehension.md",
     "Archive/IMG/18870.png",
     "Archive/IMG/10989.png",
     "Project/Coding Test/정렬",
