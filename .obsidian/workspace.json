@@ -11,8 +11,12 @@
             "id": "100177b19c1ff051",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/우테코.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/우테코.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/우테코.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/우테코.md"
+              }
             }
           },
           {
@@ -171,6 +179,8 @@
   },
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
+    "Inbox/우테코.md",
+    "Inbox",
     "Project/JAVA/Java 개발 환경과 실행 순서.md",
     "Project/JAVA/IDE.md",
     "Project/JAVA/Java의 탄생 과정과 특징.md",
@@ -203,7 +213,6 @@
     "Resource/Python/라이브러리/itertools.md",
     "Resource/Python/문법/기타/list 집합.md",
     "Resource/Python/문법/자료형/리스트.md",
-    "Resource/Python/문법/자료형/딕셔너리.md",
     "Archive/IMG/18870.png",
     "Archive/IMG/10989.png",
     "Project/Coding Test/정렬",
@@ -215,7 +224,6 @@
     "Archive/IMG/11005.png",
     "Area/Git",
     "Resource/Python/Error/NotImplementedError",
-    "Resource/Python/문법/예외 처리",
-    "Project/Coding Test/구현"
+    "Resource/Python/문법/예외 처리"
   ]
 }
