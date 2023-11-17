@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Algorithm & Data Structure/Queue.md",
+                "file": "Project/Coding Test/구현/백준 9506 파이썬 - 약수들의 합.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Algorithm & Data Structure/Queue.md",
+                "file": "Project/Coding Test/구현/백준 9506 파이썬 - 약수들의 합.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Algorithm & Data Structure/Queue.md",
+                "file": "Project/Coding Test/구현/백준 9506 파이썬 - 약수들의 합.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Algorithm & Data Structure/Queue.md"
+                "file": "Project/Coding Test/구현/백준 9506 파이썬 - 약수들의 합.md"
               }
             }
           },
@@ -177,11 +177,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "100177b19c1ff051",
   "lastOpenFiles": [
+    "Project/Coding Test/구현/백준 5622 파이썬 - 다이얼.md",
+    "Project/Coding Test/구현/백준 1316 파이썬 - 그룹 단어 체커.md",
+    "Project/Coding Test/구현/백준 1157 파이썬 - 단어 공부.md",
+    "Project/Algorithm & Data Structure/Stack.md",
+    "Project/Algorithm & Data Structure/Queue.md",
     "Project/Algorithm & Data Structure/Greedy.md",
     "Project/Algorithm & Data Structure/Algorithm & Data Structure MOC.md",
-    "Project/Coding Test/구현/백준 1157 파이썬 - 단어 공부.md",
     "Inbox/우테코.md",
     "Inbox/Pasted image 20231023175006.png",
     "Inbox/무제 파일.md",
@@ -194,8 +198,6 @@
     "Project/JAVA/Java 실행 과정.md",
     "Resource/Second brain 이론 정리, 적용/PARA.md",
     "Project/JAVA",
-    "Project/Algorithm & Data Structure/Queue.md",
-    "Project/Algorithm & Data Structure/Stack.md",
     "Project/Algorithm & Data Structure/이진 탐색.md",
     "Project/Algorithm & Data Structure/덱 (Deque).md",
     "Project/Algorithm & Data Structure/시간 복잡도.md",
@@ -212,8 +214,6 @@
     "Archive/IMG/1929.png",
     "Project/Coding Test/수학",
     "Project/Coding Test/정렬/백준 18870 파이썬 - 좌표 압축.md",
-    "Resource/Python/문법/제어문/for.md",
-    "Resource/Python/문법/제어문/while.md",
     "Archive/IMG/18870.png",
     "Archive/IMG/10989.png",
     "Project/Coding Test/정렬",
