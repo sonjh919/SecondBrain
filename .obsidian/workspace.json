@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Coding Test/구현/백준 11718 파이썬 - 그대로 출력하기.md",
+                "file": "Project/Coding Test/수학/백준 17103 파이썬 - 골드바흐 파티션.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Coding Test/구현/백준 11718 파이썬 - 그대로 출력하기.md",
+                "file": "Project/Coding Test/수학/백준 17103 파이썬 - 골드바흐 파티션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Coding Test/구현/백준 11718 파이썬 - 그대로 출력하기.md",
+                "file": "Project/Coding Test/수학/백준 17103 파이썬 - 골드바흐 파티션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Coding Test/구현/백준 11718 파이썬 - 그대로 출력하기.md"
+                "file": "Project/Coding Test/수학/백준 17103 파이썬 - 골드바흐 파티션.md"
               }
             }
           },
@@ -179,6 +179,9 @@
   },
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
+    "Project/Coding Test/수학/백준 1929 파이썬 - 소수 구하기.md",
+    "Project/Coding Test/브루트포스/백준 1436 파이썬 - 영화감독 숌.md",
+    "Project/Coding Test/구현/백준 11718 파이썬 - 그대로 출력하기.md",
     "Project/Coding Test/구현/백준 11005 파이썬 - 진법 변환 2.md",
     "Project/Coding Test/구현/백준 9506 파이썬 - 약수들의 합.md",
     "Project/Coding Test/구현/백준 5622 파이썬 - 다이얼.md",
@@ -202,9 +205,6 @@
     "Resource/Python/문법/자료형/리스트.md",
     "Resource/Python/문법/자료형/딕셔너리.md",
     "Resource/Python/문법/제어문/while.md",
-    "Resource/Python/문법/제어문/if.md",
-    "Resource/Python/문법/제어문/제어문.md",
-    "Resource/Python/문법/제어문/for.md",
     "Inbox/Pasted image 20231023175006.png",
     "Inbox",
     "Project/JAVA",
