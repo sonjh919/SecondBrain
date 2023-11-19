@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Coding Test/수학/백준 17103 파이썬 - 골드바흐 파티션.md",
+                "file": "Resource/Python/문법/함수/함수.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Coding Test/수학/백준 17103 파이썬 - 골드바흐 파티션.md",
+                "file": "Resource/Python/문법/함수/함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Coding Test/수학/백준 17103 파이썬 - 골드바흐 파티션.md",
+                "file": "Resource/Python/문법/함수/함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Coding Test/수학/백준 17103 파이썬 - 골드바흐 파티션.md"
+                "file": "Resource/Python/문법/함수/함수.md"
               }
             }
           },
@@ -179,6 +179,9 @@
   },
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
+    "Resource/Python/문법/함수/lambda.md",
+    "Resource/Python/문법/함수/함수.md",
+    "Project/Coding Test/수학/백준 17103 파이썬 - 골드바흐 파티션.md",
     "Project/Coding Test/수학/백준 1929 파이썬 - 소수 구하기.md",
     "Project/Coding Test/브루트포스/백준 1436 파이썬 - 영화감독 숌.md",
     "Project/Coding Test/구현/백준 11718 파이썬 - 그대로 출력하기.md",
@@ -205,9 +208,6 @@
     "Resource/Second brain 이론 정리, 적용/PARA.md",
     "Project/JAVA",
     "Project/Algorithm & Data Structure/이진 탐색.md",
-    "Project/Algorithm & Data Structure/덱 (Deque).md",
-    "Project/Algorithm & Data Structure/시간 복잡도.md",
-    "Resource/Python/라이브러리/math.md",
     "Archive/IMG/Deque.png",
     "Archive/IMG/Queue.png",
     "Archive/IMG/Stack.png",
