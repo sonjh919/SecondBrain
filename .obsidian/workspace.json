@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/Python/문법/기타/sort.md",
+                "file": "Project/Coding Test/구현/백준 11718 파이썬 - 그대로 출력하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/Python/문법/기타/sort.md",
+                "file": "Project/Coding Test/구현/백준 11718 파이썬 - 그대로 출력하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/Python/문법/기타/sort.md",
+                "file": "Project/Coding Test/구현/백준 11718 파이썬 - 그대로 출력하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/Python/문법/기타/sort.md"
+                "file": "Project/Coding Test/구현/백준 11718 파이썬 - 그대로 출력하기.md"
               }
             }
           },
@@ -179,6 +179,13 @@
   },
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
+    "Project/Coding Test/구현/백준 11005 파이썬 - 진법 변환 2.md",
+    "Project/Coding Test/구현/백준 9506 파이썬 - 약수들의 합.md",
+    "Project/Coding Test/구현/백준 5622 파이썬 - 다이얼.md",
+    "Project/Coding Test/구현/백준 1316 파이썬 - 그룹 단어 체커.md",
+    "Project/Coding Test/구현/백준 1157 파이썬 - 단어 공부.md",
+    "Project/Coding Test/구현/구현.md",
+    "Resource/Python/문법/기타/sort.md",
     "Resource/Python/문법/기타/MOC.md",
     "Resource/Python/문법/기타/list 집합.md",
     "Resource/Python/문법/기타/join.md",
@@ -198,13 +205,6 @@
     "Resource/Python/문법/제어문/if.md",
     "Resource/Python/문법/제어문/제어문.md",
     "Resource/Python/문법/제어문/for.md",
-    "Resource/Python/문법/함수/함수.md",
-    "Resource/Python/문법/함수/lambda.md",
-    "Project/Coding Test/수학/백준 17103 파이썬 - 골드바흐 파티션.md",
-    "Project/Coding Test/수학/백준 1929 파이썬 - 소수 구하기.md",
-    "Project/Coding Test/브루트포스/백준 1436 파이썬 - 영화감독 숌.md",
-    "Project/Coding Test/구현/백준 11718 파이썬 - 그대로 출력하기.md",
-    "Project/Coding Test/구현/백준 11005 파이썬 - 진법 변환 2.md",
     "Inbox/Pasted image 20231023175006.png",
     "Inbox",
     "Project/JAVA",
