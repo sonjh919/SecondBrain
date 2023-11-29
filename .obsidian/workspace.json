@@ -122,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "무제 파일.md"
-              }
+              "state": {}
             }
           },
           {
@@ -223,10 +219,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "10b3cd7777509390",
+  "active": "100177b19c1ff051",
   "lastOpenFiles": [
-    "_index.md",
     "무제 파일.md",
+    "_index.md",
     "Project/BlockChain/분산 시스템.md",
     "새 텍스트 문서.txt",
     "Project/BlockChain/블록체인.md",
