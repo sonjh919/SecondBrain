@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "99918cda328ae665",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10b3cd7777509390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/BlockChain/분산 시스템.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/BlockChain/분산 시스템.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/BlockChain/분산 시스템.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -196,11 +223,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e4f92180e5c47ae",
+  "active": "10b3cd7777509390",
   "lastOpenFiles": [
+    "_index.md",
+    "무제 파일.md",
+    "Project/BlockChain/분산 시스템.md",
+    "새 텍스트 문서.txt",
     "Project/BlockChain/블록체인.md",
     "Resource/Second brain 이론 정리, 적용/PARA.md",
-    "Project/BlockChain/분산 시스템.md",
     "Templates/Insert_Callout.md",
     "Templates",
     "Resource/Python/라이브러리/내장 라이브러리.md",
@@ -224,8 +254,6 @@
     "Project/Algorithm & Data Structure/Algorithm & Data Structure MOC.md",
     "Project/Algorithm & Data Structure/Queue.md",
     "Project/Algorithm & Data Structure/이진 탐색.md",
-    "Project/Algorithm & Data Structure/Stack.md",
-    "Project/Algorithm & Data Structure/덱 (Deque).md",
     "Inbox/Pasted image 20231023175006.png",
     "Inbox",
     "Project/JAVA",
@@ -242,7 +270,6 @@
     "Project/Coding Test/브루트포스",
     "Resource/기획",
     "Archive/IMG/9506.png",
-    "Resource/Python/문법/기타",
-    "Area/Git"
+    "Resource/Python/문법/기타"
   ]
 }
