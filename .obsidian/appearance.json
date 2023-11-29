@@ -3,7 +3,8 @@
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "color-extend",
-    "extended-colorschemes"
+    "extended-colorschemes",
+    "custom-admonitions.4efbfe"
   ],
-  "theme": "obsidian"
+  "theme": "system"
 }
