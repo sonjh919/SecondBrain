@@ -11,8 +11,13 @@
             "id": "6e4f92180e5c47ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Project/BlockChain/분산 시스템.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project/BlockChain/분산 시스템.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Project/BlockChain/분산 시스템.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,6 +137,7 @@
               "state": {
                 "file": "Resource/Python/문법/기타/Comprehension.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -139,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Project/BlockChain/분산 시스템.md"
+              }
             }
           },
           {
@@ -186,7 +196,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "100177b19c1ff051",
+  "active": "6e4f92180e5c47ae",
   "lastOpenFiles": [
     "Project/BlockChain/블록체인.md",
     "Resource/Second brain 이론 정리, 적용/PARA.md",
