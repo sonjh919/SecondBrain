@@ -111,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/BlockChain/블록체인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/BlockChain/블록체인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Project/BlockChain/블록체인.md"
-              }
+              "state": {}
             }
           },
           {
@@ -211,12 +207,13 @@
   "active": "100177b19c1ff051",
   "lastOpenFiles": [
     "Project/BlockChain/블록체인.md",
-    "Inbox/Plugin 모음.md",
+    "Project/BlockChain/분산 시스템.md",
     "Todo/2023-11-30.md",
+    "Todo/2023-12-11.md",
+    "Inbox/Plugin 모음.md",
     "2023-11-29.md",
     "무제 파일.md",
     "Todo",
-    "Project/BlockChain/분산 시스템.md",
     "Resource/Python/문법/기타/Comprehension.md",
     "Inbox/무제 파일.md",
     "_index.md",
@@ -240,7 +237,6 @@
     "Resource/Python/라이브러리/Python 라이브러리.md",
     "Area/Coding Test/구현/백준 9506 파이썬 - 약수들의 합.md",
     "Area/Algorithm & Data Structure/시간 복잡도.md",
-    "Area/Algorithm & Data Structure/공간 복잡도.md",
     "Inbox",
     "Project/JAVA",
     "Archive/IMG/Deque.png",
