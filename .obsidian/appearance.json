@@ -4,7 +4,8 @@
   "enabledCssSnippets": [
     "color-extend",
     "extended-colorschemes",
-    "custom-admonitions.4efbfe"
+    "custom-admonitions.4efbfe",
+    "obsidian-css"
   ],
   "theme": "system"
 }

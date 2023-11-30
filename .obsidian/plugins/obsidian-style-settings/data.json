@@ -35,5 +35,7 @@
   "anuppuccin-theme-settings@@anp-italic-custom": "anp-italic-rosewater",
   "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
   "anuppuccin-theme-settings-extended@@anp-theme-ext-light": true,
-  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte"
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anp-canvas-dark-bg": false,
+  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": false
 }
