@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fb6270ab63fc71d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Plugin 모음.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Plugin 모음.md",
+                "file": "Project/BlockChain/블록체인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Plugin 모음.md",
+                "file": "Project/BlockChain/블록체인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Plugin 모음.md"
+                "file": "Project/BlockChain/블록체인.md"
               }
             }
           },
@@ -222,8 +208,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fb6270ab63fc71d3",
+  "active": "10b3cd7777509390",
   "lastOpenFiles": [
+    "Inbox/Plugin 모음.md",
     "Todo/2023-11-30.md",
     "Project/BlockChain/블록체인.md",
     "2023-11-29.md",
@@ -232,7 +219,6 @@
     "Project/BlockChain/분산 시스템.md",
     "Resource/Python/문법/기타/Comprehension.md",
     "Inbox/무제 파일.md",
-    "Inbox/Plugin 모음.md",
     "_index.md",
     "Inbox/Pasted image 20231023175006.png",
     "새 텍스트 문서.txt",
