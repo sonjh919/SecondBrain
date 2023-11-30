@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/BlockChain/블록체인.md",
+                "file": "Project/BlockChain/분산 시스템.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,6 +59,7 @@
       {
         "id": "7ab81984f1adf4a9",
         "type": "tabs",
+        "dimension": 68.17307692307692,
         "children": [
           {
             "id": "22e62c815c87a34c",
@@ -102,6 +103,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "dbdd5b87d8b5e3df",
+        "type": "tabs",
+        "dimension": 31.826923076923073,
+        "children": [
+          {
+            "id": "100177b19c1ff051",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +130,6 @@
       {
         "id": "aee0c20d4d3b43d9",
         "type": "tabs",
-        "dimension": 68.84615384615384,
         "children": [
           {
             "id": "194553660e95f057",
@@ -122,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/BlockChain/블록체인.md",
+                "file": "Project/BlockChain/분산 시스템.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/BlockChain/블록체인.md",
+                "file": "Project/BlockChain/분산 시스템.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/BlockChain/블록체인.md"
+                "file": "Project/BlockChain/분산 시스템.md"
               }
             }
           },
@@ -186,24 +201,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "9ebd47ca0f443d59",
-        "type": "tabs",
-        "dimension": 31.153846153846153,
-        "children": [
+          },
           {
-            "id": "100177b19c1ff051",
+            "id": "28c0689a8d137f4d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "todo",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -223,7 +231,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bd4fea9a3c7efa14",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
     "Project/BlockChain/블록체인.md",
     "Project/BlockChain/분산 시스템.md",
@@ -245,15 +253,15 @@
     "Resource/Python/라이브러리/math.md",
     "Project/BlockChain",
     "Resource/Python/문법/기타/Enumerate.md",
-    "Project/Coding Test/구현/백준 11005 파이썬 - 진법 변환 2.md",
-    "Project/Coding Test/구현/백준 5622 파이썬 - 다이얼.md",
+    "Area/Coding Test/구현/백준 11005 파이썬 - 진법 변환 2.md",
+    "Area/Coding Test/구현/백준 5622 파이썬 - 다이얼.md",
     "Resource/Python/라이브러리/Python 라이브러리.md",
-    "Project/Coding Test/구현/백준 9506 파이썬 - 약수들의 합.md",
-    "Project/Algorithm & Data Structure/시간 복잡도.md",
-    "Project/Algorithm & Data Structure/공간 복잡도.md",
-    "Project/Algorithm & Data Structure/Greedy.md",
-    "Project/Algorithm & Data Structure/Algorithm & Data Structure MOC.md",
-    "Project/Algorithm & Data Structure/Queue.md",
+    "Area/Coding Test/구현/백준 9506 파이썬 - 약수들의 합.md",
+    "Area/Algorithm & Data Structure/시간 복잡도.md",
+    "Area/Algorithm & Data Structure/공간 복잡도.md",
+    "Area/Algorithm & Data Structure/Greedy.md",
+    "Area/Algorithm & Data Structure/Algorithm & Data Structure MOC.md",
+    "Area/Algorithm & Data Structure/Queue.md",
     "Inbox",
     "Project/JAVA",
     "Archive/IMG/Deque.png",
@@ -261,12 +269,12 @@
     "Archive/IMG/Stack.png",
     "Archive/IMG/17103.png",
     "Archive/IMG/1929.png",
-    "Project/Coding Test/수학",
+    "Area/Coding Test/수학",
     "Archive/IMG/18870.png",
     "Archive/IMG/10989.png",
-    "Project/Coding Test/정렬",
+    "Area/Coding Test/정렬",
     "Archive/IMG/1436.png",
-    "Project/Coding Test/브루트포스",
+    "Area/Coding Test/브루트포스",
     "Resource/기획",
     "Archive/IMG/9506.png",
     "Resource/Python/문법/기타"

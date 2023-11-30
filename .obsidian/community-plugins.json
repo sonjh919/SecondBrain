@@ -10,5 +10,6 @@
   "dataview",
   "obsidian-admonition",
   "templater-obsidian",
-  "css-editor"
+  "css-editor",
+  "obsidian-checklist-plugin"
 ]
