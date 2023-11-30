@@ -8,5 +8,8 @@
     "obsidian-css",
     "list_line"
   ],
-  "theme": "system"
+  "theme": "system",
+  "interfaceFontFamily": "맑은 고딕",
+  "textFontFamily": "godoMaum,G마켓 산스",
+  "monospaceFontFamily": "G마켓 산스"
 }
