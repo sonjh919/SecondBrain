@@ -11,5 +11,7 @@
   "obsidian-admonition",
   "templater-obsidian",
   "css-editor",
-  "obsidian-checklist-plugin"
+  "obsidian-checklist-plugin",
+  "calendar",
+  "periodic-notes"
 ]

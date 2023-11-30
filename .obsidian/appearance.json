@@ -5,7 +5,8 @@
     "color-extend",
     "extended-colorschemes",
     "custom-admonitions.4efbfe",
-    "obsidian-css"
+    "obsidian-css",
+    "list_line"
   ],
   "theme": "system"
 }

@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e4f92180e5c47ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/BlockChain/분산 시스템.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "10b3cd7777509390",
             "type": "leaf",
             "state": {
@@ -34,12 +21,12 @@
             }
           },
           {
-            "id": "bd4fea9a3c7efa14",
+            "id": "fb6270ab63fc71d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/BlockChain/분산 시스템.md",
+                "file": "Todo/2023-11-30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,6 +117,7 @@
       {
         "id": "aee0c20d4d3b43d9",
         "type": "tabs",
+        "dimension": 63.07692307692307,
         "children": [
           {
             "id": "194553660e95f057",
@@ -137,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/BlockChain/분산 시스템.md",
+                "file": "Todo/2023-11-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/BlockChain/분산 시스템.md",
+                "file": "Todo/2023-11-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,25 +160,12 @@
             }
           },
           {
-            "id": "0b4690e367a7b72d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource/Python/문법/기타/Comprehension.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8dc63a58024375e2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/BlockChain/분산 시스템.md"
+                "file": "Todo/2023-11-30.md"
               }
             }
           },
@@ -203,6 +178,22 @@
             }
           },
           {
+            "id": "d576b681e404c835",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "4dda45ab82b77780",
+        "type": "tabs",
+        "dimension": 36.92307692307693,
+        "children": [
+          {
             "id": "28c0689a8d137f4d",
             "type": "leaf",
             "state": {
@@ -210,8 +201,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,16 +218,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian42-brat:BRAT": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "fb6270ab63fc71d3",
   "lastOpenFiles": [
     "Project/BlockChain/블록체인.md",
+    "Todo/2023-11-30.md",
+    "2023-11-29.md",
+    "무제 파일.md",
+    "Todo",
     "Project/BlockChain/분산 시스템.md",
+    "Resource/Python/문법/기타/Comprehension.md",
+    "Inbox/무제 파일.md",
+    "Inbox/Plugin 모음.md",
     "_index.md",
     "Inbox/Pasted image 20231023175006.png",
-    "무제 파일.md",
     "새 텍스트 문서.txt",
     "Resource/Second brain 이론 정리, 적용/PARA.md",
     "Templates/Insert_Callout.md",
@@ -245,7 +242,6 @@
     "Resource/Python/라이브러리/내장 라이브러리.md",
     "Resource/Python/문법/기타/MOC.md",
     "Resource/Python/문법/기타/list 집합.md",
-    "Resource/Python/문법/기타/Comprehension.md",
     "Resource/Python/라이브러리/itertools.md",
     "Resource/Python/라이브러리/heapq.md",
     "Resource/Python/라이브러리/collections.md",
@@ -259,9 +255,6 @@
     "Area/Coding Test/구현/백준 9506 파이썬 - 약수들의 합.md",
     "Area/Algorithm & Data Structure/시간 복잡도.md",
     "Area/Algorithm & Data Structure/공간 복잡도.md",
-    "Area/Algorithm & Data Structure/Greedy.md",
-    "Area/Algorithm & Data Structure/Algorithm & Data Structure MOC.md",
-    "Area/Algorithm & Data Structure/Queue.md",
     "Inbox",
     "Project/JAVA",
     "Archive/IMG/Deque.png",
@@ -276,7 +269,6 @@
     "Archive/IMG/1436.png",
     "Area/Coding Test/브루트포스",
     "Resource/기획",
-    "Archive/IMG/9506.png",
-    "Resource/Python/문법/기타"
+    "Archive/IMG/9506.png"
   ]
 }
