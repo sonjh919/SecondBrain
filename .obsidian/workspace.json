@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/2023-11-30.md",
+                "file": "Inbox/Plugin 모음.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/2023-11-30.md",
+                "file": "Inbox/Plugin 모음.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/2023-11-30.md",
+                "file": "Inbox/Plugin 모음.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/2023-11-30.md"
+                "file": "Inbox/Plugin 모음.md"
               }
             }
           },
@@ -224,8 +224,8 @@
   },
   "active": "fb6270ab63fc71d3",
   "lastOpenFiles": [
-    "Project/BlockChain/블록체인.md",
     "Todo/2023-11-30.md",
+    "Project/BlockChain/블록체인.md",
     "2023-11-29.md",
     "무제 파일.md",
     "Todo",
