@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/BlockChain/Nonce.md",
+                "file": "Project/BlockChain/솔리디티(Solidity)/솔리디티(Solidity).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "100177b19c1ff051",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/BlockChain/합의 프로토콜.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -32,7 +46,6 @@
       {
         "id": "7ab81984f1adf4a9",
         "type": "tabs",
-        "dimension": 70.96153846153847,
         "children": [
           {
             "id": "22e62c815c87a34c",
@@ -76,21 +89,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "f44aed37b9ef5b95",
-        "type": "tabs",
-        "dimension": 29.03846153846154,
-        "children": [
-          {
-            "id": "100177b19c1ff051",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/BlockChain/Nonce.md",
+                "file": "Project/BlockChain/합의 프로토콜.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/BlockChain/Nonce.md",
+                "file": "Project/BlockChain/합의 프로토콜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/BlockChain/Nonce.md"
+                "file": "Project/BlockChain/합의 프로토콜.md"
               }
             }
           },
@@ -208,35 +206,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "10b3cd7777509390",
+  "active": "100177b19c1ff051",
   "lastOpenFiles": [
     "Project/BlockChain/채굴.md",
+    "Project/BlockChain/NFT.md",
+    "Project/BlockChain/합의 프로토콜.md",
     "Project/BlockChain/트랜잭션.md",
-    "Project/BlockChain/Nonce.md",
-    "Project/BlockChain/가스.md",
-    "Project/BlockChain/이더리움.md",
     "Project/BlockChain/블록.md",
-    "Project/BlockChain/솔리디티(Solidity)/솔리디티(Solidity).md",
+    "Project/BlockChain/ERC.md",
+    "Project/BlockChain/프로토콜.md",
+    "Project/BlockChain/토큰.md",
+    "Project/BlockChain/이더리움.md",
+    "Project/BlockChain/암호화폐.md",
+    "Project/BlockChain/암호화폐 거래소.md",
     "Project/BlockChain/스마트 계약.md",
     "Project/BlockChain/비트코인과 알트코인.md",
-    "Project/BlockChain/암호화폐 거래소.md",
-    "Project/BlockChain/암호화폐.md",
-    "Project/BlockChain/토큰.md",
-    "Project/BlockChain/프로토콜.md",
-    "Project/BlockChain/ERC.md",
-    "Project/BlockChain/NFT.md",
-    "Project/BlockChain/FT.md",
     "Project/BlockChain/블록체인.md",
+    "Project/BlockChain/솔리디티(Solidity)/솔리디티(Solidity).md",
+    "스마트 계약서.md",
     "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/Version Pragma.md",
     "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/Keccack256.md",
     "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/Course 1 - 좀비 공장 만들기.md",
-    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/구조체.md",
-    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기",
-    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/이벤트.md",
     "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/형 변환.md",
-    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/컨트랙트.md",
-    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/변수와 정수.md",
     "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/함수.md",
+    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/컨트랙트.md",
+    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/이벤트.md",
+    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/수학 연산.md",
+    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/변수와 정수.md",
+    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/배열.md",
+    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기",
     "Project/BlockChain/솔리디티(Solidity)",
     "Todo",
     "Inbox/Pasted image 20231023175006.png",
