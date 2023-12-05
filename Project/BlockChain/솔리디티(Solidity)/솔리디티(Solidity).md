@@ -9,3 +9,6 @@ https://cryptozombies.io/ 를 통해 학습하였다
 + [[변수와 정수]]
 + [[수학 연산]]
 + [[구조체]]
++ [[배열]]
++ [[Project/BlockChain/솔리디티(Solidity)/함수|함수]]
++ [[Keccack256과 형 변환]]
