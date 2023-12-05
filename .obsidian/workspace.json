@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/BlockChain/블록체인.md",
+                "file": "Project/BlockChain/비트코인 vs 알트코인.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project/BlockChain/비트코인 vs 알트코인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Project/BlockChain/비트코인 vs 알트코인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Project/BlockChain/비트코인 vs 알트코인.md"
+              }
             }
           },
           {
@@ -204,12 +208,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "100177b19c1ff051",
+  "active": "10b3cd7777509390",
   "lastOpenFiles": [
     "Project/BlockChain/블록체인.md",
+    "Project/BlockChain/암호화폐.md",
+    "Project/BlockChain/비트코인 vs 알트코인.md",
+    "분산 시스템.md",
     "Project/BlockChain/분산 시스템.md",
-    "Todo/2023-11-30.md",
     "Todo/2023-12-11.md",
+    "Todo/2023-11-30.md",
+    "Todo/2023-12-05.md",
     "Inbox/Plugin 모음.md",
     "2023-11-29.md",
     "무제 파일.md",
@@ -233,10 +241,6 @@
     "Project/BlockChain",
     "Resource/Python/문법/기타/Enumerate.md",
     "Area/Coding Test/구현/백준 11005 파이썬 - 진법 변환 2.md",
-    "Area/Coding Test/구현/백준 5622 파이썬 - 다이얼.md",
-    "Resource/Python/라이브러리/Python 라이브러리.md",
-    "Area/Coding Test/구현/백준 9506 파이썬 - 약수들의 합.md",
-    "Area/Algorithm & Data Structure/시간 복잡도.md",
     "Inbox",
     "Project/JAVA",
     "Archive/IMG/Deque.png",
