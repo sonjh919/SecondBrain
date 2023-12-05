@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/BlockChain/솔리디티(Solidity)/Keccack256과 형 변환.md",
+                "file": "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/구조체.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/BlockChain/솔리디티(Solidity)/Keccack256과 형 변환.md",
+                "file": "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/구조체.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/BlockChain/솔리디티(Solidity)/Keccack256과 형 변환.md",
+                "file": "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/구조체.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/BlockChain/솔리디티(Solidity)/Keccack256과 형 변환.md"
+                "file": "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/구조체.md"
               }
             }
           },
@@ -210,15 +210,19 @@
   },
   "active": "10b3cd7777509390",
   "lastOpenFiles": [
+    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/Course 1 - 좀비 공장 만들기.md",
     "Project/BlockChain/솔리디티(Solidity)/솔리디티(Solidity).md",
-    "Project/BlockChain/솔리디티(Solidity)/Keccack256과 형 변환.md",
-    "Project/BlockChain/솔리디티(Solidity)/변수와 정수.md",
-    "Project/BlockChain/솔리디티(Solidity)/함수.md",
-    "Project/BlockChain/솔리디티(Solidity)/Version Pragma.md",
-    "Project/BlockChain/솔리디티(Solidity)/수학 연산.md",
-    "Project/BlockChain/솔리디티(Solidity)/컨트랙트.md",
-    "Project/BlockChain/솔리디티(Solidity)/구조체.md",
-    "Project/BlockChain/솔리디티(Solidity)/배열.md",
+    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/구조체.md",
+    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기",
+    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/이벤트.md",
+    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/형 변환.md",
+    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/컨트랙트.md",
+    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/Keccack256.md",
+    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/변수와 정수.md",
+    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/함수.md",
+    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/Version Pragma.md",
+    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/수학 연산.md",
+    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/배열.md",
     "Templates/Insert_Callout.md",
     "Project/BlockChain/블록체인.md",
     "Project/BlockChain/솔리디티(Solidity)",
@@ -234,9 +238,6 @@
     "Project/BlockChain/암호화폐 거래소.md",
     "Project/BlockChain/비트코인과 알트코인.md",
     "분산 시스템.md",
-    "Project/BlockChain/분산 시스템.md",
-    "Todo/2023-12-11.md",
-    "Todo/2023-11-30.md",
     "Todo",
     "Inbox/Pasted image 20231023175006.png",
     "새 텍스트 문서.txt",
@@ -254,7 +255,6 @@
     "Archive/IMG/10989.png",
     "Area/Coding Test/정렬",
     "Archive/IMG/1436.png",
-    "Area/Coding Test/브루트포스",
     "Archive/IMG/9506.png"
   ]
 }
