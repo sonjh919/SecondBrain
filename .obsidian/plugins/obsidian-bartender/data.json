@@ -39,6 +39,20 @@
       "Project/Python/Error/FileNotFoundError",
       "Project/Python/Error/AttributeError",
       "Project/Python/Error/OverFlowError"
+    ],
+    "Project/BlockChain": [
+      "Project/BlockChain/솔리디티(Solidity)",
+      "Project/BlockChain/블록체인.md",
+      "Project/BlockChain/비트코인과 알트코인.md",
+      "Project/BlockChain/스마트 계약.md",
+      "Project/BlockChain/암호화폐 거래소.md",
+      "Project/BlockChain/암호화폐.md",
+      "Project/BlockChain/이더리움.md",
+      "Project/BlockChain/토큰.md",
+      "Project/BlockChain/프로토콜.md",
+      "Project/BlockChain/ERC.md",
+      "Project/BlockChain/FT.md",
+      "Project/BlockChain/NFT.md"
     ]
   },
   "actionBarOrder": {},

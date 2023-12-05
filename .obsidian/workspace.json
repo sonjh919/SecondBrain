@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/BlockChain/솔리디티(Solidity)/솔리디티(Solidity).md",
+                "file": "Project/BlockChain/솔리디티(Solidity)/함수 선언.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,7 +32,7 @@
       {
         "id": "7ab81984f1adf4a9",
         "type": "tabs",
-        "dimension": 68.17307692307692,
+        "dimension": 68.36538461538461,
         "children": [
           {
             "id": "22e62c815c87a34c",
@@ -80,7 +80,7 @@
       {
         "id": "dbdd5b87d8b5e3df",
         "type": "tabs",
-        "dimension": 31.826923076923073,
+        "dimension": 31.634615384615383,
         "children": [
           {
             "id": "100177b19c1ff051",
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/BlockChain/솔리디티(Solidity)/솔리디티(Solidity).md",
+                "file": "Project/BlockChain/솔리디티(Solidity)/함수 선언.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/BlockChain/솔리디티(Solidity)/솔리디티(Solidity).md",
+                "file": "Project/BlockChain/솔리디티(Solidity)/함수 선언.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/BlockChain/솔리디티(Solidity)/솔리디티(Solidity).md"
+                "file": "Project/BlockChain/솔리디티(Solidity)/함수 선언.md"
               }
             }
           },
@@ -210,9 +210,18 @@
   },
   "active": "10b3cd7777509390",
   "lastOpenFiles": [
+    "Project/BlockChain/솔리디티(Solidity)/배열.md",
+    "Project/BlockChain/솔리디티(Solidity)/함수 선언.md",
+    "Project/BlockChain/솔리디티(Solidity)/변수와 정수.md",
+    "Project/BlockChain/솔리디티(Solidity)/솔리디티(Solidity).md",
+    "Project/BlockChain/솔리디티(Solidity)/Version Pragma.md",
+    "Project/BlockChain/솔리디티(Solidity)/구조체.md",
+    "Project/BlockChain/솔리디티(Solidity)/수학 연산.md",
+    "Templates/Insert_Callout.md",
+    "Project/BlockChain/솔리디티(Solidity)/컨트랙트.md",
+    "Project/BlockChain/블록체인.md",
     "Project/BlockChain/솔리디티(Solidity)",
     "Project/BlockChain/스마트 계약.md",
-    "Project/BlockChain/솔리디티(Solidity)/솔리디티(Solidity).md",
     "Project/BlockChain/NFT.md",
     "Project/BlockChain/FT.md",
     "Project/BlockChain/프로토콜.md",
@@ -223,22 +232,14 @@
     "Project/BlockChain/암호화폐.md",
     "Project/BlockChain/암호화폐 거래소.md",
     "Project/BlockChain/비트코인과 알트코인.md",
-    "Project/BlockChain/블록체인.md",
     "분산 시스템.md",
     "Project/BlockChain/분산 시스템.md",
     "Todo/2023-12-11.md",
     "Todo/2023-11-30.md",
     "Todo/2023-12-05.md",
-    "Inbox/Plugin 모음.md",
-    "2023-11-29.md",
-    "무제 파일.md",
     "Todo",
-    "Resource/Python/문법/기타/Comprehension.md",
-    "Inbox/무제 파일.md",
-    "_index.md",
     "Inbox/Pasted image 20231023175006.png",
     "새 텍스트 문서.txt",
-    "Resource/Second brain 이론 정리, 적용/PARA.md",
     "Templates",
     "Project/BlockChain",
     "Inbox",
@@ -254,7 +255,6 @@
     "Area/Coding Test/정렬",
     "Archive/IMG/1436.png",
     "Area/Coding Test/브루트포스",
-    "Resource/기획",
     "Archive/IMG/9506.png"
   ]
 }
