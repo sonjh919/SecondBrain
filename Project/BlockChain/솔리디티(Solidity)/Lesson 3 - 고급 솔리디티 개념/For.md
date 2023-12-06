@@ -14,3 +14,27 @@
 
 여기서 3단계는 극단적으로 가스 소모가 많아지게 된다. **솔리디티에서 storage에 쓰는 것은 가장 비용이 높은 연산**이기 때문에, 해당 로직은 바꿀 필요성이 있다!!
 
+view 함수는 외부에서 호출될 때 가스를 사용하지 않기 때문에, view함수에서 for를 사용하여 좀비 배열의 모든 요소에 접근한 후 특정 사용자의 좀비로 구성된 배열을 만들게 되면, transfer함수는 훨씬 적은 비요을 쓰게 된다. storage에서 어떤 배열도 재정렬할 필요가 없기 때문이다.\
+
+### 📌 for 사용법
++ 사용법 자체는 자바스크립트와 비슷하다
+
+```Java
+// 짝수로 구성된 배열 만들기
+function getEvens() pure external returns(uint[]) {  
+  uint[] memory evens = new uint[](5);  
+  // 새로운 배열의 인덱스를 추적하는 변수  
+  uint counter = 0;  
+  // for 반복문에서 1부터 10까지 반복함  
+  for (uint i = 1; i <= 10; i++) {  
+    // `i`가 짝수라면...  
+    if (i % 2 == 0) {  
+      // 배열에 i를 추가함  
+      evens[counter] = i;  
+      // `evens`의 다음 빈 인덱스 값으로 counter를 증가시킴  
+      counter++;  
+    }  
+  }  
+  return evens;  
+}
+```
