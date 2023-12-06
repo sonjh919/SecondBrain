@@ -11,8 +11,13 @@
             "id": "660ff8a79e9eef11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Insert_Callout.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -27,7 +32,7 @@
       {
         "id": "7ab81984f1adf4a9",
         "type": "tabs",
-        "dimension": 70.67307692307693,
+        "dimension": 70.67307692307692,
         "children": [
           {
             "id": "22e62c815c87a34c",
@@ -75,7 +80,7 @@
       {
         "id": "eba74473c8b4adc1",
         "type": "tabs",
-        "dimension": 29.326923076923077,
+        "dimension": 29.326923076923073,
         "children": [
           {
             "id": "10b3cd7777509390",
@@ -106,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Insert_Callout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Insert_Callout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Insert_Callout.md"
+              }
             }
           },
           {
@@ -201,7 +210,14 @@
   },
   "active": "660ff8a79e9eef11",
   "lastOpenFiles": [
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/mapping과 address.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/Lesson 2 - 좀비가 희생물을 공격하다.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 1 - 좀비 공장 만들기/Lesson 1 - 좀비 공장 만들기.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 1 - 좀비 공장 만들기/Keccack256.md",
     "Project/BlockChain/솔리디티(Solidity)/솔리디티(Solidity).md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 1 - 좀비 공장 만들기/구조체.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다",
+    "l 1 - 좀비 공장 만들기.md",
     "Project/BlockChain/블록.md",
     "스마트 계약서.md",
     "Project/BlockChain/ERC.md",
@@ -217,17 +233,11 @@
     "Project/BlockChain/스마트 계약.md",
     "Project/BlockChain/비트코인과 알트코인.md",
     "Project/BlockChain/블록체인.md",
-    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/Version Pragma.md",
-    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/Keccack256.md",
-    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/Course 1 - 좀비 공장 만들기.md",
-    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/형 변환.md",
-    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/함수.md",
-    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/컨트랙트.md",
-    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/이벤트.md",
-    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/수학 연산.md",
-    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/변수와 정수.md",
-    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/배열.md",
-    "Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 1 - 좀비 공장 만들기/Version Pragma.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 1 - 좀비 공장 만들기/형 변환.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 1 - 좀비 공장 만들기/함수.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 1 - 좀비 공장 만들기/컨트랙트.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 1 - 좀비 공장 만들기",
     "Project/BlockChain/솔리디티(Solidity)",
     "Todo",
     "Inbox/Pasted image 20231023175006.png",
@@ -244,7 +254,6 @@
     "Area/Coding Test/수학",
     "Archive/IMG/18870.png",
     "Archive/IMG/10989.png",
-    "Area/Coding Test/정렬",
     "Archive/IMG/1436.png",
     "Archive/IMG/9506.png"
   ]

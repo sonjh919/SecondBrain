@@ -1,12 +1,13 @@
 #블록체인 #솔리디티 
 
+### 📌 MOC
 + [[컨트랙트]]
 + [[Version Pragma]]
 + [[변수와 정수]]
 + [[수학 연산]]
 + [[구조체]]
 + [[배열]]
-+ [[Project/BlockChain/솔리디티(Solidity)/Course 1 - 좀비 공장 만들기/함수|함수]]
++ [[Project/BlockChain/솔리디티(Solidity)/Lesson 1 - 좀비 공장 만들기/함수|함수]]
 + [[Keccack256]]
 + [[형 변환]]
 + [[이벤트]]

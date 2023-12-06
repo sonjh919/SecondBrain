@@ -6,4 +6,5 @@
 ### 📌 MOC
 + https://cryptozombies.io/ 를 통해 학습하였다
 
-+ [[Course 1 - 좀비 공장 만들기]]
++ [[Lesson 1 - 좀비 공장 만들기]]
++ [[Lesson 2 - 좀비가 희생물을 공격하다]]
