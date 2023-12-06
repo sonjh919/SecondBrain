@@ -3,3 +3,6 @@
 ### 📌 MOC
 + [[mapping과 address]]
 + [[Msg.sender]]
++ [[Require]]
++ [[상속]]
++ [[import]]
