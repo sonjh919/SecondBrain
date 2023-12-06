@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/import.md",
+                "file": "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/인터페이스.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/import.md",
+                "file": "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/인터페이스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/import.md",
+                "file": "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/인터페이스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/import.md"
+                "file": "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/인터페이스.md"
               }
             }
           },
@@ -211,6 +211,12 @@
   "active": "c0e1ab70ee4c384b",
   "lastOpenFiles": [
     "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/Lesson 2 - 좀비가 희생물을 공격하다.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/인터페이스.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/함수 접근 제어자.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 1 - 좀비 공장 만들기/함수.md",
+    "l 1 - 좀비 공장 만들기.md",
+    "함수 접근 제어자.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/Storage vs Memory.md",
     "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/import.md",
     "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/상속.md",
     "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/Require.md",
@@ -219,7 +225,6 @@
     "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/mapping과 address.md",
     "Project/BlockChain/솔리디티(Solidity)/Lesson 1 - 좀비 공장 만들기/수학 연산.md",
     "Todo/2023-12-06.md",
-    "l 1 - 좀비 공장 만들기.md",
     "Templates/Insert_Callout.md",
     "Project/BlockChain/솔리디티(Solidity)/Lesson 1 - 좀비 공장 만들기/Lesson 1 - 좀비 공장 만들기.md",
     "Project/BlockChain/솔리디티(Solidity)/솔리디티(Solidity).md",
@@ -232,11 +237,6 @@
     "Project/BlockChain/합의 프로토콜.md",
     "Project/BlockChain/NFT.md",
     "Project/BlockChain/트랜잭션.md",
-    "Project/BlockChain/프로토콜.md",
-    "Project/BlockChain/토큰.md",
-    "Project/BlockChain/이더리움.md",
-    "Project/BlockChain/암호화폐.md",
-    "Project/BlockChain/암호화폐 거래소.md",
     "Project/BlockChain/솔리디티(Solidity)/Lesson 1 - 좀비 공장 만들기",
     "Project/BlockChain/솔리디티(Solidity)",
     "Todo",
