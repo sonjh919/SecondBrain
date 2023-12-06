@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/시간 단위.md",
+                "file": "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/For.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/시간 단위.md",
+                "file": "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/For.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/시간 단위.md",
+                "file": "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/For.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/시간 단위.md"
+                "file": "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/For.md"
               }
             }
           },
@@ -211,16 +211,21 @@
   "active": "c0e1ab70ee4c384b",
   "lastOpenFiles": [
     "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/Lesson 3 - 고급 솔리디티 개념.md",
-    "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/시간 단위.md",
-    "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/함수 제어자.md",
-    "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/구조체 압축.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/Ownable.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/For.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/Storage vs Memory.md",
     "Project/BlockChain/가스.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/함수 제어자.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/구조체를 인수로 전달.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/구조체 압축.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/컨트랙트의 불변성.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/시간 단위.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/생성자.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 1 - 좀비 공장 만들기/함수.md",
+    "Project/BlockChain/솔리디티(Solidity)/Lesson 1 - 좀비 공장 만들기/구조체.md",
     "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/가스.md",
     "Project/BlockChain/Nonce.md",
-    "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/Ownable.md",
-    "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/생성자.md",
     "Resource/Python/문법/함수/함수.md",
-    "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/컨트랙트의 불변성.md",
     "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/다수의 반환값 처리.md",
     "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/상속.md",
     "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/인터페이스.md",
@@ -231,12 +236,7 @@
     "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/mapping과 address.md",
     "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/Msg.sender.md",
     "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/Require.md",
-    "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다/Storage vs Memory.md",
-    "Project/BlockChain/솔리디티(Solidity)/솔리디티(Solidity).md",
     "Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념",
-    "Project/BlockChain/솔리디티(Solidity)/Lesson 1 - 좀비 공장 만들기/Lesson 1 - 좀비 공장 만들기.md",
-    "Project/BlockChain/솔리디티(Solidity)/Lesson 1 - 좀비 공장 만들기/함수.md",
-    "Project/BlockChain/블록체인.md",
     "Project/BlockChain/솔리디티(Solidity)/Lesson 2 - 좀비가 희생물을 공격하다",
     "Project/BlockChain/솔리디티(Solidity)/Lesson 1 - 좀비 공장 만들기",
     "Project/BlockChain/솔리디티(Solidity)",
