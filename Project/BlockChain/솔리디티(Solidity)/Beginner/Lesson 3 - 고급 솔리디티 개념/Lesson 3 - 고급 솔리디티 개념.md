@@ -9,4 +9,4 @@
 + [[구조체 압축]]
 + [[시간 단위]]
 + [[구조체를 인수로 전달]]
-+ [[Project/BlockChain/솔리디티(Solidity)/Lesson 3 - 고급 솔리디티 개념/For|For]]
++ [[Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념/For|For]]
