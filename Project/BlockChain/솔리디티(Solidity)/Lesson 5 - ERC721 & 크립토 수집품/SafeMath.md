@@ -4,7 +4,7 @@
 ### 📌 SafeMath
 + OpenZeppelin에서 기본적으로 이런 문제를 막아주는 **SafeMath**라는 [[라이브러리]]가 있다.
 + SafeMath 내부의 코드는 다음과 같다
-+ 해당 라이브러리는 uint256 기준이다. 만약 다른 타입의 계산을 원한다면, SafeMath32, SafeMath16 등의 라이브러리를 사용할 수 있다
+
 ```Java
 library SafeMath {  
   
@@ -46,3 +46,6 @@ myUint++;
 //after
 myUint.add(1);
 ```
+
+> [!attention]+ 
+> 해당 라이브러리는 uint256 기준이다. 만약 다른 타입의 계산을 원한다면, **SafeMath32, SafeMath16** 등의 라이브러리를 사용할 수 있다
