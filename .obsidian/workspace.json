@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기/Truffle.md",
+                "file": "Project/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기/Lesson 1 - Truffle로 DApp 개발하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기/Truffle.md",
+                "file": "Project/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기/Lesson 1 - Truffle로 DApp 개발하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기/Truffle.md",
+                "file": "Project/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기/Lesson 1 - Truffle로 DApp 개발하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기/Truffle.md"
+                "file": "Project/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기/Lesson 1 - Truffle로 DApp 개발하기.md"
               }
             }
           },
@@ -221,8 +221,8 @@
   },
   "active": "73d9ee6b66031883",
   "lastOpenFiles": [
-    "Project/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기/Lesson 1 - Truffle로 DApp 개발하기.md",
     "Project/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기/Truffle.md",
+    "Project/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기/Lesson 1 - Truffle로 DApp 개발하기.md",
     "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기/Lesson 1 - 좀비 공장 만들기.md",
     "Project/BlockChain/솔리디티(Solidity)/Advanced/Advanced.md",
     "Project/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기",
