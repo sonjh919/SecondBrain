@@ -128,3 +128,17 @@ layout: default
 
 link-previews
 notes-graph. html, json
+
+
+---
+
+graph-wrapper
+
+---
+
+### internal-link
+
+\_pages -> index.md
+\_includes -> link-previews.html
+\_includes -> nav.html
+\_sass -> \_style.scss
