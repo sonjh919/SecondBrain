@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/quartz.md",
+                "file": "Inbox/Jekyll.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/quartz.md",
+                "file": "Inbox/Jekyll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/quartz.md",
+                "file": "Inbox/Jekyll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/quartz.md"
+                "file": "Inbox/Jekyll.md"
               }
             }
           },
@@ -208,13 +208,14 @@
   },
   "active": "73d9ee6b66031883",
   "lastOpenFiles": [
+    "Inbox/Pasted image 20231023175006.png",
+    "Inbox/Jekyll.md",
+    "Inbox/quartz.md",
     "Project.md",
     "_index.md",
     "Inbox/Plugin 모음.md",
     "Inbox/우테코.md",
-    "Inbox/Pasted image 20231023175006.png",
     "Resource/기획/프로젝트 기획.md",
-    "Inbox/quartz.md",
     "Todo/2023-12-11.md",
     "Todo/2023-12-10.md",
     "Archive/IMG/1157.png",
@@ -234,8 +235,6 @@
     "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 2 - 좀비가 희생물을 공격하다/Require.md",
     "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기/컨트랙트.md",
     "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 2 - 좀비가 희생물을 공격하다/인터페이스.md",
-    "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 2 - 좀비가 희생물을 공격하다/Storage vs Memory.md",
-    "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 2 - 좀비가 희생물을 공격하다/Msg.sender.md",
     "Project/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기",
     "Project/BlockChain/솔리디티(Solidity)/Advanced",
     "Project/BlockChain/솔리디티(Solidity)/Beginner",
