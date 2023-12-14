@@ -138,7 +138,12 @@ graph-wrapper
 
 ### internal-link
 
-\_pages -> index.md
+\_pages -> index.md **해결**
 \_includes -> link-previews.html
 \_includes -> nav.html
 \_sass -> \_style.scss
+\_site -> consistency.html
+
+---
+
+### {{ site.baseurl }}{{ note.url }}
