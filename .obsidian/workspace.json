@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/JAVA/Java의 탄생 과정과 특징.md",
+                "file": "Inbox/블로그 색상.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/JAVA/Java의 탄생 과정과 특징.md",
+                "file": "Inbox/블로그 색상.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/JAVA/Java의 탄생 과정과 특징.md",
+                "file": "Inbox/블로그 색상.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/JAVA/Java의 탄생 과정과 특징.md"
+                "file": "Inbox/블로그 색상.md"
               }
             }
           },
@@ -194,6 +194,8 @@
   },
   "active": "73d9ee6b66031883",
   "lastOpenFiles": [
+    "Project/JAVA/Java의 탄생 과정과 특징.md",
+    "Project/JAVA/Java 개발 환경과 실행 순서.md",
     "Inbox/블로그 색상.md",
     "Inbox/Plugin 모음.md",
     "Inbox/quartz.md",
@@ -219,8 +221,6 @@
     "Resource/Python/문법/자료형/리스트.md",
     "Resource/Python/문법/자료형/딕셔너리.md",
     "Resource/Python/문법/입출력/입출력.md",
-    "Resource/Python/문법/예외 처리/예외 처리.md",
-    "Resource/Python/문법/기타/sort.md",
     "Archive/IMG/Stack.png",
     "Archive/IMG/Queue.png",
     "Archive/IMG/Deque.png",
