@@ -51,5 +51,6 @@
   "blue-topaz-theme@@background-notebook-liked-switch": false,
   "blue-topaz-theme@@background-image-settings-command-palette-switch": false,
   "anuppuccin-theme-settings@@anp-floating-header": false,
-  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-depth-tab-toggle"
+  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-depth-tab-toggle",
+  "blue-topaz-theme@@graph-line@@light": "#0000004F"
 }

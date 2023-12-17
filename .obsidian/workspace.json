@@ -11,8 +11,13 @@
             "id": "a6454e8c33d3f1aa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/블로그 색상.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/블로그 색상.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/블로그 색상.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/블로그 색상.md"
+              }
             }
           },
           {
@@ -185,15 +194,15 @@
   },
   "active": "a6454e8c33d3f1aa",
   "lastOpenFiles": [
+    "Inbox/버전 가이드라인.png",
     "Inbox/블로그 색상.md",
-    "Inbox/책.md",
     "Inbox/우테코.md",
+    "Inbox/책.md",
     "Resource/Python/라이브러리/내장 라이브러리.md",
     "Project/JAVA/Java의 탄생 과정과 특징.md",
     "Project/JAVA/Java 개발 환경과 실행 순서.md",
     "Inbox/Plugin 모음.md",
     "Inbox/quartz.md",
-    "Inbox/버전 가이드라인.png",
     "Area/Coding Test/구현/백준 1157 파이썬 - 단어 공부.md",
     "Templates/Insert_Callout.md",
     "Resource/기획/프로젝트 기획.md",
@@ -211,7 +220,6 @@
     "Resource/Python/문법/자료형/불.md",
     "Resource/Python/문법/자료형/문자열.md",
     "Resource/Python/문법/자료형/리스트.md",
-    "Resource/Python/문법/자료형/딕셔너리.md",
     "Archive/IMG/Stack.png",
     "Archive/IMG/Queue.png",
     "Archive/IMG/Deque.png",
