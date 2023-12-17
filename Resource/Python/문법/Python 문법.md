@@ -1,3 +1,6 @@
+---
+---
+
 ## Python 문법의 특징
 ### 1. 스크립트 언어(Script language)
 + 파이썬은 컴파일 과정 없이 인터프리터(Interpreter, 해석기)가 소스 코드를 한 줄씩 읽어들여 곧바로 실행하는 스크립트 언어(Script language)이다.

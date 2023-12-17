@@ -1,12 +1,12 @@
-Java의 개발 환경은 사용자/개발자의 입장에 따라 설치하는 범위가 달라진다.
-
-## 📌 JRE(Java Runtime Environment) : Java 실행 환경
-Java는 JVM만으로 실행되지 않고, JVM+JRE를 통해 실행된다. JRE는 클래스 라이브러리 및 특정 Java 프로그램이 실행해야 하는 기타 리소스를 제공 한다. 있는 것만 실행 할 수 있고, **추가로 개발하는 기능은 없다. 추가 개발을 위해서는 JDK가 필요하다.**
-
-> 💡 실행 목적으로만 사용할 경우 사용되는 컴파일러는 **JIT(Just In Time)**이다
-
 ---
-
+tistoryBlogName: sonjh919
+tistoryTitle: Java 개발 환경과 실행 순서
+tistoryVisibility: "0"
+tistoryCategory: "0"
+tistorySkipModal: true
+tistoryPostId: "2"
+tistoryPostUrl: https://sonjh919.tistory.com/2
+---
 ## 📌 JDK(Java Development Kit) : Java 개발 키트
 JDK는 Java로 개발을 하려는 사람들이 설치하여 사용하면 된다! JDK에는 JRE, JVM 등이 포함된다. JDK를 설치하려면 3가지 Edition 중 하나를 선택하여 설치하면 된다.
 
