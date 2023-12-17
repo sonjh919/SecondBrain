@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/책.md",
+                "file": "Inbox/블로그 색상.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#5F4B8B",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/책.md",
+                "file": "Inbox/블로그 색상.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/책.md",
+                "file": "Inbox/블로그 색상.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/책.md"
+                "file": "Inbox/블로그 색상.md"
               }
             }
           },
@@ -192,8 +193,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "73d9ee6b66031883",
+  "active": "e6d2440fd7f079b9",
   "lastOpenFiles": [
+    "Inbox/Plugin 모음.md",
+    "Inbox/블로그 색상.md",
+    "Inbox/quartz.md",
+    "Inbox/버전 가이드라인.png",
+    "Inbox/우테코.md",
     "Inbox/책.md",
     "Area/Coding Test/구현/백준 1157 파이썬 - 단어 공부.md",
     "Templates/Insert_Callout.md",
@@ -216,10 +222,6 @@
     "Resource/Python/문법/입출력/입출력.md",
     "Resource/Python/문법/예외 처리/예외 처리.md",
     "Resource/Python/문법/기타/sort.md",
-    "Resource/Python/문법/기타/MOC.md",
-    "Resource/Python/문법/기타/list 집합.md",
-    "Resource/Python/문법/기타/join.md",
-    "Resource/Python/문법/기타/isalpha, isdecimal.md",
     "Archive/IMG/Stack.png",
     "Archive/IMG/Queue.png",
     "Archive/IMG/Deque.png",
@@ -229,7 +231,6 @@
     "Archive/IMG/18870.png",
     "Archive/IMG/17103.png",
     "Archive/IMG/1436.png",
-    "Archive/IMG/1316.png",
     "Project/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기",
     "Project/BlockChain/솔리디티(Solidity)/Advanced",
     "Project/BlockChain/솔리디티(Solidity)/Beginner",
