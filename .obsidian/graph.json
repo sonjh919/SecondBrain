@@ -8,17 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "#블록체인",
-      "color": {
-        "a": 1,
-        "rgb": 10443990
-      }
-    },
-    {
       "query": "#솔리디티",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 5925602
+      }
+    },
+    {
+      "query": "#블록체인",
+      "color": {
+        "a": 1,
+        "rgb": 9849600
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
       }
     }
   ],
