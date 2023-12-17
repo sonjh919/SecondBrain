@@ -46,5 +46,9 @@
   "blue-topaz-theme@@brightness-4-bg": 0.3,
   "blue-topaz-theme@@saturate-4-bg": 2,
   "blue-topaz-theme@@background-image-settings-switch": true,
-  "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-custom"
+  "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-custom",
+  "blue-topaz-theme@@toggle-nonoverlapping-bg": false,
+  "blue-topaz-theme@@bg-markdown-page-opacity-cp": 1,
+  "blue-topaz-theme@@background-notebook-liked-switch": false,
+  "blue-topaz-theme@@background-image-settings-command-palette-switch": false
 }
