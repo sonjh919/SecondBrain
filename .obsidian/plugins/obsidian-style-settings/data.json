@@ -36,7 +36,6 @@
   "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
   "anuppuccin-theme-settings-extended@@anp-theme-ext-light": true,
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
-  "anuppuccin-theme-settings@@anp-canvas-dark-bg": false,
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": false,
   "anuppuccin-theme-settings@@anp-editor-font-source": "GmarketSansMedium",
   "blue-topaz-theme@@background-settings-workplace-background-image": true,
@@ -50,5 +49,7 @@
   "blue-topaz-theme@@toggle-nonoverlapping-bg": false,
   "blue-topaz-theme@@bg-markdown-page-opacity-cp": 1,
   "blue-topaz-theme@@background-notebook-liked-switch": false,
-  "blue-topaz-theme@@background-image-settings-command-palette-switch": false
+  "blue-topaz-theme@@background-image-settings-command-palette-switch": false,
+  "anuppuccin-theme-settings@@anp-floating-header": false,
+  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-depth-tab-toggle"
 }
