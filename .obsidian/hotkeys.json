@@ -12,5 +12,13 @@
       "modifiers": [],
       "key": "F12"
     }
+  ],
+  "tistory:publish": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }

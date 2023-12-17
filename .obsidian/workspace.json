@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/블로그 색상.md",
+                "file": "Project/JAVA/Java의 탄생 과정과 특징.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#5F4B8B",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/블로그 색상.md",
+                "file": "Project/JAVA/Java의 탄생 과정과 특징.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/블로그 색상.md",
+                "file": "Project/JAVA/Java의 탄생 과정과 특징.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/블로그 색상.md"
+                "file": "Project/JAVA/Java의 탄생 과정과 특징.md"
               }
             }
           },
@@ -193,10 +192,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e6d2440fd7f079b9",
+  "active": "73d9ee6b66031883",
   "lastOpenFiles": [
-    "Inbox/Plugin 모음.md",
     "Inbox/블로그 색상.md",
+    "Inbox/Plugin 모음.md",
     "Inbox/quartz.md",
     "Inbox/버전 가이드라인.png",
     "Inbox/우테코.md",
