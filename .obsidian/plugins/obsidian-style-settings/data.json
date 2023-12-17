@@ -39,5 +39,12 @@
   "anuppuccin-theme-settings@@anp-canvas-dark-bg": false,
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": false,
   "anuppuccin-theme-settings@@anp-editor-font-source": "GmarketSansMedium",
-  "blue-topaz-theme@@background-settings-workplace-background-image": true
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-custom-option",
+  "blue-topaz-theme@@background-settings-workplace-theme-light-custom": "url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b3be1dae-3caa-4d45-be6c-3de586ba95e2/det7hey-df575fd6-73e6-4a64-9f89-38fef7d96a50.jpg/v1/fill/w_622,h_350,q_70,strp/midnight_moonlight_by_bisbiswas_det7hey-350t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvYjNiZTFkYWUtM2NhYS00ZDQ1LWJlNmMtM2RlNTg2YmE5NWUyXC9kZXQ3aGV5LWRmNTc1ZmQ2LTczZTYtNGE2NC05Zjg5LTM4ZmVmN2Q5NmE1MC5qcGciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.7Qi3-L2L3IFOqkiLtruGGqWuj10TiwHn1ybqtvwiqOo)",
+  "blue-topaz-theme@@blur-depth": 0,
+  "blue-topaz-theme@@brightness-4-bg": 0.3,
+  "blue-topaz-theme@@saturate-4-bg": 2,
+  "blue-topaz-theme@@background-image-settings-switch": true,
+  "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-custom"
 }
