@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Openrun/🚩 AWS vs GCP.md",
+                "file": "Project/Openrun/🚩 어떤 DB를 선택해야 할까.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Openrun/🚩 AWS vs GCP.md",
+                "file": "Project/Openrun/🚩 어떤 DB를 선택해야 할까.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Openrun/🚩 AWS vs GCP.md",
+                "file": "Project/Openrun/🚩 어떤 DB를 선택해야 할까.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Openrun/🚩 AWS vs GCP.md"
+                "file": "Project/Openrun/🚩 어떤 DB를 선택해야 할까.md"
               }
             }
           },
@@ -230,19 +230,20 @@
       }
     ]
   },
-  "active": "66a3a1af67886d16",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
     "Project/Openrun/🚩 프로젝트 시작.md",
-    "Project/Openrun/🚩 AWS vs GCP.md",
-    "Project/Openrun/🚩 주제 확정짓기.md",
+    "Project/Openrun/🚩 어떤 DB를 선택해야 할까.md",
     "Project/Openrun/🚩 플로우 차트와 정책정의서.md",
     "Project/Openrun/🚩 프로젝트의 목적.md",
+    "Project/Openrun/🚩 주제 확정짓기.md",
+    "Project/Openrun/🚩 클라우드 서비스 플랫폼.md",
+    "Project/JAVA/Java 개발 환경과 실행 순서.md",
+    "Project/JAVA/Java의 탄생 과정과 특징.md",
     "Inbox/프로젝트.md",
     "Inbox/책.md",
     "Project/Openrun",
     "Project/무제 파일.md",
-    "Project/JAVA/Java의 탄생 과정과 특징.md",
-    "Project/JAVA/Java 개발 환경과 실행 순서.md",
     "Inbox/Plugin 모음.md",
     "Inbox/Jekyll.md",
     "Inbox/우테코.md",
@@ -259,7 +260,6 @@
     "Resource/Python/문법/제어문/제어문.md",
     "Resource/Python/문법/제어문/while.md",
     "Resource/Python/문법/제어문/if.md",
-    "Resource/Python/문법/제어문/for.md",
     "Archive/IMG/Stack.png",
     "Archive/IMG/Queue.png",
     "Archive/IMG/Deque.png",
