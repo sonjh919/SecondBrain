@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "faf15e53a8bd7f84",
+        "id": "6e10f6947d32955d",
         "type": "tabs",
         "children": [
           {
-            "id": "d25550e9106d4a1c",
+            "id": "66a3a1af67886d16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Openrun/🚩 프로젝트 시작.md",
+                "file": "Project/Openrun/🚩 AWS vs GCP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Openrun/🚩 프로젝트 시작.md",
+                "file": "Project/Openrun/🚩 AWS vs GCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Openrun/🚩 프로젝트 시작.md",
+                "file": "Project/Openrun/🚩 AWS vs GCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Openrun/🚩 프로젝트 시작.md"
+                "file": "Project/Openrun/🚩 AWS vs GCP.md"
               }
             }
           },
@@ -230,12 +230,13 @@
       }
     ]
   },
-  "active": "d25550e9106d4a1c",
+  "active": "66a3a1af67886d16",
   "lastOpenFiles": [
-    "Project/Openrun/🚩 주제 확정짓기.md",
-    "Project/Openrun/🚩 프로젝트의 목적.md",
     "Project/Openrun/🚩 프로젝트 시작.md",
+    "Project/Openrun/🚩 AWS vs GCP.md",
+    "Project/Openrun/🚩 주제 확정짓기.md",
     "Project/Openrun/🚩 플로우 차트와 정책정의서.md",
+    "Project/Openrun/🚩 프로젝트의 목적.md",
     "Inbox/프로젝트.md",
     "Inbox/책.md",
     "Project/Openrun",
@@ -259,7 +260,6 @@
     "Resource/Python/문법/제어문/while.md",
     "Resource/Python/문법/제어문/if.md",
     "Resource/Python/문법/제어문/for.md",
-    "Resource/Python/문법/자료형/튜플.md",
     "Archive/IMG/Stack.png",
     "Archive/IMG/Queue.png",
     "Archive/IMG/Deque.png",
