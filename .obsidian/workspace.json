@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/책.md",
+                "file": "Inbox/도커.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/책.md",
+                "file": "Inbox/도커.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/책.md",
+                "file": "Inbox/도커.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/책.md"
+                "file": "Inbox/도커.md"
               }
             }
           },
@@ -194,8 +194,10 @@
   },
   "active": "66a3a1af67886d16",
   "lastOpenFiles": [
-    "Inbox/프로젝트.md",
+    "Inbox/Jekyll.md",
+    "Inbox/도커.md",
     "Inbox/책.md",
+    "Inbox/프로젝트.md",
     "Project/Openrun/🚩 Spring과 Java 버전 선택.md",
     "Project/Openrun/🚩 플로우 차트와 정책정의서.md",
     "Project/Openrun/🚩 프로젝트의 목적.md",
@@ -208,7 +210,6 @@
     "Project/Openrun",
     "Project/무제 파일.md",
     "Inbox/Plugin 모음.md",
-    "Inbox/Jekyll.md",
     "Inbox/우테코.md",
     "Inbox/블로그 색상.md",
     "Inbox/버전 가이드라인.png",
@@ -221,7 +222,6 @@
     "Resource/Python/문법/함수/함수.md",
     "Resource/Python/문법/함수/lambda.md",
     "Resource/Python/문법/제어문/제어문.md",
-    "Resource/Python/문법/제어문/while.md",
     "Archive/IMG/Stack.png",
     "Archive/IMG/Queue.png",
     "Archive/IMG/Deque.png",
