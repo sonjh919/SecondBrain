@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/TIL.md",
+                "file": "Project/Openrun/프로젝트 시작.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/TIL.md",
+                "file": "Project/Openrun/프로젝트 시작.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/TIL.md",
+                "file": "Project/Openrun/프로젝트 시작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/TIL/TIL.md"
+                "file": "Project/Openrun/프로젝트 시작.md"
               }
             }
           },
@@ -209,10 +209,18 @@
   },
   "active": "2e095485fc624b6d",
   "lastOpenFiles": [
-    "Project/Git/개념/Commit 종류.md",
     "Todo/TIL/2023-12-21 TIL.md",
     "Todo/TIL/2023-12-22 TIL.md",
     "Todo/TIL/TIL.md",
+    "Project/Openrun/프로젝트 시작.md",
+    "Project/Openrun/Repository Rule.md",
+    "Project/Openrun/클라우드 서비스 플랫폼.md",
+    "Project/Openrun/어떤 DB를 선택해야 할까.md",
+    "Project/Openrun/플로우 차트와 정책정의서.md",
+    "Project/Openrun/Spring과 Java 버전 선택.md",
+    "Project/Openrun/프로젝트의 목적.md",
+    "Project/Openrun/주제 확정짓기.md",
+    "Project/Git/개념/Commit 종류.md",
     "Inbox/도커.md",
     "Project/JAVA/Java 개발 환경과 실행 순서.md",
     "Project/Git/Git.md",
@@ -227,14 +235,6 @@
     "Project/Git/명령어/config.md",
     "Project/Git/명령어/diff.md",
     "Project/Git/명령어/fetch.md",
-    "Project/Git/명령어/Git 명령어.md",
-    "Project/Git/명령어/init.md",
-    "Project/Git/명령어/log.md",
-    "Project/Git/명령어/pull.md",
-    "Project/Git/명령어/push.md",
-    "Project/Git/명령어/remote.md",
-    "Project/Git/명령어/reset.md",
-    "Project/Git/명령어/revert.md",
     "Todo/IMG/Pasted image 20231221165155.png",
     "Todo/IMG",
     "Todo/WIL",
