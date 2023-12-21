@@ -22,10 +22,17 @@
       }
     },
     {
-      "query": "",
+      "query": "path:Project/Git",
       "color": {
         "a": 1,
         "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:Todo/TIL  ",
+      "color": {
+        "a": 1,
+        "rgb": 15747050
       }
     }
   ],
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.13168724279835953,
-  "close": true
+  "scale": 0.7132754626224728,
+  "close": false
 }

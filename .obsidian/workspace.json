@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/2023-12-21 TIL.md",
+                "file": "Project/Git/개념/Git의 3가지 영역.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Git/개념/Git의 3가지 영역.md",
+                "file": "Todo/TIL/2023-12-21 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,19 +221,29 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3671c6c94a9c30c5",
+  "active": "b76546c6a6c3e3ef",
   "lastOpenFiles": [
+    "Templates/TIL Templete.md",
+    "Project/Git/개념/Commit 종류.md",
+    "Todo/TIL/2023-12-21 TIL.md",
+    "Todo/TIL/TIL.md",
+    "Project/Git/명령어/Git 명령어.md",
+    "Project/Git/명령어/clone.md",
+    "Project/Git/명령어/init.md",
+    "Project/Git/명령어/fetch.md",
+    "Project/Git/명령어/config.md",
+    "Project/Git/명령어/commit.md",
+    "Project/Git/명령어/diff.md",
+    "Project/Git/오류/LF will be replaced by CRLF in pom.xml.md",
+    "Todo/IMG/Pasted image 20231221165155.png",
+    "Todo/IMG",
     "Project/Git/개념/Git의 3가지 영역.md",
     "Project/Git/개념/Git 개념.md",
-    "Todo/TIL/2023-12-21 TIL.md",
-    "Project/Git/개념/Commit 종류.md",
-    "Templates/TIL Templete.md",
     "Todo/2023-12-10.md",
     "Todo/2023-12-11.md",
     "Todo/2023-11-30.md",
     "Todo/2023-12-05.md",
     "Todo/2023-12-06.md",
-    "Project/Git/명령어/Git 명령어.md",
     "Todo/2023-12-21.md",
     "Todo/WIL",
     "Todo/TIL",
@@ -242,14 +253,6 @@
     "Project/Git/명령어/reset.md",
     "Project/Git/명령어/remote.md",
     "Project/Git/명령어/push.md",
-    "Project/Git/명령어/pull.md",
-    "Project/Git/명령어/log.md",
-    "Project/Git/명령어/init.md",
-    "Project/Git/명령어/fetch.md",
-    "Project/Git/명령어/diff.md",
-    "Project/Git/명령어/config.md",
-    "Project/Git/명령어/commit.md",
-    "Project/Git/명령어/clone.md",
     "Project/Git/git 1.png",
     "Project/Git/git 2.png",
     "Project/Git/git.png",
@@ -263,10 +266,8 @@
     "Archive/IMG/Deque.png",
     "Archive/IMG/9506.png",
     "Archive/IMG/5622.png",
-    "Archive/IMG/1929.png",
     "Resource/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기",
     "Resource/BlockChain/솔리디티(Solidity)/Advanced",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품"
+    "Resource/BlockChain/솔리디티(Solidity)/Beginner"
   ]
 }

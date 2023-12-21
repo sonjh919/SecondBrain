@@ -8,7 +8,6 @@ tistorySkipModal: true
 tistoryPostId: "27"
 tistoryPostUrl: https://sonjh919.tistory.com/27
 ---
-
 ## 🌈 config
 + git은 저장소에 대한 설정값을 저장해놓는 config 파일을 읽어 설정값들을 사용한다.
 + 이 설정파일에 대한 정보를 확인할 경우에 사용한다.

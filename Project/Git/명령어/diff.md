@@ -1,13 +1,3 @@
----
-tistoryBlogName: sonjh919
-tistoryTitle: diff
-tistoryTags: Git, Git명령어
-tistoryVisibility: "3"
-tistoryCategory: "1206689"
-tistorySkipModal: true
-tistoryPostId: "28"
-tistoryPostUrl: https://sonjh919.tistory.com/28
----
 
 ## 🌈 diff
 + [[Git의 3가지 영역|Working Directory]]와 [[Git의 3가지 영역|Staging Area]] 사이의 차이를 확인하기 위한 명령어이다.
@@ -20,6 +10,6 @@ git diff
 ## 🌈 옵션
 ### 📌 HEAD
 + HEAD는 **가장 최근 commit**을 이야기하는 것으로, 현재 작업 중인 내용이 HEAD commit과 다른 점을 총체적으로 보여주기 위한 명령어이다.
-```cs
+```
 git diff HEAD
 ```
