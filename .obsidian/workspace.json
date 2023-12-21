@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Git/명령어/pull.md",
+                "file": "Project/Git/명령어/config.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Git/명령어/pull.md",
+                "file": "Project/Git/명령어/config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Git/명령어/pull.md",
+                "file": "Project/Git/명령어/config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Git/명령어/pull.md"
+                "file": "Project/Git/명령어/config.md"
               }
             }
           },
@@ -208,19 +208,19 @@
   },
   "active": "96817dca783f7045",
   "lastOpenFiles": [
-    "Project/Git/명령어/clone.md",
-    "Project/Git/명령어/pull.md",
     "Project/Git/Git.md",
     "Project/Git/명령어/diff.md",
-    "Project/Git/명령어/add.md",
     "Project/Git/명령어/config.md",
-    "Project/Git/Commit 종류.md",
     "Project/Git/명령어/log.md",
+    "Project/Git/명령어/init.md",
+    "Project/Git/명령어/pull.md",
     "Project/Git/명령어/status.md",
     "Project/Git/명령어/push.md",
+    "Project/Git/명령어/clone.md",
+    "Project/Git/명령어/add.md",
+    "Project/Git/Commit 종류.md",
     "Project/Git/명령어/checkout.md",
     "Project/Git/명령어/commit.md",
-    "Project/Git/명령어/init.md",
     "Project/Git/개념",
     "Inbox/우테코.md",
     "Project/Git/개념/Working Directory.md",
