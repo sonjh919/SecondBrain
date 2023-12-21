@@ -1,7 +1,8 @@
 
 ## 🌈 pull
-+ 현재 프로젝트의 commit된 내용을 [[Remote Repository]]로 내보내는 명령어이다.
++ [[Remote Repository]]에서 [[Local Repository]]로 코드를 가져오는 명령어이다.
++ 현재 branch와 병합 과정도 포함되어 있다.
 
 ```git
-git push 원격저장소명 branch명
+git pull 원격저장소명 branch명
 ```
