@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/도커.md",
+                "file": "Project/Git/개념/Commit 종류.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project/Git/개념/Commit 종류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Project/Git/개념/Commit 종류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Project/Git/개념/Commit 종류.md"
+              }
             }
           },
           {
@@ -203,12 +207,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b76546c6a6c3e3ef",
+  "active": "2e095485fc624b6d",
   "lastOpenFiles": [
-    "Inbox/도커.md",
     "Todo/TIL/2023-12-21 TIL.md",
-    "Project/JAVA/Java 개발 환경과 실행 순서.md",
     "Todo/TIL/2023-12-22 TIL.md",
+    "Todo/TIL/TIL.md",
+    "Inbox/도커.md",
+    "Project/JAVA/Java 개발 환경과 실행 순서.md",
     "Project/Git/Git.md",
     "Project/Git/오류/LF will be replaced by CRLF in pom.xml.md",
     "Project/Git/오류/Git 오류 모음집.md",
@@ -230,7 +235,6 @@
     "Project/Git/명령어/remote.md",
     "Project/Git/명령어/reset.md",
     "Project/Git/명령어/revert.md",
-    "Project/Git/명령어/status.md",
     "Todo/IMG/Pasted image 20231221165155.png",
     "Todo/IMG",
     "Todo/WIL",
