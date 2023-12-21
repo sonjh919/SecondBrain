@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Git/명령어/status.md",
+                "file": "Inbox/우테코.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96817dca783f7045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/Git/명령어/pull.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Git/명령어/status.md",
+                "file": "Project/Git/명령어/pull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Git/명령어/status.md",
+                "file": "Project/Git/명령어/pull.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Git/명령어/status.md"
+                "file": "Project/Git/명령어/pull.md"
               }
             }
           },
@@ -192,18 +206,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "66a3a1af67886d16",
+  "active": "96817dca783f7045",
   "lastOpenFiles": [
-    "Project/Git/명령어/add.md",
-    "Project/Git/명령어/status.md",
     "Project/Git/명령어/push.md",
-    "Project/Git/명령어/pull.md",
-    "Project/Git/명령어/init.md",
     "Project/Git/명령어/checkout.md",
-    "Project/Git/명령어/config.md",
     "Project/Git/명령어/commit.md",
+    "Project/Git/명령어/config.md",
+    "Project/Git/명령어/pull.md",
+    "Project/Git/명령어/status.md",
+    "Project/Git/명령어/add.md",
+    "Project/Git/명령어/init.md",
     "Project/Git/Git.md",
-    "Project/Git/Commit 종류 명시.md",
+    "Inbox/우테코.md",
+    "Project/Git/Commit 종류.md",
+    "Working Directory.md",
+    "Staging Area.md",
     "Project/Git/오류",
     "Project/Git/명령어",
     "Project/Openrun/🚩 클라우드 서비스 플랫폼.md",
@@ -220,9 +237,6 @@
     "Project/JAVA/Java 개발 환경과 실행 순서.md",
     "Project/JAVA/Java의 탄생 과정과 특징.md",
     "Project/Openrun",
-    "Project/무제 파일.md",
-    "Inbox/Plugin 모음.md",
-    "Inbox/우테코.md",
     "Inbox/버전 가이드라인.png",
     "Archive/IMG/Stack.png",
     "Archive/IMG/Queue.png",

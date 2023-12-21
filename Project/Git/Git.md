@@ -11,9 +11,15 @@
 [[push]]
 [[pull]]
 [[config]]
+clone
 log
 diff
 reset
+remote
+fetch
+
+origin
+clone vs pull?
 ## 🌈 Git 오류 모음집
 LF will be replaced by CRLF in pom.xml.
 Your local changes to the following files would be overwritten by checkout

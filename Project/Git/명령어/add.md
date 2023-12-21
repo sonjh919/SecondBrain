@@ -1,23 +1,29 @@
 
 ## 🌈 add
-+ [[Working directory]]상의 변경 내용을 [[Staging Area]]에 추가하기 위해서 사용한다.
++ [[Working Directory]]상의 변경 내용을 [[Staging Area]]에 추가하기 위해서 사용한다.
 + 다음 commit을 기록할 때 까지 **변경분을 모아놓기 위해 사용**한다.
 
 ```git
-git checkout branch명
+git add 파일/디렉토리경로
 ```
 
 ## 🌈 옵션
-### 📌 -b
-+ branch를 전환할 때 해당 branch가 없다면 새로운 branch를 생성한 후 전환한다.
+### 📌 .
++ .은 정확히 옵션은 아니지만, 자주 사용하기 때문에 옵션에 넣었다.
++ **현재 디렉토리**의 모든 변경 내용을 Staging Area로 넘길 때 사용한다.
 ```
-git checkout -b branch명
-```
-
-### 📌 -- filename
-+ 파일 하나를 대상으로 변경 내역을 통째로 원래대로 (변경 직전의 최종 커밋 시점으로) 되돌릴 때 사용한다.
-```
-git checkout -- filename
+git add .
 ```
 
+### 📌 -A
++ **Working Directory**의 모든 변경 내용을 Staging Area로 넘길 때 사용한다.
+```
+git add -A
+```
 
+### 📌 -p
++ 각 변경 사항을 터미널에서 직접 눈으로 하나씩 확인하면서 Staging Area으로 넘기거나 또는 제외할 수있다.
++ 많은 변경 내용을 여러 개의 변경 기록으로 나누어서 남기고 싶을 때 유용하게 사용할 수 있다.
+```
+git add -p
+```
