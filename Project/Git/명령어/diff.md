@@ -1,3 +1,13 @@
+---
+tistoryBlogName: sonjh919
+tistoryTitle: diff
+tistoryTags: Git, Git명령어
+tistoryVisibility: "3"
+tistoryCategory: "1206689"
+tistorySkipModal: true
+tistoryPostId: "28"
+tistoryPostUrl: https://sonjh919.tistory.com/28
+---
 
 ## 🌈 diff
 + [[Git의 3가지 영역|Working Directory]]와 [[Git의 3가지 영역|Staging Area]] 사이의 차이를 확인하기 위한 명령어이다.

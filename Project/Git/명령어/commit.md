@@ -1,3 +1,13 @@
+---
+tistoryBlogName: sonjh919
+tistoryTitle: commit
+tistoryTags: Git, Git명령어
+tistoryVisibility: "3"
+tistoryCategory: "1206689"
+tistorySkipModal: true
+tistoryPostId: "26"
+tistoryPostUrl: https://sonjh919.tistory.com/26
+---
 
 ## 🌈 commit
 + 저장소의 변경 내역을 git에 저장한다.

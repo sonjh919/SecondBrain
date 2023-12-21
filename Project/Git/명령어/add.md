@@ -1,3 +1,13 @@
+---
+tistoryBlogName: sonjh919
+tistoryTitle: add
+tistoryTags: Git, Git명령어
+tistoryVisibility: "3"
+tistoryCategory: "1206689"
+tistorySkipModal: true
+tistoryPostId: "23"
+tistoryPostUrl: https://sonjh919.tistory.com/23
+---
 
 ## 🌈 add
 + [[Git의 3가지 영역|Working Directory]]상의 변경 내용을 [[Git의 3가지 영역|Staging Area]]에 추가하기 위해서 사용한다.

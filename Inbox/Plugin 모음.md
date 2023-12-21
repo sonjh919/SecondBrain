@@ -1,5 +1,0 @@
----
----
-
-MAKE.md
-Iconize

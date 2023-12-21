@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Git/개념/Git의 3가지 영역.md",
+                "file": "Todo/2023-12-21.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Git/개념/Git의 3가지 영역.md",
+                "file": "Todo/2023-12-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Git/개념/Git의 3가지 영역.md",
+                "file": "Todo/2023-12-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Git/개념/Git의 3가지 영역.md"
+                "file": "Todo/2023-12-21.md"
               }
             }
           },
@@ -209,34 +209,35 @@
   },
   "active": "f63999a2a889e139",
   "lastOpenFiles": [
-    "Project/Git/개념/Git 개념.md",
-    "Project/Git/개념/Git의 3가지 영역.md",
-    "Project/Git/개념/Commit 종류.md",
     "Project/Git/명령어/Git 명령어.md",
-    "Project/Git/오류/LF will be replaced by CRLF in pom.xml.md",
-    "Project/Git/오류/Git 오류 모음집.md",
-    "Project/Git/Git.md",
-    "Project/Git/git 2.png",
-    "Project/Git/git 1.png",
-    "Project/Git/git.png",
-    "Project/JAVA/Java 개발 환경과 실행 순서.md",
-    "Project/JAVA/Java의 탄생 과정과 특징.md",
+    "Todo/2023-12-21.md",
+    "Inbox/Plugin 모음.md",
     "Project/Git/명령어/status.md",
-    "Project/Git/명령어/diff.md",
+    "Project/Git/명령어/revert.md",
+    "Project/Git/명령어/reset.md",
+    "Project/Git/명령어/remote.md",
     "Project/Git/명령어/push.md",
     "Project/Git/명령어/pull.md",
-    "Project/Git/명령어/add.md",
+    "Project/Git/명령어/log.md",
+    "Project/Git/명령어/init.md",
+    "Project/Git/명령어/fetch.md",
+    "Project/Git/명령어/diff.md",
     "Project/Git/명령어/config.md",
     "Project/Git/명령어/commit.md",
     "Project/Git/명령어/clone.md",
     "Project/Git/명령어/checkout.md",
-    "Working Directory.md",
-    "Project/Git/개념/Working Directory.md",
-    "Project/Git/개념/Staging Area.md",
-    "Project/Git/명령어/remote.md",
-    "remote.md",
-    "Remote Repository.md",
-    "Project/Git/명령어/fetch.md",
+    "Project/Git/명령어/add.md",
+    "Project/Git/개념/Commit 종류.md",
+    "Project/Git/git 1.png",
+    "Project/Git/개념/Git 개념.md",
+    "Project/Git/개념/Git의 3가지 영역.md",
+    "Project/Git/오류/LF will be replaced by CRLF in pom.xml.md",
+    "Project/Git/오류/Git 오류 모음집.md",
+    "Project/Git/Git.md",
+    "Project/Git/git 2.png",
+    "Project/Git/git.png",
+    "Project/JAVA/Java 개발 환경과 실행 순서.md",
+    "Project/JAVA/Java의 탄생 과정과 특징.md",
     "Project/Git/개념",
     "Project/Git/오류",
     "Project/Git/명령어",

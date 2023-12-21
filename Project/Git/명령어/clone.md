@@ -1,3 +1,13 @@
+---
+tistoryBlogName: sonjh919
+tistoryTitle: clone
+tistoryTags: Git, Git명령어
+tistoryVisibility: "3"
+tistoryCategory: "1206689"
+tistorySkipModal: true
+tistoryPostId: "25"
+tistoryPostUrl: https://sonjh919.tistory.com/25
+---
 
 ## 🌈 clone
 + 원격 저장소에 있는 프로젝트를 가져온다.

@@ -1,4 +1,13 @@
-
+---
+tistoryBlogName: sonjh919
+tistoryTitle: Git의 3가지 영역
+tistoryTags: Git, Git개념
+tistoryVisibility: "3"
+tistoryCategory: "1206689"
+tistorySkipModal: true
+tistoryPostId: "21"
+tistoryPostUrl: https://sonjh919.tistory.com/21
+---
 ## 🌈 Git의 3가지 영역
 우리가 [[commit]]을 진행할 때, 총 3가지 영역을 바탕으로 작동한다.
 

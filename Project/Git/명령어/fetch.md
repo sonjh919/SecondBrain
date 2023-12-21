@@ -1,8 +1,18 @@
+---
+tistoryBlogName: sonjh919
+tistoryTitle: fetch
+tistoryTags: Git, Git명령어
+tistoryVisibility: "3"
+tistoryCategory: "1206689"
+tistorySkipModal: true
+tistoryPostId: "29"
+tistoryPostUrl: https://sonjh919.tistory.com/29
+---
 
 ## 🌈 fetch
-+ 원격저장소에 있는 변경내역들을 로컬저장소로 `pull` 하기 전에 **변경된 내역들만  
++ 원격저장소에 있는 변경내역들을 로컬저장소로 [[pull]] 하기 전에 **변경된 내역들만  
 가져와서 확인**시켜준다.
-+  원격저장소에 있는 내용을 `pull` 하기 전에, 어떠한 변경 내역들이 있는지 변경 내역에 대한 로그를 확인하고 신중히 결정한 후에 `pull` 할 수 있는 기능이다.
++  원격저장소에 있는 내용을 pull 하기 전에, 어떠한 변경 내역들이 있는지 변경 내역에 대한 로그를 확인하고 신중히 결정한 후에 pull 할 수 있는 기능이다.
 
 ```cs
 # 원격저장소에 변동사항만을 가져온다.
