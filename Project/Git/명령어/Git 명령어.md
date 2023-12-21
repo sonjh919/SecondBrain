@@ -1,3 +1,13 @@
+---
+tistoryBlogName: sonjh919
+tistoryTitle: Git 명령어
+tistoryTags: Git, Git명령어
+tistoryVisibility: "3"
+tistoryCategory: "1206689"
+tistorySkipModal: true
+tistoryPostId: "20"
+tistoryPostUrl: https://sonjh919.tistory.com/20
+---
 ## 🌈 Git 명령어
 [[init]]
 [[checkout]]

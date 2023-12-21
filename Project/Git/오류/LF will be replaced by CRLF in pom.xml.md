@@ -1,3 +1,13 @@
+---
+tistoryBlogName: sonjh919
+tistoryTitle: LF will be replaced by CRLF in pom.xml
+tistoryTags: Git, 오류
+tistoryVisibility: "3"
+tistoryCategory: "1206689"
+tistorySkipModal: true
+tistoryPostId: "18"
+tistoryPostUrl: https://sonjh919.tistory.com/18
+---
 
 ## 🌈 오류
 
