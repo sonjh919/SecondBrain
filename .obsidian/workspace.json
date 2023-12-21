@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "155555f101b04a82",
+        "id": "e06db35943cb6fca",
         "type": "tabs",
         "children": [
           {
-            "id": "3671c6c94a9c30c5",
+            "id": "2e095485fc624b6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/책.md",
+                "file": "Todo/TIL/2023-12-21 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todo/TIL/2023-12-21 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Todo/TIL/2023-12-21 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Todo/TIL/2023-12-21 TIL.md"
+              }
             }
           },
           {
@@ -203,34 +207,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b76546c6a6c3e3ef",
+  "active": "2e095485fc624b6d",
   "lastOpenFiles": [
-    "Inbox/책.md",
-    "Inbox/Jekyll.md",
-    "Project/Git/명령어/status.md",
+    "Todo/TIL/2023-12-22 TIL.md",
     "Project/Git/Git.md",
     "Project/Git/오류/LF will be replaced by CRLF in pom.xml.md",
     "Project/Git/오류/Git 오류 모음집.md",
-    "Project/Git/명령어/revert.md",
-    "Project/Git/명령어/reset.md",
-    "Project/Git/명령어/remote.md",
-    "Project/Git/명령어/push.md",
-    "Project/Git/명령어/pull.md",
-    "Project/Git/명령어/log.md",
-    "Project/Git/명령어/init.md",
-    "Project/Git/명령어/Git 명령어.md",
-    "Project/Git/명령어/fetch.md",
-    "Project/Git/명령어/diff.md",
-    "Project/Git/명령어/config.md",
-    "Project/Git/명령어/commit.md",
-    "Project/Git/명령어/clone.md",
-    "Project/Git/명령어/checkout.md",
-    "Project/Git/명령어/add.md",
     "Project/Git/개념/Git의 3가지 영역.md",
-    "Project/Git/개념/Git 개념.md",
     "Project/Git/개념/Commit 종류.md",
+    "Project/Git/개념/Git 개념.md",
+    "Project/Git/명령어/add.md",
+    "Project/Git/명령어/checkout.md",
+    "Project/Git/명령어/clone.md",
+    "Project/Git/명령어/commit.md",
+    "Project/Git/명령어/config.md",
+    "Project/Git/명령어/diff.md",
+    "Project/Git/명령어/fetch.md",
+    "Project/Git/명령어/Git 명령어.md",
+    "Project/Git/명령어/init.md",
+    "Project/Git/명령어/log.md",
+    "Project/Git/명령어/pull.md",
+    "Project/Git/명령어/push.md",
+    "Project/Git/명령어/remote.md",
+    "Project/Git/명령어/reset.md",
+    "Project/Git/명령어/revert.md",
+    "Project/Git/명령어/status.md",
     "Todo/TIL/2023-12-21 TIL.md",
-    "Templates/TIL Templete.md",
+    "Todo/TIL/TIL.md",
+    "Inbox/책.md",
     "Todo/IMG/Pasted image 20231221165155.png",
     "Todo/IMG",
     "Todo/WIL",

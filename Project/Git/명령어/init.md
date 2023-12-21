@@ -1,3 +1,13 @@
+---
+tistoryBlogName: sonjh919
+tistoryTitle: init
+tistoryTags: Git, Git명령어
+tistoryVisibility: "0"
+tistoryCategory: "1206689"
+tistorySkipModal: true
+tistoryPostId: "34"
+tistoryPostUrl: https://sonjh919.tistory.com/34
+---
 #Git 
 ## 🌈 init
 + 현재 디렉토리를 기준으로 **Git  저장소**가 생성된다.

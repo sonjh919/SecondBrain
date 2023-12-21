@@ -1,3 +1,13 @@
+---
+tistoryBlogName: sonjh919
+tistoryTitle: log
+tistoryTags: Git, Git명령어
+tistoryVisibility: "0"
+tistoryCategory: "1206689"
+tistorySkipModal: true
+tistoryPostId: "35"
+tistoryPostUrl: https://sonjh919.tistory.com/35
+---
 #Git 
 ## 🌈 log
 + 저장소의 history를 볼 수 있다.
