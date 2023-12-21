@@ -3,16 +3,16 @@
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "YYYY-MM-DD TIL",
-    "template": "",
-    "folder": "Todo",
+    "format": "YYYY-MM-DD [TIL]",
+    "template": "Templates/TIL Templete.md",
+    "folder": "Todo/TIL",
     "enabled": true
   },
   "weekly": {
-    "format": "",
+    "format": "gggg-[W]ww [WIL]",
     "template": "",
-    "folder": "",
-    "enabled": false
+    "folder": "Todo/WIL",
+    "enabled": true
   },
   "monthly": {
     "format": "",
