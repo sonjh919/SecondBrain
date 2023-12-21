@@ -8,7 +8,7 @@ tistorySkipModal: true
 tistoryPostId: "29"
 tistoryPostUrl: https://sonjh919.tistory.com/29
 ---
-
+#Git 
 ## 🌈 fetch
 + 원격저장소에 있는 변경내역들을 로컬저장소로 [[pull]] 하기 전에 **변경된 내역들만  
 가져와서 확인**시켜준다.

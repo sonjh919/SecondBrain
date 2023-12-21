@@ -8,7 +8,7 @@ tistorySkipModal: true
 tistoryPostId: "25"
 tistoryPostUrl: https://sonjh919.tistory.com/25
 ---
-
+#Git 
 ## 🌈 clone
 + 원격 저장소에 있는 프로젝트를 가져온다.
 + 해당 프로젝트를 가져오면 이미 [[init]]이 되어 있으며 remote 등록도 자동으로 된다.

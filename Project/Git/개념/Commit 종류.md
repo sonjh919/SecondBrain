@@ -8,6 +8,7 @@ tistorySkipModal: true
 tistoryPostId: "22"
 tistoryPostUrl: https://sonjh919.tistory.com/22
 ---
+#Git 
 ## 🌈 Commit 종류
 기본 형식은 다음과 같다.
 ```

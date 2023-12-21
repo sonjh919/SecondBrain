@@ -8,7 +8,7 @@ tistorySkipModal: true
 tistoryPostId: "18"
 tistoryPostUrl: https://sonjh919.tistory.com/18
 ---
-
+#Git 
 ## 🌈 오류
 
 나에게는 상당히 자주 등장하던 오류다.

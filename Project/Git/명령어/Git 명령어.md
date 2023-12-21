@@ -8,6 +8,7 @@ tistorySkipModal: true
 tistoryPostId: "20"
 tistoryPostUrl: https://sonjh919.tistory.com/20
 ---
+#Git 
 ## 🌈 Git 명령어
 [[init]]
 [[checkout]]

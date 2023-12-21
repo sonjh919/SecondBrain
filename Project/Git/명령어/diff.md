@@ -1,4 +1,4 @@
-
+#Git 
 ## 🌈 diff
 + [[Git의 3가지 영역|Working Directory]]와 [[Git의 3가지 영역|Staging Area]] 사이의 차이를 확인하기 위한 명령어이다.
 + 변경 사항이 git add를 통해 Staging Area로 넘어갔으면 git diff에는 **아무것도 나타나지 않는다**

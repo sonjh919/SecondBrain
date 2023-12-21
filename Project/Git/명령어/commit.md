@@ -8,7 +8,7 @@ tistorySkipModal: true
 tistoryPostId: "26"
 tistoryPostUrl: https://sonjh919.tistory.com/26
 ---
-
+#Git 
 ## 🌈 commit
 + 저장소의 변경 내역을 git에 저장한다.
 + 코드에 변경이 있더라도 해당 commit 시점으로 되돌릴 수가 있다.
