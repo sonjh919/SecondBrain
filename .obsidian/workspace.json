@@ -11,13 +11,8 @@
             "id": "66a3a1af67886d16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/책.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/책.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/책.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Inbox/책.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,9 +185,9 @@
   },
   "active": "66a3a1af67886d16",
   "lastOpenFiles": [
+    "Inbox/책.md",
     "Inbox/도커.md",
     "Inbox/Jekyll.md",
-    "Inbox/책.md",
     "Inbox/프로젝트.md",
     "Project/Openrun/🚩 Spring과 Java 버전 선택.md",
     "Project/Openrun/🚩 플로우 차트와 정책정의서.md",
