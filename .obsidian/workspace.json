@@ -11,8 +11,13 @@
             "id": "66a3a1af67886d16",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Project/Git/명령어/status.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project/Git/명령어/status.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Project/Git/명령어/status.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Project/Git/명령어/status.md"
+              }
             }
           },
           {
@@ -183,8 +192,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "66a3a1af67886d16",
   "lastOpenFiles": [
+    "Project/Git/명령어/add.md",
+    "Project/Git/명령어/status.md",
+    "Project/Git/명령어/push.md",
+    "Project/Git/명령어/pull.md",
+    "Project/Git/명령어/init.md",
+    "Project/Git/명령어/checkout.md",
+    "Project/Git/명령어/config.md",
+    "Project/Git/명령어/commit.md",
+    "Project/Git/Git.md",
+    "Project/Git/Commit 종류 명시.md",
+    "Project/Git/오류",
+    "Project/Git/명령어",
+    "Project/Openrun/🚩 클라우드 서비스 플랫폼.md",
+    "Project/Openrun/🚩 주제 확정짓기.md",
+    "Project/Openrun/🚩 어떤 DB를 선택해야 할까.md",
     "Inbox/책.md",
     "Inbox/도커.md",
     "Inbox/Jekyll.md",
@@ -192,9 +216,6 @@
     "Project/Openrun/🚩 Spring과 Java 버전 선택.md",
     "Project/Openrun/🚩 플로우 차트와 정책정의서.md",
     "Project/Openrun/🚩 프로젝트의 목적.md",
-    "Project/Openrun/🚩 클라우드 서비스 플랫폼.md",
-    "Project/Openrun/🚩 주제 확정짓기.md",
-    "Project/Openrun/🚩 어떤 DB를 선택해야 할까.md",
     "Project/Openrun/🚩 프로젝트 시작.md",
     "Project/JAVA/Java 개발 환경과 실행 순서.md",
     "Project/JAVA/Java의 탄생 과정과 특징.md",
@@ -202,17 +223,7 @@
     "Project/무제 파일.md",
     "Inbox/Plugin 모음.md",
     "Inbox/우테코.md",
-    "Inbox/블로그 색상.md",
     "Inbox/버전 가이드라인.png",
-    "Resource/Python/라이브러리/내장 라이브러리.md",
-    "Inbox/quartz.md",
-    "Area/Coding Test/구현/백준 1157 파이썬 - 단어 공부.md",
-    "Templates/Insert_Callout.md",
-    "Resource/기획/프로젝트 기획.md",
-    "Resource/Second brain 이론 정리, 적용/PARA.md",
-    "Resource/Python/문법/함수/함수.md",
-    "Resource/Python/문법/함수/lambda.md",
-    "Resource/Python/문법/제어문/제어문.md",
     "Archive/IMG/Stack.png",
     "Archive/IMG/Queue.png",
     "Archive/IMG/Deque.png",
@@ -228,8 +239,6 @@
     "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품",
     "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 4 - 좀비 전투 시스템",
     "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념",
-    "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 2 - 좀비가 희생물을 공격하다",
-    "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기",
-    "Project/BlockChain/솔리디티(Solidity)"
+    "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 2 - 좀비가 희생물을 공격하다"
   ]
 }
