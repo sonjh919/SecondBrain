@@ -1,6 +1,6 @@
 
 ## 🌈 add
-+ [[Working Directory]]상의 변경 내용을 [[Staging Area]]에 추가하기 위해서 사용한다.
++ [[Git의 3가지 영역|Working Directory]]상의 변경 내용을 [[Git의 3가지 영역|Staging Area]]에 추가하기 위해서 사용한다.
 + 다음 commit을 기록할 때 까지 **변경분을 모아놓기 위해 사용**한다.
 
 ```cs
