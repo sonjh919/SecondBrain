@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Git/명령어/config.md",
+                "file": "Project/Git/명령어/pull.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Git/명령어/config.md",
+                "file": "Project/Git/명령어/pull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Git/명령어/config.md",
+                "file": "Project/Git/명령어/pull.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Git/명령어/config.md"
+                "file": "Project/Git/명령어/pull.md"
               }
             }
           },
@@ -208,35 +208,35 @@
   },
   "active": "96817dca783f7045",
   "lastOpenFiles": [
+    "Project/Git/개념/Git의 3가지 영역.md",
+    "Project/Git/개념/Git 개념.md",
+    "Project/Git/개념/Staging Area.md",
+    "Project/Git/오류/Git 오류 모음집.md",
     "Project/Git/Git.md",
+    "Project/Git/명령어/Git 명령어.md",
+    "Project/Git/Commit 종류.md",
+    "Project/Git/개념/Working Directory.md",
+    "Project/Git/명령어/fetch.md",
+    "Inbox/우테코.md",
     "Project/Git/명령어/diff.md",
     "Project/Git/명령어/config.md",
-    "Project/Git/명령어/log.md",
-    "Project/Git/명령어/init.md",
-    "Project/Git/명령어/pull.md",
-    "Project/Git/명령어/status.md",
-    "Project/Git/명령어/push.md",
-    "Project/Git/명령어/clone.md",
-    "Project/Git/명령어/add.md",
-    "Project/Git/Commit 종류.md",
-    "Project/Git/명령어/checkout.md",
     "Project/Git/명령어/commit.md",
+    "Project/Git/명령어/clone.md",
+    "Project/Git/명령어/checkout.md",
+    "Project/Git/명령어/add.md",
+    "Project/Git/명령어/remote.md",
+    "Project/Git/명령어/init.md",
+    "Project/Git/명령어/log.md",
+    "remote.md",
+    "Project/Git/명령어/status.md",
+    "Project/Git/명령어/amend.md",
+    "Project/Git/명령어/revert.md",
+    "Project/Git/명령어/reset.md",
+    "Project/Git/명령어/pull.md",
+    "Project/Git/명령어/push.md",
     "Project/Git/개념",
-    "Inbox/우테코.md",
-    "Project/Git/개념/Working Directory.md",
-    "Project/Git/개념/Staging Area.md",
     "Project/Git/오류",
     "Project/Git/명령어",
-    "Project/Openrun/🚩 클라우드 서비스 플랫폼.md",
-    "Project/Openrun/🚩 주제 확정짓기.md",
-    "Project/Openrun/🚩 어떤 DB를 선택해야 할까.md",
-    "Inbox/책.md",
-    "Inbox/도커.md",
-    "Inbox/Jekyll.md",
-    "Inbox/프로젝트.md",
-    "Project/Openrun/🚩 Spring과 Java 버전 선택.md",
-    "Project/Openrun/🚩 플로우 차트와 정책정의서.md",
-    "Project/Openrun/🚩 프로젝트의 목적.md",
     "Project/Openrun",
     "Inbox/버전 가이드라인.png",
     "Archive/IMG/Stack.png",
