@@ -1,3 +1,13 @@
+---
+tistoryBlogName: sonjh919
+tistoryTitle: SQL
+tistoryTags: DATABASE, SQL
+tistoryVisibility: "3"
+tistoryCategory: "1206897"
+tistorySkipModal: true
+tistoryPostId: "48"
+tistoryPostUrl: https://sonjh919.tistory.com/48
+---
 ## 🌈 SQL (struction query language)
 
 - 구조화된 질의 언어

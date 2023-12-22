@@ -1,11 +1,19 @@
-
+---
+tistoryBlogName: sonjh919
+tistoryTitle: RDB
+tistoryTags: Database
+tistoryVisibility: "3"
+tistoryCategory: "1206897"
+tistorySkipModal: true
+tistoryPostId: "45"
+tistoryPostUrl: https://sonjh919.tistory.com/45
+---
 ## 🌈 RDB (relation database)
 + 관계형 database
 + 중복된 데이터 저장에서 오는 수정/관리의 이상현상을 효율적으로 관리하기 위해 관계형 db가 등장
 + 많은 종류의 DB가 있으나 **관계형 DB**가 주력으로 쓰인다.
 
->💡 **이상현상**
- data의 수정 과정에서 data가 서로 일치하지 않는 현상
+>💡 **이상현상** : data의 수정 과정에서 data가 서로 일치하지 않는 현상
 
 ## 🌈 RDBMS (relation database management system)
 

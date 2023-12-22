@@ -1,3 +1,13 @@
+---
+tistoryBlogName: sonjh919
+tistoryTitle: CREATE
+tistoryTags: DATABASE, SQL
+tistoryVisibility: "3"
+tistoryCategory: "1206897"
+tistorySkipModal: true
+tistoryPostId: "55"
+tistoryPostUrl: https://sonjh919.tistory.com/55
+---
 ## 🌈 CREATE
 
 - DATETIME은 별도의 크기지정이 없다.

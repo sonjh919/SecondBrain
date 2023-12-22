@@ -1,3 +1,13 @@
+---
+tistoryBlogName: sonjh919
+tistoryTitle: ORDER BY
+tistoryTags: DATABASE, SQL
+tistoryVisibility: "3"
+tistoryCategory: "1206897"
+tistorySkipModal: true
+tistoryPostId: "53"
+tistoryPostUrl: https://sonjh919.tistory.com/53
+---
 ## 🌈 ORDER BY
 
 - **ASC** : 오름차순 (Default)

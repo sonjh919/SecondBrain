@@ -1,3 +1,13 @@
+---
+tistoryBlogName: sonjh919
+tistoryTitle: ALTER
+tistoryTags: DATABASE, SQL
+tistoryVisibility: "3"
+tistoryCategory: "1206897"
+tistorySkipModal: true
+tistoryPostId: "56"
+tistoryPostUrl: https://sonjh919.tistory.com/56
+---
 ## 🌈 ALTER TABLE
 
 - 칼럼 추가/삭제, 제약조건 추가/삭제 등의 역할을 수행한다.

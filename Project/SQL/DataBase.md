@@ -1,3 +1,13 @@
+---
+tistoryBlogName: sonjh919
+tistoryTitle: DataBase
+tistoryTags: Database
+tistoryVisibility: "3"
+tistoryCategory: "1206897"
+tistorySkipModal: true
+tistoryPostId: "44"
+tistoryPostUrl: https://sonjh919.tistory.com/44
+---
 ## 🌈 Database의 필요성
 
 - 응용프로그램들은 RAM에서 동작하기 때문에 data를 영구히 저장할 곳이 필요하다.

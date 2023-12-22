@@ -1,3 +1,13 @@
+---
+tistoryBlogName: sonjh919
+tistoryTitle: GROUP BY
+tistoryTags: DATABASE, SQL
+tistoryVisibility: "3"
+tistoryCategory: "1206897"
+tistorySkipModal: true
+tistoryPostId: "51"
+tistoryPostUrl: https://sonjh919.tistory.com/51
+---
 
 ## 🌈 GROUP BY
 + 특정 COLUMN에 대하여 같은 값을 가지고 있는 ROW들을 GROUP으로 묶는다.
