@@ -46,44 +46,44 @@
 
 ### 📌 함수
 + 문자 함수
-CHR
-LOWER/UPPER
-LTRIM/RTRIM/TRIM
-SUBSTR
-LENGTH
-INSTR
-REPLACE
+[[CHR]]
+[[LOWER & UPPER]]
+[[LTRIM & RTRIM & TRIM]]
+[[SUBSTR]]
+[[LENGTH]]
+[[INSTR]]
+[[REPLACE]]
 
 + 숫자 함수
-ABS
-SIGN
-ROUND
-TRUNC
-CEIL
-FLOOR
-MOD
+[[ABS]]
+[[SIGN]]
+[[ROUND]]
+[[TRUNC]]
+[[CEIL]]
+[[FLOOR]]
+[[MOD]]
 
 + 날짜 함수
-SYSDATE
-EXTRACT
-ADD_MONTHS
+[[SYSDATE]]
+[[EXTRACT]]
+[[ADD_MONTHS]]
 
 + 형변환
-TO_NUMBER
-TO_CHAR
-TO_DATE
+[[TO_NUMBER]]
+[[TO_CHAR]]
+[[TO_DATE]]
 
 + NULL 처리 함수
-NVL
-NULLIF
-COALESCE
+[[NVL]]
+[[NULLIF]]
+[[COALESCE]]
 
 + 기타 함수
-DECODE
+[[DECODE]]
 ### 📌 기타 문법들
 [[DESC]]
 [[Alias]]
 [[연산자]]
 [[날짜형 포맷]]
 [[CASE]]
-
+[[DUAL]]

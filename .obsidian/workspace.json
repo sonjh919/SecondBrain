@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/SQL/RDB/SQL/기타 문법/CASE.md",
+                "file": "Project/SQL/RDB/SQL/함수/FLOOR.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project/SQL/RDB/SQL/함수/FLOOR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Project/SQL/RDB/SQL/함수/FLOOR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Project/SQL/RDB/SQL/함수/FLOOR.md"
+              }
             }
           },
           {
@@ -203,48 +207,48 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b76546c6a6c3e3ef",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
-    "Resource/Python/문법/Python 문법.md",
-    "Project/SQL/RDB/SQL/기타 문법/CASE.md",
+    "Project/SQL/RDB/SQL/함수/REPLACE.md",
+    "Project/SQL/RDB/SQL/함수/SIGN.md",
+    "Project/SQL/RDB/SQL/함수/ROUND.md",
+    "Project/SQL/RDB/SQL/함수/CEIL.md",
+    "Project/SQL/RDB/SQL/함수/TRUNC.md",
+    "Project/SQL/RDB/SQL/함수/ABS.md",
+    "Project/SQL/RDB/SQL/함수/INSTR.md",
+    "Project/SQL/RDB/SQL/함수/LENGTH.md",
+    "Project/SQL/RDB/SQL/함수/SUBSTR.md",
+    "Project/SQL/RDB/SQL/함수/LTRIM & RTRIM & TRIM.md",
+    "Project/SQL/RDB/SQL/함수/LOWER & UPPER.md",
+    "Project/SQL/RDB/SQL/함수/CHR.md",
     "Project/SQL/RDB/SQL/SQL.md",
-    "Project/SQL/RDB/SQL/기타 문법/날짜형 포맷.md",
-    "Project/SQL/RDB/SQL/DML/SELECT.md",
+    "DECODE.md",
+    "COALESCE.md",
+    "NULLIF.md",
+    "NVL.md",
+    "TO_DATE.md",
+    "TO_CHAR.md",
+    "TO_NUMBER.md",
+    "ADD_MONTHS.md",
+    "EXTRACT.md",
+    "SYSDATE.md",
+    "MOD.md",
+    "Project/SQL/RDB/SQL/함수/FLOOR.md",
+    "LTRIM/RTRIM/TRIM.md",
+    "LTRIM/RTRIM",
+    "LTRIM",
+    "LOWER",
     "Project/SQL/RDB/SQL/Join",
     "Project/SQL/RDB/SQL/함수",
-    "Project/SQL/RDB/SQL/기타 문법/연산자.md",
-    "Project/SQL/RDB/SQL/기타 문법/DESC.md",
-    "Project/SQL/RDB/SQL/기타 문법/Alias.md",
     "Archive/IMG/순수관계연산자.png",
     "Archive/IMG/Stack.png",
     "Archive/IMG/Queue.png",
     "Archive/IMG/Deque.png",
     "Archive/IMG/Baekjoon",
-    "Project/SQL/RDB/RDB.md",
-    "Project/SQL/RDB/데이터 유형.md",
-    "Project/SQL/RDB/TABLE.md",
     "Project/SQL/RDB/SQL/DQL",
-    "Project/SQL/RDB/SQL/DCL/GRANT.md",
-    "Project/SQL/RDB/SQL/DCL/RULE.md",
-    "Project/SQL/RDB/SQL/DCL/REVOKE.md",
-    "Project/SQL/RDB/SQL/DDL/DROP.md",
-    "Project/SQL/RDB/SQL/DDL/ALTER.md",
-    "Project/SQL/RDB/SQL/DDL/CREATE.md",
     "Project/SQL/RDB/SQL/DCL",
-    "Project/SQL/RDB/SQL/DDL/TRUNCATE.md",
-    "Project/SQL/RDB/SQL/TCL/COMMIT.md",
-    "Project/SQL/RDB/SQL/TCL/Transaction.md",
-    "Project/SQL/RDB/SQL/TCL/ROLLBACK.md",
-    "Project/SQL/RDB/SQL/TCL/SAVEPOINT.md",
-    "Project/SQL/RDB/SQL/DML/UPDATE.md",
-    "Project/SQL/RDB/SQL/DML/INSERT.md",
-    "Project/SQL/RDB/SQL/DML/DELETE.md",
-    "Project/SQL/RDB/SQL/DDL/DROP vs TRUNCATE vs DELETE.md",
     "Project/SQL/RDB/SQL/TCL",
     "Project/SQL/RDB/SQL/기타 문법",
-    "Project/SQL/RDB/SQL/DML",
-    "Project/SQL/RDB/SQL/DDL",
-    "Project/SQL/RDB/SQL",
     "Inbox/버전 가이드라인.png",
     "Todo/IMG/Pasted image 20231221165155.png",
     "Project/Git/git 1.png",

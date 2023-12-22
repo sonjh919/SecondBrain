@@ -1,0 +1,24 @@
+## 🌈 LTRIM & RTRIM & TRIM
+
+- 주어진 COLUMN이나 문자열 왼쪽/오른쪽/양쪽에서 특수한 패턴(지정 문자나 문자열)을 제거
+
+```sql
+--LTRIM--
+SELECT LTRIM('   IU') FROM DUAL; -- *Default* : ‘ ‘ // IU
+SELECT LTRIM('BLACKPINK', 'BLACK') FROM DUAL; // PINK
+```
+
+```sql
+--RTRIM--
+SELECT RTRIM('IU   ') FROM DUAL; // IU
+SELECT RTRIM('BLACKPINK', 'PINK') FROM DUAL; // BLACK
+```
+
+```sql
+--TRIM--
+SELECT TRIM('   IU   ') FROM DUAL; // IU
+SELECT TRIM('Z' FROM 'ZZZIUZZZ') FROM DUAL; -- BOTH 생략 가능 // IU
+SELECT TRIM(BOTH 'Z' FROM 'ZZZIUZZZ') FROM DUAL; // IU
+SELECT TRIM(LEADING 'Z' FROM 'ZZZIUZZZ') FROM DUAL; -- LTRIM과 같은 기능, 한글자씩만 지정 가능 // IUZZZ
+SELECT TRIM(TRAILING 'Z' FROM 'ZZZIUZZZ') FROM DUAL; -- RTRIM과 같은 기능, 한글자씩만 지정 가능 // ZZZIU
+```
