@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/2023-12-21 TIL.md",
+                "file": "Inbox/무제 파일.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/2023-12-21 TIL.md",
+                "file": "Inbox/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/2023-12-21 TIL.md",
+                "file": "Inbox/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/TIL/2023-12-21 TIL.md"
+                "file": "Inbox/무제 파일.md"
               }
             }
           },
@@ -207,8 +207,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b76546c6a6c3e3ef",
+  "active": "2e095485fc624b6d",
   "lastOpenFiles": [
+    "Inbox/무제 파일.md",
     "Todo/TIL/2023-12-21 TIL.md",
     "Todo/TIL/2023-12-22 TIL.md",
     "Inbox/끄적끄적.md",
@@ -234,7 +235,6 @@
     "Resource/Python/문법/제어문/while.md",
     "Resource/Python/문법/제어문/if.md",
     "Resource/Python/문법/제어문/for.md",
-    "Resource/Python/문법/제어문/제어문.md",
     "Inbox/버전 가이드라인.png",
     "Area/책",
     "Project/Openrun/기획&설계",
