@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/SQL/RDBMS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/SQL/RDBMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/SQL/RDBMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/끄적끄적.md"
+                "file": "Project/SQL/RDBMS.md"
               }
             }
           },
@@ -214,8 +214,10 @@
   },
   "active": "2e095485fc624b6d",
   "lastOpenFiles": [
-    "버전 가이드라인.png.md",
+    "Project/SQL/DataBase.md",
+    "Project/SQL/RDBMS.md",
     "Inbox/끄적끄적.md",
+    "버전 가이드라인.png.md",
     "Resource/BlockChain/트랜잭션.md",
     "Resource/BlockChain/프로토콜.md",
     "Resource/BlockChain/합의 프로토콜.md",
@@ -239,8 +241,6 @@
     "Resource/Python/Error/NameError/NameError.md",
     "Resource/Python/Error/KeyError/KeyError.md",
     "Resource/Python/Error/Index Error/list assignment index out of range.md",
-    "Resource/Python/Error/Index Error/IndexError.md",
-    "Resource/Python/Error/FileNotFoundError/FileNotFoundError.md",
     "Inbox/버전 가이드라인.png",
     "Area/책",
     "Project/Openrun/기획&설계",
