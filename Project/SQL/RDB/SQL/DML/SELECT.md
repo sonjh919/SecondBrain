@@ -15,3 +15,15 @@ SELECT *
   FROM EMPLOYEE
  WHERE DEPT_CODE = 'D9';
 ```
+
+## 🌈 TOP WITH TIES
+
+- TOP 과 동일하게 상위 N개의 데이터를 조회
+- **동일한 데이터가 있을 경우 함께 출력**된다.
+
+```sql
+SELECT TOP 1 WITH TIES
+  item, cnt
+FROM sql_test_a
+ORDER BY item DESC, cnt DESC
+```

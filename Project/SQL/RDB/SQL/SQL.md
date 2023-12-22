@@ -3,6 +3,9 @@
 - 구조화된 질의 언어
 - DB의 표준언어로, DB의 종류가 달라져도 사용 가능하다.
 
+## 🌈 SQL 실행 순서
+**[[FROM]] → [[WHERE]] → [[GROUP BY]] → [[HAVING]] → [[SELECT]] → [[ORDER BY]]**
+
 ## 🌈 SQL 분류
 ### 📌 DDL
 + 데이터 정의어
@@ -41,9 +44,46 @@
 [[ROLLBACK]]
 [[SAVEPOINT]]
 
+### 📌 함수
++ 문자 함수
+CHR
+LOWER/UPPER
+LTRIM/RTRIM/TRIM
+SUBSTR
+LENGTH
+INSTR
+REPLACE
+
++ 숫자 함수
+ABS
+SIGN
+ROUND
+TRUNC
+CEIL
+FLOOR
+MOD
+
++ 날짜 함수
+SYSDATE
+EXTRACT
+ADD_MONTHS
+
++ 형변환
+TO_NUMBER
+TO_CHAR
+TO_DATE
+
++ NULL 처리 함수
+NVL
+NULLIF
+COALESCE
+
++ 기타 함수
+DECODE
 ### 📌 기타 문법들
 [[DESC]]
 [[Alias]]
 [[연산자]]
-## 🌈 SQL 실행 순서
-**[[FROM]] → [[WHERE]] → [[GROUP BY]] → [[HAVING]] → [[SELECT]] → [[ORDER BY]]**
+[[날짜형 포맷]]
+[[CASE]]
+

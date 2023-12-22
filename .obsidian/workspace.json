@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/SQL/RDB/SQL/기타 문법/연산자.md",
+                "file": "Project/SQL/RDB/SQL/기타 문법/CASE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/SQL/RDB/SQL/기타 문법/연산자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/SQL/RDB/SQL/기타 문법/연산자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Project/SQL/RDB/SQL/기타 문법/연산자.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,13 +203,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2e095485fc624b6d",
+  "active": "b76546c6a6c3e3ef",
   "lastOpenFiles": [
+    "Resource/Python/문법/Python 문법.md",
+    "Project/SQL/RDB/SQL/기타 문법/CASE.md",
     "Project/SQL/RDB/SQL/SQL.md",
-    "Project/SQL/RDB/TABLE.md",
-    "Project/SQL/RDB/SQL/기타 문법/연산자.md",
-    "Project/SQL/RDB/SQL/기타 문법/Alias.md",
+    "Project/SQL/RDB/SQL/기타 문법/날짜형 포맷.md",
     "Project/SQL/RDB/SQL/DML/SELECT.md",
+    "Project/SQL/RDB/SQL/Join",
+    "Project/SQL/RDB/SQL/함수",
+    "Project/SQL/RDB/SQL/기타 문법/연산자.md",
+    "Project/SQL/RDB/SQL/기타 문법/DESC.md",
+    "Project/SQL/RDB/SQL/기타 문법/Alias.md",
+    "Archive/IMG/순수관계연산자.png",
+    "Archive/IMG/Stack.png",
+    "Archive/IMG/Queue.png",
+    "Archive/IMG/Deque.png",
+    "Archive/IMG/Baekjoon",
+    "Project/SQL/RDB/RDB.md",
+    "Project/SQL/RDB/데이터 유형.md",
+    "Project/SQL/RDB/TABLE.md",
     "Project/SQL/RDB/SQL/DQL",
     "Project/SQL/RDB/SQL/DCL/GRANT.md",
     "Project/SQL/RDB/SQL/DCL/RULE.md",
@@ -222,7 +231,6 @@
     "Project/SQL/RDB/SQL/DDL/ALTER.md",
     "Project/SQL/RDB/SQL/DDL/CREATE.md",
     "Project/SQL/RDB/SQL/DCL",
-    "Project/SQL/RDB/SQL/기타 문법/DESC.md",
     "Project/SQL/RDB/SQL/DDL/TRUNCATE.md",
     "Project/SQL/RDB/SQL/TCL/COMMIT.md",
     "Project/SQL/RDB/SQL/TCL/Transaction.md",
@@ -232,28 +240,16 @@
     "Project/SQL/RDB/SQL/DML/INSERT.md",
     "Project/SQL/RDB/SQL/DML/DELETE.md",
     "Project/SQL/RDB/SQL/DDL/DROP vs TRUNCATE vs DELETE.md",
-    "Project/SQL/RDB/SQL/DDL/참조 동작.md",
-    "Project/SQL/RDB/SQL/DDL/제약조건.md",
     "Project/SQL/RDB/SQL/TCL",
-    "Project/SQL/RDB/SQL/트랜잭션.md",
     "Project/SQL/RDB/SQL/기타 문법",
     "Project/SQL/RDB/SQL/DML",
     "Project/SQL/RDB/SQL/DDL",
-    "Project/SQL/RDB/데이터 유형.md",
-    "Project/SQL/RDB/RDB.md",
     "Project/SQL/RDB/SQL",
-    "Project/SQL/NoSQL",
-    "Project/SQL/RDBMS/무제 폴더",
-    "Project/SQL/RDB",
     "Inbox/버전 가이드라인.png",
     "Todo/IMG/Pasted image 20231221165155.png",
     "Project/Git/git 1.png",
     "Project/Git/git 2.png",
     "Project/Git/git.png",
-    "Archive/IMG/Stack.png",
-    "Archive/IMG/Queue.png",
-    "Archive/IMG/Deque.png",
-    "Archive/IMG/9506.png",
-    "Archive/IMG/5622.png"
+    "Archive/IMG/9506.png"
   ]
 }
