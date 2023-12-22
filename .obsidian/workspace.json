@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/SQL/RDB/SQL/함수/함수.md",
+                "file": "Project/SQL/RDB/SQL/SQL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/SQL/RDB/SQL/함수/함수.md",
+                "file": "Project/SQL/RDB/SQL/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/SQL/RDB/SQL/함수/함수.md",
+                "file": "Project/SQL/RDB/SQL/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/SQL/RDB/SQL/함수/함수.md"
+                "file": "Project/SQL/RDB/SQL/SQL.md"
               }
             }
           },
@@ -207,10 +207,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2e095485fc624b6d",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
-    "Project/SQL/RDB/SQL/함수/집계 함수/집계 함수.md",
+    "Project/SQL/RDB/SQL/SQL 실행 순서",
+    "Project/SQL/RDB/SQL/SQL 실행 순서/ORDER BY.md",
+    "Project/SQL/RDB/SQL/SQL.md",
+    "Project/SQL/RDB/SQL/SQL 실행 순서/HAVING.md",
+    "Project/SQL/RDB/SQL/SQL 실행 순서/GROUP BY.md",
+    "Project/SQL/RDB/SQL/SQL 실행 순서/FROM.md",
     "Project/SQL/RDB/SQL/함수/함수.md",
+    "Project/SQL/RDB/SQL/함수/집계 함수/집계 함수.md",
     "Project/SQL/RDB/SQL/함수/NULL 처리 함수/NULL 처리 함수.md",
     "Project/SQL/RDB/SQL/함수/형변환/형변환.md",
     "Project/SQL/RDB/SQL/함수/날짜 함수/날짜 함수.md",
@@ -225,11 +231,8 @@
     "Project/SQL/RDB/SQL/함수/날짜 함수",
     "Project/SQL/RDB/SQL/함수/숫자 함수",
     "Project/SQL/RDB/SQL/함수/문자 함수",
-    "Project/SQL/RDB/SQL/GROUP BY.md",
-    "Project/SQL/RDB/SQL/SQL.md",
-    "Project/SQL/RDB/SQL/WHERE.md",
-    "Project/SQL/RDB/SQL/기타 문법/연산자.md",
-    "Project/SQL/RDB/SQL/무제 폴더",
+    "Project/SQL/RDB/SQL/SQL 실행 순서/WHERE.md",
+    "Project/SQL/RDB/SQL/문법/연산자.md",
     "Project/SQL/RDB/SQL/WHERE",
     "Project/SQL/RDB/SQL/DCL/DCL.md",
     "Project/SQL/RDB/SQL/DML/DML.md",
@@ -240,10 +243,6 @@
     "Project/SQL/RDB/SQL/함수/NULL 처리 함수/NVL.md",
     "Project/SQL/RDB/SQL/함수/형변환/TO_DATE.md",
     "Project/SQL/RDB/SQL/함수/형변환/TO_CHAR.md",
-    "Project/SQL/RDB/SQL/함수/형변환/TO_NUMBER.md",
-    "Project/SQL/RDB/SQL/함수/날짜 함수/ADD_MONTHS.md",
-    "Project/SQL/RDB/SQL/함수/날짜 함수/EXTRACT.md",
-    "Project/SQL/RDB/SQL/함수/날짜 함수/SYSDATE.md",
     "LTRIM/RTRIM",
     "Archive/IMG/순수관계연산자.png",
     "Archive/IMG/Stack.png",
