@@ -14,7 +14,7 @@ tistoryPostUrl: https://sonjh919.tistory.com/20
 [[checkout]]
 [[status]]
 [[add]]
-[[commit]]
+[[Area/Git/명령어/commit]]
 [[push]]
 [[pull]]
 [[config]]
