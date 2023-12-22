@@ -12,14 +12,11 @@
 
 → 결국 database는 **파일처리에서 진화된 단계**라고 할 수 있다.
 
-## 🌈 SQL (struction query language)
 
-- 구조화된 질의 언어
-- db의 표준언어로, db의 종류가 달라져도 사용 가능하다.
 
 ## 🌈 DBMS (database management system)
 
-- db를 control할 수 있게 중간에서 도와주는 프로그램
+- DB를 control할 수 있게 중간에서 도와주는 프로그램
 
 
 ## 🌈 RDB vs NoSQL

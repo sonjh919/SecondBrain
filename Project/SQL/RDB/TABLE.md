@@ -1,5 +1,5 @@
 ## 🌈 TABLE
-+ db는 2차원의 TABLE형태로 data를 저장한다.
++ DB는 2차원의 TABLE형태로 data를 저장한다.
 
 
 |이름|용어|
