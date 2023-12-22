@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/무제 파일.md",
+                "file": "Todo/TIL/2023-12-22 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/무제 파일.md",
+                "file": "Todo/TIL/2023-12-22 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/무제 파일.md",
+                "file": "Todo/TIL/2023-12-22 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/무제 파일.md"
+                "file": "Todo/TIL/2023-12-22 TIL.md"
               }
             }
           },
@@ -209,9 +209,9 @@
   },
   "active": "2e095485fc624b6d",
   "lastOpenFiles": [
-    "Inbox/무제 파일.md",
     "Todo/TIL/2023-12-21 TIL.md",
     "Todo/TIL/2023-12-22 TIL.md",
+    "Inbox/무제 파일.md",
     "Inbox/끄적끄적.md",
     "Resource/Python/Error/ZeroDivisionError/ZeroDivisionError.md",
     "Resource/Python/Error/Value Error/ValueError.md",
