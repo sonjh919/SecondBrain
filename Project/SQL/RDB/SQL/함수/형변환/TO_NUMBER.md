@@ -1,8 +1,0 @@
-## 🌈 TO_NUMBER
-
-- 문자 → 숫자 변환
-
-```sql
-SELECT TO_NUMBER('123') FROM DUAL; // 123
-SELECT TO_NUMBER('ABC') FROM DUAL; // ERROR
-```
