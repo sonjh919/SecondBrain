@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/SQL/RDB/SQL/TCL/Transaction.md",
+                "file": "Project/SQL/RDB/SQL/기타 문법/연산자.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/SQL/RDB/SQL/TCL/Transaction.md",
+                "file": "Project/SQL/RDB/SQL/기타 문법/연산자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/SQL/RDB/SQL/TCL/Transaction.md",
+                "file": "Project/SQL/RDB/SQL/기타 문법/연산자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/SQL/RDB/SQL/TCL/Transaction.md"
+                "file": "Project/SQL/RDB/SQL/기타 문법/연산자.md"
               }
             }
           },
@@ -209,43 +209,43 @@
   },
   "active": "2e095485fc624b6d",
   "lastOpenFiles": [
+    "Project/SQL/RDB/SQL/SQL.md",
+    "Project/SQL/RDB/TABLE.md",
+    "Project/SQL/RDB/SQL/기타 문법/연산자.md",
+    "Project/SQL/RDB/SQL/기타 문법/Alias.md",
+    "Project/SQL/RDB/SQL/DML/SELECT.md",
+    "Project/SQL/RDB/SQL/DQL",
+    "Project/SQL/RDB/SQL/DCL/GRANT.md",
+    "Project/SQL/RDB/SQL/DCL/RULE.md",
+    "Project/SQL/RDB/SQL/DCL/REVOKE.md",
+    "Project/SQL/RDB/SQL/DDL/DROP.md",
+    "Project/SQL/RDB/SQL/DDL/ALTER.md",
+    "Project/SQL/RDB/SQL/DDL/CREATE.md",
+    "Project/SQL/RDB/SQL/DCL",
+    "Project/SQL/RDB/SQL/기타 문법/DESC.md",
+    "Project/SQL/RDB/SQL/DDL/TRUNCATE.md",
+    "Project/SQL/RDB/SQL/TCL/COMMIT.md",
+    "Project/SQL/RDB/SQL/TCL/Transaction.md",
     "Project/SQL/RDB/SQL/TCL/ROLLBACK.md",
     "Project/SQL/RDB/SQL/TCL/SAVEPOINT.md",
-    "Project/SQL/RDB/SQL/TCL/Transaction.md",
-    "Project/SQL/RDB/SQL/SQL.md",
-    "Project/SQL/RDB/SQL/TCL/COMMIT.md",
-    "Project/SQL/RDB/SQL/기타 문법/TRUNCATE.md",
     "Project/SQL/RDB/SQL/DML/UPDATE.md",
     "Project/SQL/RDB/SQL/DML/INSERT.md",
     "Project/SQL/RDB/SQL/DML/DELETE.md",
-    "Project/SQL/RDB/SQL/DDL/ALTER.md",
-    "Project/SQL/RDB/SQL/DDL/CREATE.md",
     "Project/SQL/RDB/SQL/DDL/DROP vs TRUNCATE vs DELETE.md",
-    "Project/SQL/RDB/SQL/DDL/DROP.md",
     "Project/SQL/RDB/SQL/DDL/참조 동작.md",
     "Project/SQL/RDB/SQL/DDL/제약조건.md",
-    "Project/SQL/RDB/TABLE.md",
     "Project/SQL/RDB/SQL/TCL",
     "Project/SQL/RDB/SQL/트랜잭션.md",
     "Project/SQL/RDB/SQL/기타 문법",
     "Project/SQL/RDB/SQL/DML",
-    "Project/SQL/RDB/SQL/기타 문법/DESC.md",
     "Project/SQL/RDB/SQL/DDL",
     "Project/SQL/RDB/데이터 유형.md",
     "Project/SQL/RDB/RDB.md",
-    "Todo/TIL/2023-12-22 TIL.md",
     "Project/SQL/RDB/SQL",
-    "Project/SQL/DataBase.md",
-    "Area/Git/명령어/add.md",
-    "Area/Git/개념/Git의 3가지 영역.md",
-    "Area/Git/개념/Git 개념.md",
-    "Area/Git/개념/Commit 종류.md",
     "Project/SQL/NoSQL",
     "Project/SQL/RDBMS/무제 폴더",
     "Project/SQL/RDB",
-    "Project/SQL",
     "Inbox/버전 가이드라인.png",
-    "Area/책",
     "Todo/IMG/Pasted image 20231221165155.png",
     "Project/Git/git 1.png",
     "Project/Git/git 2.png",

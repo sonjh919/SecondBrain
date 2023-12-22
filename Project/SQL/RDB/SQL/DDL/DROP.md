@@ -7,3 +7,8 @@
 ```sql
 DROP TABLE 테이블명 [CASCADE CONSTRAINT];
 ```
+
+## 🌈 사용자 삭제
+```sql
+DROP USER 사용자명;
+```

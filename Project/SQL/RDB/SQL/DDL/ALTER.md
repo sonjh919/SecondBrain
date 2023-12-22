@@ -60,3 +60,8 @@ ADD CONSTRAINT 제약조건명 제약조건(칼럼명)
 ```sql
 RENAME 변경전테이블명 TO 변경후테이블명;
 ```
+
+## 🌈 사용자 변경
+```sql
+ALTER USER 사용자명 IDENTIFIED BY 패스워드;
+```

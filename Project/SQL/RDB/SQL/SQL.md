@@ -11,7 +11,7 @@
 [[CREATE]]
 [[ALTER]]
 [[DROP]]
-
+[[TRUNCATE]]
 ### 📌 DML
 + 데이터 조작어
 - 구조는 변하지 않고 data 변화 행의 내용을 추가/수정/삭제하는 것
@@ -32,7 +32,7 @@
 
 [[GRANT]]
 [[REVOKE]]
-
+[[RULE]]
 ### 📌 TCL
 + [[Transaction]] 제어에 사용되는 기술
 + 논리적인 작업 단위로 묶어 제어한다.
@@ -43,4 +43,7 @@
 
 ### 📌 기타 문법들
 [[DESC]]
-[[TRUNCATE]]
+[[Alias]]
+[[연산자]]
+## 🌈 SQL 실행 순서
+**[[FROM]] → [[WHERE]] → [[GROUP BY]] → [[HAVING]] → [[SELECT]] → [[ORDER BY]]**
