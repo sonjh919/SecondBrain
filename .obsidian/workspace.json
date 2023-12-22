@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/SQL/RDB/SQL/SQL 실행 순서/ORDER BY.md",
+                "file": "Project/SQL/RDB/SQL/DDL/DDL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/SQL/RDB/SQL/SQL 실행 순서/ORDER BY.md",
+                "file": "Project/SQL/RDB/SQL/DDL/DDL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/SQL/RDB/SQL/SQL 실행 순서/ORDER BY.md",
+                "file": "Project/SQL/RDB/SQL/DDL/DDL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/SQL/RDB/SQL/SQL 실행 순서/ORDER BY.md"
+                "file": "Project/SQL/RDB/SQL/DDL/DDL.md"
               }
             }
           },
@@ -209,6 +209,7 @@
   },
   "active": "2e095485fc624b6d",
   "lastOpenFiles": [
+    "Project/SQL/RDB/SQL/SQL 실행 순서/ORDER BY.md",
     "Project/SQL/RDB/SQL/SQL 실행 순서/HAVING.md",
     "Project/SQL/RDB/SQL/SQL 실행 순서/GROUP BY.md",
     "Project/SQL/RDB/SQL/SQL 실행 순서/FROM.md",
@@ -221,7 +222,6 @@
     "Project/SQL/RDB/SQL/DDL/CREATE.md",
     "Project/SQL/RDB/SQL/DDL/DDL.md",
     "Project/SQL/RDB/SQL/SQL.md",
-    "Project/SQL/RDB/SQL/SQL 실행 순서/ORDER BY.md",
     "Project/SQL/RDB/SQL/SQL 실행 순서/WHERE.md",
     "Project/SQL/RDB/데이터 유형.md",
     "Project/SQL/RDB/RDB.md",
