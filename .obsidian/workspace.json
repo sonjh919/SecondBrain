@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/SQL/RDB/SQL/UPDATE.md",
+                "file": "Project/SQL/RDB/SQL/트랜잭션.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/SQL/RDB/SQL/UPDATE.md",
+                "file": "Project/SQL/RDB/SQL/트랜잭션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/SQL/RDB/SQL/UPDATE.md",
+                "file": "Project/SQL/RDB/SQL/트랜잭션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/SQL/RDB/SQL/UPDATE.md"
+                "file": "Project/SQL/RDB/SQL/트랜잭션.md"
               }
             }
           },
@@ -209,22 +209,23 @@
   },
   "active": "2e095485fc624b6d",
   "lastOpenFiles": [
-    "Project/SQL/RDB/SQL/INSERT.md",
-    "Project/SQL/RDB/SQL/DELETE.md",
     "Project/SQL/RDB/SQL/UPDATE.md",
+    "Project/SQL/RDB/SQL/트랜잭션.md",
     "Project/SQL/RDB/SQL/TRUNCATE.md",
+    "Project/SQL/RDB/TABLE.md",
+    "Project/SQL/RDB/데이터 유형.md",
+    "Project/SQL/RDB/RDB.md",
     "Project/SQL/RDB/SQL/SQL.md",
+    "Project/SQL/RDB/SQL/INSERT.md",
+    "Project/SQL/RDB/SQL/DROP.md",
+    "Project/SQL/RDB/SQL/DROP vs TRUNCATE vs DELETE.md",
+    "Project/SQL/RDB/SQL/DESC.md",
+    "Project/SQL/RDB/SQL/DELETE.md",
+    "Project/SQL/RDB/SQL/ALTER.md",
     "Project/SQL/RDB/SQL/참조 동작.md",
     "Project/SQL/RDB/SQL/제약조건.md",
-    "Project/SQL/RDB/TABLE.md",
-    "Project/SQL/RDB/SQL/DROP.md",
-    "Project/SQL/RDB/SQL/ALTER.md",
     "Project/SQL/RDB/SQL/CREATE.md",
-    "Project/SQL/RDB/SQL/DROP vs TRUNCATE vs DELETE.md",
     "Todo/TIL/2023-12-22 TIL.md",
-    "Project/SQL/RDB/SQL/DESC.md",
-    "Project/SQL/RDB/RDB.md",
-    "Project/SQL/RDB/데이터 유형.md",
     "Project/SQL/RDB/SQL",
     "Project/SQL/DataBase.md",
     "Area/Git/명령어/add.md",
@@ -238,7 +239,6 @@
     "버전 가이드라인.png.md",
     "Resource/BlockChain/트랜잭션.md",
     "Resource/BlockChain/프로토콜.md",
-    "Resource/BlockChain/합의 프로토콜.md",
     "Project/SQL",
     "Inbox/버전 가이드라인.png",
     "Area/책",
