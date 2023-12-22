@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/SQL/RDB/SQL/DDL/DDL.md",
+                "file": "Inbox/tistory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/SQL/RDB/SQL/DDL/DDL.md",
+                "file": "Inbox/tistory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/SQL/RDB/SQL/DDL/DDL.md",
+                "file": "Inbox/tistory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/SQL/RDB/SQL/DDL/DDL.md"
+                "file": "Inbox/tistory.md"
               }
             }
           },
@@ -209,18 +209,20 @@
   },
   "active": "2e095485fc624b6d",
   "lastOpenFiles": [
+    "Area/Git/명령어/clone.md",
+    "Inbox/tistory.md",
+    "Inbox/도커.md",
+    "Inbox/끄적끄적.md",
+    "Project/SQL/RDB/SQL/DDL/DDL.md",
     "Project/SQL/RDB/SQL/SQL 실행 순서/ORDER BY.md",
     "Project/SQL/RDB/SQL/SQL 실행 순서/HAVING.md",
     "Project/SQL/RDB/SQL/SQL 실행 순서/GROUP BY.md",
     "Project/SQL/RDB/SQL/SQL 실행 순서/FROM.md",
-    "Inbox/tistory.md",
     "Project/SQL/RDB/SQL/DDL/참조 동작.md",
-    "Inbox/끄적끄적.md",
     "Project/SQL/RDB/SQL/DDL/제약조건.md",
     "Project/SQL/RDB/SQL/DDL/DROP.md",
     "Project/SQL/RDB/SQL/DDL/ALTER.md",
     "Project/SQL/RDB/SQL/DDL/CREATE.md",
-    "Project/SQL/RDB/SQL/DDL/DDL.md",
     "Project/SQL/RDB/SQL/SQL.md",
     "Project/SQL/RDB/SQL/SQL 실행 순서/WHERE.md",
     "Project/SQL/RDB/데이터 유형.md",
@@ -234,8 +236,6 @@
     "Project/SQL/RDB/SQL/함수/함수.md",
     "Project/SQL/RDB/SQL/함수/OVER.md",
     "Project/SQL/RDB/SQL/함수/NULL 처리 함수.md",
-    "Project/SQL/RDB/SQL/함수/형변환 함수.md",
-    "Project/SQL/RDB/SQL/함수/행 순서 함수.md",
     "Archive/IMG/GROUPING.png",
     "Archive/IMG/CUBE.png",
     "Archive/IMG/ROLLUP.png",
