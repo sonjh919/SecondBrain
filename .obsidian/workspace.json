@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Openrun/프로젝트 시작.md",
+                "file": "Todo/TIL/2023-12-21 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Openrun/프로젝트 시작.md",
+                "file": "Todo/TIL/2023-12-21 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Openrun/프로젝트 시작.md",
+                "file": "Todo/TIL/2023-12-21 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Openrun/프로젝트 시작.md"
+                "file": "Todo/TIL/2023-12-21 TIL.md"
               }
             }
           },
@@ -207,34 +207,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2e095485fc624b6d",
+  "active": "b76546c6a6c3e3ef",
   "lastOpenFiles": [
     "Todo/TIL/2023-12-21 TIL.md",
     "Todo/TIL/2023-12-22 TIL.md",
-    "Todo/TIL/TIL.md",
-    "Project/Openrun/프로젝트 시작.md",
-    "Project/Openrun/Repository Rule.md",
-    "Project/Openrun/클라우드 서비스 플랫폼.md",
-    "Project/Openrun/어떤 DB를 선택해야 할까.md",
-    "Project/Openrun/플로우 차트와 정책정의서.md",
-    "Project/Openrun/Spring과 Java 버전 선택.md",
-    "Project/Openrun/프로젝트의 목적.md",
-    "Project/Openrun/주제 확정짓기.md",
-    "Project/Git/개념/Commit 종류.md",
-    "Inbox/도커.md",
-    "Project/JAVA/Java 개발 환경과 실행 순서.md",
-    "Project/Git/Git.md",
-    "Project/Git/오류/LF will be replaced by CRLF in pom.xml.md",
-    "Project/Git/오류/Git 오류 모음집.md",
-    "Project/Git/개념/Git의 3가지 영역.md",
-    "Project/Git/개념/Git 개념.md",
-    "Project/Git/명령어/add.md",
-    "Project/Git/명령어/checkout.md",
-    "Project/Git/명령어/clone.md",
-    "Project/Git/명령어/commit.md",
-    "Project/Git/명령어/config.md",
-    "Project/Git/명령어/diff.md",
-    "Project/Git/명령어/fetch.md",
+    "Inbox/끄적끄적.md",
+    "Resource/Python/Error/ZeroDivisionError/ZeroDivisionError.md",
+    "Resource/Python/Error/Value Error/ValueError.md",
+    "Resource/Python/Error/TypeError/TypeError.md",
+    "Resource/Python/Error/TypeError/sequence item 0 expected str instance, int found.md",
+    "Resource/Python/Error/TypeError/list indices must be integers or slices, not str.md",
+    "Resource/Python/Error/Syntax Error/SyntaxError.md",
+    "Resource/Python/Error/Python error.md",
+    "Resource/Python/Error/OverFlowError/OverFlowError.md",
+    "Resource/Python/Error/NotImplementedError/NotImplementedError.md",
+    "Resource/Python/Error/NameError/NameError.md",
+    "Resource/Python/Error/KeyError/KeyError.md",
+    "Resource/Python/Error/Index Error/list assignment index out of range.md",
+    "Resource/Python/Error/Index Error/IndexError.md",
+    "Resource/Python/Error/FileNotFoundError/FileNotFoundError.md",
+    "Resource/Python/Error/AttributeError/AttributeError.md",
+    "Resource/Python/Python MOC.md",
+    "Resource/Python/문법/Python 문법.md",
+    "Resource/Python/문법/함수/lambda.md",
+    "Resource/Python/문법/함수/함수.md",
+    "Resource/Python/문법/제어문/while.md",
+    "Resource/Python/문법/제어문/if.md",
+    "Resource/Python/문법/제어문/for.md",
+    "Resource/Python/문법/제어문/제어문.md",
+    "Inbox/버전 가이드라인.png",
+    "Area/책",
+    "Project/Openrun/기획&설계",
     "Todo/IMG/Pasted image 20231221165155.png",
     "Todo/IMG",
     "Todo/WIL",
@@ -246,14 +249,11 @@
     "Project/Git/오류",
     "Project/Git/명령어",
     "Project/Openrun",
-    "Inbox/버전 가이드라인.png",
     "Archive/IMG/Stack.png",
     "Archive/IMG/Queue.png",
     "Archive/IMG/Deque.png",
     "Archive/IMG/9506.png",
     "Archive/IMG/5622.png",
-    "Resource/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기",
-    "Resource/BlockChain/솔리디티(Solidity)/Advanced",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner"
+    "Resource/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기"
   ]
 }

@@ -1,6 +1,6 @@
 ---
 ---
-
+#python 
 ### Enumerate()
 + 주어진 입력을 컬렉션 또는 [[튜플]]로 가져와 열거(Enumerate) 객체로 반환한다.
 + [[Resource/Python/문법/제어문/for]]문에서 유용하게 쓰인다.

@@ -29,10 +29,17 @@
       }
     },
     {
-      "query": "path:Todo/TIL ",
+      "query": "#todo  ",
       "color": {
         "a": 1,
         "rgb": 9058524
+      }
+    },
+    {
+      "query": "#python",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2588386562181772,
+  "scale": 0.06699744995282843,
   "close": true
 }

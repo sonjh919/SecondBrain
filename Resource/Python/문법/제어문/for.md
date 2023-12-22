@@ -1,6 +1,6 @@
 ---
 ---
-
+#python 
 ### for
 ```python
 for 변수 in 리스트(또는 튜플, 문자열):

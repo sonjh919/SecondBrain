@@ -1,5 +1,6 @@
 ---
 ---
+#python 
 
 [[Python 문법]]
 [[Python error]]

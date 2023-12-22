@@ -1,6 +1,6 @@
 ---
 ---
-
+#python 
 ### List Comprehension
 
 - [[리스트]] 안에 for문을 포함하여 작성할 수 있다.
