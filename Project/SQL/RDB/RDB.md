@@ -1,43 +1,21 @@
-## 🌈 RDBMS (relation database management system)
 
-- **관계형 database 관리 프로그램**
-- 많은 종류의 db가 있으나 **관계형 db**가 주력으로 쓰임
-
-## 🌈 DBMS (database management system)
-
-- db를 control할 수 있게 중간에서 도와주는 프로그램
-
-
-## 🌈 RDBMS의 구조
-
-- db는 2차원의 table형태로 data를 저장
-- 중복된 데이터 저장에서 오는 수정/관리의 이상현상을 효율적으로 관리하기 위해 관계형 db가 등장(정규화)
+## 🌈 RDB (relation database)
++ 관계형 database
++ 중복된 데이터 저장에서 오는 수정/관리의 이상현상을 효율적으로 관리하기 위해 관계형 db가 등장
++ 많은 종류의 db가 있으나 **관계형 db**가 주력으로 쓰인다.
 
 > **이상현상** data의 수정 과정에서 data가 서로 일치하지 않는 현상
 
-### TABLE
+## 🌈 RDBMS (relation database management system)
 
-- 테이블 : **ENTITY**
-    
-- 가로 : **ROW / INSTANCE**
-    
-- 세로 : **COLUMN / 속성(ATTRIBUTE)**
-    
-    첫번째 COLUMN : **COLUMN행** 또는 **COLUMN HEADER**
-    
-- Data 한개 : **COLUMN값, 필드(FIELD)**
-    
+- 관계형 database 관리 프로그램
 
----
 
-### 데이터 유형
+## 🌈 RDB의 특징
 
-|데이터 유형|설명|.|
-|---|---|---|
-|CHAR|고정 길이 문자열|‘AA’ = ‘AA ‘|
-|VARCHAR|가변 길이 문자열|‘AA’ ≠ ‘AA ‘|
-|NUMERIC|숫자||
-|DATETIME|날짜||
+- db는 2차원의 [[TABLE]]형태로 data를 저장한다.
++ 여러 [[데이터 유형]]을 사용한다.
+
 
 |명령어 종류|명령어|설명|
 |---|---|---|

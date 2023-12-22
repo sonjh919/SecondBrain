@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/SQL/RDBMS.md",
+                "file": "Project/SQL/DataBase.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/SQL/RDBMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/SQL/RDBMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Project/SQL/RDBMS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,13 +163,8 @@
             "id": "b76546c6a6c3e3ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/끄적끄적.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -212,11 +203,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2e095485fc624b6d",
+  "active": "b76546c6a6c3e3ef",
   "lastOpenFiles": [
     "Project/SQL/DataBase.md",
-    "Project/SQL/RDBMS.md",
+    "Project/SQL/RDB/RDB.md",
+    "Project/SQL/RDB/데이터 유형.md",
+    "Project/SQL/RDB/TABLE.md",
     "Inbox/끄적끄적.md",
+    "Project/SQL/NoSQL",
+    "Project/SQL/RDBMS/무제 폴더",
+    "Project/SQL/RDB",
     "버전 가이드라인.png.md",
     "Resource/BlockChain/트랜잭션.md",
     "Resource/BlockChain/프로토콜.md",
@@ -239,8 +235,6 @@
     "Resource/Python/Error/OverFlowError/OverFlowError.md",
     "Resource/Python/Error/NotImplementedError/NotImplementedError.md",
     "Resource/Python/Error/NameError/NameError.md",
-    "Resource/Python/Error/KeyError/KeyError.md",
-    "Resource/Python/Error/Index Error/list assignment index out of range.md",
     "Inbox/버전 가이드라인.png",
     "Area/책",
     "Project/Openrun/기획&설계",
@@ -252,9 +246,6 @@
     "Project/Git/git 2.png",
     "Project/Git/git.png",
     "Area/Git/개념",
-    "Area/Git/오류",
-    "Area/Git/명령어",
-    "Project/Openrun",
     "Archive/IMG/Stack.png",
     "Archive/IMG/Queue.png",
     "Archive/IMG/Deque.png",
