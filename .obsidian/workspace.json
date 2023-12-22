@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/SQL/RDB/SQL/함수/FLOOR.md",
+                "file": "Project/SQL/RDB/SQL/SQL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/SQL/RDB/SQL/함수/FLOOR.md",
+                "file": "Project/SQL/RDB/SQL/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/SQL/RDB/SQL/함수/FLOOR.md",
+                "file": "Project/SQL/RDB/SQL/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/SQL/RDB/SQL/함수/FLOOR.md"
+                "file": "Project/SQL/RDB/SQL/SQL.md"
               }
             }
           },
@@ -207,8 +207,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "2e095485fc624b6d",
   "lastOpenFiles": [
+    "Project/SQL/RDB/SQL/함수/함수.md",
+    "Project/SQL/RDB/SQL/SQL.md",
+    "Project/SQL/RDB/SQL/DCL/DCL.md",
+    "Project/SQL/RDB/SQL/DML/DML.md",
+    "Project/SQL/RDB/SQL/DDL/DDL.md",
+    "Project/SQL/RDB/SQL/TCL/TCL.md",
+    "Project/SQL/RDB/SQL/함수/DECODE.md",
+    "Project/SQL/RDB/SQL/함수/COALESCE.md",
+    "Project/SQL/RDB/SQL/함수/NULLIF.md",
+    "Project/SQL/RDB/SQL/함수/NVL.md",
+    "Project/SQL/RDB/SQL/함수/TO_DATE.md",
+    "Project/SQL/RDB/SQL/함수/TO_CHAR.md",
+    "Project/SQL/RDB/SQL/함수/TO_NUMBER.md",
+    "Project/SQL/RDB/SQL/함수/ADD_MONTHS.md",
+    "Project/SQL/RDB/SQL/함수/EXTRACT.md",
+    "Project/SQL/RDB/SQL/함수/SYSDATE.md",
+    "Project/SQL/RDB/SQL/함수/MOD.md",
+    "Project/SQL/RDB/SQL/함수/FLOOR.md",
     "Project/SQL/RDB/SQL/함수/REPLACE.md",
     "Project/SQL/RDB/SQL/함수/SIGN.md",
     "Project/SQL/RDB/SQL/함수/ROUND.md",
@@ -217,24 +235,6 @@
     "Project/SQL/RDB/SQL/함수/ABS.md",
     "Project/SQL/RDB/SQL/함수/INSTR.md",
     "Project/SQL/RDB/SQL/함수/LENGTH.md",
-    "Project/SQL/RDB/SQL/함수/SUBSTR.md",
-    "Project/SQL/RDB/SQL/함수/LTRIM & RTRIM & TRIM.md",
-    "Project/SQL/RDB/SQL/함수/LOWER & UPPER.md",
-    "Project/SQL/RDB/SQL/함수/CHR.md",
-    "Project/SQL/RDB/SQL/SQL.md",
-    "DECODE.md",
-    "COALESCE.md",
-    "NULLIF.md",
-    "NVL.md",
-    "TO_DATE.md",
-    "TO_CHAR.md",
-    "TO_NUMBER.md",
-    "ADD_MONTHS.md",
-    "EXTRACT.md",
-    "SYSDATE.md",
-    "MOD.md",
-    "Project/SQL/RDB/SQL/함수/FLOOR.md",
-    "LTRIM/RTRIM/TRIM.md",
     "LTRIM/RTRIM",
     "LTRIM",
     "LOWER",

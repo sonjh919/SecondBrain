@@ -1,0 +1,8 @@
+## 🌈 TO_CHAR
+
+- 날짜 또는 숫자 → 문자
+
+```sql
+SELECT TO_CHAR(1234) FROM DUAL; // '1234'
+SELECT TO_CHAR(SYSDATE, 'YYYYMMDD HH24MISS') FROM DUAL; --포맷 사용 // '20230830 223321'
+```

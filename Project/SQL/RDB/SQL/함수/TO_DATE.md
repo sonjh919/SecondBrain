@@ -1,0 +1,8 @@
+## 🌈 TO_DATE
+
+- 포맷 형식의 문자 → 날짜형 (**특정 시점으로 찍힘**)
+
+```sql
+SELECT TO_DATE('20100101', 'YYYYMMDD')FROM DUAL; // 2010-01-01
+SELECT A FROM DUAL WHERE TO_DATE('201501' 'YYYYMM'); // 20150101000000
+```

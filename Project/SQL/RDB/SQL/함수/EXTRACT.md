@@ -1,0 +1,11 @@
+## 🌈 EXTRACT
+
+- 특정 단위(YEAR, MONTH, DAY, HOUR, MINUTE, SECOND)를 추출하여 반환
+
+```sql
+SELECT
+       EXTRACT(YEAR FROM SYSDATE) 년도 // 2023
+     , EXTRACT(MONTH FROM SYSDATE) 월 // 8
+     , EXTRACT(DAY FROM SYSDATE) 일 // 30
+  FROM DUAL;
+```

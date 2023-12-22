@@ -1,0 +1,7 @@
+## 🌈 COALESCE
+
+- NULL이 아닌 최초의 인수 반환
+
+```sql
+SELECT COALESCE(PHONE, EMAIL, FAX) FROM MEMBER;
+```
