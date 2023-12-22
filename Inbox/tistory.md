@@ -10,3 +10,4 @@ bundle exec jekyll serve
 4. 파이썬 프로그램 제작
 	-> 1. 모든 파일의 형식을 yyyy-mm-dd-제목 형식으로 변경
 	-> 2. 파일 안의 [[]]를 삭제
+5. 
