@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/2023-12-22 TIL.md",
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/2023-12-22 TIL.md",
+                "file": "Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/2023-12-22 TIL.md",
+                "file": "Inbox/끄적끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/TIL/2023-12-22 TIL.md"
+                "file": "Inbox/끄적끄적.md"
               }
             }
           },
@@ -167,8 +167,13 @@
             "id": "b76546c6a6c3e3ef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/끄적끄적.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -209,10 +214,19 @@
   },
   "active": "2e095485fc624b6d",
   "lastOpenFiles": [
-    "Todo/TIL/2023-12-21 TIL.md",
-    "Todo/TIL/2023-12-22 TIL.md",
-    "Inbox/무제 파일.md",
+    "버전 가이드라인.png.md",
     "Inbox/끄적끄적.md",
+    "Resource/BlockChain/트랜잭션.md",
+    "Resource/BlockChain/프로토콜.md",
+    "Resource/BlockChain/합의 프로토콜.md",
+    "Resource/BlockChain/ERC.md",
+    "Resource/BlockChain/FT.md",
+    "Resource/BlockChain/NFT.md",
+    "Resource/BlockChain/Nonce.md",
+    "Todo/TIL/2023-12-22 TIL.md",
+    "Project/SQL",
+    "Todo/TIL/2023-12-21 TIL.md",
+    "Inbox/무제 파일.md",
     "Resource/Python/Error/ZeroDivisionError/ZeroDivisionError.md",
     "Resource/Python/Error/Value Error/ValueError.md",
     "Resource/Python/Error/TypeError/TypeError.md",
@@ -227,14 +241,6 @@
     "Resource/Python/Error/Index Error/list assignment index out of range.md",
     "Resource/Python/Error/Index Error/IndexError.md",
     "Resource/Python/Error/FileNotFoundError/FileNotFoundError.md",
-    "Resource/Python/Error/AttributeError/AttributeError.md",
-    "Resource/Python/Python MOC.md",
-    "Resource/Python/문법/Python 문법.md",
-    "Resource/Python/문법/함수/lambda.md",
-    "Resource/Python/문법/함수/함수.md",
-    "Resource/Python/문법/제어문/while.md",
-    "Resource/Python/문법/제어문/if.md",
-    "Resource/Python/문법/제어문/for.md",
     "Inbox/버전 가이드라인.png",
     "Area/책",
     "Project/Openrun/기획&설계",
@@ -245,15 +251,14 @@
     "Project/Git/git 1.png",
     "Project/Git/git 2.png",
     "Project/Git/git.png",
-    "Project/Git/개념",
-    "Project/Git/오류",
-    "Project/Git/명령어",
+    "Area/Git/개념",
+    "Area/Git/오류",
+    "Area/Git/명령어",
     "Project/Openrun",
     "Archive/IMG/Stack.png",
     "Archive/IMG/Queue.png",
     "Archive/IMG/Deque.png",
     "Archive/IMG/9506.png",
-    "Archive/IMG/5622.png",
-    "Resource/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기"
+    "Archive/IMG/5622.png"
   ]
 }
