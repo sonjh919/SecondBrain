@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -18,14 +18,14 @@
       "query": "#블록체인",
       "color": {
         "a": 1,
-        "rgb": 9849600
+        "rgb": 7902667
       }
     },
     {
       "query": "#Git",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 15857919
       }
     },
     {
@@ -39,7 +39,14 @@
       "query": "#python",
       "color": {
         "a": 1,
-        "rgb": 6084269
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:Project/Database ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
       }
     }
   ],
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1846232622585976,
+  "scale": 0.25883865621818664,
   "close": true
 }

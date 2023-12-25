@@ -2,7 +2,7 @@
 
 - 한꺼번에 수행되어야 할 논리적 작업 단위
 - Logical Unit of Work : LUW
-- 하나의 Transaction으로 이루어진 작업은 **반드시 한꺼번에 완료**([[COMMIT]])되어야 한다.
+- 하나의 Transaction으로 이루어진 작업은 **반드시 한꺼번에 완료**([[Project/Database/RDB/SQL/TCL/COMMIT]])되어야 한다.
 + 그렇지 않은 경우, **한꺼번에 취소**([[ROLLBACK]])되어야 한다.
 
 ## 🌈 Transaction의 4가지 특징 (ACID)
