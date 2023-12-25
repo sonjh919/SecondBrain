@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Inbox/chirpy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Inbox/chirpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Inbox/chirpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/끄적끄적.md"
+                "file": "Inbox/chirpy.md"
               }
             }
           },
@@ -209,9 +209,11 @@
   },
   "active": "2e095485fc624b6d",
   "lastOpenFiles": [
+    "Inbox/끄적끄적.md",
+    "Inbox/chirpy.md",
+    "Inbox/무제 폴더",
     "Inbox/tistory.md",
     "Inbox/도커.md",
-    "Inbox/끄적끄적.md",
     "Todo/TIL/2023-12-21 TIL.md",
     "Area/Git/명령어/clone.md",
     "Project/SQL/RDB/SQL/DDL/DDL.md",
@@ -235,7 +237,6 @@
     "Project/SQL/RDB/SQL/함수/윈도우 함수 옵션.md",
     "Project/SQL/RDB/SQL/함수/함수.md",
     "Project/SQL/RDB/SQL/함수/OVER.md",
-    "Project/SQL/RDB/SQL/함수/NULL 처리 함수.md",
     "Archive/IMG/GROUPING.png",
     "Archive/IMG/CUBE.png",
     "Archive/IMG/ROLLUP.png",
@@ -248,7 +249,6 @@
     "Project/SQL/RDB/SQL/함수/숫자 함수",
     "Project/SQL/RDB/SQL/함수/문자 함수",
     "Project/SQL/RDB/SQL/WHERE",
-    "LTRIM/RTRIM",
     "Archive/IMG/순수관계연산자.png",
     "Archive/IMG/Stack.png",
     "Archive/IMG/Queue.png",
