@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Blog/github 블로그를 시작하며.md",
+                "file": "Inbox/chirpy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Blog/github 블로그를 시작하며.md",
+                "file": "Inbox/chirpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Blog/github 블로그를 시작하며.md",
+                "file": "Inbox/chirpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Blog/github 블로그를 시작하며.md"
+                "file": "Inbox/chirpy.md"
               }
             }
           },
@@ -209,9 +209,12 @@
   },
   "active": "5e0d12f7ae36c1f3",
   "lastOpenFiles": [
+    "Inbox/도커.md",
+    "Inbox/끄적끄적.md",
+    "Inbox/chirpy.md",
+    "Project/Blog/github 블로그를 시작하며.md",
     "Todo/TIL/2023-12-26 TIL.md",
     "Todo/TIL/2023-12-26 TIL 1.md",
-    "Project/Blog/github 블로그를 시작하며.md",
     "assets/img/Blog/blog를 시작하며.png",
     "assets/img/Blog",
     "Project/Blog",
@@ -221,9 +224,6 @@
     "assets/img/TIL/20231222.png",
     "assets/img/TIL/20231221.png",
     "Todo/TIL/2023-12-21-TIL.md",
-    "Inbox/chirpy.md",
-    "Inbox/도커.md",
-    "Inbox/끄적끄적.md",
     "Area/Git/오류/LF will be replaced by CRLF in pom.xml.md",
     "Area/Git/명령어/clone.md",
     "Area/Git/명령어/checkout.md",
