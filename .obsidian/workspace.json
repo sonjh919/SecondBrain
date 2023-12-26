@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/2023-12-21-TIL.md",
+                "file": "Project/Openrun/기획&설계/Repository Rule.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/2023-12-21-TIL.md",
+                "file": "Project/Openrun/기획&설계/Repository Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/2023-12-21-TIL.md",
+                "file": "Project/Openrun/기획&설계/Repository Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/TIL/2023-12-21-TIL.md"
+                "file": "Project/Openrun/기획&설계/Repository Rule.md"
               }
             }
           },
@@ -209,15 +209,23 @@
   },
   "active": "08b92f0003747a6a",
   "lastOpenFiles": [
-    "Templates/TIL Templete.md",
-    "Todo/TIL/2023-12-21-TIL.md",
+    "Project/Openrun/기획&설계/플로우 차트와 정책정의서.md",
+    "Project/Openrun/기획&설계/프로젝트의 목적.md",
+    "Project/Openrun/기획&설계/프로젝트 시작.md",
+    "Project/Openrun/기획&설계/클라우드 서비스 플랫폼.md",
+    "Project/Openrun/기획&설계/주제 확정짓기.md",
+    "Project/Openrun/기획&설계/어떤 DB를 선택해야 할까.md",
     "Templates/gitblog templete.md",
+    "Project/Openrun/기획&설계/Repository Rule.md",
+    "Project/Openrun/기획&설계/Spring과 Java 버전 선택.md",
+    "Templates/Insert_Callout.md",
+    "Templates/TIL Templete.md",
+    "Todo/TIL/2023-12-26 TIL.md",
+    "Todo/TIL/2023-12-22-TIL.md",
+    "Todo/TIL/2023-12-21-TIL.md",
     "Area/Coding Test/구현/백준 1157 파이썬 - 단어 공부.md",
     "assets/img/Coding Test/1157.png",
-    "Todo/TIL/2023-12-26 TIL.md",
     "assets/img/Coding Test",
-    "Templates/Insert_Callout.md",
-    "Todo/TIL/2023-12-22-TIL.md",
     "Todo/TIL/TIL.md",
     "assets/img/TIL/20231221.png",
     "assets/무제 파일.md",
@@ -228,19 +236,12 @@
     "Inbox/chirpy.md",
     "Inbox/tistory.md",
     "Inbox/도커.md",
-    "Project/Openrun/기획&설계/프로젝트 시작.md",
     "Inbox/끄적끄적.md",
     "Area/책/책.md",
     "Area/Git/명령어/status.md",
     "Inbox/무제 폴더",
     "Area/Git/명령어/clone.md",
     "Project/Database/RDB/SQL/DDL/DDL.md",
-    "Project/Database/RDB/SQL/SQL 실행 순서/ORDER BY.md",
-    "Project/Database/RDB/SQL/SQL 실행 순서/HAVING.md",
-    "Project/Database/RDB/SQL/SQL 실행 순서/GROUP BY.md",
-    "Project/Database/RDB/SQL/SQL 실행 순서/FROM.md",
-    "Project/Database/RDB/SQL/DDL/참조 동작.md",
-    "Project/Database/RDB/SQL/DDL/제약조건.md",
     "assets/img/TIL/20231222.png",
     "assets/img/Coding Test/GROUPING.png",
     "assets/img/Coding Test/CUBE.png",

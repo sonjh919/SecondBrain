@@ -1,12 +1,14 @@
 ---
-tistoryBlogName: sonjh919
-tistoryTitle: 🚩 어떤 DB를 선택해야 할까
-tistoryTags: 프로젝트, 기획
-tistoryVisibility: "3"
-tistoryCategory: "1206111"
-tistorySkipModal: true
-tistoryPostId: "14"
-tistoryPostUrl: https://sonjh919.tistory.com/14
+title: 어떤 DB를 선택해야 할까
+date: 2023-12-18 21:19
+categories:
+  - Openur
+tags:
+  - DataBase
+  - Project
+  - 기획
+image: 
+path:
 ---
 DB 선택 또한 중요한 갈림길 중 하나이다. 어떤 DB를 선택하느냐에 따라 앞으로의 프로젝트 진행에 큰 영향을 미치기 때문이다. DB를 선택하는 데에는 시간이 좀 걸렸다.
 

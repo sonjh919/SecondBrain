@@ -1,12 +1,10 @@
 ---
-tistoryBlogName: sonjh919
-tistoryTitle: Repository Rule
-tistoryTags: 프로젝트, 기획
-tistoryVisibility: "0"
-tistoryCategory: "1206111"
-tistorySkipModal: true
-tistoryPostId: "42"
-tistoryPostUrl: https://sonjh919.tistory.com/42
+title: Repository Rule
+date: 2023-12-21 23:28
+categories: 
+tags: []
+image: 
+path:
 ---
 
 ## 🌈 Repository Rule
