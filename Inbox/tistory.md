@@ -2,7 +2,7 @@ DDL -> 참조동작부터
 
 https://github.com/Jekyll-Garden/jekyll-garden.github.io?tab=readme-ov-file
 
-bundle exec jekyll serve
+
 
 1. chirpy를 살린다.
 2. 쓰던 옵시디언 vault는 계속 쓰고
