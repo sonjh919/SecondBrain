@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/Git/명령어/status.md",
+                "file": "Area/책/책.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/Git/명령어/status.md",
+                "file": "Area/책/책.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/Git/명령어/status.md",
+                "file": "Area/책/책.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/Git/명령어/status.md"
+                "file": "Area/책/책.md"
               }
             }
           },
@@ -209,6 +209,7 @@
   },
   "active": "2e095485fc624b6d",
   "lastOpenFiles": [
+    "Area/Git/명령어/status.md",
     "Inbox/chirpy.md",
     "Inbox/끄적끄적.md",
     "Inbox/무제 폴더",
@@ -236,7 +237,6 @@
     "Todo/IMG/Pasted image 20231222201543.png",
     "Project/Database/RDB/SQL/함수/윈도우 함수 옵션.md",
     "Project/Database/RDB/SQL/함수/함수.md",
-    "Project/Database/RDB/SQL/함수/OVER.md",
     "Archive/IMG/GROUPING.png",
     "Archive/IMG/CUBE.png",
     "Archive/IMG/ROLLUP.png",
