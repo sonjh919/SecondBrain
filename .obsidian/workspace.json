@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/chirpy.md",
+                "file": "Todo/TIL/TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/chirpy.md",
+                "file": "Todo/TIL/TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/chirpy.md",
+                "file": "Todo/TIL/TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/chirpy.md"
+                "file": "Todo/TIL/TIL.md"
               }
             }
           },
@@ -209,6 +209,13 @@
   },
   "active": "08b92f0003747a6a",
   "lastOpenFiles": [
+    "assets/img/TIL/20231222.png",
+    "assets/img/TIL/20231221.png",
+    "Todo/TIL/TIL.md",
+    "Todo/TIL/2023-12-22-TIL.md",
+    "Todo/TIL/2023-12-21-TIL.md",
+    "Todo/TIL/2023-12-26 TIL.md",
+    "Inbox/chirpy.md",
     "Inbox/도커.md",
     "Inbox/끄적끄적.md",
     "Area/Git/오류/LF will be replaced by CRLF in pom.xml.md",
@@ -220,10 +227,7 @@
     "Area/Git/명령어/status.md",
     "Area/Git/명령어/reset.md",
     "Area/Git/명령어/remote.md",
-    "Inbox/chirpy.md",
     "Inbox/tistory.md",
-    "Todo/TIL/TIL.md",
-    "Todo/TIL/2023-12-21-TIL.md",
     "Area/Git/개념/Git의 3가지 영역.md",
     "Area/Git/개념/Git 개념.md",
     "Area/Git/개념/Commit 종류.md",
@@ -232,17 +236,12 @@
     "Area/Git/명령어/push.md",
     "Area/Git/명령어/pull.md",
     "Area/Git/명령어/log.md",
-    "Area/Git/명령어/init.md",
-    "Area/Git/명령어/Git 명령어.md",
-    "Area/Git/명령어/fetch.md",
     "assets/img/Coding Test/1157.png",
     "assets/img/Coding Test",
-    "assets/img/TIL/20231221.png",
     "assets/img/TIL",
     "assets/img",
     "assets",
     "Inbox/무제 폴더",
-    "assets/img/TIL/20231222.png",
     "assets/img/Coding Test/GROUPING.png",
     "assets/img/Coding Test/CUBE.png",
     "assets/img/Coding Test/ROLLUP.png",

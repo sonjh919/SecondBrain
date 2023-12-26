@@ -1,10 +1,10 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "til",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "#todo  ",
+      "query": "#TIL",
       "color": {
         "a": 1,
         "rgb": 9058524
@@ -60,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.18462326225859835,
-  "close": true
+  "scale": 0.258838656218187,
+  "close": false
 }
