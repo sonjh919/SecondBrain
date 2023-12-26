@@ -12,7 +12,7 @@ path:
 
 ## 🌈 log
 + 저장소의 history를 볼 수 있다.
-+ 저장소의 [[Area/Git/명령어/commit]] 히스토리를 **시간순**으로 보여준다.
++ 저장소의 [[Project/Git/명령어/commit]] 히스토리를 **시간순**으로 보여준다.
 ```git
 git log
 ```

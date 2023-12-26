@@ -32,7 +32,7 @@ tistoryPostUrl: https://sonjh919.tistory.com/48
 [[TCL]]
 
 ### 📌 함수
-[[Project/Database/RDB/SQL/함수/함수|함수]]
+[[Area/Database/RDB/SQL/함수/함수|함수]]
 
 ### 📌 문법
 [[DESC]]
