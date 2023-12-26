@@ -1,14 +1,15 @@
 ---
-tistoryBlogName: sonjh919
-tistoryTitle: Git 명령어
-tistoryTags: Git, Git명령어
-tistoryVisibility: "3"
-tistoryCategory: "1206689"
-tistorySkipModal: true
-tistoryPostId: "20"
-tistoryPostUrl: https://sonjh919.tistory.com/20
+title: Git 명령어
+date: 2023-12-21 14:07
+categories:
+  - Git
+tags:
+  - Git
+  - Git명령어
+image: 
+path:
 ---
-#Git 
+
 ## 🌈 Git 명령어
 [[init]]
 [[checkout]]

@@ -1,8 +1,11 @@
 ---
 title: Repository Rule
 date: 2023-12-21 23:28
-categories: 
-tags: []
+categories:
+  - Openur
+tags:
+  - 기획
+  - Project
 image: 
 path:
 ---

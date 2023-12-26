@@ -1,14 +1,15 @@
 ---
-tistoryBlogName: sonjh919
-tistoryTitle: log
-tistoryTags: Git, Git명령어
-tistoryVisibility: "0"
-tistoryCategory: "1206689"
-tistorySkipModal: true
-tistoryPostId: "35"
-tistoryPostUrl: https://sonjh919.tistory.com/35
+title: log
+date: 2023-12-21 12:47
+categories:
+  - Git
+tags:
+  - Git
+  - Git명령어
+image: 
+path:
 ---
-#Git 
+
 ## 🌈 log
 + 저장소의 history를 볼 수 있다.
 + 저장소의 [[Area/Git/명령어/commit]] 히스토리를 **시간순**으로 보여준다.

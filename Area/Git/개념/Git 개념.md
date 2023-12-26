@@ -1,14 +1,15 @@
 ---
-tistoryBlogName: sonjh919
-tistoryTitle: Git 개념
-tistoryTags: Git, Git개념
-tistoryVisibility: "3"
-tistoryCategory: "1206689"
-tistorySkipModal: true
-tistoryPostId: "19"
-tistoryPostUrl: https://sonjh919.tistory.com/19
+title: Git 개념
+date: 2023-12-21 14:08
+categories:
+  - Git
+tags:
+  - Git
+  - Git개념
+image: 
+path:
 ---
-#Git 
+
 ## 🌈 Git 개념
 [[Commit 종류]]
 [[Git의 3가지 영역]]

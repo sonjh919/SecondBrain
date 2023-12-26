@@ -1,14 +1,15 @@
 ---
-tistoryBlogName: sonjh919
-tistoryTitle: commit
-tistoryTags: Git, Git명령어
-tistoryVisibility: "3"
-tistoryCategory: "1206689"
-tistorySkipModal: true
-tistoryPostId: "26"
-tistoryPostUrl: https://sonjh919.tistory.com/26
+title: commit
+date: 2023-12-21 11:57
+categories:
+  - Git
+tags:
+  - Git
+  - Git명령어
+image: 
+path:
 ---
-#Git 
+
 ## 🌈 commit
 + 저장소의 변경 내역을 git에 저장한다.
 + 코드에 변경이 있더라도 해당 commit 시점으로 되돌릴 수가 있다.

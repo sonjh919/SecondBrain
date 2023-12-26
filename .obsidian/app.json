@@ -1,5 +1,5 @@
 {
   "attachmentFolderPath": "./",
   "alwaysUpdateLinks": true,
-  "spellcheck": true
+  "spellcheck": false
 }

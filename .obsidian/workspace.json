@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Openrun/기획&설계/Repository Rule.md",
+                "file": "Area/Git/Git.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Openrun/기획&설계/Repository Rule.md",
+                "file": "Area/Git/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Openrun/기획&설계/Repository Rule.md",
+                "file": "Area/Git/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Openrun/기획&설계/Repository Rule.md"
+                "file": "Area/Git/Git.md"
               }
             }
           },
@@ -209,39 +209,39 @@
   },
   "active": "08b92f0003747a6a",
   "lastOpenFiles": [
-    "Project/Openrun/기획&설계/플로우 차트와 정책정의서.md",
+    "Area/Git/오류/LF will be replaced by CRLF in pom.xml.md",
+    "Area/Git/오류/Git 오류 모음집.md",
+    "Area/Git/명령어/status.md",
+    "Area/Git/명령어/revert.md",
+    "Area/Git/명령어/reset.md",
+    "Area/Git/명령어/remote.md",
+    "Area/Git/명령어/push.md",
+    "Area/Git/명령어/pull.md",
+    "Area/Git/명령어/log.md",
+    "Area/Git/명령어/init.md",
+    "Area/Git/명령어/Git 명령어.md",
+    "Area/Git/명령어/fetch.md",
+    "Area/Git/명령어/diff.md",
+    "Area/Git/명령어/config.md",
+    "Area/Git/명령어/commit.md",
+    "Area/Git/명령어/clone.md",
+    "Area/Git/명령어/checkout.md",
+    "Area/Git/명령어/add.md",
+    "Area/Git/개념/Git의 3가지 영역.md",
+    "Area/Git/개념/Git 개념.md",
+    "Area/Git/개념/Commit 종류.md",
+    "Area/Git/Git.md",
+    "Project/Openrun/기획&설계/주제 확정짓기.md",
     "Project/Openrun/기획&설계/프로젝트의 목적.md",
     "Project/Openrun/기획&설계/프로젝트 시작.md",
     "Project/Openrun/기획&설계/클라우드 서비스 플랫폼.md",
-    "Project/Openrun/기획&설계/주제 확정짓기.md",
-    "Project/Openrun/기획&설계/어떤 DB를 선택해야 할까.md",
-    "Templates/gitblog templete.md",
-    "Project/Openrun/기획&설계/Repository Rule.md",
-    "Project/Openrun/기획&설계/Spring과 Java 버전 선택.md",
-    "Templates/Insert_Callout.md",
-    "Templates/TIL Templete.md",
-    "Todo/TIL/2023-12-26 TIL.md",
-    "Todo/TIL/2023-12-22-TIL.md",
-    "Todo/TIL/2023-12-21-TIL.md",
-    "Area/Coding Test/구현/백준 1157 파이썬 - 단어 공부.md",
     "assets/img/Coding Test/1157.png",
     "assets/img/Coding Test",
-    "Todo/TIL/TIL.md",
     "assets/img/TIL/20231221.png",
-    "assets/무제 파일.md",
     "assets/img/TIL",
     "assets/img",
     "assets",
-    "Area/Coding Test/구현/백준 9506 파이썬 - 약수들의 합.md",
-    "Inbox/chirpy.md",
-    "Inbox/tistory.md",
-    "Inbox/도커.md",
-    "Inbox/끄적끄적.md",
-    "Area/책/책.md",
-    "Area/Git/명령어/status.md",
     "Inbox/무제 폴더",
-    "Area/Git/명령어/clone.md",
-    "Project/Database/RDB/SQL/DDL/DDL.md",
     "assets/img/TIL/20231222.png",
     "assets/img/Coding Test/GROUPING.png",
     "assets/img/Coding Test/CUBE.png",

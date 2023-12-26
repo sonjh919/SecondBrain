@@ -1,14 +1,15 @@
 ---
-tistoryBlogName: sonjh919
-tistoryTitle: Commit 종류
-tistoryTags: Git, Git개념
-tistoryVisibility: "3"
-tistoryCategory: "1206689"
-tistorySkipModal: true
-tistoryPostId: "22"
-tistoryPostUrl: https://sonjh919.tistory.com/22
+title: Commit 종류
+date: 2023-12-17 17:01
+categories:
+  - Git
+tags:
+  - Git
+  - Git개념
+image: 
+path:
 ---
-#Git 
+
 ## 🌈 Commit 종류
 기본 형식은 다음과 같다.
 ```

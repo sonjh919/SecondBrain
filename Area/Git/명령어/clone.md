@@ -1,14 +1,15 @@
 ---
-tistoryBlogName: sonjh919
-tistoryTitle: clone
-tistoryTags: Git, Git명령어
-tistoryVisibility: "3"
-tistoryCategory: "1206689"
-tistorySkipModal: true
-tistoryPostId: "25"
-tistoryPostUrl: https://sonjh919.tistory.com/25
+title: clone
+date: 2023-12-21 12:43
+categories:
+  - Git
+tags:
+  - Git
+  - Git명령어
+image: 
+path:
 ---
-#Git 
+
 ## 🌈 clone
 + 원격 저장소에 있는 프로젝트를 가져온다.
 + 해당 프로젝트를 가져오면 이미 [[init]]이 되어 있으며 remote 등록도 자동으로 된다.
