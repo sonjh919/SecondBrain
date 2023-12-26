@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e06db35943cb6fca",
+        "id": "80201492d649ed73",
         "type": "tabs",
         "children": [
           {
-            "id": "2e095485fc624b6d",
+            "id": "08b92f0003747a6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/TIL Templete.md",
+                "file": "Todo/TIL/2023-12-21-TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/TIL Templete.md",
+                "file": "Todo/TIL/2023-12-21-TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/TIL Templete.md",
+                "file": "Todo/TIL/2023-12-21-TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/TIL Templete.md"
+                "file": "Todo/TIL/2023-12-21-TIL.md"
               }
             }
           },
@@ -207,12 +207,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2e095485fc624b6d",
+  "active": "08b92f0003747a6a",
   "lastOpenFiles": [
+    "assets/img/IMG/Pasted image 20231221165155.png",
+    "Templates/TIL Templete.md",
+    "Templates/Insert_Callout.md",
+    "assets/무제 파일.md",
+    "assets/img/IMG",
+    "assets/img",
+    "assets",
+    "Area/Coding Test/구현/백준 9506 파이썬 - 약수들의 합.md",
+    "Templates/gitblog templete.md",
+    "Area/Coding Test/구현/백준 1157 파이썬 - 단어 공부.md",
     "Todo/TIL/2023-12-22-TIL.md",
     "Todo/TIL/2023-12-21-TIL.md",
-    "Templates/gitblog templete.md",
-    "Templates/TIL Templete.md",
     "Todo/TIL/TIL.md",
     "Inbox/chirpy.md",
     "Inbox/tistory.md",
@@ -231,12 +239,7 @@
     "Project/Database/RDB/SQL/DDL/참조 동작.md",
     "Project/Database/RDB/SQL/DDL/제약조건.md",
     "Project/Database/RDB/SQL/DDL/DROP.md",
-    "Project/Database/RDB/SQL/DDL/ALTER.md",
-    "Project/Database/RDB/SQL/DDL/CREATE.md",
-    "Project/Database/RDB/SQL/SQL.md",
-    "Project/Database/RDB/SQL/SQL 실행 순서/WHERE.md",
-    "Project/Database/RDB/데이터 유형.md",
-    "Todo/IMG/Pasted image 20231222201543.png",
+    "assets/img/IMG/Pasted image 20231222201543.png",
     "Archive/IMG/GROUPING.png",
     "Archive/IMG/CUBE.png",
     "Archive/IMG/ROLLUP.png",
@@ -246,14 +249,10 @@
     "Project/SQL/RDB/SQL/함수/NULL 처리 함수",
     "Project/SQL/RDB/SQL/함수/형변환",
     "Project/SQL/RDB/SQL/함수/날짜 함수",
-    "Project/SQL/RDB/SQL/함수/숫자 함수",
-    "Project/SQL/RDB/SQL/함수/문자 함수",
-    "Project/SQL/RDB/SQL/WHERE",
     "Archive/IMG/순수관계연산자.png",
     "Archive/IMG/Stack.png",
     "Archive/IMG/Queue.png",
     "Archive/IMG/Deque.png",
-    "Inbox/버전 가이드라인.png",
-    "Todo/IMG/Pasted image 20231221165155.png"
+    "Inbox/버전 가이드라인.png"
   ]
 }
