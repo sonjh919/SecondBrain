@@ -32,3 +32,7 @@ bundle exec jekyll serve
 |paginate|10|한 목록에 몇개의 글을 표시해 줄 것인지 선택합니다|
 
 출처: https://www.irgroup.org/posts/jekyll-chirpy/
+
+링크 업데이트
+`[2023-12-21 TIL](https://sonjh919.github.io/posts/2023-12-21 TIL)`
+

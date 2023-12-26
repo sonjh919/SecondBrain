@@ -11,7 +11,7 @@ path:
 ---
 
 ## 🌈 Git의 3가지 영역
-우리가 [[Area/Git/명령어/commit]]을 진행할 때, 총 3가지 영역을 바탕으로 작동한다.
+우리가 [[Area/Git/명령어/commit|commit]]을 진행할 때, 총 3가지 영역을 바탕으로 작동한다.
 
 Untracked Area: Git이 관리하고 있지 않은 영역
 Tracked Area : Git의 관리를 받을 수 있는 영역
