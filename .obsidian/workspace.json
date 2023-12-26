@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/chirpy.md",
+                "file": "Todo/TIL/TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/chirpy.md",
+                "file": "Todo/TIL/TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/chirpy.md",
+                "file": "Todo/TIL/TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/chirpy.md"
+                "file": "Todo/TIL/TIL.md"
               }
             }
           },
@@ -209,8 +209,9 @@
   },
   "active": "2e095485fc624b6d",
   "lastOpenFiles": [
-    "Inbox/tistory.md",
+    "Project/Openrun/기획&설계/프로젝트 시작.md",
     "Inbox/chirpy.md",
+    "Inbox/tistory.md",
     "Inbox/끄적끄적.md",
     "Area/책/책.md",
     "Area/Git/명령어/status.md",
@@ -236,7 +237,6 @@
     "Project/Database/DataBase.md",
     "Todo/TIL/2023-12-22 TIL.md",
     "Todo/IMG/Pasted image 20231222201543.png",
-    "Project/Database/RDB/SQL/함수/윈도우 함수 옵션.md",
     "Archive/IMG/GROUPING.png",
     "Archive/IMG/CUBE.png",
     "Archive/IMG/ROLLUP.png",
