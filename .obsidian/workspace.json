@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/chirpy.md",
+                "file": "Area/Git/오류/LF will be replaced by CRLF in pom.xml.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/chirpy.md",
+                "file": "Area/Git/오류/LF will be replaced by CRLF in pom.xml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/chirpy.md",
+                "file": "Area/Git/오류/LF will be replaced by CRLF in pom.xml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/chirpy.md"
+                "file": "Area/Git/오류/LF will be replaced by CRLF in pom.xml.md"
               }
             }
           },
@@ -209,8 +209,16 @@
   },
   "active": "08b92f0003747a6a",
   "lastOpenFiles": [
-    "Inbox/tistory.md",
+    "Area/Git/명령어/clone.md",
+    "Area/Git/명령어/checkout.md",
+    "Area/Git/명령어/diff.md",
+    "Area/Git/명령어/config.md",
+    "Area/Git/명령어/revert.md",
+    "Area/Git/명령어/status.md",
+    "Area/Git/명령어/reset.md",
+    "Area/Git/명령어/remote.md",
     "Inbox/chirpy.md",
+    "Inbox/tistory.md",
     "Inbox/도커.md",
     "Todo/TIL/TIL.md",
     "Todo/TIL/2023-12-21-TIL.md",
@@ -221,20 +229,12 @@
     "Area/Git/Git.md",
     "Area/Git/오류/LF will be replaced by CRLF in pom.xml.md",
     "Area/Git/오류/Git 오류 모음집.md",
-    "Area/Git/명령어/status.md",
-    "Area/Git/명령어/revert.md",
-    "Area/Git/명령어/reset.md",
-    "Area/Git/명령어/remote.md",
     "Area/Git/명령어/push.md",
     "Area/Git/명령어/pull.md",
     "Area/Git/명령어/log.md",
     "Area/Git/명령어/init.md",
     "Area/Git/명령어/Git 명령어.md",
     "Area/Git/명령어/fetch.md",
-    "Area/Git/명령어/diff.md",
-    "Area/Git/명령어/config.md",
-    "Area/Git/명령어/commit.md",
-    "Area/Git/명령어/clone.md",
     "assets/img/Coding Test/1157.png",
     "assets/img/Coding Test",
     "assets/img/TIL/20231221.png",
