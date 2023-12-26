@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#TIL  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -60,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626225094,
+  "scale": 0.1316872427983663,
   "close": true
 }
