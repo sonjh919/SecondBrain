@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/TIL.md",
+                "file": "Templates/TIL Templete.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/TIL.md",
+                "file": "Templates/TIL Templete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/TIL.md",
+                "file": "Templates/TIL Templete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/TIL/TIL.md"
+                "file": "Templates/TIL Templete.md"
               }
             }
           },
@@ -209,15 +209,19 @@
   },
   "active": "2e095485fc624b6d",
   "lastOpenFiles": [
-    "Project/Openrun/기획&설계/프로젝트 시작.md",
+    "Todo/TIL/2023-12-22-TIL.md",
+    "Todo/TIL/2023-12-21-TIL.md",
+    "Templates/gitblog templete.md",
+    "Templates/TIL Templete.md",
+    "Todo/TIL/TIL.md",
     "Inbox/chirpy.md",
     "Inbox/tistory.md",
+    "Inbox/도커.md",
+    "Project/Openrun/기획&설계/프로젝트 시작.md",
     "Inbox/끄적끄적.md",
     "Area/책/책.md",
     "Area/Git/명령어/status.md",
     "Inbox/무제 폴더",
-    "Inbox/도커.md",
-    "Todo/TIL/2023-12-21 TIL.md",
     "Area/Git/명령어/clone.md",
     "Project/Database/RDB/SQL/DDL/DDL.md",
     "Project/Database/RDB/SQL/SQL 실행 순서/ORDER BY.md",
@@ -232,10 +236,6 @@
     "Project/Database/RDB/SQL/SQL.md",
     "Project/Database/RDB/SQL/SQL 실행 순서/WHERE.md",
     "Project/Database/RDB/데이터 유형.md",
-    "Project/Database/RDB/RDB.md",
-    "Project/Database/RDB/TABLE.md",
-    "Project/Database/DataBase.md",
-    "Todo/TIL/2023-12-22 TIL.md",
     "Todo/IMG/Pasted image 20231222201543.png",
     "Archive/IMG/GROUPING.png",
     "Archive/IMG/CUBE.png",
