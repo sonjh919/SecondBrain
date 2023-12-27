@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/2023-12-27 TIL.md",
+                "file": "Project/Database/RDB/TABLE.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9557a0dcf5d7df20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/도커.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/2023-12-27 TIL.md",
+                "file": "Inbox/도커.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/2023-12-27 TIL.md",
+                "file": "Inbox/도커.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/TIL/2023-12-27 TIL.md"
+                "file": "Inbox/도커.md"
               }
             }
           },
@@ -207,35 +221,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5e0d12f7ae36c1f3",
+  "active": "9557a0dcf5d7df20",
   "lastOpenFiles": [
-    "Archive/img/TIL/20231227.png",
-    "Todo/TIL/2023-12-27 TIL.md",
-    "Project/Docker/프로세스 격리.md",
-    "Project/Docker/도커 허브.md",
-    "Project/Openrun/기획&설계/플로우 차트와 정책정의서.md",
-    "Project/Openrun/기획&설계/Repository Rule.md",
     "Inbox/chirpy.md",
-    "Todo/TIL/TIL.md",
-    "Project/Openrun/기획&설계/프로젝트 시작.md",
-    "Project/Openrun/Setting/스프링 프로젝트 Docker Build 하기.md",
-    "Todo/TIL/2023-12-21-TIL.md",
-    "Todo/TIL/2023-12-22-TIL.md",
-    "Project/Docker/Error/Error response from daemon When using COPY with more than one source file.md",
-    "Project/Openrun/Setting/스프링 프로젝트 생성하기.md",
-    "Project/Openrun/기획&설계/어떤 DB를 선택해야 할까.md",
-    "Project/Openrun/기획&설계/Spring과 Java 버전 선택.md",
-    "Project/Docker/컨테이너.md",
-    "프로세스를 격리.md",
-    "Project/Docker/Error/Error response from daemon COPY failed no source files were specified.md",
-    "Area/Git/Error/LF will be replaced by CRLF in pom.xml.md",
-    "Project/Spring/에러/o.s.b.d.LoggingFailureAnalysisReporter.md",
-    "Area/Git/Error/Git 오류 모음집.md",
+    "Inbox/code.md",
+    "Project/Database/RDB/SQL/DCL/DCL.md",
+    "Inbox/tistory.md",
+    "Project/Database/RDB/SQL/DDL/DDL.md",
+    "Project/Database/RDB/SQL/DML/DML.md",
+    "Project/Database/RDB/SQL/TCL/TCL.md",
+    "Project/Database/RDB/SQL/TCL/ROLLBACK.md",
+    "Project/Database/RDB/SQL/TCL/COMMIT.md",
+    "Project/Database/RDB/TABLE.md",
+    "Project/Database/RDB/SQL/TCL/Transaction.md",
+    "Project/Database/RDB/SQL/TCL/SAVEPOINT.md",
+    "Project/Database/RDB/SQL/SQL.md",
+    "Project/Database/RDB/SQL/SQL 실행 순서/WHERE.md",
+    "Project/Database/RDB/SQL/SQL 실행 순서/ORDER BY.md",
+    "Project/Database/RDB/SQL/SQL 실행 순서/HAVING.md",
+    "Project/Database/RDB/SQL/SQL 실행 순서/GROUP BY.md",
+    "Project/Database/RDB/SQL/SQL 실행 순서/FROM.md",
+    "Project/Database/RDB/SQL/DML/UPDATE.md",
+    "Project/Database/RDB/SQL/DML/SELECT.md",
+    "Project/Database/RDB/SQL/DML/INSERT.md",
+    "Project/Database/RDB/SQL/DML/DELETE.md",
+    "Project/Database/RDB/SQL/DDL/TRUNCATE.md",
+    "Project/Database/RDB/SQL/DDL/DROP.md",
+    "Project/Database/RDB/SQL/DDL/DROP vs TRUNCATE vs DELETE.md",
+    "Project/Database/RDB/SQL/DDL/CREATE.md",
+    "Archive/img/TIL/20231227.png",
     "Archive/img/Docker/Error/build.png",
-    "Project/Docker/DSL.md",
-    "Project/Docker/setting/Spring에서 Dockerfile Build하기.md",
-    "Project/Docker/Docker.md",
-    "Project/Docker/이미지.md",
     "Archive/img/Docker/Error/Error response from daemon When using COPY with more than one source file.png",
     "Archive/img/Docker/Error/Error response from daemon COPY failed no source files were specified.png",
     "Archive/img/Docker/Error",

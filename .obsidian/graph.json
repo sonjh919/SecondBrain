@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -48,20 +48,6 @@
         "a": 1,
         "rgb": 6073814
       }
-    },
-    {
-      "query": "tag:#Docker  ",
-      "color": {
-        "a": 1,
-        "rgb": 16743168
-      }
-    },
-    {
-      "query": "tag:#Project",
-      "color": {
-        "a": 1,
-        "rgb": 14048429
-      }
     }
   ],
   "collapse-display": false,
@@ -74,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.000000000000102,
+  "scale": 0.09392927902847877,
   "close": true
 }
