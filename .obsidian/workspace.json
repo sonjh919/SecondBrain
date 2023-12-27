@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Docker/컨테이너.md",
+                "file": "Project/Docker/이미지.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Docker/컨테이너.md",
+                "file": "Project/Docker/이미지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Docker/컨테이너.md",
+                "file": "Project/Docker/이미지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Docker/컨테이너.md"
+                "file": "Project/Docker/이미지.md"
               }
             }
           },
@@ -207,25 +207,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "5e0d12f7ae36c1f3",
   "lastOpenFiles": [
-    "Project/Docker/가상화.md",
-    "Project/Docker/컨테이너.md",
-    "Project/Docker/Docker.md",
-    "Project/Docker/오류",
     "Project/Docker/오류/failed to deploy ' unknown dockerfile dockerfile' can't retrieve image id from build stream.md",
+    "Project/Docker/Docker.md",
+    "Archive/img/Docker/imgpath.png",
+    "Project/Docker/이미지.md",
+    "Project/Docker/프로세스 격리.md",
+    "Project/Docker/컨테이너.md",
+    "Project/Docker/레이어 저장방식.md",
+    "Archive/img/Docker/layer.png",
+    "Todo/TIL/2023-12-27 TIL.md",
+    "Todo/TIL/2023-12-26 TIL.md",
+    "Archive/img/Docker/dockerimg.png",
+    "Archive/img/Docker/cgroups.png",
+    "Archive/img/Docker/namespace.png",
+    "Archive/img/Docker/container.png",
+    "Archive/img/무제 폴더",
+    "Project/Docker/가상화.md",
+    "Project/Docker/오류",
     "Templates/gitblog templete.md",
     "Archive/img/Docker/dockerbuilderror.png",
     "Archive/img/Docker",
     "Inbox/도커.md",
     "Project/Docker",
     "Templates/TIL Templete.md",
-    "Todo/TIL/2023-12-26 TIL.md",
     "Todo/TIL/2023-12-21-TIL.md",
     "Todo/TIL/2023-12-22-TIL.md",
     "Inbox/code.md",
     "Inbox/끄적끄적.md",
-    "Todo/TIL/2023-12-27 TIL.md",
     "Project/Blog/github 블로그를 시작하며.md",
     "Archive/img/Blog/blog를-시작하며.png",
     "Inbox/chirpy.md",
@@ -235,25 +245,14 @@
     "Project/Blog",
     "Todo/TIL/TIL.md",
     "Archive/img/TIL/20231222.png",
-    "Archive/img/TIL/20231221.png",
     "Project/Git/오류/LF will be replaced by CRLF in pom.xml.md",
     "Project/Git/명령어/clone.md",
     "Project/Git/명령어/checkout.md",
     "Project/Git/명령어/diff.md",
     "Project/Git/명령어/config.md",
-    "Project/Git/명령어/revert.md",
-    "Project/Git/명령어/status.md",
-    "Project/Git/명령어/reset.md",
-    "Project/Git/명령어/remote.md",
-    "Archive/img/Coding Test/1157.png",
     "Archive/img/Coding Test",
     "Archive/img/TIL",
     "Archive/img",
-    "assets",
-    "Inbox/무제 폴더",
-    "Archive/img/Coding Test/GROUPING.png",
-    "Archive/img/Coding Test/CUBE.png",
-    "Archive/img/Coding Test/ROLLUP.png",
-    "Archive/img/Coding Test/순수관계연산자.png"
+    "assets"
   ]
 }
