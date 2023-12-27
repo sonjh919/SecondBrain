@@ -15,7 +15,7 @@ path:
 [[checkout]]
 [[status]]
 [[add]]
-[[Project/Git/명령어/commit]]
+[[Area/Git/명령어/commit]]
 [[push]]
 [[pull]]
 [[config]]
