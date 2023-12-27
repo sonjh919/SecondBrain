@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Database/RDB/TABLE.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9557a0dcf5d7df20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/도커.md",
+                "file": "Project/Database/RDB/SQL/Join/JOIN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
       {
         "id": "aee0c20d4d3b43d9",
         "type": "tabs",
-        "dimension": 33.5195530726257,
+        "dimension": 43.269230769230774,
         "children": [
           {
             "id": "194553660e95f057",
@@ -109,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/도커.md",
+                "file": "Project/Database/RDB/SQL/Join/JOIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/도커.md",
+                "file": "Project/Database/RDB/SQL/Join/JOIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/도커.md"
+                "file": "Project/Database/RDB/SQL/Join/JOIN.md"
               }
             }
           },
@@ -170,15 +156,15 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
-        "id": "df7c58f35b00acbb",
+        "id": "4c24b607f401f5f1",
         "type": "tabs",
-        "dimension": 33.24022346368715,
+        "dimension": 35.48076923076923,
         "children": [
           {
-            "id": "b76546c6a6c3e3ef",
+            "id": "9557a0dcf5d7df20",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -190,7 +176,7 @@
       {
         "id": "4dda45ab82b77780",
         "type": "tabs",
-        "dimension": 33.24022346368715,
+        "dimension": 21.25,
         "children": [
           {
             "id": "28c0689a8d137f4d",
@@ -221,34 +207,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9557a0dcf5d7df20",
+  "active": "5e0d12f7ae36c1f3",
   "lastOpenFiles": [
+    "Project/Openrun/Setting/스프링 프로젝트 생성하기.md",
+    "Project/Database/RDB/SQL/Join/JOIN.md",
+    "Templates/gitblog templete.md",
+    "Templates/Insert_Callout.md",
+    "Templates/TIL Templete.md",
+    "Templates/blog_Callout.md",
+    "Project/Openrun/Setting/스프링 프로젝트 Docker Build 하기.md",
+    "Project/Openrun/기획&설계/프로젝트의 목적.md",
+    "Project/Openrun/기획&설계/플로우 차트와 정책정의서.md",
+    "Project/Openrun/기획&설계/주제 확정짓기.md",
+    "Project/Docker/Error/Error response from daemon COPY failed no source files were specified.md",
+    "Todo/TIL/TIL.md",
+    "Project/Database/RDB/SQL/SQL.md",
+    "Project/Database/RDB/SQL/문법/DUAL.md",
+    "Project/Database/RDB/SQL/TCL/TCL.md",
+    "Project/Database/RDB/SQL/DCL/DCL.md",
+    "Project/Database/RDB/SQL/DML/DML.md",
+    "Project/Database/RDB/SQL/DDL/DDL.md",
+    "Project/Database/RDB/SQL/함수/함수.md",
+    "Project/Database/RDB/데이터 유형.md",
+    "Project/Database/RDB/RDB.md",
+    "Inbox/끄적끄적.md",
+    "Inbox/프리코스.md",
     "Inbox/chirpy.md",
     "Inbox/code.md",
-    "Project/Database/RDB/SQL/DCL/DCL.md",
-    "Inbox/tistory.md",
-    "Project/Database/RDB/SQL/DDL/DDL.md",
-    "Project/Database/RDB/SQL/DML/DML.md",
-    "Project/Database/RDB/SQL/TCL/TCL.md",
-    "Project/Database/RDB/SQL/TCL/ROLLBACK.md",
-    "Project/Database/RDB/SQL/TCL/COMMIT.md",
-    "Project/Database/RDB/TABLE.md",
-    "Project/Database/RDB/SQL/TCL/Transaction.md",
-    "Project/Database/RDB/SQL/TCL/SAVEPOINT.md",
-    "Project/Database/RDB/SQL/SQL.md",
-    "Project/Database/RDB/SQL/SQL 실행 순서/WHERE.md",
-    "Project/Database/RDB/SQL/SQL 실행 순서/ORDER BY.md",
-    "Project/Database/RDB/SQL/SQL 실행 순서/HAVING.md",
-    "Project/Database/RDB/SQL/SQL 실행 순서/GROUP BY.md",
-    "Project/Database/RDB/SQL/SQL 실행 순서/FROM.md",
-    "Project/Database/RDB/SQL/DML/UPDATE.md",
-    "Project/Database/RDB/SQL/DML/SELECT.md",
-    "Project/Database/RDB/SQL/DML/INSERT.md",
-    "Project/Database/RDB/SQL/DML/DELETE.md",
-    "Project/Database/RDB/SQL/DDL/TRUNCATE.md",
-    "Project/Database/RDB/SQL/DDL/DROP.md",
-    "Project/Database/RDB/SQL/DDL/DROP vs TRUNCATE vs DELETE.md",
-    "Project/Database/RDB/SQL/DDL/CREATE.md",
+    "Inbox/도커.md",
     "Archive/img/TIL/20231227.png",
     "Archive/img/Docker/Error/build.png",
     "Archive/img/Docker/Error/Error response from daemon When using COPY with more than one source file.png",

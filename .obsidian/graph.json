@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "#Git",
+      "query": "tag:#Git ",
       "color": {
         "a": 1,
         "rgb": 15857919
@@ -36,17 +36,31 @@
       }
     },
     {
-      "query": "#python",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    },
-    {
-      "query": "path:Project/Database ",
+      "query": "tag:#DataBase ",
       "color": {
         "a": 1,
         "rgb": 6073814
+      }
+    },
+    {
+      "query": "tag:#Project",
+      "color": {
+        "a": 1,
+        "rgb": 6215260
+      }
+    },
+    {
+      "query": "tag:#python",
+      "color": {
+        "a": 1,
+        "rgb": 52479
+      }
+    },
+    {
+      "query": "tag:#Docker ",
+      "color": {
+        "a": 1,
+        "rgb": 14048366
       }
     }
   ],
@@ -60,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.09392927902847877,
+  "scale": 0.0939292790284795,
   "close": true
 }

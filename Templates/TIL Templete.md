@@ -9,4 +9,3 @@
 ### 👀
 
 ## 📈 오늘 추가된 Second Brain
-![](/assets/img/IMG/.png)

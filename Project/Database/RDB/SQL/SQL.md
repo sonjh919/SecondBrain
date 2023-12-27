@@ -30,19 +30,30 @@ path:
 
 ## 🌈 SQL 분류
 ### 📌 DB 정의 언어
-[[DDL]]
-[[DML]]
-[[DCL]]
-[[TCL]]
+#### 🧶 [[DDL]]
++ 데이터 정의어
+- table의 구조를 바꾸는 것
+
+#### 🧶 [[DML]]
++ 데이터 조작어
+- 구조는 변하지 않고 data 변화 행의 내용을 추가/수정/삭제하는 것
+
+#### 🧶 [[DCL]]
++ 데이터 제어어
++ DB에 대한 접근 권한을 주고 회수
+
+#### 🧶 [[TCL]]
++ [[Transaction]] 제어에 사용되는 기술
++ 논리적인 작업 단위로 묶어 제어한다.
 
 ### 📌 함수
-[[Project/Database/RDB/SQL/함수/함수|함수]]
++ [[Project/Database/RDB/SQL/함수/함수|함수]]
 
 ### 📌 문법
-[[DESC]]
-[[Alias]]
-[[연산자]]
-[[날짜형 포맷]]
-[[CASE]]
-[[DUAL]]
-JOIN
++ [[DESC]]
++ [[Alias]]
++ [[연산자]]
++ [[날짜형 포맷]]
++ [[CASE]]
++ [[DUAL]]
++ [[Project/Database/RDB/SQL/Join/JOIN|JOIN]]
