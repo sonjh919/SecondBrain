@@ -12,3 +12,4 @@ ENTRYPOINT ["java", "-jar", "/app.jar"]
 
 https://velog.io/@nefertiri/%EB%8F%84%EC%BB%A4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80-%EC%9D%B4%EB%AF%B8%EC%A7%80-01
 
+https://junghyun100.github.io/Gradle%EC%97%90%EC%84%9C-Jar-%ED%8C%8C%EC%9D%BC-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0/
