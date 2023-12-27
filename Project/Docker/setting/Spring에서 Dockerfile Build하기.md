@@ -8,6 +8,7 @@ tags:
   - Docker
   - DSL
   - Spring
+  - Gradle
 image: 
 path:
 ---

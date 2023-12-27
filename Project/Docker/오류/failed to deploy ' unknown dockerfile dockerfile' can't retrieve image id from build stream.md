@@ -10,6 +10,9 @@ ENTRYPOINT ["java", "-jar", "/app.jar"]
 이후 build를 하려 했는데, 다음과 같은 오류가 발생했다.
 ![[dockerbuilderror.png]]
 
-https://velog.io/@nefertiri/%EB%8F%84%EC%BB%A4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EC%99%80-%EC%9D%B4%EB%AF%B8%EC%A7%80-01
+3번째 줄 COPY에서 막혔다고 나왔다.
 
-https://junghyun100.github.io/Gradle%EC%97%90%EC%84%9C-Jar-%ED%8C%8C%EC%9D%BC-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0/
+## 🌈 원인
+Maven build할 때에는 target 폴더에, Gradle build할 때에는 build 폴더에, Intellij에서 빌드할 때에는 out 폴더에 빌드 파일이 생성되게 된다. 나는 지금 Gradle로 build했는데, Maven에서 쓰던 방식을 그대로 가져와서 target 폴더를 못찾아 생긴 오류이다.
+
+## 🌈 해결
