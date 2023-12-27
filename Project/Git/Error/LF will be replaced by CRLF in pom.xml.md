@@ -5,7 +5,7 @@ categories:
   - Git
 tags:
   - Git
-  - Git오류
+  - GitError
 image: 
 path:
 ---
