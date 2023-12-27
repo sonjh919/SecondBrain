@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Docker/이미지.md",
+                "file": "Project/Docker/setting/Spring에서 Dockerfile Build하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Docker/이미지.md",
+                "file": "Project/Docker/setting/Spring에서 Dockerfile Build하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Docker/이미지.md",
+                "file": "Project/Docker/setting/Spring에서 Dockerfile Build하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Docker/이미지.md"
+                "file": "Project/Docker/setting/Spring에서 Dockerfile Build하기.md"
               }
             }
           },
@@ -210,12 +210,18 @@
   "active": "5e0d12f7ae36c1f3",
   "lastOpenFiles": [
     "Project/Docker/오류/failed to deploy ' unknown dockerfile dockerfile' can't retrieve image id from build stream.md",
+    "Project/Docker/setting/Spring에서 Dockerfile Build하기.md",
+    "Project/Docker/DSL.md",
     "Project/Docker/Docker.md",
-    "Archive/img/Docker/imgpath.png",
-    "Project/Docker/이미지.md",
     "Project/Docker/프로세스 격리.md",
     "Project/Docker/컨테이너.md",
+    "Project/Docker/이미지.md",
     "Project/Docker/레이어 저장방식.md",
+    "Project/Docker/도커 허브.md",
+    "Project/Docker/setting",
+    "Templates/blog_Callout.md",
+    "Archive/img/Docker/createimg.png",
+    "Archive/img/Docker/imgpath.png",
     "Archive/img/Docker/layer.png",
     "Todo/TIL/2023-12-27 TIL.md",
     "Todo/TIL/2023-12-26 TIL.md",
@@ -244,15 +250,10 @@
     "Archive/img/Blog",
     "Project/Blog",
     "Todo/TIL/TIL.md",
-    "Archive/img/TIL/20231222.png",
     "Project/Git/오류/LF will be replaced by CRLF in pom.xml.md",
     "Project/Git/명령어/clone.md",
-    "Project/Git/명령어/checkout.md",
-    "Project/Git/명령어/diff.md",
-    "Project/Git/명령어/config.md",
     "Archive/img/Coding Test",
     "Archive/img/TIL",
-    "Archive/img",
-    "assets"
+    "Archive/img"
   ]
 }
