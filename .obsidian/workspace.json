@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4d3b29fe59f5161",
+        "id": "03b750a482349457",
         "type": "tabs",
         "children": [
           {
-            "id": "051e6ba0a389143d",
+            "id": "d6d98fcb28774e28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/JAVA/기본 문법/메소드.md",
+                "file": "Project/JAVA/개발 환경/JVM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
       {
         "id": "aee0c20d4d3b43d9",
         "type": "tabs",
-        "dimension": 43.269230769230774,
+        "dimension": 33.53204172876304,
         "children": [
           {
             "id": "194553660e95f057",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/JAVA/기본 문법/메소드.md",
+                "file": "Project/JAVA/개발 환경/JVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/JAVA/기본 문법/메소드.md",
+                "file": "Project/JAVA/개발 환경/JVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/JAVA/기본 문법/메소드.md"
+                "file": "Project/JAVA/개발 환경/JVM.md"
               }
             }
           },
@@ -159,12 +159,12 @@
         "currentTab": 5
       },
       {
-        "id": "4c24b607f401f5f1",
+        "id": "dfa27add57db594d",
         "type": "tabs",
-        "dimension": 35.48076923076923,
+        "dimension": 33.53204172876304,
         "children": [
           {
-            "id": "9557a0dcf5d7df20",
+            "id": "051e6ba0a389143d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -176,7 +176,7 @@
       {
         "id": "4dda45ab82b77780",
         "type": "tabs",
-        "dimension": 21.25,
+        "dimension": 32.93591654247392,
         "children": [
           {
             "id": "28c0689a8d137f4d",
@@ -207,16 +207,63 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "floating": {
+    "id": "fe72aedbb844b9b9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6d3604bf777a5cc9",
+        "type": "window",
+        "children": [
+          {
+            "id": "9c838ccb932a9c3a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d8819b8f646c8fac",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Project/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 506,
+        "y": 15,
+        "width": 1245,
+        "height": 1000,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d6d98fcb28774e28",
   "lastOpenFiles": [
+    "Project/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
+    "Project/JAVA/개발 환경/JVM.md",
+    "Project/JAVA/개발 환경/Java의 역사와 특징.md",
+    "Project/JAVA/기본 문법/배열.md",
+    "Project/JAVA/개발 환경/JDK.md",
+    "Todo/TIL/TIL.md",
+    "Todo/TIL/2023-12-28 TIL.md",
+    "Archive/img/TIL/20231228.png",
+    "Project/JAVA/개발 환경/JRE.md",
+    "Project/JAVA/기본 문법/자료형.md",
+    "Project/JAVA/기본 문법/제어문.md",
+    "Project/JAVA/기본 문법/메소드.md",
     "Project/JAVA/클래스&객체",
     "Inbox/끄적끄적.md",
     "Inbox/프리코스.md",
     "Project/JAVA/기본 문법/Static.md",
-    "Project/JAVA/개발 환경/JVM.md",
-    "Project/JAVA/기본 문법/메소드.md",
     "Project/JAVA/기본 문법/형 변환.md",
-    "Project/JAVA/기본 문법/자료형.md",
     "Project/JAVA/기본 문법/Literal.md",
     "Project/JAVA/기본 문법/ASCII.md",
     "Archive/img/Java/기본 문법/ASCII.png",
@@ -229,12 +276,8 @@
     "Templates/gitblog templete.md",
     "Project/JAVA/MOC.md",
     "Project/JAVA/기본 문법",
-    "Project/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
-    "Project/JAVA/개발 환경/Java의 역사와 특징.md",
     "Project/JAVA/개발 환경/JAR.md",
-    "Project/JAVA/개발 환경/JRE.md",
     "Project/JAVA/개발 환경/JIT.md",
-    "Project/JAVA/개발 환경/JDK.md",
     "Archive/img/Java/개발 환경/java dev.png",
     "Archive/img/Java/개발 환경/runtime.png",
     "Archive/img/Java/개발 환경/JVM.png",
@@ -243,17 +286,12 @@
     "Project/JAVA/개발 환경",
     "Archive/img/Java/개발 환경/Java역사.png",
     "Archive/img/Java",
-    "Todo/TIL/2023-12-28 TIL.md",
     "Area/책/책.md",
-    "Project/Docker/컨테이너.md",
-    "Inbox/chirpy.md",
     "Archive/img/Coding Test/17103.png",
     "Archive/img/Coding Test/18870.png",
-    "Archive/img/Coding Test/Deque.png",
     "Archive/img/Database",
     "Project/Database/RDB/SQL/Query",
     "Archive/img/Docker/Error",
-    "Project/Openrun/Setting",
-    "Project/Spring/에러"
+    "Project/Openrun/Setting"
   ]
 }

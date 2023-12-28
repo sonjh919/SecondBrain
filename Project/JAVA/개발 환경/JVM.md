@@ -23,6 +23,9 @@ Java는 C에서의 단점을 없애기 위해 JVM이라는 프로그램을 설�
 4. static 변수와 메서드는 Heap Area에 배치한다.
 
 ### 📌 JVM의 내부 구조
++ Class Loader Sub System
++ [[Runtime Data Areas]]
++ Execution Engine
 
 ![[JVM.png]]
 

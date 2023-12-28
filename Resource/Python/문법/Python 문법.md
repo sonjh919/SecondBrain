@@ -17,7 +17,7 @@
 
 ## MOC
 [[Resource/Python/문법/자료형/자료형]]
-[[제어문]]
+[[Resource/Python/문법/제어문/제어문]]
 [[Resource/Python/문법/함수/함수]]
 [[입출력]]
 [[예외 처리]]
