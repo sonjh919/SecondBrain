@@ -1,6 +1,6 @@
 ---
-title: <% tp.file.title %>
-date: <% tp.file.creation_date() %>
+title: JRE
+date: 2023-12-28 15:57
 categories:
   - Java
   - Java개발환경

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/JAVA/Java의 역사와 특징.md",
+                "file": "Project/JAVA/개발 환경/JVM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/JAVA/Java의 역사와 특징.md",
+                "file": "Project/JAVA/개발 환경/JVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/JAVA/Java의 역사와 특징.md",
+                "file": "Project/JAVA/개발 환경/JVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/JAVA/Java의 역사와 특징.md"
+                "file": "Project/JAVA/개발 환경/JVM.md"
               }
             }
           },
@@ -207,14 +207,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "df52c78e9d8d0feb",
   "lastOpenFiles": [
-    "Archive/img/무제 폴더",
-    "Project/JAVA/Pasted image 20231228153011.png",
-    "Templates/blog_Callout.md",
-    "Project/JAVA/Java의 역사와 특징.md",
-    "Project/JAVA/Java 개발 환경과 실행 순서.md",
+    "Archive/img/Java/개발 환경/runtime.png",
+    "Project/JAVA/개발 환경/JVM.md",
+    "Project/JAVA/개발 환경/JAR.md",
+    "Archive/img/Java/개발 환경/JVM.png",
+    "Archive/img/Java/개발 환경",
+    "Project/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
+    "Project/JAVA/개발 환경/Java의 역사와 특징.md",
+    "Project/JAVA/개발 환경/JIT.md",
+    "Project/JAVA/개발 환경/JRE.md",
+    "Project/JAVA/개발 환경/JDK.md",
     "Templates/gitblog templete.md",
+    "Archive/img/Java/개발 환경/Java 실행과정.png",
+    "Project/JAVA/개발 환경",
+    "Archive/img/Java/개발 환경/Java역사.png",
+    "Archive/img/Java",
+    "Templates/blog_Callout.md",
     "Todo/TIL/2023-12-28 TIL.md",
     "Area/책/책.md",
     "Project/Docker/컨테이너.md",
@@ -231,29 +241,18 @@
     "Project/Database/RDB/SQL/SQL.md",
     "Project/Database/RDB/SQL/함수/함수.md",
     "Project/Database/RDB/SQL/TCL/TCL.md",
-    "Project/Database/RDB/SQL/DCL/DCL.md",
-    "Project/Database/RDB/SQL/DML/DML.md",
-    "Project/Database/RDB/SQL/DDL/DDL.md",
-    "Project/Database/RDB/SQL/TCL/Transaction.md",
-    "Project/Database/RDB/SQL/TCL/SAVEPOINT.md",
     "Archive/img/Coding Test/17103.png",
     "Archive/img/Coding Test/18870.png",
     "Archive/img/Coding Test/Deque.png",
     "Archive/img/Coding Test/Queue.png",
     "Archive/img/Coding Test/Stack.png",
     "Archive/img/Database/ROLLUP.png",
-    "Archive/img/Database/GROUPING.png",
-    "Archive/img/Database/CUBE.png",
     "Archive/img/Database",
     "Project/Database/RDB/SQL/Query",
-    "Archive/img/TIL/20231227.png",
     "Archive/img/Docker/Error",
     "Project/Openrun/Setting",
     "Project/Spring/에러",
     "Project/Spring",
-    "Project/Docker/setting",
-    "Project/Docker/Error",
-    "Archive/img/Docker",
-    "Project/Docker"
+    "Project/Docker/setting"
   ]
 }
