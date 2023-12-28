@@ -2,12 +2,9 @@
 title: <% tp.file.title %>
 date: <% tp.file.creation_date() %>
 categories:
-  - DataBase
-  - SQL
+  - Java
 tags:
-  - DataBase
-  - RDB
-  - SQL
+  - Java
 image: 
 path:
 ---

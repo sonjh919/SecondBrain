@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9e2542a1ca5b696f",
+        "id": "e4d3b29fe59f5161",
         "type": "tabs",
         "children": [
           {
-            "id": "0017963f1d4993f8",
+            "id": "df52c78e9d8d0feb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/책/책.md",
+                "file": "Project/JAVA/Java의 역사와 특징.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/책/책.md",
+                "file": "Project/JAVA/Java의 역사와 특징.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/책/책.md",
+                "file": "Project/JAVA/Java의 역사와 특징.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/책/책.md"
+                "file": "Project/JAVA/Java의 역사와 특징.md"
               }
             }
           },
@@ -207,11 +207,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0017963f1d4993f8",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
-    "Todo/TIL/2023-12-28 TIL.md",
+    "Archive/img/무제 폴더",
+    "Project/JAVA/Pasted image 20231228153011.png",
+    "Templates/blog_Callout.md",
+    "Project/JAVA/Java의 역사와 특징.md",
     "Project/JAVA/Java 개발 환경과 실행 순서.md",
-    "Project/JAVA/Java의 탄생 과정과 특징.md",
+    "Templates/gitblog templete.md",
+    "Todo/TIL/2023-12-28 TIL.md",
+    "Area/책/책.md",
     "Project/Docker/컨테이너.md",
     "Inbox/끄적끄적.md",
     "Inbox/chirpy.md",
@@ -231,10 +236,6 @@
     "Project/Database/RDB/SQL/DDL/DDL.md",
     "Project/Database/RDB/SQL/TCL/Transaction.md",
     "Project/Database/RDB/SQL/TCL/SAVEPOINT.md",
-    "Project/Database/RDB/SQL/TCL/ROLLBACK.md",
-    "Project/Database/RDB/SQL/TCL/COMMIT.md",
-    "Project/Database/RDB/SQL/SQL 실행 순서/WHERE.md",
-    "Project/Database/RDB/SQL/SQL 실행 순서/ORDER BY.md",
     "Archive/img/Coding Test/17103.png",
     "Archive/img/Coding Test/18870.png",
     "Archive/img/Coding Test/Deque.png",
@@ -246,7 +247,6 @@
     "Archive/img/Database",
     "Project/Database/RDB/SQL/Query",
     "Archive/img/TIL/20231227.png",
-    "Archive/img/Docker/Error/build.png",
     "Archive/img/Docker/Error",
     "Project/Openrun/Setting",
     "Project/Spring/에러",
