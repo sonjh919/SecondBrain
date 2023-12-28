@@ -3,10 +3,10 @@ title: <% tp.file.title %>
 date: <% tp.file.creation_date() %>
 categories:
   - Java
-  - Java개발환경
+  - Java문법
 tags:
   - Java
-  - Java개발환경
+  - Java문법
 image: 
 path:
 ---
