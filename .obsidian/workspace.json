@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/2023-12-28 TIL.md",
+                "file": "Area/책/책.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/2023-12-28 TIL.md",
+                "file": "Area/책/책.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/2023-12-28 TIL.md",
+                "file": "Area/책/책.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/TIL/2023-12-28 TIL.md"
+                "file": "Area/책/책.md"
               }
             }
           },
@@ -209,6 +209,7 @@
   },
   "active": "0017963f1d4993f8",
   "lastOpenFiles": [
+    "Todo/TIL/2023-12-28 TIL.md",
     "Project/JAVA/Java 개발 환경과 실행 순서.md",
     "Project/JAVA/Java의 탄생 과정과 특징.md",
     "Project/Docker/컨테이너.md",
@@ -216,7 +217,6 @@
     "Inbox/chirpy.md",
     "Inbox/프리코스.md",
     "Project/Database/RDB/SQL/함수/문자 함수.md",
-    "Todo/TIL/2023-12-28 TIL.md",
     "Project/Database/RDB/SQL/문법/연산자.md",
     "Project/Database/RDB/SQL/문법/절차형 SQL.md",
     "Project/Database/RDB/SQL/DML/SELECT.md",
