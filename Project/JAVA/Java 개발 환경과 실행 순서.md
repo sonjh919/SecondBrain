@@ -1,12 +1,3 @@
----
-tistoryBlogName: sonjh919
-tistoryTitle: Java 개발 환경과 실행 순서
-tistoryVisibility: "0"
-tistoryCategory: "0"
-tistorySkipModal: true
-tistoryPostId: "2"
-tistoryPostUrl: https://sonjh919.tistory.com/2
----
 ## 📌 JDK(Java Development Kit) : Java 개발 키트
 JDK는 Java로 개발을 하려는 사람들이 설치하여 사용하면 된다! JDK에는 JRE, JVM 등이 포함된다. JDK를 설치하려면 3가지 Edition 중 하나를 선택하여 설치하면 된다.
 

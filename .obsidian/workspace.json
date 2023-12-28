@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Database/RDB/SQL/함수/문자 함수.md",
+                "file": "Todo/TIL/2023-12-28 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Database/RDB/SQL/함수/문자 함수.md",
+                "file": "Todo/TIL/2023-12-28 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Database/RDB/SQL/함수/문자 함수.md",
+                "file": "Todo/TIL/2023-12-28 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Database/RDB/SQL/함수/문자 함수.md"
+                "file": "Todo/TIL/2023-12-28 TIL.md"
               }
             }
           },
@@ -209,6 +209,13 @@
   },
   "active": "0017963f1d4993f8",
   "lastOpenFiles": [
+    "Project/JAVA/Java 개발 환경과 실행 순서.md",
+    "Project/JAVA/Java의 탄생 과정과 특징.md",
+    "Project/Docker/컨테이너.md",
+    "Inbox/끄적끄적.md",
+    "Inbox/chirpy.md",
+    "Inbox/프리코스.md",
+    "Project/Database/RDB/SQL/함수/문자 함수.md",
     "Todo/TIL/2023-12-28 TIL.md",
     "Project/Database/RDB/SQL/문법/연산자.md",
     "Project/Database/RDB/SQL/문법/절차형 SQL.md",
@@ -228,13 +235,6 @@
     "Project/Database/RDB/SQL/TCL/COMMIT.md",
     "Project/Database/RDB/SQL/SQL 실행 순서/WHERE.md",
     "Project/Database/RDB/SQL/SQL 실행 순서/ORDER BY.md",
-    "Project/Database/RDB/SQL/SQL 실행 순서/HAVING.md",
-    "Project/Database/RDB/SQL/SQL 실행 순서/GROUP BY.md",
-    "Project/Database/RDB/SQL/SQL 실행 순서/FROM.md",
-    "Project/Database/RDB/SQL/Query/Top-N Query.md",
-    "Project/Database/RDB/SQL/Query/SubQuery.md",
-    "Project/Database/RDB/SQL/Query/계층 Query.md",
-    "Project/Database/RDB/SQL/Join/SELF JOIN.md",
     "Archive/img/Coding Test/17103.png",
     "Archive/img/Coding Test/18870.png",
     "Archive/img/Coding Test/Deque.png",
