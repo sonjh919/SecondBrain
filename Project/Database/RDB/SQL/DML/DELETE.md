@@ -19,5 +19,5 @@ path:
 - 사용자 [[Project/Database/RDB/SQL/TCL/COMMIT|COMMIT]]
 
 ```sql
-DELETE [FROM] 테이블명;
+DELETE [FROM] '테이블명';
 ```

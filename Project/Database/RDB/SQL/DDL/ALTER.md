@@ -21,8 +21,8 @@ path:
 - 테이블의 마지막 칼럼이 되며 위치 지정 불가
 
 ```sql
-ALTER TABLE 테이블명
-ADD 추가칼럼명 데이터유형;
+ALTER TABLE '테이블명'
+ADD '추가칼럼명' '데이터유형';
 ```
 
 ### 📌 칼럼 삭제
@@ -31,8 +31,8 @@ ADD 추가칼럼명 데이터유형;
 - 복구 불가능
 
 ```sql
-ALTER TABLE 테이블명
-DROP COLUMN 삭제할칼럼명;
+ALTER TABLE '테이블명'
+DROP 'COLUMN' '삭제할칼럼명';
 ```
 
 ### 📌 칼럼 수정
@@ -43,39 +43,39 @@ DROP COLUMN 삭제할칼럼명;
 - NULL값이 없을 경우에만 NOT NULL 추가 가능
 
 ```sql
-ALTER TABLE 테이블명
-MODIFY (칼럼명1 데이터유형 [DEFAULT],
-				칼럼명2 데이터유형 [DEFAULT]...);
+ALTER TABLE '테이블명'
+MODIFY ('칼럼명1' '데이터유형' [DEFAULT],
+				'칼럼명2' '데이터유형' [DEFAULT]...);
 ```
 
 ### 📌 칼럼명 변경
 
 ```sql
-ALTER TABLE 테이블명
-RENAME COLUMN 이전칼럼명 TO 새칼럼명;
+ALTER TABLE '테이블명'
+RENAME COLUMN '이전칼럼명' TO '새칼럼명';
 ```
 
 ### 📌 제약조건 삭제
 
 ```sql
-ALTER TABLE 테이블명
-DROP CONSTRAINT 제약조건명;
+ALTER TABLE '테이블명'
+DROP CONSTRAINT '제약조건명';
 ```
 
 ### 📌 제약조건 추가
 
 ```sql
-ALTER TABLE 테이블명
-ADD CONSTRAINT 제약조건명 제약조건(칼럼명)
+ALTER TABLE '테이블명'
+ADD CONSTRAINT '제약조건명' '제약조건'('칼럼명')
 ```
 
 ### 📌 테이블 이름 변경
 
 ```sql
-RENAME 변경전테이블명 TO 변경후테이블명;
+RENAME '변경전테이블명' TO '변경후테이블명';
 ```
 
 ## 🌈 사용자 변경
 ```sql
-ALTER USER 사용자명 IDENTIFIED BY 패스워드;
+ALTER USER '사용자명' IDENTIFIED BY '패스워드';
 ```

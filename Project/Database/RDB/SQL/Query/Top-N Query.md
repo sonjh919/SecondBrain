@@ -23,10 +23,11 @@ path:
 - **ROWNUM은 SELECT 실행시 부여됨 → WHERE에서 항상 <나 ≤를 조건으로 사용( = 금지!)**
 
 ```sql
-SELECT ROWNUM, 이름, 국어, 영어, 수학
+SELECT ROWNUM, '이름', '국어', '영어', '수학'
   FROM (
-       SELECT 이름, 국어, 영어, 수학
+       SELECT '이름', '국어', '영어', '수학'
 	       FROM EXAM_SCORE
-        ORDER BY 국어 DESC, 영어 DESC, 수학 DESC) // ORDER BY가 SELECT보다 먼저 실행되기 위함
+        ORDER BY '국어' DESC, '영어' DESC, '수학' DESC) 
+        --ORDER BY가 SELECT보다 먼저 실행되기 위함--
  WHERE ROWNUM <= 5;
 ```

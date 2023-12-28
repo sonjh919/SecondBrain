@@ -19,6 +19,6 @@ path:
 - AUTO [[Project/Database/RDB/SQL/TCL/COMMIT|COMMIT]]
 
 ```sql
-TRUNCATE TABLE 테이블명;
+TRUNCATE TABLE '테이블명';
 ```
 

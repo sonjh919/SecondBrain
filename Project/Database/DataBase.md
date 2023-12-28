@@ -31,5 +31,5 @@ path:
 
 
 ## 🌈 RDB vs NoSQL
-[[RDB]]
-[[NoSQL]]
++ [[RDB]]
++ NoSQL (추후 추가)

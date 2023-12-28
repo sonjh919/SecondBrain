@@ -28,5 +28,5 @@ NATURAL JOIN IVE B;
 SELECT*
   FROM IZONE A
 NATURAL JOIN IVE B;
-USING(NAME, COM) -- *Alias*나 *TABLE*명을 붙이면 안됨!
+USING(NAME, COM) -- Alias나 TABLE명을 붙이면 안됨!
 ```

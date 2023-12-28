@@ -20,13 +20,13 @@ path:
 - 행 집합을 정의하는 기준으로 ORDER BY 와 PARTITION BY 사용
 
 ```sql
-// ORDER BY : 자신과 상위에 위치한 행들을 집합에 포함 -> 누적값에 활용
-SELECT 번호, 날짜, 수량
-     , SUM(수량) OVER(ORDER BY 날짜) AS 재고
-FROM 창고
+--ORDER BY : 자신과 상위에 위치한 행들을 집합에 포함 -> 누적값에 활용--
+SELECT '번호', '날짜', '수량'
+     , SUM('수량') OVER(ORDER BY '날짜') AS '재고'
+FROM '창고'
 
-// PARTITION BY : 해당 COLUMN값 기준으로 행 집합 나누기
-SELECT 번호, 날짜, 수량
-     , SUM(수량) OVER(PARTITION BY 물품 ORDER BY 날짜) AS 재고 // A, B 따로!!
-FROM 창고 ORDER BY 날짜
+--PARTITION BY : 해당 COLUMN값 기준으로 행 집합 나누기--
+SELECT '번호', '날짜', '수량'
+     , SUM('수량') OVER(PARTITION BY '물품' ORDER BY '날짜') AS '재고' --A, B 따로!!--
+FROM '창고' ORDER BY '날짜'
 ```

@@ -22,7 +22,7 @@ path:
 
 ```sql
 SELECT
-       EMP_NAME AS 이름
+       EMP_NAME AS '이름'
      , SALARY * 12 "1년급여"
      , (SALARY + (SALARY * NVL(BONUS, 0))) * 12 "총소득(원)"
   FROM EMPLOYEE;

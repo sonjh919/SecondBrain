@@ -21,5 +21,5 @@ ROLLBACK;
 ## 🌈 SAVEPOINT로 ROLLBACK하기
 + Transaction 작업을 취소하고 [[SAVEPOINT]] 시점으로 이동한다.
 ```sql
-ROLLBACK TO SAVEPOINT명;
+ROLLBACK TO 'SAVEPOINT명';
 ```

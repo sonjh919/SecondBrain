@@ -21,10 +21,10 @@ path:
 ```sql
 SELECT
         E1.EMP_ID
-      , E1.EMP_NAME 사원명
+      , E1.EMP_NAME '사원명'
       , E1.DEPT_CODE
       , E1.MANAGER_ID
-      , E2.EMP_NAME 관리자이름
+      , E2.EMP_NAME '관리자이름'
    FROM EMPLOYEE E1
    JOIN EMPLOYEE E2
      ON (E1.MANAGER_ID = E2.EMP_ID);
@@ -38,7 +38,7 @@ SELECT
       , E1.EMP_NAME
       , E1.DEPT_CODE
       , E1.MANAGER_ID
-      , E2.EMP_NAME 관리자이름
+      , E2.EMP_NAME '관리자이름'
    FROM EMPLOYEE E1
       , EMPLOYEE E2
   WHERE E1.MANAGER_ID = E2.EMP_ID;

@@ -17,8 +17,8 @@ path:
 
 ```sql
 CASE
-    WHEN 조건식 THEN 결과값
-    WHEN 조건식 THEN 결과값
+    WHEN '조건식' THEN '결과값'
+    WHEN '조건식' THEN '결과값'
  END
 ```
 
@@ -30,8 +30,9 @@ SELECT
      , CASE
          WHEN JOB_CODE = 'J7' THEN SALARY * 1.1
          WHEN JOB_CODE = 'J6' THEN SALARY * 1.15
-         WHEN JOB_CODE = 'J5' THEN SALARY * 1.2 // JOB_CODE를 CASE 옆으로 묶을 수도 있다.
+         WHEN JOB_CODE = 'J5' THEN SALARY * 1.2 
+         --JOB_CODE를 CASE 옆으로 묶을 수도 있다.--
          ELSE SALARY * 1.05
-       END AS 인상급여
+       END AS '인상급여'
   FROM EMPLOYEE;
 ```
