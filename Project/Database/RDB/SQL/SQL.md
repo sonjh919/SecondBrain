@@ -56,5 +56,12 @@ path:
 + [[날짜형 포맷]]
 + [[CASE]]
 + [[DUAL]]
++ [[IN & EXISTS]]
 + [[Project/Database/RDB/SQL/Join/JOIN|JOIN]]
++ [[VIEW]]
++ [[집합 연산자]]
++ [[절차형 SQL]]
+### 📌 Query
 + [[SubQuery]]
++ [[Top-N Query]]
++ [[계층 Query]]

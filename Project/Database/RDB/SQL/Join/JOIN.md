@@ -22,5 +22,5 @@ path:
 + [[NATURAL JOIN]]
 + [[CROSS JOIN]]
 + [[다중 JOIN]]
-
++ [[SELF JOIN]]
 
