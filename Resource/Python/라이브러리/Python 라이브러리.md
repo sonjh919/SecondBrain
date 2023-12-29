@@ -10,4 +10,4 @@
 [[heapq]]
 [[bisect]]
 [[collections]]
-[[math]]
+[[Resource/Python/라이브러리/math]]

@@ -8,24 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa159fb70c6d083e",
+            "id": "c23b9a628bebfdd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Java API/java.lang/java.lang.md",
+                "file": "Todo/TIL/2023-12-29 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "c23b9a628bebfdd6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -103,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Java API/java.lang/java.lang.md",
+                "file": "Todo/TIL/2023-12-29 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Java API/java.lang/java.lang.md",
+                "file": "Todo/TIL/2023-12-29 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Java API/java.lang/java.lang.md"
+                "file": "Todo/TIL/2023-12-29 TIL.md"
               }
             }
           },
@@ -215,38 +207,38 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fa159fb70c6d083e",
+  "active": "c23b9a628bebfdd6",
   "lastOpenFiles": [
-    "Project/JAVA/기본 문법/변수.md",
-    "Project/JAVA/기본 문법/상수.md",
-    "Project/JAVA/기본 문법/자료형.md",
+    "Todo/TIL/2023-12-28 TIL.md",
+    "Todo/TIL/2023-12-29 TIL.md",
+    "Inbox/끄적끄적.md",
+    "Project/Java API/java.lang/Object.md",
+    "Project/Java API/java.lang/record.md",
+    "Project/Java API/java.lang/Stream.md",
+    "Project/Java API/java.lang/String.md",
+    "Project/Java API/java.lang/StringBuffer & StringBuilder.md",
+    "Project/Java API/java.lang/Number.md",
+    "Project/Java API/java.lang/Math.md",
     "Project/Java API/java.lang/java.lang.md",
-    "Project/Java API/Java API.md",
-    "Project/Java API/java.util/java.util.md",
-    "Project/Java API/java.io/java.io.md",
-    "Project/JAVA/기본 문법/패키지.md",
+    "Project/Java API/java.lang/Exception.md",
+    "Project/Java API/java.lang/Class.md",
+    "Project/Java API/java.lang/Character.md",
+    "Project/Java API/java.lang/Boolean.md",
+    "Project/JAVA/개발 환경/JVM/Thread.md",
+    "Project/JAVA/개발 환경/JVM/Process.md",
+    "Project/JAVA/개발 환경/JVM/PC Register.md",
+    "Project/JAVA/개발 환경/JVM/Method Area.md",
+    "Project/JAVA/개발 환경/JVM/JVM.md",
+    "Project/JAVA/개발 환경/JVM/Heap Area.md",
+    "Project/JAVA/개발 환경/JVM/Runtime Data Area.md",
+    "Project/JAVA/개발 환경/JVM/Native Method Stack.md",
+    "Project/JAVA/개발 환경/JVM/Garbage Collector.md",
+    "Project/JAVA/개발 환경/JVM/Execution Engine.md",
+    "Project/JAVA/개발 환경/JVM/Class Loader.md",
     "Project/Java API/java.io",
-    "Project/Java API/무제 파일.md",
     "Project/Java API/java.util",
     "Project/Java API/java.lang",
-    "Project/Java API/모듈.md",
-    "Project/JAVA/기본 문법/메서드.md",
-    "Inbox/끄적끄적.md",
-    "Project/Database/RDB/SQL/DML/DELETE.md",
-    "Inbox/chirpy.md",
-    "Inbox/프리코스.md",
-    "Project/JAVA/개발 환경/JVM/JVM.md",
-    "Project/JAVA/개발 환경/JDK.md",
-    "Templates/gitblog templete.md",
-    "Templates/blog_Callout.md",
-    "Templates/Insert_Callout.md",
-    "Project/JAVA/기본 문법/배열.md",
-    "Project/JAVA/기본 문법/연산자.md",
-    "Todo/TIL/2023-12-28 TIL.md",
     "Project/Java API",
-    "Project/JAVA/개발 환경/JVM/Stack Area.md",
-    "Project/JAVA/개발 환경/JVM/Runtime Data Area.md",
-    "Project/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
     "Archive/img/Java/기본 문법/copy1.png",
     "Archive/img/Java/기본 문법/copy2.png",
     "Project/JAVA/개발 환경/JVM",
