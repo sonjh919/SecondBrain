@@ -16,7 +16,7 @@ path:
 + 모든 클래스의 최상위 클래스인 **Object** 클래스가 있다.
 + java.lang은 Compiler가 자동으로 추가해주기 때문에 java API 내에서 유일하게 import하지 않고 쓸 수 있다.
 
-## 🌈 포함되어 있는 클래스 및 인터페이스
+## 🌈 자주 쓰이는 클래스 및 인터페이스
 + Object
 + String
 + StringBuffer
@@ -24,3 +24,7 @@ path:
 + Boolean
 + Character
 + Number
++ Class
++ Stream
++ record
++ Math 
