@@ -13,20 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Java API/Java API.md",
+                "file": "Project/Java API/java.lang/Wrapper/Wrapper.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "0c79d612011ea863",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Archive/img/TIL/20231229.png"
               }
             }
           }
@@ -105,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Java API/Java API.md",
+                "file": "Project/Java API/java.lang/Wrapper/Wrapper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Java API/Java API.md",
+                "file": "Project/Java API/java.lang/Wrapper/Wrapper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Java API/Java API.md"
+                "file": "Project/Java API/java.lang/Wrapper/Wrapper.md"
               }
             }
           },
@@ -177,13 +167,8 @@
             "id": "051e6ba0a389143d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/JAVA/기본 문법/패키지.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -225,13 +210,30 @@
   "active": "c23b9a628bebfdd6",
   "lastOpenFiles": [
     "Project/Java API/java.lang/java.lang.md",
-    "Project/JAVA/기본 문법/패키지.md",
-    "Project/Java API/Java API.md",
+    "Project/Java API/java.lang/Wrapper/Wrapper.md",
+    "Project/Java API/java.lang/Wrapper",
+    "Project/Java API/java.lang/Math.md",
+    "Project/Java API/java.lang/Number.md",
+    "Project/Java API/java.lang/record.md",
+    "Project/Java API/java.lang/Stream.md",
+    "Project/Java API/java.lang/String.md",
     "Project/Java API/java.lang/StringBuffer & StringBuilder.md",
-    "Project/Java API/java.lang/Exception.md",
+    "Project/Java API/java.lang/Throwable/Error.md",
+    "Project/Java API/java.lang/Throwable/Exception.md",
+    "Project/Java API/java.lang/Throwable/Throwable.md",
+    "Project/Java API/java.lang/Void.md",
+    "Project/Java API/java.lang/Boolean.md",
+    "Project/Java API/java.lang/Void",
+    "Project/Java API/java.lang/Object.md",
+    "Project/Java API/java.lang/Character.md",
+    "Project/Java API/Java API.md",
+    "Project/Java API/모듈.md",
+    "Project/Java API/java.lang/Class.md",
+    "Archive/img/TIL/20231229.png",
+    "Project/Java API/java.lang/Throwable",
+    "Project/JAVA/기본 문법/패키지.md",
     "Inbox/끄적끄적.md",
     "Todo/TIL/2023-12-29 TIL.md",
-    "Archive/img/TIL/20231229.png",
     "Todo/TIL/2023-12-28 TIL.md",
     "Archive/img/Java API/java.lang/javalang.png",
     "Archive/img/Java API/java.lang",
@@ -241,32 +243,15 @@
     "Project/JAVA/개발 환경/JVM/Class Loader.md",
     "Project/JAVA/개발 환경/JVM/JVM.md",
     "Project/JAVA/개발 환경/JVM/Runtime Data Area.md",
-    "Project/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
-    "Project/Java API/java.lang/Class.md",
-    "Project/Java API/java.lang/Boolean.md",
-    "Project/Java API/java.lang/String.md",
-    "Project/Java API/java.lang/Object.md",
-    "Project/Java API/java.lang/record.md",
-    "Project/Java API/java.lang/Stream.md",
-    "Project/Java API/java.lang/Number.md",
-    "Project/Java API/java.lang/Math.md",
-    "Project/Java API/java.lang/Character.md",
-    "Project/JAVA/개발 환경/JVM/Thread.md",
-    "Project/JAVA/개발 환경/JVM/Process.md",
-    "Project/JAVA/개발 환경/JVM/PC Register.md",
-    "Project/JAVA/개발 환경/JVM/Method Area.md",
     "Project/Java API/java.io",
     "Project/Java API/java.util",
     "Project/Java API/java.lang",
     "Project/Java API",
     "Archive/img/Java/기본 문법/copy1.png",
     "Archive/img/Java/기본 문법/copy2.png",
-    "Project/JAVA/개발 환경/JVM",
     "Archive/img/TIL/20231228.png",
-    "Project/JAVA/클래스&객체",
     "Archive/img/Java/기본 문법/ASCII.png",
     "Archive/img/Java/기본 문법/연산자 우선순위.png",
-    "Archive/img/Java/기본 문법",
     "Archive/img/Java/개발 환경/java dev.png",
     "Archive/img/Java/개발 환경/runtime.png",
     "Archive/img/Java/개발 환경/JVM.png"

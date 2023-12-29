@@ -24,7 +24,7 @@ path:
 기본적으로 StringBuffer의 버퍼 크기의 기본값은 **16개의 문자**를 저장할 수 있는 크기이며, 생성자를 통해 그 크기를 별도로 설정할 수도 있다. 문자열 연산 중 할당 크기를 넘겨도 자동으로 증강시켜주지만 효율이 떨어질 수도 있으니 넉넉하게 잡자.
 
 
-### 📌 StringBuffer & StringBuilder 메서드 확인
+### 📌 StringBuffer & StringBuilder 공식문서
 + 두 클래스의 사용법은 같다.
 + https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/StringBuffer.html
 + https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/StringBuilder.html

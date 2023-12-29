@@ -24,7 +24,7 @@ path:
 + [[String]]
 + [[StringBuffer & StringBuilder]]
 + [[Throwable]]
-+ [[Exception]]
++ [[Wrapper]]
 + [[Boolean]]
 + [[Character]]
 + [[Number]]
