@@ -17,3 +17,4 @@ Java에서 [[자료형]]은 기본 타입(primitive type)과 참조 타입(refer
 
 Wrapper 클래스로 포장하는 것을 **박싱(Wrapper)**, 기본 타입으로 다시 포장을 푸는 것은 **언박싱(UnBoxing)** 이라 한다. JDK 1.5 이상부터는 컴파일러가 이를 자동으로 처리해주며, 이것을 Auto Boxing / Auto UnBoxing이라 한다.
 ## 🌈 Wrapper 계층도
+![[wrapper.png]]

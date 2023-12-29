@@ -20,6 +20,3 @@ path:
 ## 🌈 하위 클래스
 + [[Exception]]
 + [[Error]]
-
-## 🌈 Throwable 공식문서
-https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Throwable.html

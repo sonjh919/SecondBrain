@@ -18,21 +18,16 @@ path:
 
 ## 🌈 계층도
 ![[javalang.png]]
-
 ## 🌈 자주 쓰이는 클래스 및 인터페이스
 + [[Object]]
 + [[String]]
 + [[StringBuffer & StringBuilder]]
 + [[Throwable]]
 + [[Wrapper]]
-+ [[Boolean]]
-+ [[Character]]
-+ [[Number]]
 + [[Class]]
++ [[Project/Java API/java.lang/Math|Math]]
 + [[Stream]]
 + [[record]]
-+ [[Project/Java API/java.lang/Math|Math]]
-+ [[Void]]
 
 ## 🌈 시스템 레벨의 클래스
 ### 📌 [[Process]]

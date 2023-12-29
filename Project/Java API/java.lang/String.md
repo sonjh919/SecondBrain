@@ -19,6 +19,3 @@ path:
 
 > jdk 8 까지는 String 객체의 값은 char[] 배열로 구성되어져 있지만, jdk 9부터 기존 char[]에서 byte[]을 사용하여 String Compacting을 통한 성능 및 heap 공간 효율을 높이도록 수정되었다.
 {: .prompt-tip }
-
-### 📌 String 공식문서
-+ https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html
