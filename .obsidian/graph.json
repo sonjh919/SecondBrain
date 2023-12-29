@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "tag:Java",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -73,7 +73,7 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -2,
+  "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.01875,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
@@ -81,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626225252,
+  "scale": 0.09392927902848065,
   "close": true
 }
