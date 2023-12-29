@@ -13,14 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/JAVA/기본 문법/enum.md",
+                "file": "Project/JAVA/기본 문법/연산자.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "61e5b8c353973add",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/JAVA/기본 문법/enum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/JAVA/기본 문법/enum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Project/JAVA/기본 문법/enum.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,52 +212,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "fe72aedbb844b9b9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "74b51714aa5457ee",
-        "type": "window",
-        "children": [
-          {
-            "id": "b3641c2798e6cec1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d6d98fcb28774e28",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Project/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1302,
-        "y": 23,
-        "width": 1245,
-        "height": 1000,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f2eb955c68639bc1",
+  "active": "61e5b8c353973add",
   "lastOpenFiles": [
-    "Project/JAVA/기본 문법/배열.md",
+    "Project/JAVA/기본 문법/연산자.md",
+    "Project/JAVA/기본 문법/상수.md",
+    "Inbox/끄적끄적.md",
     "Project/JAVA/기본 문법/enum.md",
+    "Project/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
+    "Project/JAVA/기본 문법/배열.md",
     "Archive/img/Java/기본 문법/copy1.png",
     "Archive/img/Java/기본 문법/copy2.png",
     "Garbage Collecter.md",
-    "Project/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
     "Project/JAVA/개발 환경/JDK.md",
     "Project/JAVA/개발 환경/JIT.md",
     "Project/JAVA/개발 환경/JRE.md",
@@ -266,15 +236,12 @@
     "Project/JAVA/개발 환경/JVM/Garbage Collector.md",
     "Project/JAVA/개발 환경/JVM/Execution Engine.md",
     "Project/JAVA/개발 환경/JVM/Class Loader.md",
-    "Inbox/끄적끄적.md",
     "Todo/TIL/2023-12-28 TIL.md",
     "Project/JAVA/개발 환경/Java의 역사와 특징.md",
     "Project/JAVA/기본 문법/변수.md",
     "Project/JAVA/기본 문법/new.md",
     "Project/JAVA/기본 문법/패키지.md",
     "Project/JAVA/기본 문법/메소드.md",
-    "Templates/gitblog templete.md",
-    "Project/JAVA/기본 문법/연산자.md",
     "Project/JAVA/개발 환경/JVM",
     "Archive/img/TIL/20231228.png",
     "Project/JAVA/클래스&객체",
