@@ -13,8 +13,9 @@ path:
 
 ## 🌈 JDK(Java Development Kit) : Java 개발 키트
 + JDK는 Java로 개발을 하려는 사람들이 설치하여 사용하면 된다!
++ JDK에는 개발을 위한 여러 [[모듈]]이 포함되어 있다.
 + JDK에는 [[JRE]], [[JVM]] 등이 포함된다. 
-+ JDK에는 코드를 디버깅하는 jdb 등의 기능이 있다.
++ JDK에는 코드를 디버깅하는 jdb 기능이 있다.
 + JDK를 설치하려면 3가지 Edition 중 하나를 선택하여 설치하면 된다.
 
 

@@ -2,11 +2,10 @@
 title: <% tp.file.title %>
 date: <% tp.file.creation_date() %>
 categories:
-  - Java
-  - Java문법
+  - JavaAPI
 tags:
+  - JavaAPI
   - Java
-  - Java문법
 image: 
 path:
 ---
