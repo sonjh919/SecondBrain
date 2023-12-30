@@ -76,3 +76,10 @@ path:
 |StringReader|StringWriter|문자열|
 
 ### 📌 문자 기반 보조 스트림
+
+|입력 스트림|출력 스트림|입출력 대상|
+|---|---|---|
+|FilterReader|FilterWriter|필터를 이용한 입출력|
+|BufferedReader|BufferedWriter|버퍼를 이용한 입출력|
+|PushbackReader|X|다른 입력 스트림에 버퍼를 이용하여 push back이나 unread와 같은 기능을 추가함.|
+|X|PrintWriter|다른 출력 스트림에 버퍼를 이용하여 다양한 데이터를 출력하기 위한 기능을 추가함.|

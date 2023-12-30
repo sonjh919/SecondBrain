@@ -13,7 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Java API/java.io/java.io.md",
+                "file": "Templates/gitblog templete.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d89996d4f1e69850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/Java API/java.lang/java.lang.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1387321da29445a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Java API/java.io/java.io.md",
+                "file": "Templates/gitblog templete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Java API/java.io/java.io.md",
+                "file": "Templates/gitblog templete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Java API/java.io/java.io.md"
+                "file": "Templates/gitblog templete.md"
               }
             }
           },
@@ -209,27 +235,31 @@
   },
   "active": "c23b9a628bebfdd6",
   "lastOpenFiles": [
+    "Project/Java API/java.util/Collection/Collection.md",
+    "Project/Java API/java.util/java.util.md",
+    "Project/Java API/java.util/Collection",
     "Inbox/끄적끄적.md",
+    "Project/Java API/Java API.md",
+    "Project/Java API/java.lang/Math.md",
+    "Project/Java API/java.time",
+    "Project/Java API/java.lang/java.lang.md",
     "Project/Java API/java.io/java.io.md",
+    "Inbox/프리코스.md",
     "Templates/blog_Callout.md",
     "Templates/TIL Templete.md",
     "Templates/Insert_Callout.md",
     "Project/Java API/java.lang/Class.md",
-    "Project/Java API/java.lang/java.lang.md",
     "Project/Java API/java.lang/Object.md",
     "Project/Java API/java.lang/String.md",
     "Project/Java API/java.lang/StringBuffer & StringBuilder.md",
     "Project/Java API/java.lang/Stream.md",
     "Project/Java API/java.lang/record.md",
     "Archive/img/Java API/java.lang/javalang.png",
-    "Project/Java API/java.util/java.util.md",
     "Project/Java API/모듈.md",
     "Project/Java API/java.lang/Throwable/Throwable.md",
-    "Project/Java API/java.lang/Math.md",
     "Project/Java API/java.lang/Throwable/Exception.md",
     "Project/Java API/java.lang/Wrapper.md",
     "Project/Java API/java.lang/Void.md",
-    "Project/Java API/Java API.md",
     "Project/Java API/java.lang/Boolean.md",
     "Project/Java API/java.lang/Character.md",
     "Project/Java API/java.lang/Number.md",
@@ -240,14 +270,10 @@
     "Project/Java API/java.lang/Void",
     "Archive/img/TIL/20231229.png",
     "Project/Java API/java.lang/Throwable",
-    "Project/JAVA/기본 문법/패키지.md",
-    "Todo/TIL/2023-12-29 TIL.md",
     "Archive/img/Java API/java.lang",
     "Archive/img/Java API",
     "Archive/무제 폴더",
     "Project/Java API/java.io",
-    "Project/Java API/java.util",
-    "Project/Java API/java.lang",
     "Archive/img/Java/기본 문법/copy1.png",
     "Archive/img/Java/기본 문법/copy2.png",
     "Archive/img/TIL/20231228.png",
