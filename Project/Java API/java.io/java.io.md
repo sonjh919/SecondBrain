@@ -38,6 +38,7 @@ path:
 |OutputStream|abstract void write(int b)|해당 출력 스트림에 특정 바이트를 저장함.|
 ||void write(byte[] b)|열 b의 특정 바이트를 배열 b의 길이만큼 해당 출력 스트림에 저장함.|
 ||void write(byte[] b, int off, int len)|배열 b[off]부터 len 바이트를 해당 출력 스트림에 저장함.|
+
 > read() 메소드는 해당 입력 스트림에서 더 이상 읽어들일 바이트가 없으면, **-1을 반환**해야 한다.  
 그런데 반환 타입을 byte 타입으로 하면, 0부터 255까지의 바이트 정보는 표현할 수 있지만 -1은 표현할 수 없게 되므로 InputStream의 read() 메소드는 반환 타입을 **int형**으로 선언하고 있다.
 {: .prompt-tip }
@@ -52,6 +53,7 @@ path:
 |ByteArrayInputStream|ByteArrayOutputStream|메모리|
 |PipedInputStream|PipedOutputStream|프로세스|
 |AudioInputStream|AudioOutputStream|오디오 장치|
+
 ### 📌 바이트 기반 보조 스트림
 + Java에서 제공하는 보조 스트림은 실제로 데이터를 주고받을 수는 없지만, 다른 스트림의 기능을 향상시키거나 새로운 기능을 추가해 주는 스트림이다.
 
