@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Java API/java.lang/Math.md",
+                "file": "Project/Java API/java.util/Collection/List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7584935dbe1e540",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/JAVA/기본 문법/상수.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Java API/java.lang/Math.md",
+                "file": "Project/JAVA/기본 문법/상수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Java API/java.lang/Math.md",
+                "file": "Project/JAVA/기본 문법/상수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Java API/java.lang/Math.md"
+                "file": "Project/JAVA/기본 문법/상수.md"
               }
             }
           },
@@ -207,11 +221,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c23b9a628bebfdd6",
+  "active": "e7584935dbe1e540",
   "lastOpenFiles": [
-    "Project/Java API/java.lang/java.lang.md",
-    "Project/Java API/java.lang/Stream.md",
     "Project/Java API/java.util/Collection/List.md",
+    "Project/Java API/java.util/Collection/Collection.md",
+    "Project/Java API/java.lang/java.lang.md",
+    "Project/Java API/java.lang/Math.md",
+    "Project/Java API/java.lang/Stream.md",
     "Project/Java API/java.util/Map.md",
     "Project/Java API/java.util/Scanner.md",
     "Project/Java API/java.util/Random.md",
@@ -227,7 +243,6 @@
     "Project/Java API/java.lang/Class.md",
     "Project/Java API/java.util/Collection/Queue.md",
     "Project/Java API/java.util/Collection/Set.md",
-    "Project/Java API/java.util/Collection/Collection.md",
     "Project/JAVA/기본 문법/자료형.md",
     "Map.md",
     "Templates/blog_Callout.md",
@@ -236,7 +251,6 @@
     "Project/Java API/java.lang/Throwable/Throwable.md",
     "Archive/img/Java API/java.util/Collection/collection.png",
     "Archive/img/Java API/java.util/Collection/collection.png",
-    "Project/Java API/Java API.md",
     "Archive/img/Java API/java.util/Collection",
     "Archive/img/Java API/java.util",
     "Project/Java API/java.util/Collection",
