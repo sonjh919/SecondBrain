@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/gitblog templete.md",
+                "file": "Project/Java API/java.util/Collection/Collection.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Java API/java.lang/java.lang.md",
+                "file": "Project/Java API/java.util/java.util.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/gitblog templete.md",
+                "file": "Project/Java API/java.util/Collection/Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/gitblog templete.md",
+                "file": "Project/Java API/java.util/Collection/Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/gitblog templete.md"
+                "file": "Project/Java API/java.util/Collection/Collection.md"
               }
             }
           },
@@ -233,17 +233,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c23b9a628bebfdd6",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
+    "Project/Java API/Java API.md",
+    "Project/Java API/java.io/java.io.md",
     "Project/Java API/java.util/Collection/Collection.md",
     "Project/Java API/java.util/java.util.md",
+    "Templates/gitblog templete.md",
+    "Project/Java API/java.lang/java.lang.md",
     "Project/Java API/java.util/Collection",
     "Inbox/끄적끄적.md",
-    "Project/Java API/Java API.md",
     "Project/Java API/java.lang/Math.md",
     "Project/Java API/java.time",
-    "Project/Java API/java.lang/java.lang.md",
-    "Project/Java API/java.io/java.io.md",
     "Inbox/프리코스.md",
     "Templates/blog_Callout.md",
     "Templates/TIL Templete.md",
@@ -263,7 +264,6 @@
     "Project/Java API/java.lang/Boolean.md",
     "Project/Java API/java.lang/Character.md",
     "Project/Java API/java.lang/Number.md",
-    "Project/Java API/java.lang/Throwable/Error.md",
     "Archive/img/Java API/java.lang/wrapper.png",
     "Archive/img/Java API/java.lang/Wrapper",
     "Project/Java API/java.lang/Wrapper",
