@@ -8,6 +8,7 @@ tags:
   - JavaAPI
   - Java
   - javalang
+  - Throwable
 image: 
 path:
 ---

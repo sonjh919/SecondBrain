@@ -6,5 +6,5 @@
 [[Greedy]]
 [[이진 탐색]]
 [[Stack]]
-[[Queue]]
+[[Area/Algorithm & Data Structure/Queue]]
 [[덱 (Deque)]]

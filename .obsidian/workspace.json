@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Java API/java.util/Collection/Collection.md",
+                "file": "Project/Java API/java.util/Collection/List.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Java API/java.util/Collection/Collection.md",
+                "file": "Project/Java API/java.util/Collection/List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Java API/java.util/Collection/Collection.md",
+                "file": "Project/Java API/java.util/Collection/List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Java API/java.util/Collection/Collection.md"
+                "file": "Project/Java API/java.util/Collection/List.md"
               }
             }
           },
@@ -233,12 +233,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "c23b9a628bebfdd6",
   "lastOpenFiles": [
-    "Project/Java API/Java API.md",
-    "Project/Java API/java.io/java.io.md",
     "Project/Java API/java.util/Collection/Collection.md",
+    "Project/Java API/java.util/Collection/List.md",
+    "Project/Java API/java.util/Collection/Queue.md",
+    "Project/Java API/java.util/Collection/Set.md",
+    "Project/Java API/java.lang/Throwable/Error.md",
+    "Project/Java API/java.lang/Throwable/Exception.md",
+    "Project/Java API/java.lang/Throwable/Throwable.md",
     "Project/Java API/java.util/java.util.md",
+    "Archive/img/Java API/java.util/Collection/collection.png",
+    "Archive/img/Java API/java.util/Collection/collection.png",
+    "Project/Java API/Java API.md",
+    "Archive/img/Java API/java.util/Collection",
+    "Archive/img/Java API/java.util",
+    "Project/Java API/java.io/java.io.md",
     "Templates/gitblog templete.md",
     "Project/Java API/java.lang/java.lang.md",
     "Project/Java API/java.util/Collection",
@@ -257,13 +267,7 @@
     "Project/Java API/java.lang/record.md",
     "Archive/img/Java API/java.lang/javalang.png",
     "Project/Java API/모듈.md",
-    "Project/Java API/java.lang/Throwable/Throwable.md",
-    "Project/Java API/java.lang/Throwable/Exception.md",
     "Project/Java API/java.lang/Wrapper.md",
-    "Project/Java API/java.lang/Void.md",
-    "Project/Java API/java.lang/Boolean.md",
-    "Project/Java API/java.lang/Character.md",
-    "Project/Java API/java.lang/Number.md",
     "Archive/img/Java API/java.lang/wrapper.png",
     "Archive/img/Java API/java.lang/Wrapper",
     "Project/Java API/java.lang/Wrapper",
@@ -272,13 +276,10 @@
     "Project/Java API/java.lang/Throwable",
     "Archive/img/Java API/java.lang",
     "Archive/img/Java API",
-    "Archive/무제 폴더",
-    "Project/Java API/java.io",
     "Archive/img/Java/기본 문법/copy1.png",
     "Archive/img/Java/기본 문법/copy2.png",
     "Archive/img/TIL/20231228.png",
     "Archive/img/Java/기본 문법/ASCII.png",
-    "Archive/img/Java/기본 문법/연산자 우선순위.png",
-    "Archive/img/Java/개발 환경/java dev.png"
+    "Archive/img/Java/기본 문법/연산자 우선순위.png"
   ]
 }
