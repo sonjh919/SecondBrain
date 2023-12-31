@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/JAVA/클래스&객체/가변 클래스.md",
+                "file": "Todo/TIL/2023-12-31 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/JAVA/클래스&객체/가변 클래스.md",
+                "file": "Todo/TIL/2023-12-31 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/JAVA/클래스&객체/가변 클래스.md",
+                "file": "Todo/TIL/2023-12-31 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/JAVA/클래스&객체/가변 클래스.md"
+                "file": "Todo/TIL/2023-12-31 TIL.md"
               }
             }
           },
@@ -223,10 +223,16 @@
   },
   "active": "a12f91a012c3df46",
   "lastOpenFiles": [
-    "Project/JAVA/클래스&객체/불변 클래스.md",
+    "Project/OOP/OOP.md",
+    "Project/JAVA/클래스&객체/객체 지향 언어.md",
+    "Project/OOP",
+    "Templates/gitblog templete.md",
     "Project/JAVA/기본 문법/연산자.md",
-    "Project/JAVA/기본 문법/형 변환.md",
+    "Project/JAVA/상속",
+    "Templates/blog_Callout.md",
     "Project/JAVA/클래스&객체/가변 클래스.md",
+    "Project/JAVA/클래스&객체/불변 클래스.md",
+    "Project/JAVA/기본 문법/형 변환.md",
     "Project/JAVA/기본 문법/Static.md",
     "Project/JAVA/기본 문법/new.md",
     "Project/JAVA/기본 문법/Literal.md",
@@ -245,10 +251,6 @@
     "Project/Java API/java.lang/Math.md",
     "Project/Java API/java.lang/Stream.md",
     "Project/Java API/java.util/Map.md",
-    "Project/Java API/java.util/Random.md",
-    "Project/Java API/java.util/regex.md",
-    "Project/Java API/java.util/logging.md",
-    "Project/Java API/java.io/java.io.md",
     "Archive/img/Java API/java.util/Collection/collection.png",
     "Archive/img/Java API/java.util/Collection/collection.png",
     "Archive/img/Java API/java.util/Collection",
@@ -262,8 +264,6 @@
     "Project/Java API/java.lang/Void",
     "Archive/img/TIL/20231229.png",
     "Project/Java API/java.lang/Throwable",
-    "Archive/img/Java API/java.lang",
-    "Archive/img/Java API",
     "Archive/img/Java/기본 문법/copy1.png",
     "Archive/img/Java/기본 문법/copy2.png",
     "Archive/img/TIL/20231228.png",
