@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "405de96b367d09d7",
+        "id": "daba7c5fe390d52c",
         "type": "tabs",
         "children": [
           {
-            "id": "e7584935dbe1e540",
+            "id": "50025d21e7bcb9de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/2023-12-22-TIL.md",
+                "file": "Todo/TIL/2023-12-31 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/2023-12-22-TIL.md",
+                "file": "Todo/TIL/2023-12-31 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/2023-12-22-TIL.md",
+                "file": "Todo/TIL/2023-12-31 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/TIL/2023-12-22-TIL.md"
+                "file": "Todo/TIL/2023-12-31 TIL.md"
               }
             }
           },
@@ -207,55 +207,30 @@
       "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "03f7e697f321b9c3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "394ee76b956b2f68",
-        "type": "window",
-        "children": [
-          {
-            "id": "f534040820f62e62",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6d410dc5b0fa51d8",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1288,
-        "y": 31,
-        "width": 1245,
-        "height": 1000,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e7584935dbe1e540",
+  "active": "50025d21e7bcb9de",
   "lastOpenFiles": [
-    "Todo/TIL/2023-12-23 TIL.md",
-    "Todo/TIL/2023-12-24 TIL.md",
-    "Todo/TIL/2023-12-25 TIL.md",
-    "Todo/TIL/2023-12-22-TIL.md",
-    "Templates/gitblog templete.md",
-    "Todo/TIL/2023-12-27 TIL.md",
+    "Todo/TIL/2023-12-29 TIL.md",
     "Todo/TIL/2023-12-26 TIL.md",
+    "Todo/TIL/2023-12-23 TIL.md",
+    "Todo/TIL/TIL.md",
     "Todo/TIL/2023-12-31 TIL.md",
     "Todo/TIL/2023-12-30 TIL.md",
+    "Todo/TIL/2023-12-28 TIL.md",
+    "Todo/TIL/2023-12-27 TIL.md",
+    "Todo/TIL/2023-12-25 TIL.md",
+    "Todo/TIL/2023-12-24 TIL.md",
+    "Todo/TIL/2023-12-22-TIL.md",
     "Todo/TIL/2023-12-21-TIL.md",
+    "Resource/Blog/github 블로그를 시작하며.md",
+    "Archive/img/TIL/20231223.png",
+    "Archive/img/TIL/20231227.png",
+    "Project/Database/RDB/SQL/Query/계층 Query.md",
+    "Project/Database/RDB/SQL/문법/절차형 SQL.md",
+    "Project/Database/RDB/SQL/Query/SubQuery.md",
+    "Templates/gitblog templete.md",
     "Project/Java API/java.util/java.util.md",
     "Project/JAVA/기본 문법/연산자.md",
     "Archive/img/TIL/20231231.png",
-    "Todo/TIL/2023-12-29 TIL.md",
     "Project/OOP/OOP.md",
     "Project/JAVA/클래스&객체/객체 지향 언어.md",
     "Project/OOP",
@@ -265,12 +240,6 @@
     "Project/JAVA/클래스&객체/불변 클래스.md",
     "Project/JAVA/기본 문법/형 변환.md",
     "Project/JAVA/기본 문법/Static.md",
-    "Project/JAVA/기본 문법/new.md",
-    "Project/JAVA/기본 문법/Literal.md",
-    "Project/Java API/java.util/Collection/Collection.md",
-    "Project/Java API/java.util/Collection/List.md",
-    "Project/JAVA/기본 문법/배열.md",
-    "Project/JAVA/개발 환경/JVM/Heap Area.md",
     "Archive/img/Java API/java.util/Collection/collection.png",
     "Archive/img/Java API/java.util/Collection/collection.png",
     "Archive/img/Java API/java.util/Collection",
@@ -285,8 +254,6 @@
     "Archive/img/TIL/20231229.png",
     "Project/Java API/java.lang/Throwable",
     "Archive/img/Java/기본 문법/copy1.png",
-    "Archive/img/Java/기본 문법/copy2.png",
-    "Archive/img/TIL/20231228.png",
-    "Archive/img/Java/기본 문법/ASCII.png"
+    "Archive/img/Java/기본 문법/copy2.png"
   ]
 }
