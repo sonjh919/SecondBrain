@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/JAVA/기본 문법/연산자.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a12f91a012c3df46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo/TIL/2023-12-31 TIL.md",
+                "file": "Todo/TIL/2023-12-22-TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/2023-12-31 TIL.md",
+                "file": "Todo/TIL/2023-12-22-TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/2023-12-31 TIL.md",
+                "file": "Todo/TIL/2023-12-22-TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/TIL/2023-12-31 TIL.md"
+                "file": "Todo/TIL/2023-12-22-TIL.md"
               }
             }
           },
@@ -221,13 +207,58 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a12f91a012c3df46",
+  "floating": {
+    "id": "03f7e697f321b9c3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "394ee76b956b2f68",
+        "type": "window",
+        "children": [
+          {
+            "id": "f534040820f62e62",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6d410dc5b0fa51d8",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1288,
+        "y": 31,
+        "width": 1245,
+        "height": 1000,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e7584935dbe1e540",
   "lastOpenFiles": [
+    "Todo/TIL/2023-12-23 TIL.md",
+    "Todo/TIL/2023-12-24 TIL.md",
+    "Todo/TIL/2023-12-25 TIL.md",
+    "Todo/TIL/2023-12-22-TIL.md",
+    "Templates/gitblog templete.md",
+    "Todo/TIL/2023-12-27 TIL.md",
+    "Todo/TIL/2023-12-26 TIL.md",
+    "Todo/TIL/2023-12-31 TIL.md",
+    "Todo/TIL/2023-12-30 TIL.md",
+    "Todo/TIL/2023-12-21-TIL.md",
+    "Project/Java API/java.util/java.util.md",
+    "Project/JAVA/기본 문법/연산자.md",
+    "Archive/img/TIL/20231231.png",
+    "Todo/TIL/2023-12-29 TIL.md",
     "Project/OOP/OOP.md",
     "Project/JAVA/클래스&객체/객체 지향 언어.md",
     "Project/OOP",
-    "Templates/gitblog templete.md",
-    "Project/JAVA/기본 문법/연산자.md",
     "Project/JAVA/상속",
     "Templates/blog_Callout.md",
     "Project/JAVA/클래스&객체/가변 클래스.md",
@@ -240,17 +271,6 @@
     "Project/Java API/java.util/Collection/List.md",
     "Project/JAVA/기본 문법/배열.md",
     "Project/JAVA/개발 환경/JVM/Heap Area.md",
-    "Project/JAVA/기본 문법/제어문.md",
-    "Project/Java API/java.util/Scanner.md",
-    "Project/JAVA/기본 문법/패키지.md",
-    "Project/JAVA/기본 문법/상수.md",
-    "Inbox/끄적끄적.md",
-    "Todo/TIL/2023-12-31 TIL.md",
-    "Project/JAVA/기본 문법/변수.md",
-    "Project/Java API/java.lang/java.lang.md",
-    "Project/Java API/java.lang/Math.md",
-    "Project/Java API/java.lang/Stream.md",
-    "Project/Java API/java.util/Map.md",
     "Archive/img/Java API/java.util/Collection/collection.png",
     "Archive/img/Java API/java.util/Collection/collection.png",
     "Archive/img/Java API/java.util/Collection",
@@ -267,7 +287,6 @@
     "Archive/img/Java/기본 문법/copy1.png",
     "Archive/img/Java/기본 문법/copy2.png",
     "Archive/img/TIL/20231228.png",
-    "Archive/img/Java/기본 문법/ASCII.png",
-    "Archive/img/Java/기본 문법/연산자 우선순위.png"
+    "Archive/img/Java/기본 문법/ASCII.png"
   ]
 }
