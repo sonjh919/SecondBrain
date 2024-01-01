@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+                "file": "Todo/TIL/2023-12-31 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+                "file": "Todo/TIL/2023-12-31 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+                "file": "Todo/TIL/2023-12-31 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md"
+                "file": "Todo/TIL/2023-12-31 TIL.md"
               }
             }
           },
@@ -209,8 +209,8 @@
   },
   "active": "50025d21e7bcb9de",
   "lastOpenFiles": [
-    "Inbox/좋아하는 글귀들.md",
     "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+    "Inbox/좋아하는 글귀들.md",
     "Inbox/끄적끄적.md",
     "Inbox/프리코스.md",
     "Inbox/chirpy.md",
