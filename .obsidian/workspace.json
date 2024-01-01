@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
+                "file": "Project/객체지향의 사실과 오해/03 타입과 추상화.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
+                "file": "Project/객체지향의 사실과 오해/03 타입과 추상화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
+                "file": "Project/객체지향의 사실과 오해/03 타입과 추상화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/02 이상한 나라의 객체.md"
+                "file": "Project/객체지향의 사실과 오해/03 타입과 추상화.md"
               }
             }
           },
@@ -209,8 +209,9 @@
   },
   "active": "50025d21e7bcb9de",
   "lastOpenFiles": [
-    "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
     "Project/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
+    "Project/객체지향의 사실과 오해/03 타입과 추상화.md",
+    "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
     "Templates/gitblog templete.md",
     "Templates/TIL Templete.md",
     "Project/OOP/OOP.md",
@@ -237,7 +238,6 @@
     "Archive/img/TIL/20231223.png",
     "Archive/img/TIL/20231227.png",
     "Project/Database/RDB/SQL/Query/계층 Query.md",
-    "Project/Database/RDB/SQL/문법/절차형 SQL.md",
     "Archive/img/TIL/20231231.png",
     "Project/OOP",
     "Project/JAVA/상속",
