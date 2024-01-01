@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+                "file": "Project/객체지향의 사실과 오해/05 책임과 메시지.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+                "file": "Project/객체지향의 사실과 오해/05 책임과 메시지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+                "file": "Project/객체지향의 사실과 오해/05 책임과 메시지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md"
+                "file": "Project/객체지향의 사실과 오해/05 책임과 메시지.md"
               }
             }
           },
@@ -223,8 +223,11 @@
   },
   "active": "a71c26d7c245de71",
   "lastOpenFiles": [
-    "Project/객체지향의 사실과 오해/03 타입과 추상화.md",
     "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+    "Project/객체지향의 사실과 오해/05 책임과 메시지.md",
+    "Project/객체지향의 사실과 오해/03 타입과 추상화.md",
+    "Project/객체지향의 사실과 오해/07 함께 모으기.md",
+    "Project/객체지향의 사실과 오해/06 객체 지도.md",
     "Inbox/끄적끄적.md",
     "Todo/TIL/2024-01-01 TIL.md",
     "Archive/img/TIL/20240101.png",
@@ -248,8 +251,6 @@
     "Todo/TIL/2023-12-28 TIL.md",
     "Todo/TIL/2023-12-27 TIL.md",
     "Todo/TIL/2023-12-25 TIL.md",
-    "Todo/TIL/2023-12-24 TIL.md",
-    "Todo/TIL/2023-12-22-TIL.md",
     "Archive/img/TIL/20231223.png",
     "Archive/img/TIL/20231227.png",
     "Archive/img/TIL/20231231.png",
