@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/03 타입과 추상화.md",
+                "file": "Todo/TIL/2024-01-01 TIL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a71c26d7c245de71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/03 타입과 추상화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/03 타입과 추상화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Project/객체지향의 사실과 오해/03 타입과 추상화.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,20 +217,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "50025d21e7bcb9de",
+  "active": "051e6ba0a389143d",
   "lastOpenFiles": [
-    "Inbox/프리코스.md",
-    "Inbox/끄적끄적.md",
-    "Inbox/좋아하는 글귀들.md",
+    "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+    "Todo/TIL/2024-01-01 TIL.md",
+    "Archive/img/TIL/20240101.png",
+    "Project/객체지향의 사실과 오해/MOC.md",
     "Project/객체지향의 사실과 오해/03 타입과 추상화.md",
     "Project/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
     "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+    "Todo/TIL/2023-12-31 TIL.md",
+    "Inbox/프리코스.md",
+    "Inbox/끄적끄적.md",
+    "Inbox/좋아하는 글귀들.md",
     "Templates/gitblog templete.md",
     "Templates/TIL Templete.md",
     "Project/OOP/OOP.md",
     "Templates/blog_Callout.md",
-    "Todo/TIL/2024-01-01 TIL.md",
-    "Todo/TIL/2023-12-31 TIL.md",
     "Inbox/chirpy.md",
     "Project/객체지향의 사실과 오해",
     "Todo/TIL/2023-12-29 TIL.md",
@@ -233,11 +246,8 @@
     "Todo/TIL/2023-12-25 TIL.md",
     "Todo/TIL/2023-12-24 TIL.md",
     "Todo/TIL/2023-12-22-TIL.md",
-    "Todo/TIL/2023-12-21-TIL.md",
-    "Resource/Blog/github 블로그를 시작하며.md",
     "Archive/img/TIL/20231223.png",
     "Archive/img/TIL/20231227.png",
-    "Project/Database/RDB/SQL/Query/계층 Query.md",
     "Archive/img/TIL/20231231.png",
     "Project/OOP",
     "Project/JAVA/상속",
@@ -253,7 +263,6 @@
     "Project/Java API/java.lang/Wrapper",
     "Project/Java API/java.lang/Void",
     "Archive/img/TIL/20231229.png",
-    "Archive/img/Java/기본 문법/copy1.png",
-    "Archive/img/Java/기본 문법/copy2.png"
+    "Archive/img/Java/기본 문법/copy1.png"
   ]
 }
