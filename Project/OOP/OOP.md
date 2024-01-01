@@ -5,6 +5,7 @@ categories:
   - OOP
 tags:
   - OOP
+  - 객체지향
 image: 
 path:
 ---

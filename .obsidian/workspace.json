@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/2023-12-31 TIL.md",
+                "file": "Project/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/2023-12-31 TIL.md",
+                "file": "Project/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/2023-12-31 TIL.md",
+                "file": "Project/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/TIL/2023-12-31 TIL.md"
+                "file": "Project/객체지향의 사실과 오해/02 이상한 나라의 객체.md"
               }
             }
           },
@@ -210,11 +210,17 @@
   "active": "50025d21e7bcb9de",
   "lastOpenFiles": [
     "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+    "Project/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
+    "Templates/gitblog templete.md",
+    "Templates/TIL Templete.md",
+    "Project/OOP/OOP.md",
+    "Templates/blog_Callout.md",
+    "Todo/TIL/2024-01-01 TIL.md",
+    "Todo/TIL/2023-12-31 TIL.md",
     "Inbox/좋아하는 글귀들.md",
     "Inbox/끄적끄적.md",
     "Inbox/프리코스.md",
     "Inbox/chirpy.md",
-    "Todo/TIL/2023-12-31 TIL.md",
     "Project/객체지향의 사실과 오해",
     "Todo/TIL/2023-12-29 TIL.md",
     "Todo/TIL/2023-12-26 TIL.md",
@@ -232,13 +238,7 @@
     "Archive/img/TIL/20231227.png",
     "Project/Database/RDB/SQL/Query/계층 Query.md",
     "Project/Database/RDB/SQL/문법/절차형 SQL.md",
-    "Project/Database/RDB/SQL/Query/SubQuery.md",
-    "Templates/gitblog templete.md",
-    "Project/Java API/java.util/java.util.md",
-    "Project/JAVA/기본 문법/연산자.md",
     "Archive/img/TIL/20231231.png",
-    "Project/OOP/OOP.md",
-    "Project/JAVA/클래스&객체/객체 지향 언어.md",
     "Project/OOP",
     "Project/JAVA/상속",
     "Archive/img/Java API/java.util/Collection/collection.png",
