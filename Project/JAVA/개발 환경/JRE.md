@@ -11,6 +11,6 @@ image:
 path:
 ---
 
-## 🌈 JRE(Java Runtime Environment)
+## JRE(Java Runtime Environment)
 + 자바 실행 환경으로, JRE가 있으면 Java 프로그램을 실행시킬 수 있다.
 + 실행만 가능하고, 개발을 원하면 [[JDK]]를 설치해야 한다.

@@ -12,7 +12,7 @@ image:
 path:
 ---
 
-## 🌈 IN
+## IN
 +  IN 구문에 **입력된 값들 중에서 하나라도 일치하는 것이 있으면 조회**된다.
 + [[SubQuery]]를 넣을 수 있다.
 + Null과의 값 비교는 불가능하다. 
@@ -27,7 +27,7 @@ SELECT employee_name, department
 
 ```
 
-## 🌈 EXISTS
+## EXISTS
 + ROW가 존재하는지만 체크하고 더 이상 수행되지 않으므로 **IN보다 성능이 좋다.**
 +  NULL ROW가 있을 때 NOT EXISTS 조회시 TRUE값을 반환한다.
 

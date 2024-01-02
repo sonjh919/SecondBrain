@@ -12,13 +12,13 @@ image:
 path:
 ---
 
-## 🌈 Inner JOIN
+## Inner JOIN
 + JOIN 조건에 충족하는 데이터만 출력
 
-### 📌 EQUI JOIN
+### EQUI JOIN
 - EQUAL(=)를 조건으로 JOIN
 
-#### 🧶 STANDARD(ANSI)
+#### STANDARD(ANSI)
 
 - ON을 사용하나, 두 COLUMN명이 같을 경우 USING도 사용 가능하다.
 
@@ -35,7 +35,7 @@ SELECT E.EMP_ID, E.EMP_NAME, E.JOB_CODE, D.DEPT_TITLE
   JOIN JOB J USING(JOB_CODE); -- USING사용 시 해당 COLUMN명에 Alias사용 불가
 ```
 
-#### 🧶 ORACLE
+#### ORACLE
 
 ```sql
 SELECT E.EMP_ID, E.EMP_NAME, E.JOB_CODE, J.JOB_NAME
@@ -43,11 +43,11 @@ SELECT E.EMP_ID, E.EMP_NAME, E.JOB_CODE, J.JOB_NAME
  WHERE E.JOB_CODE = J.JOB_CODE;
 ```
 
-### 📌 Non EQUI JOIN
+### Non EQUI JOIN
 - EQUAL(=)이 아닌 다른 조건(BETWEEN, >, <)으로 JOIN
 - **설계상의 이유로 수행이 불가능한 경우도 존재**
 
-#### 🧶 STANDARD(ANSI)
+#### STANDARD(ANSI)
 
 ```sql
 SELECT E.EMP_NAME, E.SALARY, E.SAL_LEVEL, S.SAL_LEVEL
@@ -55,7 +55,7 @@ SELECT E.EMP_NAME, E.SALARY, E.SAL_LEVEL, S.SAL_LEVEL
   JOIN SAL_GRADE S ON(E.SALARY BETWEEN S.MIN_SAL AND S.MAX_SAL); --범위
 ```
 
-#### 🧶 ORACLE
+#### ORACLE
 
 ```sql
 SELECT E.EMP_NAME, E.SALARY, E.SAL_LEVEL, S.SAL_LEVEL

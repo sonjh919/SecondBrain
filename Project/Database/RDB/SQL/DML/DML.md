@@ -12,7 +12,7 @@ image:
 path:
 ---
 
-## 🌈 DML
+## DML
 + 데이터 조작어
 - 구조는 변하지 않고 data 변화 행의 내용을 추가/수정/삭제하는 것
 
@@ -20,7 +20,7 @@ path:
 + [[UPDATE]]
 + [[DELETE]]
 
-## 🌈 DQL/DML
+## DQL/DML
 
 - 조건에 맞는 data를 select하는 기술
 

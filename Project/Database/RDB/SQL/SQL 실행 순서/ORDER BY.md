@@ -12,7 +12,7 @@ image:
 path:
 ---
 
-## 🌈 ORDER BY
+## ORDER BY
 
 - **ASC** : 오름차순 (Default)
 + **DESC** : 내림차순 

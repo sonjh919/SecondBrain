@@ -12,7 +12,7 @@ image:
 path:
 ---
 
-## 🌈 CROSS JOIN
+## CROSS JOIN
 - 조합할 수 있는 모든 경우를 출력
 - = Cartesian Product(카테이션 곱)
 

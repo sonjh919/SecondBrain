@@ -12,7 +12,7 @@ image:
 path:
 ---
 
-## 🌈 DESCRIBE(DESC)
+## DESCRIBE(DESC)
 
 - 테이블 구조 확인
 ```sql

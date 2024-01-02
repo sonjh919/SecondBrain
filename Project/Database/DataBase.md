@@ -9,7 +9,7 @@ image:
 path:
 ---
 
-## 🌈 Database의 필요성
+## Database의 필요성
 
 - 응용프로그램들은 RAM에서 동작하기 때문에 data를 영구히 저장할 곳이 필요하다.
 
@@ -25,11 +25,11 @@ path:
 
 
 
-## 🌈 DBMS (database management system)
+## DBMS (database management system)
 
 - DB를 control할 수 있게 중간에서 도와주는 프로그램
 
 
-## 🌈 RDB vs NoSQL
+## RDB vs NoSQL
 + [[RDB]]
 + NoSQL (추후 추가)

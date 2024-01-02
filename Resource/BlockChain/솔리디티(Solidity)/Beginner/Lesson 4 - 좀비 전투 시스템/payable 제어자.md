@@ -3,7 +3,7 @@
 
 #블록체인 #솔리디티 
 
-### 📌 payable 제어자
+### payable 제어자
 + 이더를 받을 수 있는 특별한 함수 유형이다
 ```Java
 contract OnlineStore {  

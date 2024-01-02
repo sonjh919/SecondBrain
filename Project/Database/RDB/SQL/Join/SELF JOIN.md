@@ -12,11 +12,11 @@ image:
 path:
 ---
 
-## 🌈 SELF JOIN
+## SELF JOIN
 - 같은 TABLE을 JOIN
 + 같은 TABLE을 JOIN하기 때문에 반드시 [[Alias]]을 붙여 모든 COLUMN에 적용한다!
 
-#### 🧶 STANDARD(ANSI)
+#### STANDARD(ANSI)
 
 ```sql
 SELECT
@@ -30,7 +30,7 @@ SELECT
      ON (E1.MANAGER_ID = E2.EMP_ID);
 ```
 
-#### 🧶 ORACLE
+#### ORACLE
 
 ```sql
 SELECT

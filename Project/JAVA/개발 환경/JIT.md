@@ -11,6 +11,6 @@ image:
 path:
 ---
 
-## 🌈 JIT 컴파일러
+## JIT 컴파일러
 + 빠른 Java.class 코드 해석기
 + Interpreter의 효율을 높여주는 서포터 해석기이다.

@@ -10,7 +10,7 @@ image:
 path:
 ---
 
-## 🌈 Git 명령어
+## Git 명령어
 [[init]]
 [[checkout]]
 [[status]]

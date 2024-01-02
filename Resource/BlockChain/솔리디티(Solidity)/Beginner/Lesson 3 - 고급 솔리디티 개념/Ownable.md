@@ -2,7 +2,7 @@
 ---
 
 #블록체인 #솔리디티 
-### 📌 Ownable
+### Ownable
 + **openZeppelin**의 **Ownable** 컨트랙트
 + 컨트랙트를 소유 가능하게 하는 역할을 한다
 

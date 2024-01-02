@@ -11,7 +11,7 @@ image:
 path:
 ---
 
-## 🌈 Static
+## Static
 - **메모리에 한번 할당되면 프로그램이 종료될 때 해제되는 것**
 - Static을 통해 생성된 메서드는 Heap 영역이 아닌 **Method Area의 Static 영역**에 할당된다.([[JVM]] 구조 참조)
 - 모든 객체가 공유할 수 있는 메모리

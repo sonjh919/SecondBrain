@@ -12,7 +12,7 @@ image:
 path:
 ---
 
-## 🌈 NATURAL JOIN
+## NATURAL JOIN
 - A TABLE과 B TABLE에서 같은 이름을 가진 COLUMN들이 모두 동일한 DATA를 가지고 있을 경우 JOIN되는 방식
 - SQL Server(MSSQL)에서는 지원하지 않는다.
 

@@ -12,7 +12,7 @@ image:
 path:
 ---
 
-## 🌈 GROUP BY
+## GROUP BY
 + 특정 COLUMN에 대하여 같은 값을 가지고 있는 ROW들을 GROUP으로 묶는다.
 + [[집계 함수]]를 사용하여 반환값을 설정할 수 있다.
 + 조건을 설정하려면 [[HAVING]]과 같이 쓰인다.

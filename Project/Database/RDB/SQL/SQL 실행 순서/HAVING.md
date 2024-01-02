@@ -12,7 +12,7 @@ image:
 path:
 ---
 
-## 🌈 HAVING
+## HAVING
 - [[GROUP BY]]에 대한 조건을 설정하는 절
 
 - **SELECT는 WHERE에서, GROUP BY는 HAVING에서!!**

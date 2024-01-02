@@ -12,11 +12,11 @@ image:
 path:
 ---
 
-## 🌈 Top-N
+## Top-N
 
 - N위까지의 데이터를 추출하기 위한 Query
 
-### 📌 ROWNUM
+### ROWNUM
 
 - 슈도 컬럼(Pseudo Column) : 실제로는 존재하지 않는 가짜 COLUMN
 - ROW NUMBER를 COLUMN으로 추가

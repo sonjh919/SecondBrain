@@ -3,7 +3,7 @@
 
 #블록체인 #솔리디티 
 
-### 📌 if문
+### if문
 + 솔리디티의 if문은 **자바스크립트의 if문**과 동일하다
 ```JavaScript
 function eatBLT(string sandwich) public {  

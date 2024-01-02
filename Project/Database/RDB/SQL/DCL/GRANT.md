@@ -12,7 +12,7 @@ image:
 path:
 ---
 
-## 🌈 GRANT
+## GRANT
 + 사용자에게 권한 부여
 ```sql
 GRANT '권한' TO '사용자명';

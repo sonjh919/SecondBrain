@@ -12,15 +12,15 @@ image:
 path:
 ---
 
-## 🌈 OUTER JOIN
+## OUTER JOIN
 + JOIN 조건에 만족하지 않는 데이터들도 출력
 
-### 📌 LEFT OUTER JOIN
+### LEFT OUTER JOIN
 
 - JOIN에 사용한 두 TABLE 중 왼편에 표기된 TABLE의 ROW수를 기준으로 JOIN
 - 왼쪽에 표기된 테이블의 데이터는 무조건 출력
 
-#### 🧶 STANDARD(ANSI)
+#### STANDARD(ANSI)
 
 ```sql
 SELECT E.EMP_NAME, D.DEPT_TITLE
@@ -31,7 +31,7 @@ SELECT E.EMP_NAME, D.DEPT_TITLE
   LEFT JOIN DEPARTMENT D ON(E.DEPT_CODE = D.DEPT_ID);
 ```
 
-#### 🧶 ORACLE
+#### ORACLE
 
 - ROW의 확장이 필요한 COLUMN에 (+)를 활용한다.
 
@@ -41,12 +41,12 @@ SELECT E.EMP_NAME, D.DEPT_TITLE
  WHERE E.DEPT_CODE = D.DEPT_ID(+);
 ```
 
-### 📌 RIGHT OUTER JOIN
+### RIGHT OUTER JOIN
 
 - JOIN에 사용한 두 TABLE 중 오른편에 기술한 TABLE의 ROW 수를 기준으로 JOIN
 - 오른쪽에 표기된 테이블의 데이터는 무조건 출력
 
-#### 🧶 STANDARD(ANSI)
+#### STANDARD(ANSI)
 
 ```sql
 SELECT E.EMP_NAME, D.DEPT_TITLE
@@ -55,7 +55,7 @@ SELECT E.EMP_NAME, D.DEPT_TITLE
   RIGHT JOIN DEPARTMENT D ON(E.DEPT_CODE = D.DEPT_ID);
 ```
 
-#### 🧶 ORACLE
+#### ORACLE
 
 ```sql
 SELECT E.EMP_NAME, D.DEPT_TITLE
@@ -63,11 +63,11 @@ SELECT E.EMP_NAME, D.DEPT_TITLE
  WHERE E.DEPT_CODE(+) = D.DEPT_ID;
 ```
 
-### 📌 FULL OUTER JOIN
+### FULL OUTER JOIN
 
 - 합치기에 사용한 두 TABLE 이 가진 모든 ROW를 결과에 포함하여 JOIN(**= 두 TABLE 의 합집합**)
 
-#### 🧶 STANDARD(ANSI)
+#### STANDARD(ANSI)
 
 ```sql
 SELECT E.EMP_NAME, D.DEPT_TITLE
@@ -76,6 +76,6 @@ SELECT E.EMP_NAME, D.DEPT_TITLE
   FULL JOIN DEPARTMENT D ON(E.DEPT_CODE = D.DEPT_ID);
 ```
 
-#### 🧶 ORACLE
+#### ORACLE
 > ORACLE은 FULL OUTER JOIN이 안된다!
 {: .prompt-warning }

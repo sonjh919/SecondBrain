@@ -12,7 +12,7 @@ image:
 path:
 ---
 
-## 🌈 INSERT
+## INSERT
 
 ```sql
 --일부 컬럼에 대한 INSERT--

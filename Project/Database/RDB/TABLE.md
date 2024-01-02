@@ -10,7 +10,7 @@ image:
 path:
 ---
 
-## 🌈 TABLE
+## TABLE
 + DB는 2차원의 TABLE형태로 data를 저장한다.
 + 크기는 Byte 단위이다.
 

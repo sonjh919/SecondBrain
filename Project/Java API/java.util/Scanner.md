@@ -12,7 +12,7 @@ image:
 path:
 ---
 
-## 🌈 Scanner
+## Scanner
 + Java에서 입력을 받기 위해 사용되는 클래스이다.
 + Scanner는 클래스를 **토큰 단위**로 읽는다.(nextLine 제외)
 + 공백문자까지도 버퍼에 저장된다.

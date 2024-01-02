@@ -12,10 +12,10 @@ image:
 path:
 ---
 
-## 🌈 record
+## record
 + Java 14부터 도입된 record 클래스는 **불변 데이터를 객체 간에 전달하는 데이터 클래스를 정의할 때 코드를 간결히 작성할 수 있게 도와주는 역할**을 한다.
 
-## 🌈 record의 특징
+## record의 특징
 1. 필드별 **getter가 자동으로 생성**된다.
 2. **불변 데이터**를 다룬다.(final로 선언된다)
 3. **equals, hashcode, toString을 자동으로 생성**한다.
