@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/05 책임과 메시지.md",
+                "file": "Project/객체지향의 사실과 오해/06 객체 지도.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/05 책임과 메시지.md",
+                "file": "Project/객체지향의 사실과 오해/06 객체 지도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/05 책임과 메시지.md",
+                "file": "Project/객체지향의 사실과 오해/06 객체 지도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/05 책임과 메시지.md"
+                "file": "Project/객체지향의 사실과 오해/06 객체 지도.md"
               }
             }
           },
@@ -223,18 +223,18 @@
   },
   "active": "a71c26d7c245de71",
   "lastOpenFiles": [
-    "Templates/gitblog templete.md",
     "Templates/blog_Callout.md",
+    "Project/객체지향의 사실과 오해/06 객체 지도.md",
+    "Project/객체지향의 사실과 오해/MOC.md",
     "Project/객체지향의 사실과 오해/05 책임과 메시지.md",
+    "Templates/gitblog templete.md",
     "Inbox/좋아하는 글귀들.md",
     "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
     "Project/객체지향의 사실과 오해/03 타입과 추상화.md",
     "Project/객체지향의 사실과 오해/07 함께 모으기.md",
-    "Project/객체지향의 사실과 오해/06 객체 지도.md",
     "Inbox/끄적끄적.md",
     "Todo/TIL/2024-01-01 TIL.md",
     "Archive/img/TIL/20240101.png",
-    "Project/객체지향의 사실과 오해/MOC.md",
     "Project/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
     "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
     "Todo/TIL/2023-12-31 TIL.md",
