@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/JAVA/개발 환경/JAR.md",
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/JAVA/개발 환경/JAR.md",
+                "file": "Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/JAVA/개발 환경/JAR.md",
+                "file": "Inbox/끄적끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/JAVA/개발 환경/JAR.md"
+                "file": "Inbox/끄적끄적.md"
               }
             }
           },
@@ -223,6 +223,7 @@
   },
   "active": "46cef93af8b4dafc",
   "lastOpenFiles": [
+    "Project/JAVA/개발 환경/JAR.md",
     "Project/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
     "Project/Java API/모듈.md",
     "Project/JAVA/개발 환경/JDK.md",
@@ -250,7 +251,6 @@
     "Project/JAVA/개발 환경/Java의 역사와 특징.md",
     "Project/JAVA/클래스&객체/오버라이딩과 오버로딩.md",
     "Project/JAVA/클래스&객체/추상 클래스.md",
-    "Project/JAVA/클래스&객체/제네릭.md",
     "Archive/img/Java/기본 문법/error.png",
     "Archive/img/Java/클래스&객체/overridingoverloading.png",
     "Archive/img/Java/클래스&객체/objectarr.png",
