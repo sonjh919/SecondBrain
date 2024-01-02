@@ -1,5 +1,5 @@
 ---
-title: Static
+title: static
 date: 2024-01-02 15:22
 categories:
   - Java
@@ -25,5 +25,5 @@ path:
 |공유|공유되지 않는다.|동일한 클래스의 모든 객체들에 의해 공유된다.|
 
 ### Static 메소드의 제약 조건
-1. Static 메소드는 static 멤버만 접근할 수 있다.
-2. this를 사용할 수 없다.
+1. Static 메소드는 Static 멤버만 접근할 수 있다.
+2. [[this]]를 사용할 수 없다.

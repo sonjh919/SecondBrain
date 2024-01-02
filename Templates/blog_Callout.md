@@ -1,5 +1,2 @@
-
-{: .prompt-tip }
 {: .prompt-info }
-{: .prompt-warning }
-{: .prompt-danger }
+tip info warning danger

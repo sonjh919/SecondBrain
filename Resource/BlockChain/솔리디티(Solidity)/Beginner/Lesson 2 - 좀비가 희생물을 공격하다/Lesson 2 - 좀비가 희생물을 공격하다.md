@@ -11,6 +11,6 @@
 + [[import]]
 + [[Storage vs Memory]]
 + [[함수 접근 제어자]]
-+ [[인터페이스]]
++ [[Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 2 - 좀비가 희생물을 공격하다/인터페이스]]
 + [[다수의 반환값 처리]]
 + [[if문]]
