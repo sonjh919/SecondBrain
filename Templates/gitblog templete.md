@@ -2,12 +2,11 @@
 title: <% tp.file.title %>
 date: <% tp.file.creation_date() %>
 categories:
-  - OOP
-  - 객체지향의 사실과 오해
+  - Java
+  - Class&Object
 tags:
-  - OOP
-  - 객체지향
-  - 개발서적
+  - Java
+  - Java문법
 image: 
 path:
 ---

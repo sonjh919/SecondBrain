@@ -7,7 +7,7 @@
 + [[mapping과 address]]
 + [[Msg.sender]]
 + [[Require]]
-+ [[상속]]
++ [[Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 2 - 좀비가 희생물을 공격하다/상속]]
 + [[import]]
 + [[Storage vs Memory]]
 + [[함수 접근 제어자]]

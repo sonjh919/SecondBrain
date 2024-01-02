@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/05 책임과 메시지.md",
+                "file": "Project/JAVA/클래스&객체/Static.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/05 책임과 메시지.md",
+                "file": "Project/JAVA/클래스&객체/Static.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/05 책임과 메시지.md",
+                "file": "Project/JAVA/클래스&객체/Static.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/05 책임과 메시지.md"
+                "file": "Project/JAVA/클래스&객체/Static.md"
               }
             }
           },
@@ -209,12 +209,27 @@
   },
   "active": "50025d21e7bcb9de",
   "lastOpenFiles": [
+    "Project/JAVA/클래스&객체/접근 지정자.md",
+    "Project/JAVA/클래스&객체/Static.md",
+    "Project/JAVA/클래스&객체/객체 배열.md",
+    "Archive/img/Java/클래스&객체/objectarr.png",
+    "Project/JAVA/클래스&객체/this.md",
+    "Archive/img/Java/클래스&객체/Inheritance.png",
+    "Archive/img/Java/클래스&객체",
+    "Project/JAVA/클래스&객체/클래스와 객체.md",
+    "Project/JAVA/클래스&객체/생성자.md",
+    "Project/JAVA/클래스&객체/상속.md",
+    "Templates/blog_Callout.md",
+    "Project/JAVA/클래스&객체/불변 클래스.md",
+    "Templates/gitblog templete.md",
+    "Project/JAVA/클래스&객체/가변 클래스.md",
+    "Project/JAVA/기본 문법/변수.md",
+    "Project/객체지향의 사실과 오해/05 책임과 메시지.md",
     "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
     "Project/객체지향의 사실과 오해/03 타입과 추상화.md",
     "Project/객체지향의 사실과 오해/06 객체 지도.md",
     "Project/객체지향의 사실과 오해/MOC.md",
     "Project/객체지향의 사실과 오해/07 함께 모으기.md",
-    "Project/객체지향의 사실과 오해/05 책임과 메시지.md",
     "Project/Database/DataBase.md",
     "Todo/TIL/2023-12-21-TIL.md",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품/주석.md",
@@ -223,18 +238,6 @@
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품/SafeMath.md",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품/Lesson 5 - ERC721 & 크립토 수집품.md",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품/ERC-721.md",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 4 - 좀비 전투 시스템/출금.md",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 4 - 좀비 전투 시스템/payable 제어자.md",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 4 - 좀비 전투 시스템/Lesson 4 - 좀비 전투 시스템.md",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념/컨트랙트의 불변성.md",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념/시간 단위.md",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념/생성자.md",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념/사용자 정의 함수 제어자.md",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념/구조체를 인수로 전달.md",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념/구조체 압축.md",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념/Ownable.md",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념/Lesson 3 - 고급 솔리디티 개념.md",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념/For.md",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 4 - 좀비 전투 시스템",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념",
@@ -244,7 +247,6 @@
     "Resource/Python/문법/함수",
     "Resource/Python/문법/자료형",
     "Resource/Python/문법/제어문",
-    "Resource/Python/문법/입출력",
     "Archive/img/Java API/java.util/Collection/collection.png",
     "Archive/img/Java/기본 문법/연산자 우선순위.png",
     "Archive/img/Java/기본 문법/copy2.png",
@@ -252,8 +254,6 @@
     "Archive/img/Java/기본 문법/ASCII.png",
     "Archive/img/Java/개발 환경/runtime.png",
     "Archive/img/Java/개발 환경/JVM.png",
-    "Archive/img/Java/개발 환경/Java역사.png",
-    "Archive/img/Java/개발 환경/Java 실행과정.png",
-    "Archive/img/Java/개발 환경/java dev.png"
+    "Archive/img/Java/개발 환경/Java역사.png"
   ]
 }
