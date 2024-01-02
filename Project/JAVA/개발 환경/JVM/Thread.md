@@ -51,6 +51,9 @@ path:
 
 ## Thread와 Runnable
 ### Thread 구현
++ 쓰레드 구현을 위해서는 Java에서 제공하는 Thread 클래스를 상속받아야 한다.
++ **run()** 메서드에 작성된 코드가 쓰레드가 수행할 작업이다.
+
 ```java
 public class TestThread extends Thread {
 				@Override

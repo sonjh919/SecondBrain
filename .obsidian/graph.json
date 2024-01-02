@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "#솔리디티",
@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 16711680
       }
+    },
+    {
+      "query": "tag:OOP",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
     }
   ],
   "collapse-display": false,
@@ -81,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5087618855793342,
-  "close": false
+  "scale": 0.7132754626225534,
+  "close": true
 }
