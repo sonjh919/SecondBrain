@@ -20,6 +20,8 @@ path:
 + [[제네릭]] 기법으로 구현되어 있다.
 
 ## Collection의 구조
++ Collection 위에는 Iterable(순회가능)이라는 속성을 상속받고 있다.
+
 + [[List]]
 + [[Project/Java API/java.util/Collection/Queue|Queue]]
 + [[Set]]
