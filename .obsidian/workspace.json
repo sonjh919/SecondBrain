@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/2024-01-01 TIL.md",
+                "file": "Project/객체지향의 사실과 오해/07 함께 모으기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/06 객체 지도.md",
+                "file": "Project/객체지향의 사실과 오해/07 함께 모으기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/06 객체 지도.md",
+                "file": "Project/객체지향의 사실과 오해/07 함께 모으기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/06 객체 지도.md"
+                "file": "Project/객체지향의 사실과 오해/07 함께 모으기.md"
               }
             }
           },
@@ -221,22 +220,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a71c26d7c245de71",
+  "active": "50025d21e7bcb9de",
   "lastOpenFiles": [
-    "Templates/blog_Callout.md",
+    "Project/JAVA/기본 문법/패키지.md",
+    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 2 - 좀비가 희생물을 공격하다/인터페이스.md",
+    "Todo/TIL/2024-01-01 TIL.md",
     "Project/객체지향의 사실과 오해/06 객체 지도.md",
-    "Project/객체지향의 사실과 오해/MOC.md",
+    "Project/객체지향의 사실과 오해/07 함께 모으기.md",
     "Project/객체지향의 사실과 오해/05 책임과 메시지.md",
+    "Project/객체지향의 사실과 오해/03 타입과 추상화.md",
+    "Project/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
+    "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+    "Templates/blog_Callout.md",
+    "Project/객체지향의 사실과 오해/MOC.md",
     "Templates/gitblog templete.md",
     "Inbox/좋아하는 글귀들.md",
     "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
-    "Project/객체지향의 사실과 오해/03 타입과 추상화.md",
-    "Project/객체지향의 사실과 오해/07 함께 모으기.md",
     "Inbox/끄적끄적.md",
-    "Todo/TIL/2024-01-01 TIL.md",
     "Archive/img/TIL/20240101.png",
-    "Project/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
-    "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
     "Todo/TIL/2023-12-31 TIL.md",
     "Inbox/프리코스.md",
     "Templates/TIL Templete.md",
@@ -249,8 +250,6 @@
     "Todo/TIL/TIL.md",
     "Todo/TIL/2023-12-30 TIL.md",
     "Todo/TIL/2023-12-28 TIL.md",
-    "Todo/TIL/2023-12-27 TIL.md",
-    "Todo/TIL/2023-12-25 TIL.md",
     "Archive/img/TIL/20231223.png",
     "Archive/img/TIL/20231227.png",
     "Archive/img/TIL/20231231.png",
