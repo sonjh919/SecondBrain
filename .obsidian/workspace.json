@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Java API/java.util/Collection/Collection.md",
+                "file": "Project/JAVA/개발 환경/JVM/Process.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Java API/java.util/Collection/Collection.md",
+                "file": "Project/JAVA/개발 환경/JVM/Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Java API/java.util/Collection/Collection.md",
+                "file": "Project/JAVA/개발 환경/JVM/Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Java API/java.util/Collection/Collection.md"
+                "file": "Project/JAVA/개발 환경/JVM/Process.md"
               }
             }
           },
@@ -207,8 +207,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a00ae09e9a3db72b",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
+    "Project/JAVA/개발 환경/Java의 역사와 특징.md",
+    "Project/Java API/java.util/Collection/Collection.md",
     "Project/JAVA/클래스&객체/오버라이딩과 오버로딩.md",
     "Project/JAVA/클래스&객체/추상 클래스.md",
     "Project/JAVA/클래스&객체/제네릭.md",
@@ -233,8 +235,6 @@
     "Project/JAVA/기본 문법/자료형.md",
     "Project/JAVA/기본 문법/연산자.md",
     "Project/JAVA/클래스&객체/불변 클래스.md",
-    "Project/JAVA/클래스&객체/객체 배열.md",
-    "Project/JAVA/클래스&객체/가변 클래스.md",
     "Archive/img/Java/기본 문법/error.png",
     "Archive/img/Java/클래스&객체/overridingoverloading.png",
     "Archive/img/Java/클래스&객체/objectarr.png",
