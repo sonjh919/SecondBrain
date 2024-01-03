@@ -1,5 +1,5 @@
 {
-  "todoPageName": "todo",
+  "todoPageName": "TIL",
   "showChecked": false,
   "showAllTodos": true,
   "autoRefresh": true,
@@ -13,5 +13,7 @@
   "_collapsedSections": [
     "Project/BlockChain/분산 시스템.md"
   ],
-  "_hiddenTags": []
+  "_hiddenTags": [
+    "todo"
+  ]
 }

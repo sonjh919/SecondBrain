@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/JAVA/개발 환경/JVM/Thread 제어.md",
+                "file": "Project/Java API/java.util/function.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
       {
         "id": "aee0c20d4d3b43d9",
         "type": "tabs",
-        "dimension": 37.27185398655139,
+        "dimension": 33.46153846153846,
         "children": [
           {
             "id": "194553660e95f057",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/JAVA/개발 환경/JVM/Thread 제어.md",
+                "file": "Project/Java API/java.util/function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/JAVA/개발 환경/JVM/Thread 제어.md",
+                "file": "Project/Java API/java.util/function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/JAVA/개발 환경/JVM/Thread 제어.md"
+                "file": "Project/Java API/java.util/function.md"
               }
             }
           },
@@ -161,7 +161,7 @@
       {
         "id": "dfa27add57db594d",
         "type": "tabs",
-        "dimension": 29.7790585975024,
+        "dimension": 22.115384615384613,
         "children": [
           {
             "id": "051e6ba0a389143d",
@@ -174,9 +174,9 @@
         ]
       },
       {
-        "id": "4dda45ab82b77780",
+        "id": "64c428c2c5c39fd5",
         "type": "tabs",
-        "dimension": 32.9490874159462,
+        "dimension": 44.42307692307692,
         "children": [
           {
             "id": "28c0689a8d137f4d",
@@ -207,8 +207,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "46cef93af8b4dafc",
   "lastOpenFiles": [
+    "Project/JAVA/모던 자바/함수형 인터페이스.md",
+    "Project/JAVA/클래스&객체/제네릭.md",
+    "Project/Java API/java.util/function.md",
+    "제너릭.md",
+    "Project/Java API/java.util/Collection/Set.md",
+    "Project/Java API/java.util/Collection/Collection.md",
+    "Project/Java API/java.util/java.util.md",
+    "Project/JAVA/모던 자바/함수형 프로그래밍.md",
+    "Inbox/ㅇㅅㅇ.md",
+    "Inbox/끄적끄적.md",
+    "Project/JAVA/모던 자바/모던 자바.md",
+    "Templates/gitblog templete.md",
+    "Project/Java API/java.lang/Stream.md",
+    "Todo/TIL/2024-01-03 TIL.md",
+    "Todo/TIL/2024-01-02 TIL.md",
+    "Templates/blog_Callout.md",
+    "Project/JAVA/모던 자바",
+    "Area/책/책.md",
     "Project/JAVA/개발 환경/JVM/Thread 제어.md",
     "예외처리.md",
     "Project/JAVA/개발 환경/JVM/Thread 우선순위.md",
@@ -218,26 +236,9 @@
     "Project/JAVA/개발 환경/JVM/Thread 그룹.md",
     "Project/JAVA/개발 환경/JVM/싱글 Thread와 멀티 Thread.md",
     "Project/JAVA/개발 환경/JVM/데몬 Thread와 사용자 Thread.md",
-    "Templates/gitblog templete.md",
     "Project/JAVA/개발 환경/JVM/Class Loader.md",
     "Project/JAVA/개발 환경/JVM/Garbage Collector.md",
-    "Project/JAVA/개발 환경/JVM/Heap Area.md",
-    "Project/JAVA/개발 환경/JVM/Stack Area.md",
-    "Project/JAVA/개발 환경/JVM/Native Method Stack.md",
-    "Project/JAVA/개발 환경/Java의 역사와 특징.md",
-    "Project/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
     "Archive/img/Java/개발 환경/process.png",
-    "Project/JAVA/개발 환경/JVM/Process.md",
-    "Inbox/끄적끄적.md",
-    "Project/JAVA/개발 환경/JAR.md",
-    "Project/Java API/모듈.md",
-    "Project/JAVA/개발 환경/JDK.md",
-    "Project/JAVA/개발 환경/JRE.md",
-    "Project/Java API/java.util/Collection/Set.md",
-    "Area/책/책.md",
-    "Project/Java API/java.util/Collection/Collection.md",
-    "Project/Java API/java.lang/Wrapper.md",
-    "Project/JAVA/기본 문법/자료형.md",
     "Archive/img/TIL/20240102.png",
     "Archive/img/Java/개발 환경/thread.png",
     "Archive/img/Java/기본 문법/error.png",
@@ -253,7 +254,6 @@
     "Resource/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기",
     "Resource/Python/문법/함수",
     "Resource/Python/문법/자료형",
-    "Resource/Python/문법/제어문",
     "Archive/img/Java API/java.util/Collection/collection.png"
   ]
 }
