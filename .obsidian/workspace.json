@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Java API/java.util/function.md",
+                "file": "Project/JAVA/기본 문법/배열.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Java API/java.util/function.md",
+                "file": "Project/JAVA/기본 문법/배열.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Java API/java.util/function.md",
+                "file": "Project/JAVA/기본 문법/배열.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Java API/java.util/function.md"
+                "file": "Project/JAVA/기본 문법/배열.md"
               }
             }
           },
@@ -209,35 +209,35 @@
   },
   "active": "46cef93af8b4dafc",
   "lastOpenFiles": [
+    "Inbox/끄적끄적.md",
+    "Project/Java API/java.util/java.util.md",
+    "Project/Java API/java.lang/Stream.md",
+    "Project/Java API/Java API.md",
+    "Project/Java API/모듈.md",
+    "Todo/TIL/2024-01-03 TIL.md",
+    "Todo/TIL/2023-12-29 TIL.md",
+    "Project/Java API/java.util/Optional.md",
+    "Project/Java API/java.util/Map.md",
+    "Project/Java API/java.util/Random.md",
+    "Project/Java API/java.lang/String.md",
+    "Project/Java API/java.lang/Object.md",
+    "Project/Java API/java.lang/record.md",
+    "Project/JAVA/모던 자바/함수형 프로그래밍.md",
+    "Project/JAVA/모던 자바/모던 자바.md",
     "Project/JAVA/모던 자바/함수형 인터페이스.md",
-    "Project/JAVA/클래스&객체/제네릭.md",
+    "Project/JAVA/모던 자바/람다.md",
     "Project/Java API/java.util/function.md",
+    "Project/JAVA/클래스&객체/제네릭.md",
     "제너릭.md",
     "Project/Java API/java.util/Collection/Set.md",
     "Project/Java API/java.util/Collection/Collection.md",
-    "Project/Java API/java.util/java.util.md",
-    "Project/JAVA/모던 자바/함수형 프로그래밍.md",
     "Inbox/ㅇㅅㅇ.md",
-    "Inbox/끄적끄적.md",
-    "Project/JAVA/모던 자바/모던 자바.md",
     "Templates/gitblog templete.md",
-    "Project/Java API/java.lang/Stream.md",
-    "Todo/TIL/2024-01-03 TIL.md",
     "Todo/TIL/2024-01-02 TIL.md",
     "Templates/blog_Callout.md",
     "Project/JAVA/모던 자바",
-    "Area/책/책.md",
-    "Project/JAVA/개발 환경/JVM/Thread 제어.md",
-    "예외처리.md",
-    "Project/JAVA/개발 환경/JVM/Thread 우선순위.md",
     "Archive/img/Java/개발 환경/threadcontrol.png",
-    "Project/JAVA/개발 환경/JVM/Thread.md",
     "Archive/img/Java/개발 환경/threadstate.png",
-    "Project/JAVA/개발 환경/JVM/Thread 그룹.md",
-    "Project/JAVA/개발 환경/JVM/싱글 Thread와 멀티 Thread.md",
-    "Project/JAVA/개발 환경/JVM/데몬 Thread와 사용자 Thread.md",
-    "Project/JAVA/개발 환경/JVM/Class Loader.md",
-    "Project/JAVA/개발 환경/JVM/Garbage Collector.md",
     "Archive/img/Java/개발 환경/process.png",
     "Archive/img/TIL/20240102.png",
     "Archive/img/Java/개발 환경/thread.png",

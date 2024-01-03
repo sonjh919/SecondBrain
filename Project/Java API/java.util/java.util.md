@@ -22,6 +22,7 @@ path:
 + [[Random]]
 + [[regex]]
 + [[function]]
++ [[Optional]]
 ### 시간 & 날짜
 + Date와 Calender가 있지만, 사용하기에 불편한 점이 많아 Java 8부터 추가된 [[java.time]]을 활용하자.
 
