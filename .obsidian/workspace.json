@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/Git/Error/이미 push한 commit 변경하기.md",
+                "file": "Todo/TIL/2024-01-03 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/Git/Error/이미 push한 commit 변경하기.md",
+                "file": "Todo/TIL/2024-01-03 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/Git/Error/이미 push한 commit 변경하기.md",
+                "file": "Todo/TIL/2024-01-03 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/Git/Error/이미 push한 commit 변경하기.md"
+                "file": "Todo/TIL/2024-01-03 TIL.md"
               }
             }
           },
@@ -209,8 +209,8 @@
   },
   "active": "d71b3916a0107506",
   "lastOpenFiles": [
-    "Area/Git/Error/LF will be replaced by CRLF in pom.xml.md",
     "Area/Git/Error/이미 push한 commit 변경하기.md",
+    "Area/Git/Error/LF will be replaced by CRLF in pom.xml.md",
     "Area/Git/Error/Git 오류 모음집.md",
     "Project/Docker/Error/Error response from daemon When using COPY with more than one source file.md",
     "Inbox/키오스크.md",
