@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inbox/키오스크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inbox/키오스크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inbox/키오스크.md"
+              }
             }
           },
           {
@@ -172,7 +176,7 @@
       {
         "id": "64c428c2c5c39fd5",
         "type": "tabs",
-        "dimension": 44.42307692307692,
+        "dimension": 44.42307692307693,
         "children": [
           {
             "id": "28c0689a8d137f4d",
