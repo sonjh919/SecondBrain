@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/키오스크.md",
+                "file": "Area/Git/Error/이미 push한 commit 변경하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/키오스크.md",
+                "file": "Area/Git/Error/이미 push한 commit 변경하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/키오스크.md",
+                "file": "Area/Git/Error/이미 push한 commit 변경하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/키오스크.md"
+                "file": "Area/Git/Error/이미 push한 commit 변경하기.md"
               }
             }
           },
@@ -207,8 +207,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "051e6ba0a389143d",
+  "active": "d71b3916a0107506",
   "lastOpenFiles": [
+    "Area/Git/Error/LF will be replaced by CRLF in pom.xml.md",
+    "Area/Git/Error/이미 push한 commit 변경하기.md",
+    "Area/Git/Error/Git 오류 모음집.md",
+    "Project/Docker/Error/Error response from daemon When using COPY with more than one source file.md",
     "Inbox/키오스크.md",
     "Inbox/끄적끄적.md",
     "Todo/TIL/2024-01-03 TIL.md",
@@ -234,10 +238,6 @@
     "Project/Java API/Java API.md",
     "Project/Java API/모듈.md",
     "Todo/TIL/2023-12-29 TIL.md",
-    "Project/Java API/java.util/Map.md",
-    "Project/Java API/java.lang/String.md",
-    "Project/Java API/java.lang/Object.md",
-    "Project/Java API/java.lang/record.md",
     "Project/JAVA/모던 자바",
     "Archive/img/Java/threadcontrol.png",
     "Archive/img/Java/threadstate.png",
