@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/JAVA/클래스&객체/접근 지정자.md",
+                "file": "Inbox/키오스크/menu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/JAVA/클래스&객체/접근 지정자.md",
+                "file": "Inbox/키오스크/menu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/JAVA/클래스&객체/접근 지정자.md",
+                "file": "Inbox/키오스크/menu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/JAVA/클래스&객체/접근 지정자.md"
+                "file": "Inbox/키오스크/menu.md"
               }
             }
           },
@@ -209,9 +209,13 @@
   },
   "active": "d71b3916a0107506",
   "lastOpenFiles": [
-    "Project/JAVA/클래스&객체/상속.md",
-    "Inbox/키오스크.md",
+    "Inbox/키오스크/키오스크.md",
+    "Inbox/키오스크/menu.md",
     "Todo/TIL/2024-01-03 TIL.md",
+    "Inbox/키오스크",
+    "Archive/img/TIL/20240103.png",
+    "Project/JAVA/클래스&객체/접근 지정자.md",
+    "Project/JAVA/클래스&객체/상속.md",
     "Area/Git/Error/이미 push한 commit 변경하기.md",
     "Area/Git/Error/LF will be replaced by CRLF in pom.xml.md",
     "Area/Git/Error/Git 오류 모음집.md",
@@ -236,8 +240,6 @@
     "Project/Java API/java.util/Random.md",
     "Project/Java API/java.util/java.util.md",
     "Project/Java API/java.lang/Stream.md",
-    "Project/Java API/Java API.md",
-    "Project/Java API/모듈.md",
     "Project/JAVA/모던 자바",
     "Archive/img/Java/threadcontrol.png",
     "Archive/img/Java/threadstate.png",
@@ -245,7 +247,6 @@
     "Archive/img/TIL/20240102.png",
     "Archive/img/Java/thread.png",
     "Archive/img/Java/error.png",
-    "Archive/img/Java/overridingoverloading.png",
     "Archive/img/Java/클래스&객체",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 4 - 좀비 전투 시스템",
@@ -253,7 +254,6 @@
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 2 - 좀비가 희생물을 공격하다",
     "Resource/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기",
-    "Resource/Python/문법/함수",
-    "Resource/Python/문법/자료형"
+    "Resource/Python/문법/함수"
   ]
 }
