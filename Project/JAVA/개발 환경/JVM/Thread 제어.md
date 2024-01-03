@@ -130,13 +130,47 @@ synchronized(해당 객체의 참조변수) {
 		...침범을 막아야하는 코드...
 }
 ```
-### wait()
+### wait() & notify()
 + 침범을 막은 코드를 수행하다가 작업을 더 이상 진행할 상황이 아니면, `wait()` 을 호출하여 쓰레드가 Lock을 반납하고 기다리게 할 수 있다.
++ 추후에 작업을 진행할 수 있는 상황이 되면 `notify()`를 호출해서, 작업을 중단했던 쓰레드가 다시 Lock을 얻어 진행할 수 있게 된다.
 
-### notify()
+```java
+class AppleStore {
+    private List<String> inventory = new ArrayList<>();
 
-
+    public void restock(String item) {
+        synchronized (this) {
+            while (inventory.size() >= Main.MAX_ITEM) {
+                System.out.println(Thread.currentThread().getName() + " Waiting!");
+                try {
+                    wait(); // 재고가 꽉 차있어서 재입고하지 않고 기다리는 중!
+                    Thread.sleep(333);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            }
+            // 재입고
+            inventory.add(item);
+            notify(); // 재입고 되었음을 고객에게 알려주기
+            System.out.println("Inventory 현황: " + inventory.toString());
+        }
+    }
+```
 
 ### Lock
++ synchronized 블럭으로 동기화하면 자동적으로 Lock이 걸리고 풀리지만, 같은 메서드 내에서만 Lock을 걸 수 있다는 제약이 있다. 이런 제약을 해결하기 위해 Lock 클래스를 사용한다.
 
+#### ReentrantLock
++ 재진입 가능한 Lock, 가장 일반적인 배타 Lock
++ 특정 조건에서 Lock을 풀고, 나중에 다시 Lock을 얻어 임계영역으로 진입이 가능하다.
+
+#### ReentrantReadWriteLock
++ 읽기를 위한 Lock과 쓰기를 위한 Lock을 따로 제공한다.
++ 읽기 Lock이 걸려있는 상태에서 쓰기 Lock을 거는 것은 허용되지 않는다. **(데이터 변경 방지)**
+
+#### StampedLock
++ ReentrantReadWriteLock에 **낙관적인 Lock**의 기능을 추가했다.
++ 낙관적인 Lock이란 **데이터를 변경하기 전에 락을 걸지 않는 것**을 말한다. 낙관적인 락은 데이터 변경을 할 때 충돌이 일어날 가능성이 적은 상황에서 사용한다.
 ### Condition
++ wait() & notify()의 문제점인 waiting pool 내 쓰레드를 구분하지 못한다는 것을 해결한 것이 Condition이다.
++ **wait() & notify() 대신 Condition의 await() & signal() 을 사용**한다.

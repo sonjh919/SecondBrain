@@ -95,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/JAVA/개발 환경/JVM/Thread 제어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/JAVA/개발 환경/JVM/Thread 제어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Project/JAVA/개발 환경/JVM/Thread 제어.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,10 +203,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "46cef93af8b4dafc",
+  "active": "051e6ba0a389143d",
   "lastOpenFiles": [
-    "예외처리.md",
     "Project/JAVA/개발 환경/JVM/Thread 제어.md",
+    "예외처리.md",
     "Project/JAVA/개발 환경/JVM/Thread 우선순위.md",
     "Archive/img/Java/개발 환경/threadcontrol.png",
     "Project/JAVA/개발 환경/JVM/Thread.md",
