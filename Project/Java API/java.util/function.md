@@ -2,7 +2,7 @@
 title: function
 date: 2024-01-03 10:54
 categories:
-  - Java
+  - JavaAPI
   - java.util
 tags:
   - Java

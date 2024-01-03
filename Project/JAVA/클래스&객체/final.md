@@ -26,6 +26,7 @@ n = 456;  // 컴파일 오류 발생
 
 ### final 클래스
 + final이 클래스 이름 앞에 사용되면 **클래스를 상속받을 수 없다.**
+
 ```java
 final class FinalClass {} // 상속 불가
 
@@ -34,6 +35,7 @@ class SubClass extends FinalClass{} // 컴파일 오류 발생
 
 ### final 메소드
 + final로 메소드를 선언하면 **오버라이딩이 불가능하다.**
+
 ```java
 class SuperClass{
 	protected final int finalMethod(){] // 오버라이딩 불가
