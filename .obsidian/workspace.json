@@ -95,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/키오스크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/키오스크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Inbox/키오스크.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,10 +203,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d71b3916a0107506",
+  "active": "051e6ba0a389143d",
   "lastOpenFiles": [
-    "Inbox/끄적끄적.md",
     "Inbox/키오스크.md",
+    "Inbox/끄적끄적.md",
     "Todo/TIL/2024-01-03 TIL.md",
     "Archive/img/Java/Inheritance.png",
     "Archive/img/Java/연산자 우선순위.png",
