@@ -11,8 +11,13 @@
             "id": "d71b3916a0107506",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Todo/TIL/2024-01-03 TIL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/img/Java/Inheritance.png",
+                "file": "Todo/TIL/2024-01-03 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/img/Java/Inheritance.png",
+                "file": "Todo/TIL/2024-01-03 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/img/Java/Inheritance.png"
+                "file": "Todo/TIL/2024-01-03 TIL.md"
               }
             }
           },
@@ -202,8 +207,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "28c0689a8d137f4d",
+  "active": "d71b3916a0107506",
   "lastOpenFiles": [
+    "Archive/img/Java/Inheritance.png",
     "Archive/img/Java/연산자 우선순위.png",
     "Archive/img/Java/Java 실행과정.png",
     "Project/JAVA/클래스&객체/final.md",
@@ -240,7 +246,6 @@
     "Archive/img/Java/error.png",
     "Archive/img/Java/overridingoverloading.png",
     "Archive/img/Java/objectarr.png",
-    "Archive/img/Java/Inheritance.png",
     "Archive/img/Java/클래스&객체",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 4 - 좀비 전투 시스템",
