@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/2024-01-03 TIL.md",
+                "file": "Inbox/키오스크.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/2024-01-03 TIL.md",
+                "file": "Inbox/키오스크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/2024-01-03 TIL.md",
+                "file": "Inbox/키오스크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/TIL/2024-01-03 TIL.md"
+                "file": "Inbox/키오스크.md"
               }
             }
           },
@@ -209,6 +209,9 @@
   },
   "active": "d71b3916a0107506",
   "lastOpenFiles": [
+    "Inbox/끄적끄적.md",
+    "Inbox/키오스크.md",
+    "Todo/TIL/2024-01-03 TIL.md",
     "Archive/img/Java/Inheritance.png",
     "Archive/img/Java/연산자 우선순위.png",
     "Archive/img/Java/Java 실행과정.png",
@@ -226,12 +229,10 @@
     "Project/Java API/java.util/function.md",
     "Project/Java API/java.util/Optional.md",
     "Project/Java API/java.util/Random.md",
-    "Inbox/끄적끄적.md",
     "Project/Java API/java.util/java.util.md",
     "Project/Java API/java.lang/Stream.md",
     "Project/Java API/Java API.md",
     "Project/Java API/모듈.md",
-    "Todo/TIL/2024-01-03 TIL.md",
     "Todo/TIL/2023-12-29 TIL.md",
     "Project/Java API/java.util/Map.md",
     "Project/Java API/java.lang/String.md",
@@ -245,7 +246,6 @@
     "Archive/img/Java/thread.png",
     "Archive/img/Java/error.png",
     "Archive/img/Java/overridingoverloading.png",
-    "Archive/img/Java/objectarr.png",
     "Archive/img/Java/클래스&객체",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 4 - 좀비 전투 시스템",
