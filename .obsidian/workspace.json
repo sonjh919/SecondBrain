@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/키오스크/키오스크.md",
+                "file": "Inbox/키오스크/menu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/키오스크/키오스크.md",
+                "file": "Inbox/키오스크/menu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/키오스크/키오스크.md",
+                "file": "Inbox/키오스크/menu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/키오스크/키오스크.md"
+                "file": "Inbox/키오스크/menu.md"
               }
             }
           },
@@ -209,8 +209,8 @@
   },
   "active": "d71b3916a0107506",
   "lastOpenFiles": [
-    "Inbox/키오스크/menu.md",
     "Inbox/키오스크/키오스크.md",
+    "Inbox/키오스크/menu.md",
     "Inbox/ㅇㅅㅇ.md",
     "Inbox/끄적끄적.md",
     "Todo/TIL/2024-01-03 TIL.md",
