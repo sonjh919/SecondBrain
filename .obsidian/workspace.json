@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/TIL Templete.md",
+                "file": "Todo/TIL/2024-01-04 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/TIL Templete.md",
+                "file": "Todo/TIL/2024-01-04 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/TIL Templete.md",
+                "file": "Todo/TIL/2024-01-04 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/TIL Templete.md"
+                "file": "Todo/TIL/2024-01-04 TIL.md"
               }
             }
           },
@@ -207,8 +207,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "d71b3916a0107506",
   "lastOpenFiles": [
+    "Templates/TIL Templete.md",
     "Templates/blog_Callout.md",
     "Templates/gitblog templete.md",
     "Todo/TIL/2024-01-04 TIL.md",
@@ -239,7 +240,6 @@
     "Project/JAVA/기본 문법/변수.md",
     "Project/JAVA/기본 문법/자료형.md",
     "Project/JAVA/기본 문법/상수.md",
-    "Project/JAVA/클래스&객체/Static.md",
     "Project/JAVA/모던 자바",
     "Archive/img/Java/threadcontrol.png",
     "Archive/img/Java/threadstate.png",
