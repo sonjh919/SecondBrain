@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/키오스크/키오스크.md",
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/키오스크/키오스크.md",
+                "file": "Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/키오스크/키오스크.md",
+                "file": "Inbox/끄적끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/키오스크/키오스크.md"
+                "file": "Inbox/끄적끄적.md"
               }
             }
           },
@@ -212,6 +212,7 @@
     "Inbox/키오스크/menu.md",
     "Inbox/키오스크/키오스크.md",
     "Inbox/ㅇㅅㅇ.md",
+    "Project/JAVA/기본 문법/연산자.md",
     "Inbox/끄적끄적.md",
     "Todo/TIL/2024-01-03 TIL.md",
     "Inbox/키오스크",
@@ -230,7 +231,6 @@
     "Project/JAVA/클래스&객체/추상 클래스.md",
     "Project/JAVA/기본 문법/변수.md",
     "Project/JAVA/기본 문법/자료형.md",
-    "Project/JAVA/기본 문법/연산자.md",
     "Project/JAVA/기본 문법/상수.md",
     "Project/JAVA/클래스&객체/Static.md",
     "Project/JAVA/기본 문법/Static.md",
