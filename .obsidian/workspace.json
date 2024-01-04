@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Inbox/키오스크/키오스크.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Inbox/키오스크/키오스크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Inbox/키오스크/키오스크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/끄적끄적.md"
+                "file": "Inbox/키오스크/키오스크.md"
               }
             }
           },
@@ -209,13 +209,14 @@
   },
   "active": "d71b3916a0107506",
   "lastOpenFiles": [
-    "Inbox/ㅇㅅㅇ.md",
-    "Inbox/끄적끄적.md",
+    "Inbox/키오스크/menu.md",
+    "Inbox/프리코스.md",
     "Inbox/키오스크/키오스크.md",
+    "Inbox/끄적끄적.md",
+    "Inbox/ㅇㅅㅇ.md",
     "Project/Java API/java.util/Scanner.md",
     "Project/Java API/java.io/java.io.md",
     "Project/Java API/java.lang/String.md",
-    "Inbox/키오스크/menu.md",
     "Project/JAVA/기본 문법/연산자.md",
     "Todo/TIL/2024-01-03 TIL.md",
     "Inbox/키오스크",
@@ -239,7 +240,6 @@
     "Project/JAVA/기본 문법/Static.md",
     "Project/JAVA/기본 문법/new.md",
     "Project/JAVA/기본 문법/배열.md",
-    "Project/Java API/java.util/function.md",
     "Project/JAVA/모던 자바",
     "Archive/img/Java/threadcontrol.png",
     "Archive/img/Java/threadstate.png",
