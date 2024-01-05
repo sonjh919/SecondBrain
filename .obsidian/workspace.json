@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/JAVA/모던 자바/람다.md",
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/JAVA/모던 자바/람다.md",
+                "file": "Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/JAVA/모던 자바/람다.md",
+                "file": "Inbox/끄적끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/JAVA/모던 자바/람다.md"
+                "file": "Inbox/끄적끄적.md"
               }
             }
           },
@@ -207,8 +207,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d71b3916a0107506",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
+    "Project/JAVA/모던 자바/람다.md",
     "Project/JAVA/모던 자바/모던 자바.md",
     "Project/JAVA/모던 자바/함수형 프로그래밍.md",
     "Area/Git/Error/이미 push한 commit 변경하기.md",
@@ -235,7 +236,6 @@
     "Project/객체지향의 사실과 오해/07 함께 모으기.md",
     "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
     "Project/객체지향의 사실과 오해/03 타입과 추상화.md",
-    "Project/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
     "Inbox/키오스크",
     "Archive/img/TIL/20240103.png",
     "Archive/img/Java/Inheritance.png",
