@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/JAVA/개발 환경/JVM/Thread 제어.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/JAVA/개발 환경/JVM/Thread 제어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/JAVA/개발 환경/JVM/Thread 제어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/끄적끄적.md"
+                "file": "Project/JAVA/개발 환경/JVM/Thread 제어.md"
               }
             }
           },
@@ -209,12 +209,13 @@
   },
   "active": "d71b3916a0107506",
   "lastOpenFiles": [
+    "Project/JAVA/개발 환경/JVM/Thread.md",
+    "Inbox/끄적끄적.md",
     "Project/Java API/java.util/Collection/Set.md",
     "Project/Java API/java.util/function.md",
     "Project/Java API/java.util/Collection/List.md",
     "Project/Java API/java.util/Collection/Queue.md",
     "Project/Java API/java.util/Collection/Collection.md",
-    "Inbox/끄적끄적.md",
     "Inbox/ㅇㅅㅇ.md",
     "Inbox/키오스크/키오스크.md",
     "Inbox/키오스크/menu.md",
@@ -234,7 +235,6 @@
     "Templates/blog_Callout.md",
     "Templates/gitblog templete.md",
     "Inbox/프리코스.md",
-    "Project/Java API/java.util/Scanner.md",
     "Inbox/키오스크",
     "Archive/img/TIL/20240103.png",
     "Archive/img/Java/Inheritance.png",
