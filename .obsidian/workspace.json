@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/Git/Error/이미 push한 commit 변경하기.md",
+                "file": "Project/JAVA/모던 자바/람다.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/Git/Error/이미 push한 commit 변경하기.md",
+                "file": "Project/JAVA/모던 자바/람다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/Git/Error/이미 push한 commit 변경하기.md",
+                "file": "Project/JAVA/모던 자바/람다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/Git/Error/이미 push한 commit 변경하기.md"
+                "file": "Project/JAVA/모던 자바/람다.md"
               }
             }
           },
@@ -209,6 +209,9 @@
   },
   "active": "d71b3916a0107506",
   "lastOpenFiles": [
+    "Project/JAVA/모던 자바/모던 자바.md",
+    "Project/JAVA/모던 자바/함수형 프로그래밍.md",
+    "Area/Git/Error/이미 push한 commit 변경하기.md",
     "Inbox/menulist/menulist.md",
     "Inbox/ㅇㅅㅇ.md",
     "Inbox/menulist",
@@ -233,9 +236,6 @@
     "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
     "Project/객체지향의 사실과 오해/03 타입과 추상화.md",
     "Project/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
-    "Todo/TIL/2024-01-04 TIL.md",
-    "Templates/TIL Templete.md",
-    "Templates/blog_Callout.md",
     "Inbox/키오스크",
     "Archive/img/TIL/20240103.png",
     "Archive/img/Java/Inheritance.png",
