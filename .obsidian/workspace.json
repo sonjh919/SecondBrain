@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/JAVA/개발 환경/JVM/Thread 제어.md",
+                "file": "Area/Git/Error/이미 push한 commit 변경하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/JAVA/개발 환경/JVM/Thread 제어.md",
+                "file": "Area/Git/Error/이미 push한 commit 변경하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/JAVA/개발 환경/JVM/Thread 제어.md",
+                "file": "Area/Git/Error/이미 push한 commit 변경하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/JAVA/개발 환경/JVM/Thread 제어.md"
+                "file": "Area/Git/Error/이미 push한 commit 변경하기.md"
               }
             }
           },
@@ -209,14 +209,17 @@
   },
   "active": "d71b3916a0107506",
   "lastOpenFiles": [
-    "Project/JAVA/개발 환경/JVM/Thread.md",
+    "Inbox/menulist/menulist.md",
+    "Inbox/ㅇㅅㅇ.md",
+    "Inbox/menulist",
     "Inbox/끄적끄적.md",
+    "Project/JAVA/개발 환경/JVM/Thread 제어.md",
+    "Project/JAVA/개발 환경/JVM/Thread.md",
     "Project/Java API/java.util/Collection/Set.md",
     "Project/Java API/java.util/function.md",
     "Project/Java API/java.util/Collection/List.md",
     "Project/Java API/java.util/Collection/Queue.md",
     "Project/Java API/java.util/Collection/Collection.md",
-    "Inbox/ㅇㅅㅇ.md",
     "Inbox/키오스크/키오스크.md",
     "Inbox/키오스크/menu.md",
     "Project/Java API/java.util/Map.md",
@@ -233,8 +236,6 @@
     "Todo/TIL/2024-01-04 TIL.md",
     "Templates/TIL Templete.md",
     "Templates/blog_Callout.md",
-    "Templates/gitblog templete.md",
-    "Inbox/프리코스.md",
     "Inbox/키오스크",
     "Archive/img/TIL/20240103.png",
     "Archive/img/Java/Inheritance.png",
@@ -253,7 +254,6 @@
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 2 - 좀비가 희생물을 공격하다",
-    "Resource/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기",
-    "Resource/Python/문법/함수"
+    "Resource/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기"
   ]
 }
