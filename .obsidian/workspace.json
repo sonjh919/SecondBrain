@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+                "file": "Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+                "file": "Inbox/끄적끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md"
+                "file": "Inbox/끄적끄적.md"
               }
             }
           },
@@ -209,6 +209,10 @@
   },
   "active": "d71b3916a0107506",
   "lastOpenFiles": [
+    "Inbox/ㅇㅅㅇ.md",
+    "Project/JAVA/기본 문법/예외 처리.md",
+    "Project/JAVA/기본 문법/배열.md",
+    "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
     "Project/객체지향의 사실과 오해/05 책임과 메시지.md",
     "Project/객체지향의 사실과 오해/06 객체 지도.md",
     "Project/객체지향의 사실과 오해/07 함께 모으기.md",
@@ -223,7 +227,6 @@
     "Inbox/키오스크/menu.md",
     "Inbox/프리코스.md",
     "Inbox/끄적끄적.md",
-    "Inbox/ㅇㅅㅇ.md",
     "Project/Java API/java.util/Scanner.md",
     "Project/Java API/java.io/java.io.md",
     "Project/Java API/java.lang/String.md",
@@ -234,9 +237,6 @@
     "Project/JAVA/클래스&객체/접근 지정자.md",
     "Project/JAVA/클래스&객체/상속.md",
     "Area/Git/Error/이미 push한 commit 변경하기.md",
-    "Area/Git/Error/LF will be replaced by CRLF in pom.xml.md",
-    "Area/Git/Error/Git 오류 모음집.md",
-    "Project/Docker/Error/Error response from daemon When using COPY with more than one source file.md",
     "Archive/img/Java/Inheritance.png",
     "Archive/img/Java/연산자 우선순위.png",
     "Archive/img/Java/Java 실행과정.png",
