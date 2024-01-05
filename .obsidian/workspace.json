@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Java API/java.util/Collection/Set.md",
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Java API/java.util/Collection/Set.md",
+                "file": "Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Java API/java.util/Collection/Set.md",
+                "file": "Inbox/끄적끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Java API/java.util/Collection/Set.md"
+                "file": "Inbox/끄적끄적.md"
               }
             }
           },
@@ -209,12 +209,17 @@
   },
   "active": "d71b3916a0107506",
   "lastOpenFiles": [
-    "Project/Java API/java.util/Map.md",
-    "Area/책/책.md",
+    "Project/Java API/java.util/Collection/Set.md",
+    "Project/Java API/java.util/function.md",
+    "Project/Java API/java.util/Collection/List.md",
+    "Project/Java API/java.util/Collection/Queue.md",
+    "Project/Java API/java.util/Collection/Collection.md",
+    "Inbox/끄적끄적.md",
+    "Inbox/ㅇㅅㅇ.md",
     "Inbox/키오스크/키오스크.md",
     "Inbox/키오스크/menu.md",
-    "Inbox/ㅇㅅㅇ.md",
-    "Inbox/끄적끄적.md",
+    "Project/Java API/java.util/Map.md",
+    "Area/책/책.md",
     "Project/JAVA/기본 문법/예외 처리.md",
     "Project/JAVA/기본 문법/배열.md",
     "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
@@ -230,13 +235,8 @@
     "Templates/gitblog templete.md",
     "Inbox/프리코스.md",
     "Project/Java API/java.util/Scanner.md",
-    "Project/Java API/java.io/java.io.md",
-    "Project/Java API/java.lang/String.md",
-    "Project/JAVA/기본 문법/연산자.md",
-    "Todo/TIL/2024-01-03 TIL.md",
     "Inbox/키오스크",
     "Archive/img/TIL/20240103.png",
-    "Project/JAVA/클래스&객체/접근 지정자.md",
     "Archive/img/Java/Inheritance.png",
     "Archive/img/Java/연산자 우선순위.png",
     "Archive/img/Java/Java 실행과정.png",
