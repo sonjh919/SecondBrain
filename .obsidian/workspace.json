@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Java API/java.util/Map.md",
+                "file": "Project/Java API/java.util/Collection/Set.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Java API/java.util/Map.md",
+                "file": "Project/Java API/java.util/Collection/Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Java API/java.util/Map.md",
+                "file": "Project/Java API/java.util/Collection/Set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Java API/java.util/Map.md"
+                "file": "Project/Java API/java.util/Collection/Set.md"
               }
             }
           },
@@ -209,6 +209,7 @@
   },
   "active": "d71b3916a0107506",
   "lastOpenFiles": [
+    "Project/Java API/java.util/Map.md",
     "Area/책/책.md",
     "Inbox/키오스크/키오스크.md",
     "Inbox/키오스크/menu.md",
@@ -236,7 +237,6 @@
     "Inbox/키오스크",
     "Archive/img/TIL/20240103.png",
     "Project/JAVA/클래스&객체/접근 지정자.md",
-    "Project/JAVA/클래스&객체/상속.md",
     "Archive/img/Java/Inheritance.png",
     "Archive/img/Java/연산자 우선순위.png",
     "Archive/img/Java/Java 실행과정.png",
