@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/책/책.md",
+                "file": "Project/Java API/java.util/Map.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/책/책.md",
+                "file": "Project/Java API/java.util/Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/책/책.md",
+                "file": "Project/Java API/java.util/Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/책/책.md"
+                "file": "Project/Java API/java.util/Map.md"
               }
             }
           },
@@ -209,6 +209,7 @@
   },
   "active": "d71b3916a0107506",
   "lastOpenFiles": [
+    "Area/책/책.md",
     "Inbox/키오스크/키오스크.md",
     "Inbox/키오스크/menu.md",
     "Inbox/ㅇㅅㅇ.md",
@@ -236,7 +237,6 @@
     "Archive/img/TIL/20240103.png",
     "Project/JAVA/클래스&객체/접근 지정자.md",
     "Project/JAVA/클래스&객체/상속.md",
-    "Area/Git/Error/이미 push한 commit 변경하기.md",
     "Archive/img/Java/Inheritance.png",
     "Archive/img/Java/연산자 우선순위.png",
     "Archive/img/Java/Java 실행과정.png",
