@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/코드일기장/equals와 hashcode 재정의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/코드일기장/equals와 hashcode 재정의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/코드일기장/equals와 hashcode 재정의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/끄적끄적.md"
+                "file": "Project/코드일기장/equals와 hashcode 재정의.md"
               }
             }
           },
@@ -209,6 +209,13 @@
   },
   "active": "22e62c815c87a34c",
   "lastOpenFiles": [
+    "Inbox/끄적끄적.md",
+    "Project/코드일기장/equals와 hashcode 재정의.md",
+    "Project/코드일기장",
+    "Project/무제 파일.canvas",
+    "Project/Java API/java.util/Map.md",
+    "Project/Java API/java.util/Collection/List.md",
+    "Project/Java API/java.util/Collection/Set.md",
     "Project/JAVA/모던 자바/람다.md",
     "Project/JAVA/모던 자바/모던 자바.md",
     "Project/JAVA/모던 자바/함수형 프로그래밍.md",
@@ -216,17 +223,13 @@
     "Inbox/menulist/menulist.md",
     "Inbox/ㅇㅅㅇ.md",
     "Inbox/menulist",
-    "Inbox/끄적끄적.md",
     "Project/JAVA/개발 환경/JVM/Thread 제어.md",
     "Project/JAVA/개발 환경/JVM/Thread.md",
-    "Project/Java API/java.util/Collection/Set.md",
     "Project/Java API/java.util/function.md",
-    "Project/Java API/java.util/Collection/List.md",
     "Project/Java API/java.util/Collection/Queue.md",
     "Project/Java API/java.util/Collection/Collection.md",
     "Inbox/키오스크/키오스크.md",
     "Inbox/키오스크/menu.md",
-    "Project/Java API/java.util/Map.md",
     "Area/책/책.md",
     "Project/JAVA/기본 문법/예외 처리.md",
     "Project/JAVA/기본 문법/배열.md",
@@ -235,7 +238,6 @@
     "Project/객체지향의 사실과 오해/06 객체 지도.md",
     "Project/객체지향의 사실과 오해/07 함께 모으기.md",
     "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
-    "Project/객체지향의 사실과 오해/03 타입과 추상화.md",
     "Inbox/키오스크",
     "Archive/img/TIL/20240103.png",
     "Archive/img/Java/Inheritance.png",
@@ -253,7 +255,6 @@
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 4 - 좀비 전투 시스템",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 2 - 좀비가 희생물을 공격하다",
-    "Resource/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기"
+    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 2 - 좀비가 희생물을 공격하다"
   ]
 }
