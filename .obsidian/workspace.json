@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d71b3916a0107506",
+            "id": "0cb606d9982f0ae5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/코드일기장/equals와 hashcode 재정의.md",
+                "file": "Todo/TIL/2024-01-06 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/코드일기장/equals와 hashcode 재정의.md",
+                "file": "Todo/TIL/2024-01-06 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/코드일기장/equals와 hashcode 재정의.md",
+                "file": "Todo/TIL/2024-01-06 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/코드일기장/equals와 hashcode 재정의.md"
+                "file": "Todo/TIL/2024-01-06 TIL.md"
               }
             }
           },
@@ -207,14 +207,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "0cb606d9982f0ae5",
   "lastOpenFiles": [
+    "Todo/TIL/2024-01-05 TIL.md",
+    "Todo/TIL/2024-01-06 TIL.md",
+    "Templates/gitblog templete.md",
+    "Templates/blog_Callout.md",
+    "Todo/TIL/2024-01-04 TIL.md",
+    "Project/코드기록장/equals와 hashcode 재정의.md",
+    "Archive/img/코드기록장",
+    "Archive/img/코드기록장/equals와hashcode재정의.png",
+    "Project/코드일기장/Pasted image 20240107020315.png",
     "Inbox/끄적끄적.md",
-    "Project/코드일기장/equals와 hashcode 재정의.md",
-    "Project/코드일기장",
-    "Project/무제 파일.canvas",
     "Project/Java API/java.util/Map.md",
     "Project/Java API/java.util/Collection/List.md",
+    "Project/코드기록장",
+    "Project/무제 파일.canvas",
     "Project/Java API/java.util/Collection/Set.md",
     "Project/JAVA/모던 자바/람다.md",
     "Project/JAVA/모던 자바/모던 자바.md",
@@ -233,11 +241,6 @@
     "Area/책/책.md",
     "Project/JAVA/기본 문법/예외 처리.md",
     "Project/JAVA/기본 문법/배열.md",
-    "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
-    "Project/객체지향의 사실과 오해/05 책임과 메시지.md",
-    "Project/객체지향의 사실과 오해/06 객체 지도.md",
-    "Project/객체지향의 사실과 오해/07 함께 모으기.md",
-    "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
     "Inbox/키오스크",
     "Archive/img/TIL/20240103.png",
     "Archive/img/Java/Inheritance.png",
@@ -248,13 +251,10 @@
     "Archive/img/Java/threadstate.png",
     "Archive/img/Java/process.png",
     "Archive/img/TIL/20240102.png",
-    "Archive/img/Java/thread.png",
-    "Archive/img/Java/error.png",
     "Archive/img/Java/클래스&객체",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 4 - 좀비 전투 시스템",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 2 - 좀비가 희생물을 공격하다"
+    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기"
   ]
 }
