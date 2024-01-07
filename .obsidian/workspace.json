@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/코드기록장/equals와 hashcode 재정의.md",
+                "file": "Todo/TIL/2024-01-07 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/코드기록장/equals와 hashcode 재정의.md",
+                "file": "Todo/TIL/2024-01-07 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/코드기록장/equals와 hashcode 재정의.md",
+                "file": "Todo/TIL/2024-01-07 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/코드기록장/equals와 hashcode 재정의.md"
+                "file": "Todo/TIL/2024-01-07 TIL.md"
               }
             }
           },
@@ -209,6 +209,9 @@
   },
   "active": "0cb606d9982f0ae5",
   "lastOpenFiles": [
+    "Todo/TIL/2024-01-06 TIL.md",
+    "Todo/TIL/2024-01-07 TIL.md",
+    "Project/코드기록장/equals와 hashcode 재정의.md",
     "Project/JAVA/클래스&객체/제네릭.md",
     "Project/Java API/java.util/function.md",
     "Project/JAVA/모던 자바/함수형 인터페이스.md",
@@ -219,12 +222,10 @@
     "Inbox/키오스크/키오스크.md",
     "Inbox/키오스크/menu.md",
     "Inbox/ㅇㅅㅇ.md",
-    "Todo/TIL/2024-01-06 TIL.md",
     "Todo/TIL/2024-01-05 TIL.md",
     "Templates/gitblog templete.md",
     "Templates/blog_Callout.md",
     "Todo/TIL/2024-01-04 TIL.md",
-    "Project/코드기록장/equals와 hashcode 재정의.md",
     "Archive/img/코드기록장",
     "Archive/img/코드기록장/equals와hashcode재정의.png",
     "Project/코드일기장/Pasted image 20240107020315.png",
@@ -241,7 +242,6 @@
     "Project/JAVA/개발 환경/JVM/Thread 제어.md",
     "Project/JAVA/개발 환경/JVM/Thread.md",
     "Project/Java API/java.util/Collection/Queue.md",
-    "Project/Java API/java.util/Collection/Collection.md",
     "Inbox/키오스크",
     "Archive/img/TIL/20240103.png",
     "Archive/img/Java/Inheritance.png",
