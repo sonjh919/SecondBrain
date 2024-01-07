@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/2024-01-06 TIL.md",
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/2024-01-06 TIL.md",
+                "file": "Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/2024-01-06 TIL.md",
+                "file": "Inbox/끄적끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/TIL/2024-01-06 TIL.md"
+                "file": "Inbox/끄적끄적.md"
               }
             }
           },
@@ -209,8 +209,8 @@
   },
   "active": "0cb606d9982f0ae5",
   "lastOpenFiles": [
-    "Todo/TIL/2024-01-05 TIL.md",
     "Todo/TIL/2024-01-06 TIL.md",
+    "Todo/TIL/2024-01-05 TIL.md",
     "Templates/gitblog templete.md",
     "Templates/blog_Callout.md",
     "Todo/TIL/2024-01-04 TIL.md",
