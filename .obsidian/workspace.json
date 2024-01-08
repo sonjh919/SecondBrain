@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/오브젝트/02 객체지향 프로그래밍.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/오브젝트/02 객체지향 프로그래밍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/오브젝트/02 객체지향 프로그래밍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/끄적끄적.md"
+                "file": "Project/오브젝트/02 객체지향 프로그래밍.md"
               }
             }
           },
@@ -209,6 +209,18 @@
   },
   "active": "0cb606d9982f0ae5",
   "lastOpenFiles": [
+    "Project/오브젝트/01 객체, 설계.md",
+    "Project/오브젝트/02 객체지향 프로그래밍.md",
+    "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+    "Templates/gitblog templete.md",
+    "Templates/blog_Callout.md",
+    "Todo/TIL/2024-01-12 TIL.md",
+    "Todo/TIL/2024-01-11 TIL.md",
+    "Todo/TIL/2024-01-10 TIL.md",
+    "Todo/TIL/2024-01-09 TIL.md",
+    "Todo/TIL/2024-01-08 TIL.md",
+    "Inbox/끄적끄적.md",
+    "Project/오브젝트",
     "Todo/TIL/2024-01-07 TIL.md",
     "Todo/TIL/2024-01-06 TIL.md",
     "Project/코드기록장/equals와 hashcode 재정의.md",
@@ -216,15 +228,12 @@
     "Project/Java API/java.util/function.md",
     "Project/JAVA/모던 자바/함수형 인터페이스.md",
     "Project/JAVA/모던 자바/람다.md",
-    "Inbox/끄적끄적.md",
     "Inbox/Pasted image 20240107103049.png",
     "Project/Java API/java.util/Scanner.md",
     "Inbox/키오스크/키오스크.md",
     "Inbox/키오스크/menu.md",
     "Inbox/ㅇㅅㅇ.md",
     "Todo/TIL/2024-01-05 TIL.md",
-    "Templates/gitblog templete.md",
-    "Templates/blog_Callout.md",
     "Todo/TIL/2024-01-04 TIL.md",
     "Archive/img/코드기록장",
     "Archive/img/코드기록장/equals와hashcode재정의.png",
@@ -233,15 +242,7 @@
     "Project/Java API/java.util/Collection/List.md",
     "Project/코드기록장",
     "Project/무제 파일.canvas",
-    "Project/Java API/java.util/Collection/Set.md",
-    "Project/JAVA/모던 자바/모던 자바.md",
-    "Project/JAVA/모던 자바/함수형 프로그래밍.md",
-    "Area/Git/Error/이미 push한 commit 변경하기.md",
-    "Inbox/menulist/menulist.md",
     "Inbox/menulist",
-    "Project/JAVA/개발 환경/JVM/Thread 제어.md",
-    "Project/JAVA/개발 환경/JVM/Thread.md",
-    "Project/Java API/java.util/Collection/Queue.md",
     "Inbox/키오스크",
     "Archive/img/TIL/20240103.png",
     "Archive/img/Java/Inheritance.png",
@@ -254,7 +255,6 @@
     "Archive/img/Java/클래스&객체",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 4 - 좀비 전투 시스템",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기"
+    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념"
   ]
 }

@@ -2,12 +2,12 @@
 title: <% tp.file.title %>
 date: <% tp.file.creation_date() %>
 categories:
-  - TIL
+  - OOP
+  - 오브젝트
 tags:
-  - TIL
-  - 내일배움캠프
-  - 스파르타내일배움캠프
-  - 스파르타내일배움캠프TIL
+  - OOP
+  - 개발서적
+  - 객체지향
 image: 
 path:
 ---
