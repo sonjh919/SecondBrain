@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/오브젝트/02 객체지향 프로그래밍.md",
+                "file": "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/오브젝트/02 객체지향 프로그래밍.md",
+                "file": "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/오브젝트/02 객체지향 프로그래밍.md",
+                "file": "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/오브젝트/02 객체지향 프로그래밍.md"
+                "file": "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md"
               }
             }
           },
@@ -209,8 +209,12 @@
   },
   "active": "0cb606d9982f0ae5",
   "lastOpenFiles": [
-    "Project/오브젝트/01 객체, 설계.md",
+    "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해/무제 파일.md",
+    "Templates/gitblog templete.md",
+    "Project/객체지향의 사실과 오해/무제 파일.md",
     "Project/오브젝트/02 객체지향 프로그래밍.md",
+    "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해",
+    "Project/오브젝트/01 객체, 설계.md",
     "Project/객체지향의 사실과 오해/06 객체 지도.md",
     "Project/객체지향의 사실과 오해/05 책임과 메시지.md",
     "Project/객체지향의 사실과 오해/03 타입과 추상화.md",
@@ -219,7 +223,6 @@
     "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
     "Project/JAVA/클래스&객체/Has-A와 IS-A.md",
     "Project/JAVA/클래스&객체/인터페이스.md",
-    "Templates/gitblog templete.md",
     "Templates/blog_Callout.md",
     "Todo/TIL/2024-01-12 TIL.md",
     "Todo/TIL/2024-01-11 TIL.md",
@@ -234,9 +237,7 @@
     "Project/JAVA/클래스&객체/제네릭.md",
     "Project/Java API/java.util/function.md",
     "Project/JAVA/모던 자바/함수형 인터페이스.md",
-    "Project/JAVA/모던 자바/람다.md",
     "Inbox/Pasted image 20240107103049.png",
-    "Project/Java API/java.util/Scanner.md",
     "Archive/img/코드기록장",
     "Archive/img/코드기록장/equals와hashcode재정의.png",
     "Project/코드일기장/Pasted image 20240107020315.png",
@@ -254,7 +255,6 @@
     "Archive/img/Java/process.png",
     "Archive/img/Java/클래스&객체",
     "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 4 - 좀비 전투 시스템",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념"
+    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 4 - 좀비 전투 시스템"
   ]
 }
