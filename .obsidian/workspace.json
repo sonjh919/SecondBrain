@@ -209,8 +209,9 @@
   },
   "active": "0cb606d9982f0ae5",
   "lastOpenFiles": [
-    "Project/오브젝트/01 객체, 설계.md",
+    "Project/JAVA/클래스&객체/인터페이스.md",
     "Project/오브젝트/02 객체지향 프로그래밍.md",
+    "Project/오브젝트/01 객체, 설계.md",
     "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
     "Templates/gitblog templete.md",
     "Templates/blog_Callout.md",
@@ -239,7 +240,6 @@
     "Archive/img/코드기록장/equals와hashcode재정의.png",
     "Project/코드일기장/Pasted image 20240107020315.png",
     "Project/Java API/java.util/Map.md",
-    "Project/Java API/java.util/Collection/List.md",
     "Project/코드기록장",
     "Project/무제 파일.canvas",
     "Inbox/menulist",
