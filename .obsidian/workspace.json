@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+                "file": "Todo/TIL/2024-01-09 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+                "file": "Todo/TIL/2024-01-09 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+                "file": "Todo/TIL/2024-01-09 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md"
+                "file": "Todo/TIL/2024-01-09 TIL.md"
               }
             }
           },
@@ -209,26 +209,27 @@
   },
   "active": "0cb606d9982f0ae5",
   "lastOpenFiles": [
+    "Todo/TIL/2024-01-08 TIL.md",
     "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해/무제 파일.md",
+    "Todo/TIL/2024-01-09 TIL.md",
+    "Project/OOP/OOP.md",
+    "Project/오브젝트/01 객체, 설계.md",
+    "Project/오브젝트/02 객체지향 프로그래밍.md",
+    "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
     "Templates/gitblog templete.md",
     "Project/객체지향의 사실과 오해/무제 파일.md",
-    "Project/오브젝트/02 객체지향 프로그래밍.md",
     "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해",
-    "Project/오브젝트/01 객체, 설계.md",
     "Project/객체지향의 사실과 오해/06 객체 지도.md",
     "Project/객체지향의 사실과 오해/05 책임과 메시지.md",
     "Project/객체지향의 사실과 오해/03 타입과 추상화.md",
     "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
     "Project/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
-    "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
     "Project/JAVA/클래스&객체/Has-A와 IS-A.md",
     "Project/JAVA/클래스&객체/인터페이스.md",
     "Templates/blog_Callout.md",
     "Todo/TIL/2024-01-12 TIL.md",
     "Todo/TIL/2024-01-11 TIL.md",
     "Todo/TIL/2024-01-10 TIL.md",
-    "Todo/TIL/2024-01-09 TIL.md",
-    "Todo/TIL/2024-01-08 TIL.md",
     "Inbox/끄적끄적.md",
     "Project/오브젝트",
     "Todo/TIL/2024-01-07 TIL.md",
@@ -236,7 +237,6 @@
     "Project/코드기록장/equals와 hashcode 재정의.md",
     "Project/JAVA/클래스&객체/제네릭.md",
     "Project/Java API/java.util/function.md",
-    "Project/JAVA/모던 자바/함수형 인터페이스.md",
     "Inbox/Pasted image 20240107103049.png",
     "Archive/img/코드기록장",
     "Archive/img/코드기록장/equals와hashcode재정의.png",
