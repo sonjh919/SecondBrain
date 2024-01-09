@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac9bd637f13a6646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo/TIL/2024-01-09 TIL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,13 +221,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0cb606d9982f0ae5",
+  "active": "ac9bd637f13a6646",
   "lastOpenFiles": [
     "Todo/TIL/2024-01-08 TIL.md",
-    "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해/무제 파일.md",
-    "Todo/TIL/2024-01-09 TIL.md",
-    "Project/OOP/OOP.md",
+    "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해/02 자바와 절차적, 구조적 프로그래밍.md",
+    "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해/01 사람을 사랑한 기술.md",
     "Project/오브젝트/01 객체, 설계.md",
+    "Project/JAVA/기본 문법/형 변환.md",
+    "Todo/TIL/2024-01-09 TIL.md",
+    "Inbox/menulist/menulist.md",
+    "Project/OOP/OOP.md",
     "Project/오브젝트/02 객체지향 프로그래밍.md",
     "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
     "Templates/gitblog templete.md",
@@ -234,9 +251,6 @@
     "Project/오브젝트",
     "Todo/TIL/2024-01-07 TIL.md",
     "Todo/TIL/2024-01-06 TIL.md",
-    "Project/코드기록장/equals와 hashcode 재정의.md",
-    "Project/JAVA/클래스&객체/제네릭.md",
-    "Project/Java API/java.util/function.md",
     "Inbox/Pasted image 20240107103049.png",
     "Archive/img/코드기록장",
     "Archive/img/코드기록장/equals와hashcode재정의.png",
