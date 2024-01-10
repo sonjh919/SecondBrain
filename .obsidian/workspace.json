@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+                "file": "Project/오브젝트/02 객체지향 프로그래밍.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+                "file": "Project/오브젝트/02 객체지향 프로그래밍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+                "file": "Project/오브젝트/02 객체지향 프로그래밍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md"
+                "file": "Project/오브젝트/02 객체지향 프로그래밍.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "dfa27add57db594d",
@@ -219,12 +219,20 @@
   },
   "active": "be186ae7d690b1e8",
   "lastOpenFiles": [
+    "Project/오브젝트/01 객체, 설계.md",
+    "Project/객체지향의 사실과 오해/06 객체 지도.md",
+    "Project/객체지향의 사실과 오해/05 책임과 메시지.md",
+    "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+    "Project/객체지향의 사실과 오해/03 타입과 추상화.md",
+    "Project/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
+    "Project/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+    "Inbox/코테.md",
+    "Inbox/끄적끄적.md",
     "Project/오브젝트/02 객체지향 프로그래밍.md",
     "Project/오브젝트/03 역할, 책임, 협력.md",
     "Templates/gitblog templete.md",
     "Templates/blog_Callout.md",
     "Inbox/팀플.md",
-    "Inbox/끄적끄적.md",
     "Inbox/ㅇㅅㅇ.md",
     "Inbox/프리코스.md",
     "Todo/TIL/2024-01-09 TIL.md",
@@ -239,15 +247,7 @@
     "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
     "Excalidraw",
     "Templates/TIL Templete.md",
-    "Todo/TIL/TIL.md",
-    "Todo/TIL/2024-01-13 TIL.md",
-    "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해/03 자바와 객체 지향.md",
-    "Project/코드기록장/equals와 hashcode 재정의.md",
-    "Project/OOP/OOP.md",
     "Inbox/Pasted image 20240107103049.png",
-    "Inbox/키오스크/menu.md",
-    "Inbox/키오스크/키오스크.md",
-    "Project/객체지향의 사실과 오해/06 객체 지도.md",
     "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해",
     "Project/오브젝트",
     "Archive/img/코드기록장",
