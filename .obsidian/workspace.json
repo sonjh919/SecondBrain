@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Java API/java.util/Collection/Collection.md",
+                "file": "Inbox/기능 정의서.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Java API/java.util/Collection/Collection.md",
+                "file": "Inbox/기능 정의서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Java API/java.util/Collection/Collection.md",
+                "file": "Inbox/기능 정의서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Java API/java.util/Collection/Collection.md"
+                "file": "Inbox/기능 정의서.md"
               }
             }
           },
@@ -219,12 +219,13 @@
   },
   "active": "be186ae7d690b1e8",
   "lastOpenFiles": [
+    "Project/Java API/java.util/Collection/Collection.md",
     "Project/Java API/java.util/Collection/List.md",
     "Project/Java API/java.util/Collection/Queue.md",
     "Project/Java API/java.util/Collection/Set.md",
     "Inbox/ㅇㅅㅇ.md",
     "Inbox/코테.md",
-    "Inbox/팀플.md",
+    "Inbox/기능 정의서.md",
     "Project/오브젝트/02 객체지향 프로그래밍.md",
     "Project/오브젝트/01 객체, 설계.md",
     "Project/객체지향의 사실과 오해/06 객체 지도.md",
@@ -245,7 +246,6 @@
     "Project/객체지향의 사실과 오해/무제 파일.md",
     "Project/오브젝트/MOC.md",
     "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해/MOC.md",
-    "Project/객체지향의 사실과 오해/MOC.md",
     "Excalidraw",
     "Inbox/Pasted image 20240107103049.png",
     "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해",
