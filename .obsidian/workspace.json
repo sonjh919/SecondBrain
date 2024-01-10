@@ -13,10 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
+                "file": "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "929b7b4479fa407c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Archive/img/TIL/20240109.png"
               }
             }
           }
@@ -95,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
+                "file": "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
+                "file": "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md"
+                "file": "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md"
               }
             }
           },
@@ -209,33 +219,35 @@
   },
   "active": "be186ae7d690b1e8",
   "lastOpenFiles": [
+    "Project/오브젝트/02 객체지향 프로그래밍.md",
+    "Project/오브젝트/03 역할, 책임, 협력.md",
+    "Templates/gitblog templete.md",
+    "Templates/blog_Callout.md",
+    "Inbox/팀플.md",
+    "Inbox/끄적끄적.md",
+    "Inbox/ㅇㅅㅇ.md",
+    "Inbox/프리코스.md",
     "Todo/TIL/2024-01-09 TIL.md",
+    "Archive/img/TIL/20240109.png",
+    "Excalidraw/Drawing 2024-01-09 23.01.56.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-09 23.02.06.excalidraw.md",
+    "Project/객체지향의 사실과 오해/무제 파일.md",
+    "Project/오브젝트/MOC.md",
+    "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해/MOC.md",
+    "Project/객체지향의 사실과 오해/MOC.md",
+    "Project/OOP/OCP vs LSP.md",
+    "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
+    "Excalidraw",
     "Templates/TIL Templete.md",
     "Todo/TIL/TIL.md",
-    "Templates/blog_Callout.md",
-    "Templates/gitblog templete.md",
     "Todo/TIL/2024-01-13 TIL.md",
-    "Inbox/끄적끄적.md",
     "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해/03 자바와 객체 지향.md",
-    "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
-    "Project/OOP/OCP vs LSP.md",
     "Project/코드기록장/equals와 hashcode 재정의.md",
-    "Inbox/ㅇㅅㅇ.md",
     "Project/OOP/OOP.md",
-    "Inbox/프리코스.md",
     "Inbox/Pasted image 20240107103049.png",
     "Inbox/키오스크/menu.md",
     "Inbox/키오스크/키오스크.md",
     "Project/객체지향의 사실과 오해/06 객체 지도.md",
-    "Project/객체지향의 사실과 오해/05 책임과 메시지.md",
-    "Project/객체지향의 사실과 오해/03 타입과 추상화.md",
-    "Project/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
-    "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해/04 자바가 확장한 객체 지향.md",
-    "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해/01 사람을 사랑한 기술.md",
-    "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해/02 자바와 절차적, 구조적 프로그래밍.md",
-    "Project/오브젝트/02 객체지향 프로그래밍.md",
-    "Todo/TIL/2024-01-08 TIL.md",
-    "Project/오브젝트/01 객체, 설계.md",
     "Project/스프링 입문을 위한 자바 객체지향의 원리와 이해",
     "Project/오브젝트",
     "Archive/img/코드기록장",
@@ -252,9 +264,7 @@
     "Project/JAVA/모던 자바",
     "Archive/img/Java/threadcontrol.png",
     "Archive/img/Java/threadstate.png",
-    "Archive/img/Java/process.png",
     "Archive/img/Java/클래스&객체",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품",
-    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 4 - 좀비 전투 시스템"
+    "Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품"
   ]
 }
