@@ -37,7 +37,7 @@ path:
 ### START WITH
 - 계층의 ROOT로 사용될 ROW를 지정
 - **결과 목록에 항상 포함됨**
-- [[Subquery]] 사용가능
+- [[SubQuery]] 사용가능
 
 ### CONNECT BY
 - 조건에 만족하는 데이터가 없을 때까지 ROOT로부터 자식 노드를 생성

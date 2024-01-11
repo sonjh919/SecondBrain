@@ -47,17 +47,17 @@ path:
 + 논리적인 작업 단위로 묶어 제어한다.
 
 ### 함수
-+ [[Project/Database/RDB/SQL/함수/함수|함수]]
++ [[Area/Database/RDB/SQL/함수/함수|함수]]
 
 ### 문법
 + [[DESC]]
 + [[Alias]]
-+ [[Project/Database/RDB/SQL/문법/연산자]]
++ [[Area/Database/RDB/SQL/문법/연산자]]
 + [[날짜형 포맷]]
 + [[CASE]]
 + [[DUAL]]
 + [[IN & EXISTS]]
-+ [[Project/Database/RDB/SQL/Join/JOIN|JOIN]]
++ [[Area/Database/RDB/SQL/Join/JOIN|JOIN]]
 + [[VIEW]]
 + [[집합 연산자]]
 + [[절차형 SQL]]
