@@ -11,12 +11,9 @@
             "id": "be186ae7d690b1e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Inbox/기능 정의서.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Inbox/Pasted image 20240107103049.png"
               }
             }
           },
@@ -105,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/기능 정의서.md",
+                "file": "Inbox/Pasted image 20240107103049.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/기능 정의서.md",
+                "file": "Inbox/Pasted image 20240107103049.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/기능 정의서.md"
+                "file": "Inbox/Pasted image 20240107103049.png"
               }
             }
           },
@@ -219,6 +216,7 @@
   },
   "active": "be186ae7d690b1e8",
   "lastOpenFiles": [
+    "Inbox/기능 정의서.md",
     "Project/Git/Branch protection rules.md",
     "Inbox/intellij-java-google-style.xml",
     "Project/Git/Error/이미 push한 commit 변경하기.md",
@@ -227,7 +225,6 @@
     "Area/Docker/Error/Error response from daemon COPY failed no source files were specified.md",
     "Area/Docker/Docker.md",
     "Inbox/끄적끄적.md",
-    "Inbox/기능 정의서.md",
     "Project/Java API/java.util/Collection/Collection.md",
     "Project/Java API/java.util/Collection/List.md",
     "Project/Java API/java.util/Collection/Queue.md",
