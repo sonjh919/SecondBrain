@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/2024-01-11 TIL.md",
+                "file": "Inbox/temp.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/2024-01-11 TIL.md",
+                "file": "Inbox/temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/2024-01-11 TIL.md",
+                "file": "Inbox/temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/TIL/2024-01-11 TIL.md"
+                "file": "Inbox/temp.md"
               }
             }
           },
@@ -219,9 +219,10 @@
   },
   "active": "be186ae7d690b1e8",
   "lastOpenFiles": [
+    "Todo/TIL/2024-01-11 TIL.md",
     "Todo/TIL/2024-01-12 TIL.md",
     "Inbox/Pasted image 20240107103049.png",
-    "Inbox/기능 정의서.md",
+    "Inbox/temp.md",
     "Project/Git/Branch protection rules.md",
     "Inbox/intellij-java-google-style.xml",
     "Project/Git/Error/이미 push한 commit 변경하기.md",
@@ -246,7 +247,6 @@
     "Area/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
     "Project/오브젝트/03 역할, 책임, 협력.md",
     "Templates/gitblog templete.md",
-    "Templates/blog_Callout.md",
     "Archive/img/TIL/20240109.png",
     "Excalidraw",
     "Area/스프링 입문을 위한 자바 객체지향의 원리와 이해",
