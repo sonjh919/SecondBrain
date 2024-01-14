@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/오브젝트/05 책임 할당하기.md",
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/오브젝트/05 책임 할당하기.md",
+                "file": "Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/오브젝트/05 책임 할당하기.md",
+                "file": "Inbox/끄적끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/오브젝트/05 책임 할당하기.md"
+                "file": "Inbox/끄적끄적.md"
               }
             }
           },
@@ -209,16 +209,17 @@
   },
   "active": "be186ae7d690b1e8",
   "lastOpenFiles": [
+    "Inbox/프리코스.md",
+    "Inbox/Pasted image 20240107103049.png",
+    "Inbox/ㅇㅅㅇ.md",
+    "Inbox/끄적끄적.md",
+    "Inbox/코테.md",
+    "Project/오브젝트/05 책임 할당하기.md",
     "Templates/gitblog templete.md",
     "Templates/blog_Callout.md",
-    "Project/오브젝트/05 책임 할당하기.md",
     "Project/오브젝트/04 설계 품질과 트레이드오프.md",
     "Project/코드기록장/equals와 hashcode 재정의.md",
     "Archive/img/TIL/20240109.png",
-    "Inbox/프리코스.md",
-    "Inbox/코테.md",
-    "Inbox/ㅇㅅㅇ.md",
-    "Inbox/끄적끄적.md",
     "Project/오브젝트/03 역할, 책임, 협력.md",
     "Area/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
     "Area/객체지향의 사실과 오해/03 타입과 추상화.md",
@@ -233,13 +234,11 @@
     "Project/Java API/java.util/function.md",
     "Project/JAVA/모던 자바/함수형 인터페이스.md",
     "Inbox/temp.md",
-    "Inbox/Pasted image 20240107103049.png",
     "Project/Git/Branch protection rules.md",
     "Inbox/intellij-java-google-style.xml",
     "Project/Git/Error/이미 push한 commit 변경하기.md",
     "Todo/TIL/2024-01/2024-01-10 TIL.md",
     "Area/Docker/Error/Error response from daemon When using COPY with more than one source file.md",
-    "Area/Docker/Error/Error response from daemon COPY failed no source files were specified.md",
     "Excalidraw",
     "Area/스프링 입문을 위한 자바 객체지향의 원리와 이해",
     "Project/오브젝트",
