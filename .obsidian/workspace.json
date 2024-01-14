@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Java API/java.util/function.md",
+                "file": "Project/오브젝트/03 역할, 책임, 협력.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Java API/java.util/function.md",
+                "file": "Project/오브젝트/03 역할, 책임, 협력.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Java API/java.util/function.md",
+                "file": "Project/오브젝트/03 역할, 책임, 협력.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Java API/java.util/function.md"
+                "file": "Project/오브젝트/03 역할, 책임, 협력.md"
               }
             }
           },
@@ -219,15 +219,26 @@
   },
   "active": "be186ae7d690b1e8",
   "lastOpenFiles": [
+    "Inbox/ㅇㅅㅇ.md",
+    "Inbox/프리코스.md",
+    "Inbox/코테.md",
+    "Project/오브젝트/02 객체지향 프로그래밍.md",
+    "Project/오브젝트/03 역할, 책임, 협력.md",
+    "Todo/TIL/2024-01/2024-01-13 TIL.md",
+    "Todo/TIL/2024-01/2024-01-12 TIL.md",
+    "Todo/TIL/2024-01/2024-01-11 TIL.md",
+    "Todo/TIL/2024-01/2024-01-01 TIL.md",
+    "Todo/TIL/2023-12/2023-12-21-TIL.md",
+    "Todo/TIL/2024-01",
+    "Todo/TIL/2023-12",
+    "Project/Java API/java.util/function.md",
     "Project/JAVA/모던 자바/함수형 인터페이스.md",
-    "Todo/TIL/2024-01-12 TIL.md",
-    "Todo/TIL/2024-01-11 TIL.md",
     "Inbox/temp.md",
     "Inbox/Pasted image 20240107103049.png",
     "Project/Git/Branch protection rules.md",
     "Inbox/intellij-java-google-style.xml",
     "Project/Git/Error/이미 push한 commit 변경하기.md",
-    "Todo/TIL/2024-01-10 TIL.md",
+    "Todo/TIL/2024-01/2024-01-10 TIL.md",
     "Area/Docker/Error/Error response from daemon When using COPY with more than one source file.md",
     "Area/Docker/Error/Error response from daemon COPY failed no source files were specified.md",
     "Area/Docker/Docker.md",
@@ -236,17 +247,8 @@
     "Project/Java API/java.util/Collection/List.md",
     "Project/Java API/java.util/Collection/Queue.md",
     "Project/Java API/java.util/Collection/Set.md",
-    "Inbox/ㅇㅅㅇ.md",
-    "Inbox/코테.md",
-    "Project/오브젝트/02 객체지향 프로그래밍.md",
     "Project/오브젝트/01 객체, 설계.md",
     "Area/객체지향의 사실과 오해/06 객체 지도.md",
-    "Area/객체지향의 사실과 오해/05 책임과 메시지.md",
-    "Area/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
-    "Area/객체지향의 사실과 오해/03 타입과 추상화.md",
-    "Area/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
-    "Area/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
-    "Project/오브젝트/03 역할, 책임, 협력.md",
     "Archive/img/TIL/20240109.png",
     "Excalidraw",
     "Area/스프링 입문을 위한 자바 객체지향의 원리와 이해",
@@ -262,9 +264,7 @@
     "Archive/img/Java/Inheritance.png",
     "Archive/img/Java/연산자 우선순위.png",
     "Archive/img/Java/Java 실행과정.png",
-    "Project/JAVA/모던 자바",
     "Archive/img/Java/threadcontrol.png",
-    "Archive/img/Java/threadstate.png",
-    "Archive/img/Java/클래스&객체"
+    "Archive/img/Java/threadstate.png"
   ]
 }
