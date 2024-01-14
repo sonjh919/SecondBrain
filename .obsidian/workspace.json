@@ -13,20 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/오브젝트/03 역할, 책임, 협력.md",
+                "file": "Project/오브젝트/04 설계 품질과 트레이드오프.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "929b7b4479fa407c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Archive/img/TIL/20240109.png"
               }
             }
           }
@@ -105,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/오브젝트/03 역할, 책임, 협력.md",
+                "file": "Project/오브젝트/04 설계 품질과 트레이드오프.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/오브젝트/03 역할, 책임, 협력.md",
+                "file": "Project/오브젝트/04 설계 품질과 트레이드오프.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/오브젝트/03 역할, 책임, 협력.md"
+                "file": "Project/오브젝트/04 설계 품질과 트레이드오프.md"
               }
             }
           },
@@ -219,11 +209,16 @@
   },
   "active": "be186ae7d690b1e8",
   "lastOpenFiles": [
-    "Inbox/ㅇㅅㅇ.md",
+    "Archive/img/TIL/20240109.png",
+    "Project/오브젝트/04 설계 품질과 트레이드오프.md",
     "Inbox/프리코스.md",
     "Inbox/코테.md",
-    "Project/오브젝트/02 객체지향 프로그래밍.md",
+    "Inbox/ㅇㅅㅇ.md",
+    "Inbox/끄적끄적.md",
     "Project/오브젝트/03 역할, 책임, 협력.md",
+    "Area/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+    "Area/객체지향의 사실과 오해/03 타입과 추상화.md",
+    "Project/오브젝트/02 객체지향 프로그래밍.md",
     "Todo/TIL/2024-01/2024-01-13 TIL.md",
     "Todo/TIL/2024-01/2024-01-12 TIL.md",
     "Todo/TIL/2024-01/2024-01-11 TIL.md",
@@ -242,14 +237,8 @@
     "Area/Docker/Error/Error response from daemon When using COPY with more than one source file.md",
     "Area/Docker/Error/Error response from daemon COPY failed no source files were specified.md",
     "Area/Docker/Docker.md",
-    "Inbox/끄적끄적.md",
     "Project/Java API/java.util/Collection/Collection.md",
     "Project/Java API/java.util/Collection/List.md",
-    "Project/Java API/java.util/Collection/Queue.md",
-    "Project/Java API/java.util/Collection/Set.md",
-    "Project/오브젝트/01 객체, 설계.md",
-    "Area/객체지향의 사실과 오해/06 객체 지도.md",
-    "Archive/img/TIL/20240109.png",
     "Excalidraw",
     "Area/스프링 입문을 위한 자바 객체지향의 원리와 이해",
     "Project/오브젝트",
