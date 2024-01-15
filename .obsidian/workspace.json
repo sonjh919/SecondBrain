@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/코테.md",
+                "file": "Todo/TIL/2024-01/2024-01-15 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/코테.md",
+                "file": "Todo/TIL/2024-01/2024-01-15 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/코테.md",
+                "file": "Todo/TIL/2024-01/2024-01-15 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/코테.md"
+                "file": "Todo/TIL/2024-01/2024-01-15 TIL.md"
               }
             }
           },
@@ -209,21 +209,24 @@
   },
   "active": "be186ae7d690b1e8",
   "lastOpenFiles": [
-    "Inbox/프리코스.md",
+    "Area/객체지향의 사실과 오해/06 객체 지도.md",
+    "Area/객체지향의 사실과 오해/05 책임과 메시지.md",
+    "Project/오브젝트/05 책임 할당하기.md",
+    "Todo/TIL/2024-01/2024-01-15 TIL.md",
     "Inbox/끄적끄적.md",
+    "Inbox/코테.md",
+    "Todo/TIL/2024-01/2024-01-13 TIL.md",
+    "Todo/TIL/2024-01/2024-01-14 TIL.md",
+    "Templates/gitblog templete.md",
+    "Inbox/프리코스.md",
     "Inbox/ㅇㅅㅇ.md",
     "Project/오브젝트/06 메시지와 인터페이스.md",
-    "Project/오브젝트/05 책임 할당하기.md",
     "Excalidraw/Drawing 2024-01-15 11.49.19.excalidraw.md",
     "Excalidraw",
-    "Inbox/코테.md",
     "Project/Java API/java.lang/String.md",
     "Project/Java API/java.lang/StringBuffer & StringBuilder.md",
-    "Todo/TIL/2024-01/2024-01-14 TIL.md",
     "Project/오브젝트/04 설계 품질과 트레이드오프.md",
-    "Todo/TIL/2024-01/2024-01-13 TIL.md",
     "Inbox/Pasted image 20240107103049.png",
-    "Templates/gitblog templete.md",
     "Templates/blog_Callout.md",
     "Project/코드기록장/equals와 hashcode 재정의.md",
     "Archive/img/TIL/20240109.png",
@@ -237,9 +240,6 @@
     "Todo/TIL/2023-12/2023-12-21-TIL.md",
     "Todo/TIL/2024-01",
     "Todo/TIL/2023-12",
-    "Project/Java API/java.util/function.md",
-    "Project/JAVA/모던 자바/함수형 인터페이스.md",
-    "Inbox/temp.md",
     "Inbox/intellij-java-google-style.xml",
     "Area/스프링 입문을 위한 자바 객체지향의 원리와 이해",
     "Project/오브젝트",
