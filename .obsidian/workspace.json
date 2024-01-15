@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/오브젝트/05 책임 할당하기.md",
+                "file": "Project/오브젝트/06 메시지와 인터페이스.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/오브젝트/05 책임 할당하기.md",
+                "file": "Project/오브젝트/06 메시지와 인터페이스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/오브젝트/05 책임 할당하기.md",
+                "file": "Project/오브젝트/06 메시지와 인터페이스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/오브젝트/05 책임 할당하기.md"
+                "file": "Project/오브젝트/06 메시지와 인터페이스.md"
               }
             }
           },
@@ -209,8 +209,11 @@
   },
   "active": "be186ae7d690b1e8",
   "lastOpenFiles": [
-    "Inbox/코테.md",
     "Project/오브젝트/05 책임 할당하기.md",
+    "Project/오브젝트/06 메시지와 인터페이스.md",
+    "Excalidraw/Drawing 2024-01-15 11.49.19.excalidraw.md",
+    "Excalidraw",
+    "Inbox/코테.md",
     "Inbox/ㅇㅅㅇ.md",
     "Project/Java API/java.lang/String.md",
     "Project/Java API/java.lang/StringBuffer & StringBuilder.md",
@@ -237,10 +240,7 @@
     "Project/Java API/java.util/function.md",
     "Project/JAVA/모던 자바/함수형 인터페이스.md",
     "Inbox/temp.md",
-    "Project/Git/Branch protection rules.md",
     "Inbox/intellij-java-google-style.xml",
-    "Project/Git/Error/이미 push한 commit 변경하기.md",
-    "Excalidraw",
     "Area/스프링 입문을 위한 자바 객체지향의 원리와 이해",
     "Project/오브젝트",
     "Archive/img/코드기록장",
