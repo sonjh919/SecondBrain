@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/오브젝트/07 객체 분해.md",
+                "file": "Project/Spring/Gradle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/오브젝트/07 객체 분해.md",
+                "file": "Project/Spring/Gradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/오브젝트/07 객체 분해.md",
+                "file": "Project/Spring/Gradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/오브젝트/07 객체 분해.md"
+                "file": "Project/Spring/Gradle.md"
               }
             }
           },
@@ -209,19 +209,27 @@
   },
   "active": "be186ae7d690b1e8",
   "lastOpenFiles": [
-    "Project/오브젝트/MOC.md",
+    "Project/Spring/buildGradle.png",
+    "Project/Spring/build.png",
+    "Project/Spring/Gradle.md",
+    "Project/JAVA/개발 환경/JAR.md",
+    "Templates/gitblog templete.md",
+    "Project/Spring/Pasted image 20240116223016.png",
+    "Todo/TIL/2024-01/2024-01-16 TIL.md",
+    "Project/Spring",
+    "Todo/TIL/2024-01/2024-01-15 TIL.md",
+    "Todo/KPT회고/KPT회고 - 수강생 관리 프로그램.md",
     "Project/오브젝트/07 객체 분해.md",
+    "Todo/KPT회고",
+    "Project/오브젝트/MOC.md",
     "Project/오브젝트/06 메시지와 인터페이스.md",
     "Project/오브젝트/05 책임 할당하기.md",
     "Project/오브젝트/04 설계 품질과 트레이드오프.md",
     "Project/오브젝트/03 역할, 책임, 협력.md",
-    "Todo/TIL/2024-01/2024-01-16 TIL.md",
-    "Templates/gitblog templete.md",
     "Templates/blog_Callout.md",
     "Templates/TIL Templete.md",
     "Inbox/코테.md",
     "Inbox/끄적끄적.md",
-    "Todo/TIL/2024-01/2024-01-15 TIL.md",
     "Area/객체지향의 사실과 오해/06 객체 지도.md",
     "Area/객체지향의 사실과 오해/05 책임과 메시지.md",
     "Todo/TIL/2024-01/2024-01-13 TIL.md",
@@ -233,11 +241,7 @@
     "Project/Java API/java.lang/String.md",
     "Project/Java API/java.lang/StringBuffer & StringBuilder.md",
     "Inbox/Pasted image 20240107103049.png",
-    "Project/코드기록장/equals와 hashcode 재정의.md",
     "Archive/img/TIL/20240109.png",
-    "Area/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
-    "Area/객체지향의 사실과 오해/03 타입과 추상화.md",
-    "Project/오브젝트/02 객체지향 프로그래밍.md",
     "Todo/TIL/2024-01",
     "Todo/TIL/2023-12",
     "Inbox/intellij-java-google-style.xml",
@@ -248,13 +252,8 @@
     "Project/코드일기장/Pasted image 20240107020315.png",
     "Project/코드기록장",
     "Project/무제 파일.canvas",
-    "Inbox/menulist",
-    "Inbox/키오스크",
     "Archive/img/TIL/20240103.png",
     "Archive/img/Java/Inheritance.png",
-    "Archive/img/Java/연산자 우선순위.png",
-    "Archive/img/Java/Java 실행과정.png",
-    "Archive/img/Java/threadcontrol.png",
-    "Archive/img/Java/threadstate.png"
+    "Archive/img/Java/연산자 우선순위.png"
   ]
 }

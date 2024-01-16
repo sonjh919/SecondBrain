@@ -37,7 +37,7 @@ Failed to deploy '<unknown> Dockerfile: Dockerfile': Can't retrieve image ID fro
 ## 원인
 한 개 이상의 파일을 COPY할 시, dst는 무조건 `/`로 끝나야 한다고 한다. 단순히 폴더를 지정해 줄 수도 있지만, 여기에는 조금 더 근본적인 원인이 있다.
 
-![[build.png]]
+![[Archive/img/Docker/Error/build.png]]
 
 COPY 명령어를 수행할 때 .jar 파일이 2개라서 해당 오류가 발생한 것이다! 그렇다면 이 plain.jar 파일은 무엇이며, 왜 생기는 것일까?
 ### Executable & Plain

@@ -2,12 +2,9 @@
 title: <% tp.file.title %>
 date: <% tp.file.creation_date() %>
 categories:
-  - OOP
-  - 오브젝트
+  - Spring
 tags:
-  - OOP
-  - 객체지향
-  - 개발서적
+  - Spring
 image: 
 path:
 ---
