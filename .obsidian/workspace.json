@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/오브젝트/05 책임 할당하기.md",
+                "file": "Project/오브젝트/07 객체 분해.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/오브젝트/05 책임 할당하기.md",
+                "file": "Project/오브젝트/07 객체 분해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/오브젝트/05 책임 할당하기.md",
+                "file": "Project/오브젝트/07 객체 분해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/오브젝트/05 책임 할당하기.md"
+                "file": "Project/오브젝트/07 객체 분해.md"
               }
             }
           },
@@ -209,6 +209,8 @@
   },
   "active": "be186ae7d690b1e8",
   "lastOpenFiles": [
+    "Project/오브젝트/MOC.md",
+    "Project/오브젝트/07 객체 분해.md",
     "Project/오브젝트/06 메시지와 인터페이스.md",
     "Project/오브젝트/05 책임 할당하기.md",
     "Project/오브젝트/04 설계 품질과 트레이드오프.md",
@@ -236,8 +238,6 @@
     "Area/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
     "Area/객체지향의 사실과 오해/03 타입과 추상화.md",
     "Project/오브젝트/02 객체지향 프로그래밍.md",
-    "Todo/TIL/2024-01/2024-01-12 TIL.md",
-    "Todo/TIL/2024-01/2024-01-11 TIL.md",
     "Todo/TIL/2024-01",
     "Todo/TIL/2023-12",
     "Inbox/intellij-java-google-style.xml",
