@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Spring/Gradle.md",
+                "file": "Project/CS/Network/HTTP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Spring/Gradle.md",
+                "file": "Project/CS/Network/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Spring/Gradle.md",
+                "file": "Project/CS/Network/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Spring/Gradle.md"
+                "file": "Project/CS/Network/HTTP.md"
               }
             }
           },
@@ -209,9 +209,27 @@
   },
   "active": "be186ae7d690b1e8",
   "lastOpenFiles": [
+    "Project/Spring/Gradle.md",
+    "Project/Spring/Maven.md",
+    "Project/CS/Network/HTTP.md",
+    "Project/CS/Network/Web Server, WAS, Apache Tomcat.md",
+    "Project/CS/Network/apacheTomcat.png",
+    "Project/CS/Network/API.md",
+    "Project/CS/Network/Network.md",
+    "Project/CS/Network/RESTful API.md",
+    "Project/CS/Network/Server.md",
+    "Project/Spring/Spring.md",
+    "Project/Spring/SpringBoot.md",
+    "Project/Spring/dependency.png",
+    "Project/Spring/xmlconfig.png",
+    "Templates/blog_Callout.md",
+    "Project/CS/Network/clientServer.png",
+    "Project/CS/Network",
+    "Project/CS",
+    "Project/Spring/externalLibraries.png",
+    "Project/JAVA/개발 환경/JVM/JVM.md",
     "Project/Spring/buildGradle.png",
     "Project/Spring/build.png",
-    "Project/Spring/Gradle.md",
     "Project/JAVA/개발 환경/JAR.md",
     "Templates/gitblog templete.md",
     "Project/Spring/Pasted image 20240116223016.png",
@@ -226,20 +244,10 @@
     "Project/오브젝트/05 책임 할당하기.md",
     "Project/오브젝트/04 설계 품질과 트레이드오프.md",
     "Project/오브젝트/03 역할, 책임, 협력.md",
-    "Templates/blog_Callout.md",
     "Templates/TIL Templete.md",
     "Inbox/코테.md",
     "Inbox/끄적끄적.md",
-    "Area/객체지향의 사실과 오해/06 객체 지도.md",
-    "Area/객체지향의 사실과 오해/05 책임과 메시지.md",
-    "Todo/TIL/2024-01/2024-01-13 TIL.md",
-    "Todo/TIL/2024-01/2024-01-14 TIL.md",
-    "Inbox/프리코스.md",
-    "Inbox/ㅇㅅㅇ.md",
-    "Excalidraw/Drawing 2024-01-15 11.49.19.excalidraw.md",
     "Excalidraw",
-    "Project/Java API/java.lang/String.md",
-    "Project/Java API/java.lang/StringBuffer & StringBuilder.md",
     "Inbox/Pasted image 20240107103049.png",
     "Archive/img/TIL/20240109.png",
     "Todo/TIL/2024-01",
@@ -247,13 +255,6 @@
     "Inbox/intellij-java-google-style.xml",
     "Area/스프링 입문을 위한 자바 객체지향의 원리와 이해",
     "Project/오브젝트",
-    "Archive/img/코드기록장",
-    "Archive/img/코드기록장/equals와hashcode재정의.png",
-    "Project/코드일기장/Pasted image 20240107020315.png",
-    "Project/코드기록장",
-    "Project/무제 파일.canvas",
-    "Archive/img/TIL/20240103.png",
-    "Archive/img/Java/Inheritance.png",
-    "Archive/img/Java/연산자 우선순위.png"
+    "Project/무제 파일.canvas"
   ]
 }
