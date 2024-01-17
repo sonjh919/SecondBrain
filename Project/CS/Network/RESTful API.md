@@ -21,7 +21,7 @@ path:
 + 웹의 모든 자원에 고유한 id인 **http url**을 부여하고 **HTTP Method(Get, Post, Put, Delete)** 를 통해 해당 자원에 대한 **CRUD 연산**을 적용한다.
 - **자원 기반 구조** (ROA : Resource Oriented Architecture)로 설계된 아키텍처를 의미
 
-> 즉, 서버의 api가 적절하게 http를 준수하며 잘 설계되어있으면 RESTful 하게 설계되어 있다!
+> 즉, 서버의 api가 적절하게 [[http]]를 준수하며 잘 설계되어있으면 RESTful 하게 설계되어 있다!
 {: .prompt-info }
 
 ---
@@ -72,7 +72,7 @@ path:
 ### 무상태성 (Stateless)
 
 - REST는 Http의 특성을 이용하기 때문에 **무상태성**을 가진다.
-- Server에서는 상태정보를 기억할 필요가 없고 들어온 요청에 대한 처리만 한다 → 단순한 구현
+- [[Server]]에서는 상태정보를 기억할 필요가 없고 들어온 요청에 대한 처리만 한다 → 단순한 구현
 
 ### 캐시 처리 기능 (Cacheable)
 

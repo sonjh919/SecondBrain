@@ -30,3 +30,5 @@ path:
 ### 내장 Apache Tomcat
 + Spring 프레임워크에서는 서버를 실행시키기 위해 Apache Tomcat을 직접 다운로드 받고 설정하고 프로젝트에 삽입 했어야 했다.
 + 이러한 불편함을 해결하기 위해 SpringBoot에서는 기본적으로 `starter-web` dependency를 설정하면 자동으로 내장형 Apache Tomcat을 제공해 준다.
+
+참조 : [[Web Server, WAS, Apache Tomcat]]
