@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Spring/Controller.md",
+                "file": "Project/Spring/정적 페이지와 동적 페이지.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Spring/Controller.md",
+                "file": "Project/Spring/정적 페이지와 동적 페이지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Spring/Controller.md",
+                "file": "Project/Spring/정적 페이지와 동적 페이지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Spring/Controller.md"
+                "file": "Project/Spring/정적 페이지와 동적 페이지.md"
               }
             }
           },
@@ -217,18 +217,27 @@
   },
   "active": "be186ae7d690b1e8",
   "lastOpenFiles": [
-    "Project/Spring/Gradle.md",
+    "Project/Spring/staticdynamaicpage.png",
+    "Project/Spring/정적 페이지와 동적 페이지.md",
     "Project/Spring/Controller.md",
-    "Archive/img/Spring/Servlet/frontController.png",
-    "Project/Spring/SpringBoot.md",
-    "Project/Spring/Spring.md",
     "Project/Spring/Spring MVC.md",
+    "Project/Spring/Spring.md",
+    "Project/Spring/SpringBoot.md",
+    "Project/Spring/Gradle.md",
+    "Project/CS/Network/3 Tier Architecture.md",
+    "Project/CS/Network/Forward와 Redirect.md",
+    "Project/CS/Network/API.md",
+    "Project/CS/Network/Server의 분리.md",
+    "Project/CS/Network/Server.md",
+    "Project/CS/Network/Network.md",
+    "Project/CS/Network/RESTful API.md",
+    "Project/CS/Network/HTTP.md",
+    "Project/CS/Network/HTTP 상태 코드.md",
     "Project/Spring/Servlet/Front Controller.md",
+    "Archive/img/Spring/Servlet/frontController.png",
     "Project/Spring/Servlet/Servlet Container.md",
     "Project/Spring/Servlet/Servlet.md",
     "Project/Spring/Servlet/Servlet Life Cycle.md",
-    "Project/CS/Network/Server의 분리.md",
-    "Project/CS/Network/Server.md",
     "Project/Spring/MVC.md",
     "Archive/img/Spring/Servlet/lifecycle2.png",
     "Archive/img/Spring/Servlet/lifecycle.png",
@@ -243,19 +252,10 @@
     "Archive/img/Spring/controllers.png",
     "Archive/img/Spring/mvc.png",
     "Archive/img/Spring/mv.png",
-    "Project/CS/Network/3 Tier Architecture.md",
-    "Project/CS/Network/API.md",
-    "Project/CS/Network/Forward와 Redirect.md",
-    "Project/CS/Network/RESTful API.md",
-    "Project/CS/Network/Network.md",
-    "Project/CS/Network/HTTP.md",
-    "Project/CS/Network/HTTP 상태 코드.md",
     "Project/Spring/application.properties.md",
     "Project/Spring/Library/Lombok.md",
     "Project/Spring/Library",
     "Todo/TIL/2024-01/2024-01-17 TIL.md",
-    "Area/JAVA/기본 문법/패키지.md",
-    "Area/Coding Test/구현/구현.md",
     "Archive/img/Test",
     "Project/Test",
     "Archive/img/Spring",
