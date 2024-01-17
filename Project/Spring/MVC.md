@@ -45,48 +45,41 @@ path:
 ![[controllers.png]]
 
 
-- 하지만 Controller를 여러개 만들어야 하는 단점이 있기 때문에 모든 Request를 http로 받고 json으로 Response하는 방식을 적용 중에 있다. → **RestAPI**
+- 하지만 Controller를 여러개 만들어야 하는 단점이 있기 때문에 모든 Request를 http로 받고 json으로 Response하는 방식을 적용 중에 있다. → [[Restful API]]
 
-## DAO의 등장 (Data Access Object) (= Repository 계층)
+## 3. DAO의 등장 (Data Access Object) (= Repository 계층)
 
-- Model 안에서 여러 가지 기능들을 수행할 수 있는데, 그 기능들 사이에 중복되는 코드가 발생할 수 있다.
-- 또한 Model과 DB 사이에 결합 관계가 발생하게 된다.
+- Model 안에서 여러 가지 기능들을 수행할 수 있는데, 그 기능들 사이에 중복되는 코드가 발생할 수 있고, 또한 Model과 DB 사이에 결합 관계가 발생하게 된다.
 
-<aside> 💡 **실질적으로 Data에 Access할 수 있는 DAO 객체를 만들어 중복을 한번 더 줄인다.**
+>**실질적으로 Data에 Access할 수 있는 DAO 객체를 만들어 중복을 한번 더 줄인다.**
+>**Model을 비즈니스 Logic을 담당하는 Service 계층과 Data Access를 위한 DAO로 나눈다.**
+{: .prompt-info }
 
-</aside>
-
-<aside> 💡 **Model을 비즈니스 Logic을 담당하는 Service 계층과 Data Access를 위한 DAO로 나눈다.**
-
-</aside>
 
 - **Query문 단위**로 작성하여 **Service와 DB 사이의 간접 호출**을 담당한다.
-    
 - DB의 변경 시 Service는 변경할 필요 없이 **DAO만 변경**하면 된다.
-    
 - DAO와 DB사이에 결합 관계가 발생하게 된다 → **Mybatis의 단점**
-    
 - JPA는 Query를 쓰지 않기 때문에 DB와의 종속 관계를 해결할 수 있다.
-    
 
-## DTO
-
-- 계층간에 Data를 전달하고 Return받을, Data를 뭉치기 위한 용도의 객체
+## 4. DTO
+- 계층간에 Data를 전달하고 Return받을, Data를 뭉치기 위한 용도의 객체이다.
 - Data를 옮기는 역할이기 때문에 전 계층에서 사용 가능하다.
 - View에서도 쓸수 있지만 Java의 영향을 받지 않게 하기 위해 쓰지 않는다.
 
 ---
 
 ## MVC Pattern 정리
+![[mvcall.png]]
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8b750e96-96c9-4a80-8f67-c9da64c073c7/Untitled.png)
 
 ---
 
 ## 각 계층별 사용되는 언어
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eaf08da3-5eaf-48de-a8ce-49a1e9b107d4/Untitled.png)
+![[mvclanguage.png]]
 
 ---
 
 ## 각 계층별 역할
+
+![[mvcpart.png]]

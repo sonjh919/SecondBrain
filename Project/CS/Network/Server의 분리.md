@@ -37,7 +37,7 @@ path:
 ---
 
 ## Apache Tomcat이란?
-+ Tomcat은 동적인 처리를 할 수 있는 웹 서버를 만들기 위한 **웹 컨테이너**이다.
++ Tomcat은 동적인 처리를 할 수 있는 웹 서버를 만들기 위한 **웹 컨테이너([[Servlet Container]])**이다.
 + Tomcat은 Java Servlet, JavaServer Pages (JSP), 그리고 Java 서버 사이드 컴포넌트들을 실행하기 위한 웹 컨테이너로 자주 사용된다.
 + Apache Tomcat이란 Apache와 Tomcat이 합쳐진 형태로 정적인 데이터 처리와 동적인 데이터 처리를 효율적으로 해줄 수 있다. (WAS만 쓰는 것 보다 효율적!)
 ![[apacheTomcat.png]]
