@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/OOP/OCP vs LSP.md",
+                "file": "Project/JUnit/JUnit.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/OOP/OCP vs LSP.md",
+                "file": "Project/JUnit/JUnit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/OOP/OCP vs LSP.md",
+                "file": "Project/JUnit/JUnit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/OOP/OCP vs LSP.md"
+                "file": "Project/JUnit/JUnit.md"
               }
             }
           },
@@ -207,8 +207,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "be186ae7d690b1e8",
   "lastOpenFiles": [
+    "Project/JUnit/JUnit.png",
+    "Project/JUnit/JUnit.md",
+    "Project/JUnit/버그 잡기.md",
+    "Inbox/프리코스.md",
+    "Inbox/Pasted image 20240107103049.png",
+    "Inbox/끄적끄적.md",
+    "Todo/TIL/2024-01-17 TIL.md",
+    "Todo/TIL/TIL.md",
+    "Templates/gitblog templete.md",
+    "Templates/TIL Templete.md",
+    "Todo/TIL/2024-01/2024-01-16 TIL.md",
+    "Templates/blog_Callout.md",
+    "Inbox/코테.md",
+    "Area/OOP/OCP vs LSP.md",
     "Project/JUnit",
     "Project/CS/Network/HTTP.md",
     "Project/CS/Network/HTTP 상태 코드.md",
@@ -225,7 +239,6 @@
     "Archive/img/CS/Network/apacheTomcat.png",
     "Archive/img/CS/Network",
     "Archive/img/CS",
-    "Templates/blog_Callout.md",
     "Project/Spring/Gradle.md",
     "Project/Spring/Maven.md",
     "Project/CS/Network/API.md",
@@ -237,24 +250,10 @@
     "Project/CS",
     "Project/JAVA/개발 환경/JVM/JVM.md",
     "Archive/img/Spring/build.png",
-    "Project/JAVA/개발 환경/JAR.md",
-    "Templates/gitblog templete.md",
-    "Project/Spring/Pasted image 20240116223016.png",
-    "Todo/TIL/2024-01/2024-01-16 TIL.md",
     "Project/Spring",
-    "Todo/TIL/2024-01/2024-01-15 TIL.md",
-    "Todo/KPT회고/KPT회고 - 수강생 관리 프로그램.md",
-    "Project/오브젝트/07 객체 분해.md",
     "Todo/KPT회고",
-    "Project/오브젝트/MOC.md",
-    "Project/오브젝트/06 메시지와 인터페이스.md",
-    "Project/오브젝트/05 책임 할당하기.md",
-    "Project/오브젝트/04 설계 품질과 트레이드오프.md",
-    "Project/오브젝트/03 역할, 책임, 협력.md",
     "Excalidraw",
-    "Inbox/Pasted image 20240107103049.png",
     "Todo/TIL/2024-01",
-    "Todo/TIL/2023-12",
     "Project/무제 파일.canvas"
   ]
 }
