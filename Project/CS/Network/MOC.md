@@ -17,4 +17,4 @@ path:
 [[Network]]
 [[RESTful API]]
 [[Server]]
-[[Web Server, WAS, Apache Tomcat]]
+[[Server의 분리]]
