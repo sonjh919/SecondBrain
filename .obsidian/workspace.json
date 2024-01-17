@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/CS/Network/HTTP.md",
+                "file": "Area/OOP/OCP vs LSP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/CS/Network/HTTP.md",
+                "file": "Area/OOP/OCP vs LSP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/CS/Network/HTTP.md",
+                "file": "Area/OOP/OCP vs LSP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/CS/Network/HTTP.md"
+                "file": "Area/OOP/OCP vs LSP.md"
               }
             }
           },
@@ -207,29 +207,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "be186ae7d690b1e8",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
+    "Project/JUnit",
+    "Project/CS/Network/HTTP.md",
+    "Project/CS/Network/HTTP 상태 코드.md",
+    "Project/CS/Network/Server.md",
+    "Project/CS/Network/Web Server, WAS, Apache Tomcat.md",
+    "Project/CS/Network/Forward와 Redirect.md",
+    "Archive/img/Spring/xmlconfig.png",
+    "Archive/img/Spring/externalLibraries.png",
+    "Archive/img/Spring/dependency.png",
+    "Archive/img/Spring/buildGradle.png",
+    "Archive/img/CS/Network/HTTP-Header.png",
+    "Archive/img/Spring",
+    "Archive/img/CS/Network/clientServer.png",
+    "Archive/img/CS/Network/apacheTomcat.png",
+    "Archive/img/CS/Network",
+    "Archive/img/CS",
+    "Templates/blog_Callout.md",
     "Project/Spring/Gradle.md",
     "Project/Spring/Maven.md",
-    "Project/CS/Network/HTTP.md",
-    "Project/CS/Network/Web Server, WAS, Apache Tomcat.md",
-    "Project/CS/Network/apacheTomcat.png",
     "Project/CS/Network/API.md",
     "Project/CS/Network/Network.md",
     "Project/CS/Network/RESTful API.md",
-    "Project/CS/Network/Server.md",
     "Project/Spring/Spring.md",
     "Project/Spring/SpringBoot.md",
-    "Project/Spring/dependency.png",
-    "Project/Spring/xmlconfig.png",
-    "Templates/blog_Callout.md",
-    "Project/CS/Network/clientServer.png",
     "Project/CS/Network",
     "Project/CS",
-    "Project/Spring/externalLibraries.png",
     "Project/JAVA/개발 환경/JVM/JVM.md",
-    "Project/Spring/buildGradle.png",
-    "Project/Spring/build.png",
+    "Archive/img/Spring/build.png",
     "Project/JAVA/개발 환경/JAR.md",
     "Templates/gitblog templete.md",
     "Project/Spring/Pasted image 20240116223016.png",
@@ -244,17 +251,10 @@
     "Project/오브젝트/05 책임 할당하기.md",
     "Project/오브젝트/04 설계 품질과 트레이드오프.md",
     "Project/오브젝트/03 역할, 책임, 협력.md",
-    "Templates/TIL Templete.md",
-    "Inbox/코테.md",
-    "Inbox/끄적끄적.md",
     "Excalidraw",
     "Inbox/Pasted image 20240107103049.png",
-    "Archive/img/TIL/20240109.png",
     "Todo/TIL/2024-01",
     "Todo/TIL/2023-12",
-    "Inbox/intellij-java-google-style.xml",
-    "Area/스프링 입문을 위한 자바 객체지향의 원리와 이해",
-    "Project/오브젝트",
     "Project/무제 파일.canvas"
   ]
 }

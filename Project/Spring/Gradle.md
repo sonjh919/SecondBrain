@@ -17,7 +17,7 @@ path:
 + 소스 코드를 실행 가능한 결과물로 만드는 일련의 과정을 뜻한다.
 + gradle을 사용하면 간편하게 Java 소스 코드를 실행 가능한 [[jar]] 파일로 만들어준다.
 
-![[Project/Spring/build.png]]
+![[Archive/img/Spring/build.png]]
 
 ### build.gradle
 - build.gradle은 Gradle 기반의 빌드 스크립트이다.
