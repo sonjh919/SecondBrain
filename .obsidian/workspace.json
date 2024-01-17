@@ -8,19 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be186ae7d690b1e8",
+            "id": "2f30c72f4eb77d3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Spring/정적 페이지와 동적 페이지.md",
+                "file": "Project/Spring/Library/Jackson.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "f50f153ec777bca6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Spring/정적 페이지와 동적 페이지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Spring/정적 페이지와 동적 페이지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Project/Spring/정적 페이지와 동적 페이지.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,19 +212,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "be186ae7d690b1e8",
+  "active": "f50f153ec777bca6",
   "lastOpenFiles": [
-    "Archive/img/Spring/redirect.png",
+    "Project/Spring/Library/Jackson.md",
+    "Project/Spring/Library/Lombok.md",
+    "Archive/img/Spring/backend.png",
+    "Archive/img/Spring/front.png",
+    "Project/Spring/JSON.md",
+    "Project/Spring/Response 트렌드의 변화.md",
     "Project/Spring/정적 페이지와 동적 페이지.md",
+    "Project/Spring/application.properties.md",
+    "Project/Spring/Gradle.md",
+    "Project/CS/Network/HTTP.md",
+    "Project/Spring/Controller.md",
+    "Archive/img/Spring/redirect.png",
     "Project/Spring/redirect 1.png",
     "Project/Spring/SpringBoot.md",
     "Archive/img/Spring/staticdynamaicpage.png",
     "Project/Spring/Servlet/Servlet.md",
-    "Project/Spring/application.properties.md",
-    "Project/Spring/Controller.md",
     "Project/Spring/Spring MVC.md",
     "Project/Spring/Spring.md",
-    "Project/Spring/Gradle.md",
     "Project/CS/Network/3 Tier Architecture.md",
     "Project/CS/Network/Forward와 Redirect.md",
     "Project/CS/Network/API.md",
@@ -227,7 +239,6 @@
     "Project/CS/Network/Server.md",
     "Project/CS/Network/Network.md",
     "Project/CS/Network/RESTful API.md",
-    "Project/CS/Network/HTTP.md",
     "Project/CS/Network/HTTP 상태 코드.md",
     "Project/Spring/Servlet/Front Controller.md",
     "Archive/img/Spring/Servlet/frontController.png",
@@ -241,12 +252,7 @@
     "Project/Spring/Servlet/배포서술자.md",
     "Project/Spring/Servlet",
     "Archive/img/Spring/mvcpart.png",
-    "Archive/img/Spring/mvclanguage.png",
-    "Archive/img/Spring/mvcall.png",
-    "Templates/blog_Callout.md",
-    "Project/Spring/Library/Lombok.md",
     "Project/Spring/Library",
-    "Todo/TIL/2024-01/2024-01-17 TIL.md",
     "Archive/img/Test",
     "Project/Test",
     "Archive/img/Spring",
