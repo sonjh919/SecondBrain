@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Spring/DTO.md",
+                "file": "Project/Java API/java.sql/JdbcTemplate.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Spring/DTO.md",
+                "file": "Project/Java API/java.sql/JdbcTemplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Spring/DTO.md",
+                "file": "Project/Java API/java.sql/JdbcTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Spring/DTO.md"
+                "file": "Project/Java API/java.sql/JdbcTemplate.md"
               }
             }
           },
@@ -217,8 +217,25 @@
   },
   "active": "2f30c72f4eb77d3c",
   "lastOpenFiles": [
-    "Project/Spring/Spring MVC.md",
+    "Project/Java API/java.sql/JDBC.md",
+    "Project/Java API/java.sql/java.sql.md",
+    "Project/Java API/java.sql/JdbcTemplate.md",
+    "Project/Java API/java.sql/jdbc3.png",
+    "Project/Java API/java.sql/jdbc2.png",
+    "Project/Java API/java.sql/jdbc1.png",
+    "Project/Java API/java.lang/StringBuffer & StringBuilder.md",
+    "Project/Java API/java.io/java.io.md",
+    "Project/Java API/Java API.md",
+    "Project/Java API/java.lang/String.md",
+    "Project/Java API/java.lang/java.lang.md",
+    "Project/Java API/java.sql",
+    "Inbox/mysql.md",
+    "Inbox/프리코스.md",
+    "Inbox/코테.md",
+    "Inbox/끄적끄적.md",
+    "Inbox/ㅇㅅㅇ.md",
     "Project/Spring/DTO.md",
+    "Project/Spring/Spring MVC.md",
     "Project/Spring/MVC.md",
     "Project/Spring/생략된 annotation에서의 데이터 판단.md",
     "Project/Spring/HTTP 데이터 객체로 변환하기.md",
@@ -231,28 +248,12 @@
     "Todo/TIL/2024-01-18 TIL.md",
     "Todo/TIL/2024-01/2024-01-17 TIL.md",
     "Archive/img/TIL/20240118.png",
-    "Project/Spring/MOC.md",
-    "Project/Spring/Servlet/MOC.md",
-    "Project/Spring/Servlet/Front Controller.md",
-    "Project/Spring/Servlet/Servlet.md",
-    "Project/Spring/RequestParam.md",
-    "Project/Spring/PathVariable.md",
-    "Project/Spring/Library/Lombok.md",
     "Archive/img/Spring/backend.png",
     "Archive/img/Spring/front.png",
-    "Project/Spring/JSON.md",
-    "Project/Spring/Response 트렌드의 변화.md",
-    "Project/Spring/Gradle.md",
-    "Project/CS/Network/HTTP.md",
     "Archive/img/Spring/redirect.png",
     "Project/Spring/redirect 1.png",
-    "Project/Spring/SpringBoot.md",
     "Archive/img/Spring/staticdynamaicpage.png",
-    "Project/Spring/Spring.md",
     "Archive/img/Spring/Servlet/frontController.png",
-    "Archive/img/Spring/Servlet/lifecycle2.png",
-    "Archive/img/Spring/Servlet/lifecycle.png",
-    "Archive/img/Spring/Servlet/servletstructure.png",
     "Archive/img/Spring/Servlet",
     "Project/Spring/Servlet",
     "Project/Spring/Library",
@@ -262,7 +263,6 @@
     "Archive/img/CS/Network",
     "Archive/img/CS",
     "Project/CS/Network",
-    "Project/CS",
     "Project/무제 파일.canvas"
   ]
 }
