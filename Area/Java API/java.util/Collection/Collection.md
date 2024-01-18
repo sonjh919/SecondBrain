@@ -23,6 +23,6 @@ path:
 + Collection 위에는 Iterable(순회가능)이라는 속성을 상속받고 있다.
 
 + [[List]]
-+ [[Project/Java API/java.util/Collection/Queue|Queue]]
++ [[Area/Java API/java.util/Collection/Queue|Queue]]
 + [[Set]]
 ![[collection.png]]

@@ -3,7 +3,7 @@ title: 이미 push한 commit 변경하기
 date: 2024-01-03 17:32
 categories:
   - Error
-  - Git
+  - GitError
 tags:
   - Git
   - Error

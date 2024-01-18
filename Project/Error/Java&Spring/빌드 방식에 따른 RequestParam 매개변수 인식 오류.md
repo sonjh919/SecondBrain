@@ -2,9 +2,11 @@
 title: RequestParam 매개변수 인식 오류
 date: 2024-01-18 16:24
 categories:
-  - Spring
+  - Error
+  - Java&SpringError
 tags:
   - Spring
+  - Error
 image: 
 path:
 ---

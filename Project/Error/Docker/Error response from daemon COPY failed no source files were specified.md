@@ -3,7 +3,7 @@ title: Error response from daemon COPY failed no source files were specified
 date: 2023-12-26 23:19
 categories:
   - Error
-  - Docker
+  - DockerError
 tags:
   - Docker
   - Gradle

@@ -25,7 +25,7 @@ path:
 + [[Throwable]]
 + [[Wrapper]]
 + [[Class]]
-+ [[Project/Java API/java.lang/Math|Math]]
++ [[Area/Java API/java.lang/Math|Math]]
 + [[Stream]]
 + [[record]]
 

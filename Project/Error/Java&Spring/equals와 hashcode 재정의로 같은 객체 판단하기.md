@@ -3,10 +3,10 @@ title: equals와 hashcode 재정의
 date: 2024-01-07 01:43
 categories:
   - Error
-  - Java
+  - Java&SpringError
 tags:
   - Java
-  - 코드일기장
+  - Error
 image: 
 path:
 ---
