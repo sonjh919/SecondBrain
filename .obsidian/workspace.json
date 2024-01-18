@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/mysql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/mysql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Inbox/mysql.md"
-              }
+              "state": {}
             }
           },
           {
@@ -215,8 +211,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8eb254ec97a3eb99",
+  "active": "fff0c6353c28b71c",
   "lastOpenFiles": [
+    "Inbox/mysql.md",
     "Inbox/프리코스.md",
     "Inbox/ㅇㅅㅇ.md",
     "Inbox/코테.md",
@@ -252,7 +249,6 @@
     "Project/Book/오브젝트/04 설계 품질과 트레이드오프.md",
     "Project/Book/오브젝트/03 역할, 책임, 협력.md",
     "Project/Book/오브젝트/02 객체지향 프로그래밍.md",
-    "Project/Book/오브젝트/01 객체, 설계.md",
     "Project/Book",
     "Project/Error/Java&Spring",
     "Project/Error",

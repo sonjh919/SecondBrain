@@ -10,3 +10,6 @@ https://docs.gradle.org/current/javadoc/org/gradle/api/tasks/compile/CompileOpti
 웹 관련 cs 지식
 
 특정 도메인 : 보안-시큐리티, 검색-엘라스틱서치, 아키텍쳐-디자인패턴
+
+원티드
+잡플래닛 회사리뷰
