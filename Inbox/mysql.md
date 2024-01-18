@@ -13,3 +13,7 @@ https://docs.gradle.org/current/javadoc/org/gradle/api/tasks/compile/CompileOpti
 
 원티드
 잡플래닛 회사리뷰
+
+https://github.com/marketplace/actions/beanstalk-deploy
+
+https://jojoldu.tistory.com/549
