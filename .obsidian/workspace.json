@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Spring/Library/Jackson.md",
+                "file": "Todo/TIL/2024-01/2024-01-17 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,15 +21,14 @@
             }
           },
           {
-            "id": "f50f153ec777bca6",
+            "id": "39a95fcf7032c903",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todo/TIL/2024-01/2024-01-17 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Todo/TIL/2024-01/2024-01-17 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Todo/TIL/2024-01/2024-01-17 TIL.md"
+              }
             }
           },
           {
@@ -212,8 +215,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f50f153ec777bca6",
+  "active": "2f30c72f4eb77d3c",
   "lastOpenFiles": [
+    "Archive/img/TIL/20240118.png",
+    "Todo/TIL/2024-01/2024-01-17 TIL.md",
+    "Project/Spring/MOC.md",
+    "Project/Spring/Servlet/MOC.md",
+    "Project/Spring/Servlet/Front Controller.md",
+    "Project/Spring/Servlet/Servlet.md",
+    "Project/Spring/Client에서 데이터 받기.md",
+    "Project/Spring/RequestParam.md",
+    "Project/Spring/PathVariable.md",
     "Project/Spring/Library/Jackson.md",
     "Project/Spring/Library/Lombok.md",
     "Archive/img/Spring/backend.png",
@@ -229,7 +241,6 @@
     "Project/Spring/redirect 1.png",
     "Project/Spring/SpringBoot.md",
     "Archive/img/Spring/staticdynamaicpage.png",
-    "Project/Spring/Servlet/Servlet.md",
     "Project/Spring/Spring MVC.md",
     "Project/Spring/Spring.md",
     "Project/CS/Network/3 Tier Architecture.md",
@@ -237,21 +248,12 @@
     "Project/CS/Network/API.md",
     "Project/CS/Network/Server의 분리.md",
     "Project/CS/Network/Server.md",
-    "Project/CS/Network/Network.md",
-    "Project/CS/Network/RESTful API.md",
-    "Project/CS/Network/HTTP 상태 코드.md",
-    "Project/Spring/Servlet/Front Controller.md",
     "Archive/img/Spring/Servlet/frontController.png",
-    "Project/Spring/Servlet/Servlet Container.md",
-    "Project/Spring/Servlet/Servlet Life Cycle.md",
-    "Project/Spring/MVC.md",
     "Archive/img/Spring/Servlet/lifecycle2.png",
     "Archive/img/Spring/Servlet/lifecycle.png",
     "Archive/img/Spring/Servlet/servletstructure.png",
     "Archive/img/Spring/Servlet",
-    "Project/Spring/Servlet/배포서술자.md",
     "Project/Spring/Servlet",
-    "Archive/img/Spring/mvcpart.png",
     "Project/Spring/Library",
     "Archive/img/Test",
     "Project/Test",
