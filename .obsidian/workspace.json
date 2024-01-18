@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Java API/java.sql/JdbcTemplate.md",
+                "file": "Project/Spring/Client에서 데이터 받기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Java API/java.sql/JdbcTemplate.md",
+                "file": "Project/Spring/Client에서 데이터 받기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Java API/java.sql/JdbcTemplate.md",
+                "file": "Project/Spring/Client에서 데이터 받기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Java API/java.sql/JdbcTemplate.md"
+                "file": "Project/Spring/Client에서 데이터 받기.md"
               }
             }
           },
@@ -217,9 +217,17 @@
   },
   "active": "2f30c72f4eb77d3c",
   "lastOpenFiles": [
+    "Project/Spring/정적 페이지와 동적 페이지.md",
+    "Project/Spring/Client에서 데이터 받기.md",
+    "Project/Spring/Spring MVC.md",
+    "Project/Spring/MVC.md",
+    "Project/Spring/Spring.md",
+    "Project/Spring/application.properties.md",
+    "Project/CS/Network/3 Tier Architecture.md",
+    "Project/Java API/java.sql/JdbcTemplate.md",
+    "Project/Java API/java.sql/jdbcTemplate.png",
     "Project/Java API/java.sql/JDBC.md",
     "Project/Java API/java.sql/java.sql.md",
-    "Project/Java API/java.sql/JdbcTemplate.md",
     "Project/Java API/java.sql/jdbc3.png",
     "Project/Java API/java.sql/jdbc2.png",
     "Project/Java API/java.sql/jdbc1.png",
@@ -235,25 +243,17 @@
     "Inbox/끄적끄적.md",
     "Inbox/ㅇㅅㅇ.md",
     "Project/Spring/DTO.md",
-    "Project/Spring/Spring MVC.md",
-    "Project/Spring/MVC.md",
     "Project/Spring/생략된 annotation에서의 데이터 판단.md",
     "Project/Spring/HTTP 데이터 객체로 변환하기.md",
     "Project/Spring/Library/Jackson.md",
-    "Project/Spring/Client에서 데이터 받기.md",
-    "Project/Spring/application.properties.md",
-    "Project/Spring/정적 페이지와 동적 페이지.md",
     "Project/Spring/Controller.md",
     "Project/Spring/Servlet/배포서술자.md",
-    "Todo/TIL/2024-01-18 TIL.md",
-    "Todo/TIL/2024-01/2024-01-17 TIL.md",
     "Archive/img/TIL/20240118.png",
     "Archive/img/Spring/backend.png",
     "Archive/img/Spring/front.png",
     "Archive/img/Spring/redirect.png",
     "Project/Spring/redirect 1.png",
     "Archive/img/Spring/staticdynamaicpage.png",
-    "Archive/img/Spring/Servlet/frontController.png",
     "Archive/img/Spring/Servlet",
     "Project/Spring/Servlet",
     "Project/Spring/Library",
