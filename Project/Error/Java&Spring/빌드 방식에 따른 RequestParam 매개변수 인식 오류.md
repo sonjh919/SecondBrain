@@ -20,9 +20,11 @@ path:
 > java.lang.IllegalArgumentException: Name for argument of type [java.lang.String] not specified, and parameter name information not found in class file either.
 
 ### (일단) 해결책
-찾아보니 2가지 해결책이 있는데, 첫번째 방법은 버전 변경이다. Spring boot 3.2버전에서는 이름을 필수로 적어주어야 하기 때문에, 다른 버전을 사용하면 된다.
+찾아보니 2가지 해결책이 있는데, 첫번째 방법은 버전 변경이다. Spring 6.1(Spring Boot 3.2.1)로 Upgrade 되면서 **LocalVariableTableParameterNameDiscoverer** 가 제거되어 더 이상 바이트코드 분석을 통한 매개변수 이름이 추론되지 않는다. 이름을 필수로 적어주어야 하기 때문에, 다른 버전을 사용하면 된다.
 
-`@RequestParam("name") String name`  다음과 같이 변경해주면 되는데, @PathVariable, @Autowired 등에서도 같은 오류가 발생한다.
+출처 : [https://github.com/spring-projects/spring-framework/wiki/Upgrading-to-Spring-Framework-6.x#parameter-name-retention](https://github.com/spring-projects/spring-framework/wiki/Upgrading-to-Spring-Framework-6.x#parameter-name-retention)
+
+다른 버전을 사용하기 싫다면 `@RequestParam("name") String name`  다음과 같이 변경해주면 되는데, @PathVariable, @Autowired 등에서도 같은 오류가 발생한다.
 
 두번째 방법은 빌드 방식을 Intellij에서 Gradle로 바꾸는 것이다. 바꾸었더니 버전 상관없이 잘 동작하는 것을 볼 수 있었다.
 
@@ -43,11 +45,16 @@ java를 컴파일할 때 사용하는 javac 명령어에는 -g 옵션이 있다.
 ### gradle에는 -g 세팅이 되어있을까?
 그럼 이제 문제를 안 것 같으니, Intellij와 gradle에 진짜 옵션이 있는지 한번 찾아보자.
 
-일단 groovy 언어로 세팅을 하고 싶다면, 다음과 같이 세팅하면 된다.
+결론부터 말하자면, groovy 언어로 세팅을 하고 싶다면, 다음과 같이 세팅하면 된다.
 
 ```groovy
 tasks.withType(JavaCompile) {
     options.debug = false
+}
+
+// 또는
+tasks.withType<JavaCompile>(){
+    options.compilerArgs.add("-parameters")
 }
 ```
 
@@ -59,7 +66,11 @@ tasks.withType(JavaCompile) {
 ![[isDebug.png]]
 
 ### Intellij는 어떨까?
-+ If라는 것으로 보아, 디폴트 옵션은 아닌 듯하고 따로 설정해야 하는 것 같다.
++ If라는 것으로 보아, 디폴트 옵션은 아닌 듯하고 따로 설정해야 하는 것을 알 수 있다.
++ 직접 설정하기 위해서는 다음과 같이 하면 된다.
+
+![[parameters.png]]
+
 + 출처 : https://www.jetbrains.com/help/idea/java-compiler.html#javac_eclipse
 
 ![[Intellijdebug.png]]
