@@ -37,12 +37,25 @@
             "id": "39a95fcf7032c903",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo/TIL/2024-01/2024-01-18 TIL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aaaf7a7b6ca01b0f",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -225,8 +238,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "39a95fcf7032c903",
+  "active": "aaaf7a7b6ca01b0f",
   "lastOpenFiles": [
+    "Todo/TIL/2024-01/2024-01-18 TIL.md",
+    "Todo/TIL/2024-01/2024-01-17 TIL.md",
     "Inbox/코테.md",
     "Project/Spring/생략된 annotation에서의 데이터 판단.md",
     "Inbox/끄적끄적.md",
@@ -236,8 +251,6 @@
     "Templates/gitblog templete.md",
     "Templates/blog_Callout.md",
     "Templates/TIL Templete.md",
-    "Todo/TIL/2024-01/2024-01-17 TIL.md",
-    "Todo/TIL/2024-01/2024-01-18 TIL.md",
     "Todo/TIL/2024-01/2024-01-11 TIL.md",
     "Archive/img/Spring/mvclanguage.png",
     "Project/Spring/MVC.md",
