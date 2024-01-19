@@ -61,3 +61,4 @@ public class Memo {
 ```java
 @GeneratedValue(strategy = GenerationType.IDENTITY)
 ```
+

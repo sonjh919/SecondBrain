@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/JPA/무제 파일.md",
+                "file": "Project/Spring/문법/MVC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -22,6 +22,19 @@
           },
           {
             "id": "db27d5fa2b3f036d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo/TIL/2024-01/2024-01-19 TIL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31ad9eafb990722b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -95,7 +108,7 @@
       {
         "id": "aee0c20d4d3b43d9",
         "type": "tabs",
-        "dimension": 33.20500481231954,
+        "dimension": 33.39749759384023,
         "children": [
           {
             "id": "194553660e95f057",
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/JPA/무제 파일.md",
+                "file": "Project/Spring/문법/MVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/JPA/무제 파일.md",
+                "file": "Project/Spring/문법/MVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/JPA/무제 파일.md"
+                "file": "Project/Spring/문법/MVC.md"
               }
             }
           },
@@ -169,7 +182,7 @@
       {
         "id": "06bca203602d61c1",
         "type": "tabs",
-        "dimension": 32.24254090471607,
+        "dimension": 32.05004812319538,
         "children": [
           {
             "id": "fff0c6353c28b71c",
@@ -217,44 +230,44 @@
   },
   "active": "39a95fcf7032c903",
   "lastOpenFiles": [
-    "Project/JPA/영속성 컨텍스트.md",
-    "Project/JPA/무제 파일.md",
+    "Project/CS/Network/RESTful API.md",
+    "Project/Spring/문법/MVC.md",
+    "Project/Spring/문법/Spring MVC.md",
+    "Project/Spring/MOC.md",
+    "Project/JPA/Entity.md",
+    "Project/JPA/Entity 상태.md",
     "Project/JPA/1차 캐시.md",
-    "Inbox/Pasted image 20240107103049.png",
+    "Todo/TIL/2024-01/2024-01-19 TIL.md",
+    "Area/JAVA/개발 환경/JVM/싱글 Thread와 멀티 Thread.md",
+    "Area/JAVA/개발 환경/JVM/Thread.md",
+    "Area/JAVA/개발 환경/JVM/JVM.md",
+    "Project/Spring/Servlet/Servlet Container.md",
+    "Project/Spring/Servlet/Servlet Life Cycle.md",
+    "Project/JPA/변경 감지.md",
+    "Project/JPA/영속성 컨텍스트.md",
+    "Project/JPA/쓰기 지연 저장소.md",
+    "Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
+    "Project/Spring/Spring과 객체지향/IoC (Inversion of Controller).md",
+    "Project/Spring/Spring과 객체지향/ApplicationContext.md",
     "Project/Spring/Spring과 객체지향/3 Layer Annotation.md",
+    "Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
+    "Project/JPA/updatechecking.png",
+    "Project/JPA/트랜잭션.md",
+    "Archive/img/JPA/actionqueue.png",
+    "Project/JPA/JPA (Java Persistence API).md",
+    "Project/JPA/MOC.md",
+    "Project/JPA/ORM.md",
+    "Archive/img/JPA/entitydelete2.png",
+    "Archive/img/JPA/entitydelete1.png",
+    "Archive/img/JPA/entityselect3.png",
+    "Archive/img/JPA/entityselect2.png",
+    "Archive/img/JPA/entityselect1.png",
+    "Inbox/Pasted image 20240107103049.png",
     "Area/Database/DataBase.md",
     "Archive/img/JPA/entitiesBykey.png",
     "Archive/img/JPA/persist.png",
-    "Archive/img/JPA/cash.png",
-    "Project/JPA/EntityManager.md",
-    "Archive/img/JPA/EntityManagerFactory.png",
-    "Project/JPA/트랜잭션.md",
-    "Area/Database/RDB/SQL/TCL/Transaction.md",
-    "Inbox/standard.md",
-    "Inbox/ㅇㅅㅇ.md",
-    "Inbox/코테.md",
-    "Inbox/프리코스.md",
-    "Area/Database/RDB/SQL/TCL/COMMIT.md",
-    "Archive/img/JPA/transaction.png",
-    "Archive/img/JPA/EntityManager.png",
-    "Project/JPA/Entity.md",
-    "Project/JPA/JPA (Java Persistence API).md",
-    "Project/JPA/ORM.md",
-    "Archive/img/JPA/persistenceContext.png",
-    "Project/JPA/MOC.md",
-    "Inbox/mysql.md",
-    "Project/Spring/세팅/application.properties.md",
-    "Project/Spring/세팅/build.gradle.md",
-    "Project/Spring/세팅/Gradle.md",
-    "Archive/img/JPA/JPA.png",
-    "Archive/img/JPA/ORM.png",
-    "Templates/gitblog templete.md",
-    "Project/Spring/MOC.md",
     "Archive/img/JPA",
-    "Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
-    "Project/Spring/Spring과 객체지향/IoC (Inversion of Controller).md",
     "Project/JPA",
-    "Project/Spring/Servlet/Front Controller.md",
     "Project/Spring/Spring과 객체지향",
     "Project/Spring/세팅",
     "Project/Spring/문법",
