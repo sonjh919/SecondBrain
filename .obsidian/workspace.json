@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Spring/Spring과 객체지향/IoC (Inversion of Controller)와.md",
+                "file": "Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Spring/Spring과 객체지향/IoC (Inversion of Controller)와.md",
+                "file": "Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Spring/Spring과 객체지향/IoC (Inversion of Controller)와.md",
+                "file": "Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Spring/Spring과 객체지향/IoC (Inversion of Controller)와.md"
+                "file": "Project/Spring/Spring과 객체지향/IoC Container와 Bean.md"
               }
             }
           },
@@ -231,7 +231,14 @@
   },
   "active": "39a95fcf7032c903",
   "lastOpenFiles": [
-    "Project/Spring/Spring과 객체지향/IoC Container.md",
+    "Project/Spring/Library/Lombok.md",
+    "Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
+    "Project/Spring/Spring과 객체지향/autowired.png",
+    "Area/Java API/java.sql/JDBC.md",
+    "Area/Java API/java.sql/JdbcTemplate.md",
+    "Project/Spring/Spring과 객체지향/BeanName.png",
+    "Project/Spring/Spring과 객체지향/component.png",
+    "Project/Spring/Spring과 객체지향/springbootapplication.png",
     "Project/Spring/Spring과 객체지향/IoC (Inversion of Controller)와.md",
     "Archive/img/Spring/ioc3.png",
     "Archive/img/Spring/ioc2.png",
@@ -263,14 +270,7 @@
     "Project/Spring/문법/Spring MVC.md",
     "Project/Spring/Servlet/Front Controller.md",
     "Project/Spring/Servlet/Servlet Container.md",
-    "Project/Spring/Servlet/Servlet Life Cycle.md",
-    "Project/Book/오브젝트/07 객체 분해.md",
-    "Project/Error/Docker/Error response from daemon When using COPY with more than one source file.md",
-    "Archive/img/Java API/java.sql/jdbc1.png",
-    "Archive/img/Java API/java.sql/jdbcTemplate.png",
-    "Archive/img/Java API/java.sql/jdbc3.png",
     "Archive/img/Java API/java.sql",
-    "Archive/img/Error/equals와hashcode재정의.png",
     "Archive/img/Error/JavaSpring",
     "Archive/img/Error",
     "Project/Book",
