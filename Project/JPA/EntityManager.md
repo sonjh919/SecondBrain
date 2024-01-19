@@ -21,6 +21,8 @@ path:
 + EntityManagerFactory를 만들기 위해서는 DB에 정보를 전달해야 한다.
 + 정보를 전달하기 위해서는 /resources/META-INF/ 위치에 persistence.xml 파일을 만들어 정보를 넣어두면 된다.
 
+![[EntityManagerFactory.png]]
+
 ```java
 <?xml version="1.0" encoding="UTF-8"?>
 <persistence version="2.2"

@@ -97,6 +97,13 @@
         "a": 1,
         "rgb": 6084188
       }
+    },
+    {
+      "query": "tag:#jpa",
+      "color": {
+        "a": 1,
+        "rgb": 16711888
+      }
     }
   ],
   "collapse-display": false,
@@ -109,6 +116,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 260,
-  "scale": 0.047787637109637494,
+  "scale": 0.18462326225863163,
   "close": true
 }
