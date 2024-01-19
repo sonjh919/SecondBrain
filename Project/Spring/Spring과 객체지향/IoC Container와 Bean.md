@@ -60,6 +60,7 @@ MemoService memoService = new MemoService();
 + Spring IoC 컨테이너에 의해 관리되는 클래스에서만 가능하다.
 + Spring IoC **컨테이너에 의해 관리되는 ‘Bean’객체만 DI에 사용될 수 있다.**
 + [[Lombok]]의 @RequiredArgsConstructor를 이용할 수도 있다.
++ [[ApplicationContext]]를 이용하여 수동으로 가져올 수도 있다.
 
 ![[autowired.png]]
 

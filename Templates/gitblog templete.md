@@ -2,9 +2,9 @@
 title: <% tp.file.title %>
 date: <% tp.file.creation_date() %>
 categories:
-  - Spring
+  - JPA
 tags:
-  - Spring
+  - jpa
 image: 
 path:
 ---
