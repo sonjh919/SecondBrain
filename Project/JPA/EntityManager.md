@@ -20,6 +20,7 @@ path:
 ## EntityManagerFactory
 + EntityManagerFactory를 만들기 위해서는 DB에 정보를 전달해야 한다.
 + 정보를 전달하기 위해서는 /resources/META-INF/ 위치에 persistence.xml 파일을 만들어 정보를 넣어두면 된다.
++ Spring에서는 xml이 아니라 [[application.properties]]에서 설정한 정보를 바탕으로 EntityManager와 EntityManagerFactory를 자동으로 생성해준다.
 
 ![[EntityManagerFactory.png]]
 

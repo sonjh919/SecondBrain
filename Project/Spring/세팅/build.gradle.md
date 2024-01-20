@@ -40,14 +40,21 @@ External Libraries에서 Gradle이 다운로드해온 라이브러리들을 확�
 dependencies {  
     
     // JPA 구현체인 hibernate
-    implementation 'org.hibernate:hibernate-core:6.1.7.Final'
+	//  implementation 'org.hibernate:hibernate-core:6.1.7.Final'
+    
+	// JPA 설정
+	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+
+	// JDBC
+	// implementation 'org.springframework.boot:spring-boot-starter-data-jdbc'  
     
     // MYSQL  
     implementation 'mysql:mysql-connector-java:8.0.28'  
 
-	// Spring Web
-    implementation 'org.springframework.boot:spring-boot-starter-data-jdbc'  
+	// thymeleaf
     implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'  
+    
+    // Spring Web
     implementation 'org.springframework.boot:spring-boot-starter-web'  
 
 	// Lombok
