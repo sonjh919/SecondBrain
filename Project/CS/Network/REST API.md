@@ -19,6 +19,13 @@ path:
 > 즉, 서버의 api가 적절하게 [[http]]를 준수하며 잘 설계되어있으면 RESTful 하게 설계되어 있다!
 {: .prompt-info }
 
+## REST  API 구성
+REST API는 다음의 구성으로 이루어져 있다.
+
+- **자원(RESOURCE)** - URI
+- **행위(Verb)** - HTTP METHOD
+- **표현(Representations)**
+
 ---
 # REST API 설계
 REST API 설계 시 가장 중요한 항목은 2가지이다.
@@ -36,8 +43,12 @@ REST API 설계 시 가장 중요한 항목은 2가지이다.
 ### 1-2. 행위(Verv) : HTTP Method
 + POST : 해당 URL을 요청하면 자원을 생성한다.
 + GET : 해당 자원을 조회한다.
-+ PUT : 해당 자원을 수정한다.
-+ DELETE: 해당 자원을 삭제한다.
++ PUT : 해당 자원을 수정한다. PUT 사용시에는 바뀌지 않는 속성도 같이 보내야 한다.
++ DELETE : 해당 자원을 삭제한다.
++ OPTIONS : 현재 End-point가 제공 가능한 API method를 응답한다.
++ HEAD : 요청에 대한 Header 정보만 응답한다. body가 없다.
++ PATCH : PUT 대신 PATCH method를 사용한다. 자원의 일부를 수정할 때는 PATCH가 목적에 맞는 method다.
+
 
 ### 1-3. 표현 (Representations)
 - 하나의 자원은 JSON, XML, TEXT, RSS등 여러 형태로 나타낼 수 있다.
