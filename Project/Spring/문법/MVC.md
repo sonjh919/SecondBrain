@@ -46,7 +46,7 @@ path:
 ![[controllers.png]]
 
 
-- 하지만 Controller를 여러개 만들어야 하는 단점이 있기 때문에 모든 Request를 http로 받고 json으로 Response하는 방식을 적용 중에 있다. → [[Restful API]]
+- 하지만 Controller를 여러개 만들어야 하는 단점이 있기 때문에 모든 Request를 http로 받고 json으로 Response하는 방식을 적용 중에 있다. → [[REST]]
 
 ## 3. DAO의 등장 (Data Access Object) (= Repository 계층)
 

@@ -15,6 +15,6 @@ path:
 [[HTTP]]
 [[HTTP 상태 코드]]
 [[Network]]
-[[RESTful API]]
+[[REST]]
 [[Server]]
 [[Server의 분리]]

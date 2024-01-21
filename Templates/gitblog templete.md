@@ -2,9 +2,11 @@
 title: <% tp.file.title %>
 date: <% tp.file.creation_date() %>
 categories:
-  - JPA
+  - CS
+  - Network
 tags:
-  - jpa
+  - CS
+  - Network
 image: 
 path:
 ---

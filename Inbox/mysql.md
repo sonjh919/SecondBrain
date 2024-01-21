@@ -17,3 +17,6 @@ https://docs.gradle.org/current/javadoc/org/gradle/api/tasks/compile/CompileOpti
 https://github.com/marketplace/actions/beanstalk-deploy
 
 https://jojoldu.tistory.com/549
+
+restfulapi
+https://sanghaklee.tistory.com/m/61
