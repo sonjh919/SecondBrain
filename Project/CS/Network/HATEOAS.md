@@ -24,6 +24,21 @@ path:
 **문자와 숫자로 이루어진 텍스트 외에도 소리와 그림, 애니메이션 등 다양한 정보매체를 곧바로 접근할 수 있도록 표현하는 기능**을 말한다.
 {: .prompt-info }
 
+## HATEOAS의 4 Level
+### Level 0
+API 구현은 HTTP 프로토콜을 사용하지만 전체 기능을 활용하지는 않는다. 또한 리소스에 대한 고유 주소가 제공되지 않는다.
+ex) POST URI: /student
+### Level 1
+리소스에 대한 고유 식별자가 있지만 리소스에 대한 각 작업에는 고유한 URL이 있다.
+ex) POST URI: /student/1/delete
+### Level 2
+동작을 설명하는 동사 대신 HTTP 메서드를 사용한다. 예를 들어 URL(/delete) 대신 DELETE 메소드를 사용한다.
+ex) DELETE URI: /student/1
+### Level 3
+HATEOAS가 도입된다. 이를 통해 가능한 작업에 대해 알려주는 응답에 링크를 배치할 수 있으므로 API를 통해 탐색할 수 있는 가능성이 추가된다.
+ex) link 필드 추가
+
+
 ![[hateoas.png]]
 
 
@@ -56,4 +71,34 @@ GET https://sjhblog.com/article
 2. 링크 정보를 동적으로 바꿀 수 있다.
 3. 링크를 통해서 상태 전이가 쉽게 가능하다.
 
-위와 같은 방식으로 데이터를 담아 클라이언트에게 보낸다면 클라이언트는 해당 링크를 **참조**하는 방식으로, JPA에서 객체 그래프 탐색을 하는 것 처럼 API 그래프 탐색이 가능해진다. 이를 완벽하게 하기 위해서는 HAL JSON을 이용할 수 있다.
+위와 같은 방식으로 데이터를 담아 클라이언트에게 보낸다면 클라이언트는 해당 링크를 **참조**하는 방식으로, JPA에서 객체 그래프 탐색을 하는 것 처럼 API 그래프 탐색이 가능해진다. 이를 완벽하게 하기 위해서는 [[HAL JSON]]을 이용할 수 있다.
+
+### HAL JSON을 이용한 예시
+```
+{
+  "data": { // HAL JSON의 리소스 필드
+    "id": 1,
+    "name": "게시글 1",
+    "content": "HAL JSON을 이용한 예시 JSON"
+  },
+  "_links": { // HAL JSON의 링크 필드
+    "self": {
+      "href": "http://localhost:8080/api/article/1" // 현재 api 주소
+    },
+    "profile": {
+      "href": "http://localhost:8080/docs#query-article" // 해당 api의 문서
+    },
+    "next": {
+      "href": "http://localhost:8080/api/article/2" // article 의 다음 api 주소
+    },
+    "prev": {
+      "href": "http://localhost:8080/api/article/99" // article의 이전 api 주소
+    }
+  }
+}
+```
+
+## HATEOAS의 장단점
+서버와 클라이언트 간의 느슨한 결합?
+
+일단 다중 도메인에 관한 API는 Swagger 문서를 보고 개발을 하는 것이 더 효과적이라고 판단된다.

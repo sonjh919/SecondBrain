@@ -12,7 +12,7 @@ path:
 ---
 
 ## Jackson
-+ Jackson은 [[JSON]] 데이터 구조를 처리해주는 라이브러리이다.
++ Jackson은 [[Project/Spring/문법/JSON]] 데이터 구조를 처리해주는 라이브러리이다.
 + **Object**를 `JSON` 타입의 **String**으로 변환해줄 수 있다.
 - 반대로, `JSON` 타입의 **String**을 **Object**로 변환해줄 수도 있다.
 + Spring은 **3.0**버전 이후로 `Jacskon`과 관련된 **API**를 제공함으로써, 우리가 직접 소스 코드를 작성하여 `JSON` 데이터를 처리하지 않아도 자동으로 처리해주고 있다.

@@ -12,7 +12,7 @@ path:
 ---
 
 
-[[Server의 분리 방식]]에 따라 3,2,1 Tier Architecture로 나눈다.
+[[Server의 분리]] 방식에 따라 3,2,1 Tier Architecture로 나눈다.
 ## 3 Tier Architecture
 - Server에 관한 부분을 **Web Server, WAS, DB Server** 3가지로 나누어 서로 네트워크 통신을 하도록 하는 것
 - 장점 : 사용자에 따라 필요한 부분만 server를 확장하여 사용할 수 있다.

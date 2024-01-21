@@ -21,11 +21,9 @@ path:
 [[Server]]
 [[Server의 분리]]
 [[URI vs URL]]
-
-
 [[HTTP Headers]]
 [[HTTP Method]]
 [[HATEOAS]]
-[[Versioning]]
 ### 이후에 할것
-Paging, Ordering, Filtering, Field-Selecting
+Paging, Ordering, Filtering, Field-Selecting, Versioning
+https://sanghaklee.tistory.com/57
