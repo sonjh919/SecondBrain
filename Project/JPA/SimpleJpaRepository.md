@@ -51,4 +51,4 @@ public class SimpleJpaRepository<T, ID> implements JpaRepositoryImplementation<T
 
 + SimpleJpaRepositry 구현체
 
-![[Pasted image 20240120101831.png]]
+![[SimpleJpaRepository.png]]

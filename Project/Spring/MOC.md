@@ -21,7 +21,6 @@ path:
 [[Controller]]
 [[DTO]]
 [[HTTP 데이터 객체로 변환하기]]
-[[Project/Spring/문법/JSON]]
 [[MVC]]
 [[Response 트렌드의 변화]]
 [[Spring MVC]]

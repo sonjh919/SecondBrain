@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md",
+                "file": "Todo/TIL/2024-01/2024-01-20 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "da7ce4db3cd9790d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Archive/img/Spring/frontController.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md",
+                "file": "Archive/img/Spring/frontController.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md",
+                "file": "Archive/img/Spring/frontController.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md"
+                "file": "Archive/img/Spring/frontController.png"
               }
             }
           },
@@ -207,8 +218,30 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "39a95fcf7032c903",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
+    "Project/Spring/문법/MVC.md",
+    "Todo/TIL/2024-01/2024-01-21 TIL.md",
+    "Todo/TIL/20240121.png",
+    "Archive/img/TIL/20240120.png",
+    "Todo/TIL/2024-01/2024-01-20 TIL.md",
+    "Todo/TIL/2024-01/2024-01-19 TIL.md",
+    "Todo/TIL/2024-01/2024-01-18 TIL.md",
+    "Project/Spring/문법/Response 트렌드의 변화.md",
+    "Project/Spring/Library/Jackson.md",
+    "Project/JPA/MOC.md",
+    "Archive/img/JPA/SimpleJpaRepository.png",
+    "Project/JPA/SimpleJpaRepository.md",
+    "Project/JPA/무제 파일.md",
+    "Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
+    "Project/Spring/Spring과 객체지향/IoC (Inversion of Controller).md",
+    "Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
+    "Project/Spring/MOC.md",
+    "Todo/TIL/2024-01/2024-01-17 TIL.md",
+    "Templates/gitblog templete.md",
+    "Templates/blog_Callout.md",
+    "Todo/TIL/TIL.md",
+    "Project/CS/Network/HTTP 상태 코드.md",
     "Project/CS/Network/HAL JSON.md",
     "Project/CS/Network/Forward와 Redirect.md",
     "Project/CS/Network/API.md",
@@ -216,35 +249,13 @@
     "Project/CS/Network/Network.md",
     "Project/CS/Network/HATEOAS.md",
     "Project/CS/Network/HTTP Method.md",
-    "Project/CS/Network/HTTP Headers.md",
-    "Project/JPA/JPA (Java Persistence API).md",
-    "Project/JPA/ORM.md",
-    "Project/CS/Network/HTTP 상태 코드.md",
-    "Inbox/mysql.md",
-    "Inbox/프리코스.md",
-    "Inbox/코테.md",
-    "Inbox/ㅇㅅㅇ.md",
-    "Inbox/끄적끄적.md",
-    "Project/CS/Network/JSON.md",
-    "Project/CS/Network/REST API.md",
-    "Project/CS/Network/MOC.md",
-    "Project/CS/Network/URI vs URL.md",
-    "Project/CS/Network/Versioning.md",
-    "Project/CS/Network/HTTP.md",
-    "Project/CS/Network/Server의 분리.md",
-    "Project/CS/Network/REST.md",
     "Archive/img/CS/Network/hateoas.png",
-    "Project/Spring/문법/Spring에서의 JSON 변환.md",
-    "Project/Spring/문법/JSON.md",
     "Project/CS/Network/URIURL.jpg",
     "Archive/img/CS/Network/URIURLURN.png",
-    "Project/JPA/Pasted image 20240120101831.png",
     "Archive/img/JPA/SimpleJapRepository.png",
     "Archive/img/JPA/SpringDataJPA.png",
     "Archive/img/JPA/contexttransaction.png",
     "Archive/img/JPA/entitystate.png",
-    "Archive/img/Spring/mvcpart.png",
-    "Archive/img/Spring/mvclanguage.png",
     "Archive/img/JPA",
     "Project/JPA",
     "Project/Spring/Spring과 객체지향",
