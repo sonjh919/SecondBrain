@@ -21,6 +21,7 @@ Content-Location: /users/1
 
 ## Content-Type
 **application/json**을 우선으로 제공한다.
+HTTP메소드에서 GET방식은 value=text 형식으로 보내지기 때문에 Content-Type은 필요없지만 HTTP메소드에 POST, PUT처럼 Body에 data를 보낼때 Content-Type이 필요하다.
 
 ## Retry-After
 비정상적인 방법(DoS, Brute-force attack)으로 API 서버를 이용하려는 경우 `429 Too Many Requests` [[HTTP 상태 코드]]로 오류 응답과 함께 일정 시간 뒤 요청할 것을 나타낸다. id, password를 이용한 로그인 작업 시, 서버 과부하를 목적으로 post 반복 호출 시 등이 있다. n시간동안 n회만 요청 가능 같은 제약을 걸 수 있다.

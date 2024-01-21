@@ -22,3 +22,9 @@ restfulapi
 https://sanghaklee.tistory.com/m/61
 
 https://peterica.tistory.com/402
+
+timestamp
+https://blog.naver.com/writer0713/221042987379
+
+암호화
+https://intellegibilisverum.tistory.com/entry/mysql-%EC%95%94%ED%98%B8%ED%99%94

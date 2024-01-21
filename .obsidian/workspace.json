@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/CS/Network/REST API.md",
+                "file": "Inbox/mysql.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/CS/Network/REST API.md",
+                "file": "Inbox/mysql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/CS/Network/REST API.md",
+                "file": "Inbox/mysql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/CS/Network/REST API.md"
+                "file": "Inbox/mysql.md"
               }
             }
           },
@@ -209,33 +209,33 @@
   },
   "active": "39a95fcf7032c903",
   "lastOpenFiles": [
-    "Project/CS/Network/MOC.md",
+    "Inbox/프리코스.md",
+    "Inbox/코테.md",
+    "Inbox/ㅇㅅㅇ.md",
+    "Inbox/끄적끄적.md",
+    "Project/CS/Network/HTTP 상태 코드.md",
+    "Project/CS/Network/HTTP Headers.md",
+    "Project/CS/Network/HATEOAS.md",
+    "Project/CS/Network/API.md",
+    "Project/CS/Network/HAL JSON.md",
+    "Inbox/mysql.md",
+    "Project/CS/Network/JSON.md",
     "Project/CS/Network/REST API.md",
+    "Project/CS/Network/MOC.md",
     "Project/CS/Network/URI vs URL.md",
     "Project/CS/Network/Versioning.md",
-    "Project/CS/Network/HTTP Headers.md",
-    "Project/CS/Network/HTTP 상태 코드.md",
     "Project/CS/Network/HTTP.md",
     "Project/CS/Network/Network.md",
     "Project/CS/Network/Server의 분리.md",
-    "Project/CS/Network/JSON.md",
     "Project/CS/Network/HTTP Method.md",
-    "Project/CS/Network/HATEOAS.md",
-    "Project/CS/Network/HAL JSON.md",
     "Project/CS/Network/Forward와 Redirect.md",
-    "Project/CS/Network/API.md",
     "Project/CS/Network/3 Tier Architecture.md",
-    "Inbox/mysql.md",
-    "Inbox/코테.md",
-    "Inbox/끄적끄적.md",
-    "Inbox/ㅇㅅㅇ.md",
     "Project/CS/Network/REST.md",
     "Archive/img/CS/Network/hateoas.png",
     "Project/Spring/문법/Spring에서의 JSON 변환.md",
     "Project/Spring/문법/JSON.md",
     "Project/CS/Network/Server.md",
     "Project/JPA/영속성 컨텍스트와 트랜잭션의 생명주기.md",
-    "Todo/TIL/2024-01/2024-01-19 TIL.md",
     "Project/CS/Network/URIURL.jpg",
     "Archive/img/CS/Network/URIURLURN.png",
     "Project/JPA/Pasted image 20240120101831.png",
