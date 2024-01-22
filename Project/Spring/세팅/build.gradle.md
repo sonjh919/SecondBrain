@@ -45,6 +45,9 @@ dependencies {
 	// JPA 설정
 	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
 
+	// HATEOAS
+	implementation 'org.springframework.boot:spring-boot-starter-hateoas'
+
 	// JDBC
 	// implementation 'org.springframework.boot:spring-boot-starter-data-jdbc'  
     
