@@ -24,9 +24,12 @@
             "id": "da7ce4db3cd9790d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Archive/img/Spring/frontController.png"
+                "file": "Project/JPA/Entity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -106,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/img/Spring/frontController.png",
+                "file": "Project/JPA/Entity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/img/Spring/frontController.png",
+                "file": "Project/JPA/Entity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/img/Spring/frontController.png"
+                "file": "Project/JPA/Entity.md"
               }
             }
           },
@@ -218,13 +221,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "da7ce4db3cd9790d",
   "lastOpenFiles": [
+    "Project/Spring/문법/HTTP 데이터 객체로 변환하기.md",
+    "Project/Spring/문법/Controller.md",
+    "Project/JPA/영속성 컨텍스트와 트랜잭션의 생명주기.md",
+    "Todo/TIL/2024-01/2024-01-20 TIL.md",
     "Project/Spring/문법/MVC.md",
     "Todo/TIL/2024-01/2024-01-21 TIL.md",
     "Todo/TIL/20240121.png",
     "Archive/img/TIL/20240120.png",
-    "Todo/TIL/2024-01/2024-01-20 TIL.md",
     "Todo/TIL/2024-01/2024-01-19 TIL.md",
     "Todo/TIL/2024-01/2024-01-18 TIL.md",
     "Project/Spring/문법/Response 트렌드의 변화.md",
@@ -246,9 +252,6 @@
     "Project/CS/Network/Forward와 Redirect.md",
     "Project/CS/Network/API.md",
     "Project/CS/Network/3 Tier Architecture.md",
-    "Project/CS/Network/Network.md",
-    "Project/CS/Network/HATEOAS.md",
-    "Project/CS/Network/HTTP Method.md",
     "Archive/img/CS/Network/hateoas.png",
     "Project/CS/Network/URIURL.jpg",
     "Archive/img/CS/Network/URIURLURN.png",
