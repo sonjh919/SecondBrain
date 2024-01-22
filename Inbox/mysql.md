@@ -28,3 +28,18 @@ https://blog.naver.com/writer0713/221042987379
 
 암호화
 https://intellegibilisverum.tistory.com/entry/mysql-%EC%95%94%ED%98%B8%ED%99%94
+
+title : 최대 16자
+content : 최대 1024자
+author : 최대 8자
+password : 최대 32자
+
+create table memo
+(
+    id       bigint       not null auto_increment,
+    contents varchar(500) not null,
+    username varchar(255) not null,
+    primary key (id)
+);
+
+선물하기

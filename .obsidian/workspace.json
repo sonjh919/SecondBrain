@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md",
+                "file": "Inbox/ㅇㅅㅇ.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md",
+                "file": "Inbox/ㅇㅅㅇ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md",
+                "file": "Inbox/ㅇㅅㅇ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md"
+                "file": "Inbox/ㅇㅅㅇ.md"
               }
             }
           },
@@ -223,11 +223,24 @@
   },
   "active": "da7ce4db3cd9790d",
   "lastOpenFiles": [
+    "Inbox/코테.md",
+    "Inbox/mysql.md",
+    "Inbox/프리코스.md",
+    "Inbox/끄적끄적.md",
+    "Inbox/ㅇㅅㅇ.md",
+    "Todo/TIL/2024-01/2024-01-18 TIL.md",
+    "Todo/TIL/2024-01/2024-01-16 TIL.md",
+    "Todo/TIL/2024-01/2024-01-17 TIL.md",
+    "Todo/TIL/2024-01/2024-01-15 TIL.md",
+    "Todo/TIL/2024-01/2024-01-13 TIL.md",
+    "Todo/TIL/2024-01/2024-01-11 TIL.md",
+    "Todo/TIL/2024-01/2024-01-20 TIL.md",
+    "Todo/TIL/2024-01/2024-01-21 TIL.md",
+    "Todo/TIL/2024-01/2024-01-22 TIL.md",
+    "Project/CS/Network/HTTP 상태 코드.md",
     "Project/CS/Network/HATEOAS.md",
     "Project/CS/Network/JSON.md",
-    "Project/CS/Network/HTTP 상태 코드.md",
     "Project/JPA/Spring Data JPA.md",
-    "Inbox/끄적끄적.md",
     "Project/CS/Network/REST API.md",
     "Project/Spring/세팅/build.gradle.md",
     "Project/Spring/세팅/application.properties.md",
@@ -238,20 +251,7 @@
     "Project/Spring/문법/HTTP 데이터 객체로 변환하기.md",
     "Project/Spring/문법/Controller.md",
     "Project/JPA/영속성 컨텍스트와 트랜잭션의 생명주기.md",
-    "Todo/TIL/2024-01/2024-01-20 TIL.md",
-    "Project/Spring/문법/MVC.md",
-    "Todo/TIL/2024-01/2024-01-21 TIL.md",
-    "Todo/TIL/2024-01/2024-01-19 TIL.md",
-    "Todo/TIL/2024-01/2024-01-18 TIL.md",
-    "Project/Spring/문법/Response 트렌드의 변화.md",
-    "Project/Spring/Library/Jackson.md",
-    "Project/JPA/MOC.md",
     "Archive/img/JPA/SimpleJpaRepository.png",
-    "Project/JPA/SimpleJpaRepository.md",
-    "Project/JPA/무제 파일.md",
-    "Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
-    "Project/Spring/Spring과 객체지향/IoC (Inversion of Controller).md",
-    "Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
     "Archive/img/CS/Network/hateoas.png",
     "Project/CS/Network/URIURL.jpg",
     "Archive/img/CS/Network/URIURLURN.png",
