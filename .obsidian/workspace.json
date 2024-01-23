@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/ㅇㅅㅇ.md",
+                "file": "Project/Error/Git/LF will be replaced by CRLF in pom.xml.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/ㅇㅅㅇ.md",
+                "file": "Project/Error/Git/LF will be replaced by CRLF in pom.xml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/ㅇㅅㅇ.md",
+                "file": "Project/Error/Git/LF will be replaced by CRLF in pom.xml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/ㅇㅅㅇ.md"
+                "file": "Project/Error/Git/LF will be replaced by CRLF in pom.xml.md"
               }
             }
           },
@@ -223,34 +223,35 @@
   },
   "active": "da7ce4db3cd9790d",
   "lastOpenFiles": [
+    "Todo/TIL/2024-01/2024-01-20 TIL.md",
+    "Project/Error/Git/LF will be replaced by CRLF in pom.xml.md",
+    "Project/Error/DataBase/Varchar길이는 바이트 수가 아니다!.md",
+    "Project/Error/Git/이미 push한 commit 변경하기.md",
+    "Project/Error/Docker/Error response from daemon When using COPY with more than one source file.md",
+    "Project/Error/Docker/Error response from daemon COPY failed no source files were specified.md",
+    "Project/Error/DataBase",
+    "Project/JPA/1차 캐시.md",
+    "Project/Error/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md",
+    "Project/Error/Java&Spring/빌드 방식에 따른 RequestParam 매개변수 인식 오류.md",
+    "Inbox/끄적끄적.md",
+    "Inbox/ㅇㅅㅇ.md",
     "Inbox/코테.md",
     "Inbox/mysql.md",
     "Inbox/프리코스.md",
-    "Inbox/끄적끄적.md",
-    "Inbox/ㅇㅅㅇ.md",
     "Todo/TIL/2024-01/2024-01-18 TIL.md",
     "Todo/TIL/2024-01/2024-01-16 TIL.md",
     "Todo/TIL/2024-01/2024-01-17 TIL.md",
     "Todo/TIL/2024-01/2024-01-15 TIL.md",
     "Todo/TIL/2024-01/2024-01-13 TIL.md",
     "Todo/TIL/2024-01/2024-01-11 TIL.md",
-    "Todo/TIL/2024-01/2024-01-20 TIL.md",
     "Todo/TIL/2024-01/2024-01-21 TIL.md",
     "Todo/TIL/2024-01/2024-01-22 TIL.md",
     "Project/CS/Network/HTTP 상태 코드.md",
     "Project/CS/Network/HATEOAS.md",
     "Project/CS/Network/JSON.md",
     "Project/JPA/Spring Data JPA.md",
-    "Project/CS/Network/REST API.md",
-    "Project/Spring/세팅/build.gradle.md",
-    "Project/Spring/세팅/application.properties.md",
-    "Project/Spring/Library/Lombok.md",
     "Archive/img/TIL/20240121.png",
     "Archive/img/TIL/20240120.png",
-    "Project/JPA/Entity.md",
-    "Project/Spring/문법/HTTP 데이터 객체로 변환하기.md",
-    "Project/Spring/문법/Controller.md",
-    "Project/JPA/영속성 컨텍스트와 트랜잭션의 생명주기.md",
     "Archive/img/JPA/SimpleJpaRepository.png",
     "Archive/img/CS/Network/hateoas.png",
     "Project/CS/Network/URIURL.jpg",
@@ -268,7 +269,6 @@
     "Archive/img/Error/JavaSpring",
     "Archive/img/Error",
     "Project/Book",
-    "Project/Error/Java&Spring",
     "Project/무제 파일.canvas"
   ]
 }
