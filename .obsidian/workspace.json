@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/CS/Network/REST API.md",
+                "file": "Inbox/끄적끄적.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b8db6b8b0473952",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/CS/Network/REST API.md",
+                "file": "Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/CS/Network/REST API.md",
+                "file": "Inbox/끄적끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/CS/Network/REST API.md"
+                "file": "Inbox/끄적끄적.md"
               }
             }
           },
@@ -221,35 +234,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "da7ce4db3cd9790d",
+  "active": "6b8db6b8b0473952",
   "lastOpenFiles": [
+    "Todo/TIL/2024-01/2024-01-23 TIL.md",
+    "Todo/TIL/2024-01/2024-01-22 TIL.md",
+    "Templates/gitblog templete.md",
+    "Project/JPA/EntityManager.md",
+    "Project/Spring/세팅/application.properties.md",
+    "Todo/TIL/2024-01/2024-01-04 TIL.md",
+    "Project/JPA/영속성 컨텍스트와 트랜잭션의 생명주기.md",
+    "Project/JPA/변경 감지.md",
+    "Area/JAVA/개발 환경/JVM/Thread.md",
+    "Area/JAVA/개발 환경/JVM/Thread 제어.md",
+    "Area/JAVA/개발 환경/JVM/Process.md",
+    "Area/JAVA/개발 환경/JVM/JVM.md",
+    "Area/JAVA/개발 환경/JVM/Class Loader.md",
+    "Area/JAVA/개발 환경/JVM/Heap Area.md",
+    "Area/JAVA/개발 환경/JVM/Runtime Data Area.md",
+    "Area/Database/RDB/SQL/DML/DELETE.md",
+    "Area/Database/RDB/SQL/SQL 실행 순서/WHERE.md",
+    "Inbox/끄적끄적.md",
+    "Inbox/ㅇㅅㅇ.md",
+    "Inbox/코테.md",
+    "Project/CS/Network/REST API.md",
     "Project/CS/Network/HTTP 상태 코드.md",
     "Project/Spring/세팅/build.gradle.md",
     "Project/Error/Git/LF will be replaced by CRLF in pom.xml.md",
     "Todo/TIL/2024-01/2024-01-20 TIL.md",
     "Project/Error/DataBase/Varchar길이는 바이트 수가 아니다!.md",
-    "Project/Error/Git/이미 push한 commit 변경하기.md",
-    "Project/Error/Docker/Error response from daemon When using COPY with more than one source file.md",
-    "Project/Error/Docker/Error response from daemon COPY failed no source files were specified.md",
     "Project/Error/DataBase",
-    "Project/JPA/1차 캐시.md",
-    "Project/Error/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md",
-    "Project/Error/Java&Spring/빌드 방식에 따른 RequestParam 매개변수 인식 오류.md",
-    "Inbox/끄적끄적.md",
-    "Inbox/ㅇㅅㅇ.md",
-    "Inbox/코테.md",
-    "Inbox/mysql.md",
-    "Inbox/프리코스.md",
-    "Todo/TIL/2024-01/2024-01-18 TIL.md",
-    "Todo/TIL/2024-01/2024-01-16 TIL.md",
-    "Todo/TIL/2024-01/2024-01-17 TIL.md",
-    "Todo/TIL/2024-01/2024-01-15 TIL.md",
-    "Todo/TIL/2024-01/2024-01-13 TIL.md",
-    "Todo/TIL/2024-01/2024-01-11 TIL.md",
-    "Todo/TIL/2024-01/2024-01-21 TIL.md",
-    "Todo/TIL/2024-01/2024-01-22 TIL.md",
-    "Project/CS/Network/HATEOAS.md",
-    "Project/CS/Network/JSON.md",
     "Archive/img/TIL/20240121.png",
     "Archive/img/TIL/20240120.png",
     "Archive/img/JPA/SimpleJpaRepository.png",
