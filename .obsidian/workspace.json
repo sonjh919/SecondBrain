@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md",
+                "file": "Project/CS/Network/REST API.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md",
+                "file": "Project/CS/Network/REST API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md",
+                "file": "Project/CS/Network/REST API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md"
+                "file": "Project/CS/Network/REST API.md"
               }
             }
           },
@@ -223,6 +223,8 @@
   },
   "active": "da7ce4db3cd9790d",
   "lastOpenFiles": [
+    "Project/CS/Network/HTTP 상태 코드.md",
+    "Project/Spring/세팅/build.gradle.md",
     "Project/Error/Git/LF will be replaced by CRLF in pom.xml.md",
     "Todo/TIL/2024-01/2024-01-20 TIL.md",
     "Project/Error/DataBase/Varchar길이는 바이트 수가 아니다!.md",
@@ -246,10 +248,8 @@
     "Todo/TIL/2024-01/2024-01-11 TIL.md",
     "Todo/TIL/2024-01/2024-01-21 TIL.md",
     "Todo/TIL/2024-01/2024-01-22 TIL.md",
-    "Project/CS/Network/HTTP 상태 코드.md",
     "Project/CS/Network/HATEOAS.md",
     "Project/CS/Network/JSON.md",
-    "Project/JPA/Spring Data JPA.md",
     "Archive/img/TIL/20240121.png",
     "Archive/img/TIL/20240120.png",
     "Archive/img/JPA/SimpleJpaRepository.png",
