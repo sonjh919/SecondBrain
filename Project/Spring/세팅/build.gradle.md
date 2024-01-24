@@ -38,6 +38,13 @@ External Libraries에서 Gradle이 다운로드해온 라이브러리들을 확�
 
 ```
 dependencies {  
+	// Security  
+	implementation 'org.springframework.boot:spring-boot-starter-security'  
+	  
+	// JWT  
+	compileOnly group: 'io.jsonwebtoken', name: 'jjwt-api', version: '0.11.5'  
+	runtimeOnly group: 'io.jsonwebtoken', name: 'jjwt-impl', version: '0.11.5'  
+	runtimeOnly group: 'io.jsonwebtoken', name: 'jjwt-jackson', version: '0.11.5'
     
     // JPA 구현체인 hibernate
 	//  implementation 'org.hibernate:hibernate-core:6.1.7.Final'

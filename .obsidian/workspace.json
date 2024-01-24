@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Spring/Security/JWT.md",
+                "file": "Project/Spring/세팅/build.gradle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Spring/Security/JWT.md",
+                "file": "Project/Spring/세팅/build.gradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Spring/Security/JWT.md",
+                "file": "Project/Spring/세팅/build.gradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Spring/Security/JWT.md"
+                "file": "Project/Spring/세팅/build.gradle.md"
               }
             }
           },
@@ -228,24 +228,31 @@
   },
   "active": "75d5dedad104c39b",
   "lastOpenFiles": [
-    "Project/Spring/Security/JWT 기반 인증.md",
-    "Project/Spring/Security/JWT.md",
-    "Project/Spring/Security/세션.md",
+    "Project/Spring/Security/JWT/JWT.md",
+    "Project/Spring/Security/JWT/JWT 구조.md",
+    "Archive/img/Spring/jwtstructure.png",
+    "Project/Spring/Security/JWT/JWT 사용 흐름.md",
+    "Project/Spring/Security/JWT/JWT 기반 인증.md",
+    "Archive/img/Spring/jwpex.png",
+    "Archive/img/Spring/jwt2.png",
+    "Archive/img/Spring/jwt1.png",
+    "Project/Spring/Security/JWT",
+    "Project/Spring/Security/인증과 인가.md",
     "Project/Spring/Security/쿠키.md",
+    "Project/Spring/Security/세션.md",
+    "Archive/img/Spring/jwpex3.png",
+    "Archive/img/Spring/jwpex2 1.png",
+    "Archive/img/Spring/jwpex2.png",
+    "Archive/img/Spring/jwt5.png",
+    "Archive/img/Spring/jwt4.png",
+    "Archive/img/Spring/jwt3.png",
     "Project/Spring/Security/쿠키와 세션 기반 인증.md",
     "Inbox/끄적끄적.md",
-    "Archive/img/Spring/cookie.png",
-    "Archive/img/Spring/session.png",
-    "Archive/img/Spring/jwt.jpeg",
-    "Archive/img/Spring/cookiesession.jpeg",
     "Project/Spring/Security/URLEncoder.md",
     "Project/Spring/Security/쿠키와 세션 비교.md",
-    "Project/Spring/Security/인증과 인가.md",
-    "Archive/img/Spring/webauth.png",
     "Project/Spring/문법/SpringBoot.md",
     "Todo/TIL/2024-01/2024-01-24 TIL.md",
     "Project/CS/Network/REST.md",
-    "Archive/img/Spring/auth.jpeg",
     "Project/Spring/Security/PasswordEncoder.md",
     "Project/Spring/문법/같은 타입의 Bean이 2개일 경우.md",
     "Templates/gitblog templete.md",
@@ -258,13 +265,7 @@
     "Todo/TIL/2024-01/2024-01-22 TIL.md",
     "Project/JPA/EntityManager.md",
     "Project/Spring/세팅/application.properties.md",
-    "Todo/TIL/2024-01/2024-01-04 TIL.md",
-    "Project/JPA/영속성 컨텍스트와 트랜잭션의 생명주기.md",
     "Project/Error/DataBase",
-    "Archive/img/TIL/20240121.png",
-    "Archive/img/TIL/20240120.png",
-    "Archive/img/JPA/SimpleJpaRepository.png",
-    "Archive/img/CS/Network/hateoas.png",
     "Archive/img/JPA",
     "Project/JPA",
     "Project/Spring/Spring과 객체지향",
@@ -272,7 +273,6 @@
     "Project/Spring/문법",
     "Archive/img/Java API/java.sql",
     "Archive/img/Error/JavaSpring",
-    "Archive/img/Error",
     "Project/무제 파일.canvas"
   ]
 }
