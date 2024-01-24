@@ -8,35 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39a95fcf7032c903",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo/TIL/2024-01/2024-01-20 TIL.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da7ce4db3cd9790d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/끄적끄적.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6b8db6b8b0473952",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Archive/img/Spring/cookie.png"
+              }
+            }
+          },
+          {
+            "id": "75d5dedad104c39b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Inbox/끄적끄적.md",
@@ -45,9 +29,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9893be4135d81e01",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "06bca203602d61c1",
@@ -234,45 +226,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6b8db6b8b0473952",
+  "active": "75d5dedad104c39b",
   "lastOpenFiles": [
-    "Todo/TIL/2024-01/2024-01-23 TIL.md",
-    "Todo/TIL/2024-01/2024-01-22 TIL.md",
+    "Archive/img/Spring/cookie.png",
+    "Inbox/끄적끄적.md",
+    "Archive/img/Spring/session.png",
+    "Archive/img/Spring/jwt.jpeg",
+    "Archive/img/Spring/cookiesession.jpeg",
+    "Project/Spring/Security/URLEncoder.md",
+    "Project/Spring/Security/쿠키.md",
+    "Project/Spring/Security/쿠키와 세션 비교.md",
+    "Project/Spring/Security/세션.md",
+    "Project/Spring/Security/쿠키와 세션 기반 인증.md",
+    "Project/Spring/Security/인증과 인가.md",
+    "Project/Spring/Security/JWT 기반 인증.md",
+    "Project/Spring/Security/JWT.md",
+    "Archive/img/Spring/webauth.png",
+    "Project/Spring/문법/SpringBoot.md",
+    "Todo/TIL/2024-01/2024-01-24 TIL.md",
+    "Project/CS/Network/REST.md",
+    "Archive/img/Spring/auth.jpeg",
+    "Project/Spring/Security/PasswordEncoder.md",
+    "Project/Spring/문법/같은 타입의 Bean이 2개일 경우.md",
     "Templates/gitblog templete.md",
+    "Project/Spring/문법/Bean 수동 등록.md",
+    "Todo/TIL/2024-01/2024-01-23 TIL.md",
+    "Todo/TIL/2024-01/2024-01-20 TIL.md",
+    "Templates/TIL Templete.md",
+    "Project/Spring/문법/MVC.md",
+    "Project/Spring/Security",
+    "Todo/TIL/2024-01/2024-01-22 TIL.md",
     "Project/JPA/EntityManager.md",
     "Project/Spring/세팅/application.properties.md",
     "Todo/TIL/2024-01/2024-01-04 TIL.md",
     "Project/JPA/영속성 컨텍스트와 트랜잭션의 생명주기.md",
-    "Project/JPA/변경 감지.md",
-    "Area/JAVA/개발 환경/JVM/Thread.md",
-    "Area/JAVA/개발 환경/JVM/Thread 제어.md",
-    "Area/JAVA/개발 환경/JVM/Process.md",
-    "Area/JAVA/개발 환경/JVM/JVM.md",
-    "Area/JAVA/개발 환경/JVM/Class Loader.md",
-    "Area/JAVA/개발 환경/JVM/Heap Area.md",
-    "Area/JAVA/개발 환경/JVM/Runtime Data Area.md",
-    "Area/Database/RDB/SQL/DML/DELETE.md",
-    "Area/Database/RDB/SQL/SQL 실행 순서/WHERE.md",
-    "Inbox/끄적끄적.md",
-    "Inbox/ㅇㅅㅇ.md",
-    "Inbox/코테.md",
-    "Project/CS/Network/REST API.md",
-    "Project/CS/Network/HTTP 상태 코드.md",
-    "Project/Spring/세팅/build.gradle.md",
-    "Project/Error/Git/LF will be replaced by CRLF in pom.xml.md",
-    "Todo/TIL/2024-01/2024-01-20 TIL.md",
-    "Project/Error/DataBase/Varchar길이는 바이트 수가 아니다!.md",
     "Project/Error/DataBase",
     "Archive/img/TIL/20240121.png",
     "Archive/img/TIL/20240120.png",
     "Archive/img/JPA/SimpleJpaRepository.png",
     "Archive/img/CS/Network/hateoas.png",
-    "Project/CS/Network/URIURL.jpg",
-    "Archive/img/CS/Network/URIURLURN.png",
-    "Archive/img/JPA/SimpleJapRepository.png",
-    "Archive/img/JPA/SpringDataJPA.png",
-    "Archive/img/JPA/contexttransaction.png",
-    "Archive/img/JPA/entitystate.png",
     "Archive/img/JPA",
     "Project/JPA",
     "Project/Spring/Spring과 객체지향",
@@ -281,7 +273,6 @@
     "Archive/img/Java API/java.sql",
     "Archive/img/Error/JavaSpring",
     "Archive/img/Error",
-    "Project/Book",
     "Project/무제 파일.canvas"
   ]
 }
