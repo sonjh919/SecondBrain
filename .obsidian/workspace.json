@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/Spring/Security/JWT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/Spring/Security/JWT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/Spring/Security/JWT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/끄적끄적.md"
+                "file": "Project/Spring/Security/JWT.md"
               }
             }
           },
@@ -228,19 +228,19 @@
   },
   "active": "75d5dedad104c39b",
   "lastOpenFiles": [
-    "Archive/img/Spring/cookie.png",
+    "Project/Spring/Security/JWT 기반 인증.md",
+    "Project/Spring/Security/JWT.md",
+    "Project/Spring/Security/세션.md",
+    "Project/Spring/Security/쿠키.md",
+    "Project/Spring/Security/쿠키와 세션 기반 인증.md",
     "Inbox/끄적끄적.md",
+    "Archive/img/Spring/cookie.png",
     "Archive/img/Spring/session.png",
     "Archive/img/Spring/jwt.jpeg",
     "Archive/img/Spring/cookiesession.jpeg",
     "Project/Spring/Security/URLEncoder.md",
-    "Project/Spring/Security/쿠키.md",
     "Project/Spring/Security/쿠키와 세션 비교.md",
-    "Project/Spring/Security/세션.md",
-    "Project/Spring/Security/쿠키와 세션 기반 인증.md",
     "Project/Spring/Security/인증과 인가.md",
-    "Project/Spring/Security/JWT 기반 인증.md",
-    "Project/Spring/Security/JWT.md",
     "Archive/img/Spring/webauth.png",
     "Project/Spring/문법/SpringBoot.md",
     "Todo/TIL/2024-01/2024-01-24 TIL.md",
