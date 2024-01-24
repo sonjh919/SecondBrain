@@ -8,34 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b8db6b8b0473952",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Archive/img/Spring/cookie.png"
-              }
-            }
-          },
-          {
-            "id": "75d5dedad104c39b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/끄적끄적.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9893be4135d81e01",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "ca8e2f83bc103f3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/Spring/Security/Security.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -114,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/Spring/Security/Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/Spring/Security/Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/끄적끄적.md"
+                "file": "Project/Spring/Security/Security.md"
               }
             }
           },
@@ -226,13 +216,30 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "75d5dedad104c39b",
+  "active": "ca8e2f83bc103f3c",
   "lastOpenFiles": [
-    "Project/Spring/Library/Lombok.md",
+    "Archive/img/Spring/filter.png",
+    "Project/Spring/Security/Security.md",
+    "Project/Spring/Annotation",
+    "Project/Spring/무제 파일.md",
+    "Archive/img/Spring/filterChain.png",
+    "Archive/img/Spring/cookie.png",
+    "Project/Spring/Library/Filter.md",
+    "Inbox/나중에 정리할 것.md",
+    "Inbox/mysql.md",
+    "Inbox/코테.md",
+    "Inbox/끄적끄적.md",
+    "Inbox/Pasted image 20240107103049.png",
+    "Inbox/프리코스.md",
+    "Inbox/ㅇㅅㅇ.md",
+    "Project/Spring/Library/URLEncoder.md",
     "Project/Spring/Library/PasswordEncoder.md",
-    "Project/Spring/Security/URLEncoder.md",
-    "Project/Spring/세팅/build.gradle.md",
+    "Project/Spring/Library/Lombok.md",
+    "Project/Spring/Library/Jackson.md",
+    "Project/Spring/Library/HttpServletRequest.md",
+    "Todo/TIL/2024-01/2024-01-24 TIL.md",
     "Project/Spring/문법/PathVariable vs RequestParam.md",
+    "Project/Spring/세팅/build.gradle.md",
     "Project/Spring/문법/Response 트렌드의 변화.md",
     "Project/Spring/Security/JWT/JWT.md",
     "Project/Spring/Security/JWT/JWT 구조.md",
@@ -248,23 +255,6 @@
     "Project/Spring/Security/세션.md",
     "Archive/img/Spring/jwpex3.png",
     "Archive/img/Spring/jwpex2 1.png",
-    "Archive/img/Spring/jwpex2.png",
-    "Archive/img/Spring/jwt5.png",
-    "Archive/img/Spring/jwt4.png",
-    "Archive/img/Spring/jwt3.png",
-    "Project/Spring/Security/쿠키와 세션 기반 인증.md",
-    "Inbox/끄적끄적.md",
-    "Project/Spring/Security/쿠키와 세션 비교.md",
-    "Project/Spring/문법/SpringBoot.md",
-    "Todo/TIL/2024-01/2024-01-24 TIL.md",
-    "Project/CS/Network/REST.md",
-    "Project/Spring/문법/같은 타입의 Bean이 2개일 경우.md",
-    "Templates/gitblog templete.md",
-    "Project/Spring/문법/Bean 수동 등록.md",
-    "Todo/TIL/2024-01/2024-01-23 TIL.md",
-    "Todo/TIL/2024-01/2024-01-20 TIL.md",
-    "Templates/TIL Templete.md",
-    "Project/Spring/문법/MVC.md",
     "Project/Spring/Security",
     "Project/Error/DataBase",
     "Archive/img/JPA",
@@ -273,7 +263,6 @@
     "Project/Spring/세팅",
     "Project/Spring/문법",
     "Archive/img/Java API/java.sql",
-    "Archive/img/Error/JavaSpring",
     "Project/무제 파일.canvas"
   ]
 }
