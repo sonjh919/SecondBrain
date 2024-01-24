@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Spring/세팅/build.gradle.md",
+                "file": "Project/Spring/문법/pathvariable vs requestparam.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Spring/세팅/build.gradle.md",
+                "file": "Project/Spring/문법/pathvariable vs requestparam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Spring/세팅/build.gradle.md",
+                "file": "Project/Spring/문법/pathvariable vs requestparam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Spring/세팅/build.gradle.md"
+                "file": "Project/Spring/문법/pathvariable vs requestparam.md"
               }
             }
           },
@@ -228,6 +228,9 @@
   },
   "active": "75d5dedad104c39b",
   "lastOpenFiles": [
+    "Project/Spring/문법/Response 트렌드의 변화.md",
+    "Project/Spring/문법/pathvariable vs requestparam.md",
+    "Project/Spring/세팅/build.gradle.md",
     "Project/Spring/Security/JWT/JWT.md",
     "Project/Spring/Security/JWT/JWT 구조.md",
     "Archive/img/Spring/jwtstructure.png",
@@ -263,8 +266,6 @@
     "Project/Spring/문법/MVC.md",
     "Project/Spring/Security",
     "Todo/TIL/2024-01/2024-01-22 TIL.md",
-    "Project/JPA/EntityManager.md",
-    "Project/Spring/세팅/application.properties.md",
     "Project/Error/DataBase",
     "Archive/img/JPA",
     "Project/JPA",
