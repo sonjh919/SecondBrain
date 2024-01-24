@@ -29,3 +29,12 @@ public class PasswordConfig {
     }
 }
 ```
+
+## password 확인
+```java
+// 사용예시
+// 비밀번호 확인
+if(!passwordEncoder.matches("사용자가 입력한 비밀번호", "저장된 비밀번호")) {
+		   throw new IllegalAccessError("비밀번호가 일치하지 않습니다.");
+ }
+```

@@ -29,9 +29,9 @@ Lombok(롬복)은 Java 라이브러리로 반복되는 `getter`, `setter`, `toSt
 @NoArgsConstructor // 인자 없는 생성자
 @AllArgsConstructor // 모든 인자가 있는 생성자
 
-@ Data // 위의 5 annotation 합친 것
-
 @RequiredArgsConstructor // final 제어자가 붙은 빌드를 파라미터로 가지는 생성자
+
+@ Data // Getter + Setter + ToString + EqualsAndHashCode + RequiredArgsConstructor
 
 @Slf4j // 로깅
 ```
