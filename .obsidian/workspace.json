@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Spring/Security/Security.md",
+                "file": "Project/Book/오브젝트/05 책임 할당하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Spring/Security/Security.md",
+                "file": "Project/Book/오브젝트/05 책임 할당하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Spring/Security/Security.md",
+                "file": "Project/Book/오브젝트/05 책임 할당하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Spring/Security/Security.md"
+                "file": "Project/Book/오브젝트/05 책임 할당하기.md"
               }
             }
           },
@@ -218,8 +218,27 @@
   },
   "active": "ca8e2f83bc103f3c",
   "lastOpenFiles": [
-    "Archive/img/Spring/filter.png",
+    "Project/Book/오브젝트/07 객체 분해.md",
+    "Project/Book/오브젝트/06 메시지와 인터페이스.md",
+    "Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
+    "Project/Spring/Spring과 객체지향/IoC (Inversion of Controller).md",
+    "Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
+    "Project/Spring/Spring과 객체지향/ApplicationContext.md",
+    "Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
+    "Project/Spring/문법/Spring MVC.md",
+    "Project/Spring/Security/로그인.md",
+    "Project/Spring/Security/login3.png",
     "Project/Spring/Security/Security.md",
+    "Project/Spring/Security/login2.png",
+    "Project/Spring/Security/login1.png",
+    "Project/Spring/Security/securitycontextholder.png",
+    "Project/Spring/Security/upaf.png",
+    "Project/Spring/Security/FormLogin.png",
+    "Project/Spring/Security/filterChainsecurity.png",
+    "Project/Spring/Security/인증과 인가.md",
+    "Project/CS/Network/CSRF.md",
+    "Project/CS/Network/API.md",
+    "Archive/img/Spring/filter.png",
     "Project/Spring/Annotation",
     "Project/Spring/무제 파일.md",
     "Archive/img/Spring/filterChain.png",
@@ -229,7 +248,6 @@
     "Inbox/mysql.md",
     "Inbox/코테.md",
     "Inbox/끄적끄적.md",
-    "Inbox/Pasted image 20240107103049.png",
     "Inbox/프리코스.md",
     "Inbox/ㅇㅅㅇ.md",
     "Project/Spring/Library/URLEncoder.md",
@@ -237,24 +255,7 @@
     "Project/Spring/Library/Lombok.md",
     "Project/Spring/Library/Jackson.md",
     "Project/Spring/Library/HttpServletRequest.md",
-    "Todo/TIL/2024-01/2024-01-24 TIL.md",
-    "Project/Spring/문법/PathVariable vs RequestParam.md",
-    "Project/Spring/세팅/build.gradle.md",
-    "Project/Spring/문법/Response 트렌드의 변화.md",
-    "Project/Spring/Security/JWT/JWT.md",
-    "Project/Spring/Security/JWT/JWT 구조.md",
-    "Archive/img/Spring/jwtstructure.png",
-    "Project/Spring/Security/JWT/JWT 사용 흐름.md",
-    "Project/Spring/Security/JWT/JWT 기반 인증.md",
-    "Archive/img/Spring/jwpex.png",
-    "Archive/img/Spring/jwt2.png",
-    "Archive/img/Spring/jwt1.png",
     "Project/Spring/Security/JWT",
-    "Project/Spring/Security/인증과 인가.md",
-    "Project/Spring/Security/쿠키.md",
-    "Project/Spring/Security/세션.md",
-    "Archive/img/Spring/jwpex3.png",
-    "Archive/img/Spring/jwpex2 1.png",
     "Project/Spring/Security",
     "Project/Error/DataBase",
     "Archive/img/JPA",
