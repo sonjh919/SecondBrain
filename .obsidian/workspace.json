@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Book/오브젝트/05 책임 할당하기.md",
+                "file": "Project/Spring/Security/로그인.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Book/오브젝트/05 책임 할당하기.md",
+                "file": "Project/Spring/Security/로그인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Book/오브젝트/05 책임 할당하기.md",
+                "file": "Project/Spring/Security/로그인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Book/오브젝트/05 책임 할당하기.md"
+                "file": "Project/Spring/Security/로그인.md"
               }
             }
           },
@@ -218,12 +218,13 @@
   },
   "active": "ca8e2f83bc103f3c",
   "lastOpenFiles": [
-    "Project/Book/오브젝트/07 객체 분해.md",
-    "Project/Book/오브젝트/06 메시지와 인터페이스.md",
-    "Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
     "Project/Spring/Spring과 객체지향/IoC (Inversion of Controller).md",
+    "Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
     "Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
     "Project/Spring/Spring과 객체지향/ApplicationContext.md",
+    "Project/Book/오브젝트/05 책임 할당하기.md",
+    "Project/Book/오브젝트/07 객체 분해.md",
+    "Project/Book/오브젝트/06 메시지와 인터페이스.md",
     "Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
     "Project/Spring/문법/Spring MVC.md",
     "Project/Spring/Security/로그인.md",
@@ -254,7 +255,6 @@
     "Project/Spring/Library/PasswordEncoder.md",
     "Project/Spring/Library/Lombok.md",
     "Project/Spring/Library/Jackson.md",
-    "Project/Spring/Library/HttpServletRequest.md",
     "Project/Spring/Security/JWT",
     "Project/Spring/Security",
     "Project/Error/DataBase",
