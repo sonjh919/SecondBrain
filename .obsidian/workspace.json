@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Spring/Security/로그인.md",
+                "file": "Project/Spring/RestTemplate/RestTemplate.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Spring/Security/로그인.md",
+                "file": "Project/Spring/RestTemplate/RestTemplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Spring/Security/로그인.md",
+                "file": "Project/Spring/RestTemplate/RestTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Spring/Security/로그인.md"
+                "file": "Project/Spring/RestTemplate/RestTemplate.md"
               }
             }
           },
@@ -218,7 +218,23 @@
   },
   "active": "ca8e2f83bc103f3c",
   "lastOpenFiles": [
+    "Templates/gitblog templete.md",
+    "Templates/TIL Templete.md",
+    "Project/Spring/RestTemplate/RestTemplate.md",
+    "Project/Spring/Library/Validation.md",
+    "Project/Spring/RestTemplate",
+    "Project/Spring/세팅/build.gradle.md",
+    "Project/Spring/세팅/Gradle.md",
+    "Project/Spring/Security/접근 불가 페이지.md",
+    "Project/Spring/Security/로그인.md",
+    "Project/Spring/Security/Security.md",
+    "Archive/img/Spring/filterorder.png",
     "Project/Spring/Spring과 객체지향/IoC (Inversion of Controller).md",
+    "Project/Spring/Security/세션.md",
+    "Archive/img/Spring/securitycontextholder.png",
+    "Archive/img/Spring/login1.png",
+    "Archive/img/Spring/filterChainsecurity.png",
+    "Archive/img/Spring/FormLogin.png",
     "Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
     "Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
     "Project/Spring/Spring과 객체지향/ApplicationContext.md",
@@ -227,15 +243,9 @@
     "Project/Book/오브젝트/06 메시지와 인터페이스.md",
     "Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
     "Project/Spring/문법/Spring MVC.md",
-    "Project/Spring/Security/로그인.md",
-    "Project/Spring/Security/login3.png",
-    "Project/Spring/Security/Security.md",
-    "Project/Spring/Security/login2.png",
-    "Project/Spring/Security/login1.png",
-    "Project/Spring/Security/securitycontextholder.png",
-    "Project/Spring/Security/upaf.png",
-    "Project/Spring/Security/FormLogin.png",
-    "Project/Spring/Security/filterChainsecurity.png",
+    "Archive/img/Spring/login3.png",
+    "Archive/img/Spring/login2.png",
+    "Archive/img/Spring/upaf.png",
     "Project/Spring/Security/인증과 인가.md",
     "Project/CS/Network/CSRF.md",
     "Project/CS/Network/API.md",
@@ -243,18 +253,9 @@
     "Project/Spring/Annotation",
     "Project/Spring/무제 파일.md",
     "Archive/img/Spring/filterChain.png",
-    "Archive/img/Spring/cookie.png",
     "Project/Spring/Library/Filter.md",
     "Inbox/나중에 정리할 것.md",
     "Inbox/mysql.md",
-    "Inbox/코테.md",
-    "Inbox/끄적끄적.md",
-    "Inbox/프리코스.md",
-    "Inbox/ㅇㅅㅇ.md",
-    "Project/Spring/Library/URLEncoder.md",
-    "Project/Spring/Library/PasswordEncoder.md",
-    "Project/Spring/Library/Lombok.md",
-    "Project/Spring/Library/Jackson.md",
     "Project/Spring/Security/JWT",
     "Project/Spring/Security",
     "Project/Error/DataBase",
@@ -263,7 +264,6 @@
     "Project/Spring/Spring과 객체지향",
     "Project/Spring/세팅",
     "Project/Spring/문법",
-    "Archive/img/Java API/java.sql",
     "Project/무제 파일.canvas"
   ]
 }

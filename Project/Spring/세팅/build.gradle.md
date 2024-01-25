@@ -38,6 +38,9 @@ External Libraries에서 Gradle이 다운로드해온 라이브러리들을 확�
 
 ```
 dependencies {  
+	// Validation
+	implementation 'org.springframework.boot:spring-boot-starter-validation'
+
 	// Security  
 	implementation 'org.springframework.boot:spring-boot-starter-security'  
 	  
@@ -60,8 +63,6 @@ dependencies {
     
     // MYSQL  
     implementation 'mysql:mysql-connector-java:8.0.28'  
-
-	// MySQL  
 	runtimeOnly 'com.mysql:mysql-connector-j'
 
 	// thymeleaf

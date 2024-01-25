@@ -22,6 +22,10 @@ path:
 
 ![[filterChainsecurity.png]]
 
+### Security Filter 순서
+
+![[filterorder.png]]
+
 ## Form Login 기반의 인증
 + Form Login 기반 인증은 인증이 필요한 URL 요청이 들어왔을 때 **인증이 되지 않았다면 로그인 페이지를 반환**하는 형태이다.
 
