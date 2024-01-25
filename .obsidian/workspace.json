@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Spring/RestTemplate/RestTemplate.md",
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Spring/RestTemplate/RestTemplate.md",
+                "file": "Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Spring/RestTemplate/RestTemplate.md",
+                "file": "Inbox/끄적끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Spring/RestTemplate/RestTemplate.md"
+                "file": "Inbox/끄적끄적.md"
               }
             }
           },
@@ -218,12 +218,13 @@
   },
   "active": "ca8e2f83bc103f3c",
   "lastOpenFiles": [
+    "Project/Spring/세팅/build.gradle.md",
+    "Project/JPA/JPA (Java Persistence API).md",
+    "Project/Spring/RestTemplate/RestTemplate.md",
     "Templates/gitblog templete.md",
     "Templates/TIL Templete.md",
-    "Project/Spring/RestTemplate/RestTemplate.md",
     "Project/Spring/Library/Validation.md",
     "Project/Spring/RestTemplate",
-    "Project/Spring/세팅/build.gradle.md",
     "Project/Spring/세팅/Gradle.md",
     "Project/Spring/Security/접근 불가 페이지.md",
     "Project/Spring/Security/로그인.md",
@@ -255,7 +256,6 @@
     "Archive/img/Spring/filterChain.png",
     "Project/Spring/Library/Filter.md",
     "Inbox/나중에 정리할 것.md",
-    "Inbox/mysql.md",
     "Project/Spring/Security/JWT",
     "Project/Spring/Security",
     "Project/Error/DataBase",

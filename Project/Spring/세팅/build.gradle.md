@@ -38,6 +38,10 @@ External Libraries에서 Gradle이 다운로드해온 라이브러리들을 확�
 
 ```
 dependencies {  
+
+	// json  
+	implementation 'org.json:json:20230227'
+	
 	// Validation
 	implementation 'org.springframework.boot:spring-boot-starter-validation'
 
