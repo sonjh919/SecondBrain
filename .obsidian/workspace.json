@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/JPA/Entity/Entity 연관관계.md",
+                "file": "Inbox/나중에 정리할 것.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/JPA/Entity/Entity 연관관계.md",
+                "file": "Inbox/나중에 정리할 것.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/JPA/Entity/Entity 연관관계.md",
+                "file": "Inbox/나중에 정리할 것.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/JPA/Entity/Entity 연관관계.md"
+                "file": "Inbox/나중에 정리할 것.md"
               }
             }
           },
@@ -218,14 +218,15 @@
   },
   "active": "ca8e2f83bc103f3c",
   "lastOpenFiles": [
-    "Project/JPA/Entity/Entity.md",
+    "Inbox/Pasted image 20240125194236.png",
+    "Inbox/끄적끄적.md",
     "Project/JPA/Entity/Entity 연관관계.md",
+    "Project/JPA/Entity/Entity.md",
     "Project/JPA/Entity/EntityManager.md",
     "Project/JPA/Entity",
     "Project/JPA/JPA Auditing.md",
     "Project/JPA/Entity/Entity 상태.md",
     "Project/JPA/트랜잭션.md",
-    "Inbox/끄적끄적.md",
     "Project/Spring/세팅/build.gradle.md",
     "Project/JPA/JPA (Java Persistence API).md",
     "Project/Spring/RestTemplate/RestTemplate.md",
@@ -250,7 +251,6 @@
     "Project/Book/오브젝트/05 책임 할당하기.md",
     "Project/Book/오브젝트/07 객체 분해.md",
     "Project/Book/오브젝트/06 메시지와 인터페이스.md",
-    "Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
     "Archive/img/Spring/login3.png",
     "Archive/img/Spring/login2.png",
     "Archive/img/Spring/upaf.png",
