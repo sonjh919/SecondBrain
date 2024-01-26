@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/2024-01/2024-01-25 TIL.md",
+                "file": "Project/JPA/Entity/1대 N 관계.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/2024-01/2024-01-25 TIL.md",
+                "file": "Project/JPA/Entity/1대 N 관계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/2024-01/2024-01-25 TIL.md",
+                "file": "Project/JPA/Entity/1대 N 관계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/TIL/2024-01/2024-01-25 TIL.md"
+                "file": "Project/JPA/Entity/1대 N 관계.md"
               }
             }
           },
@@ -218,8 +218,25 @@
   },
   "active": "ca8e2f83bc103f3c",
   "lastOpenFiles": [
-    "Archive/img/TIL/20240126.png",
+    "Project/JPA/Entity/N대 M 관계.md",
+    "Project/JPA/Entity/middletable.png",
+    "Project/JPA/Entity/manytomanym.png",
+    "Project/JPA/Entity/manytomany.png",
+    "Project/JPA/Entity/1대 N 관계.md",
+    "Project/JPA/Entity/onetomany.png",
+    "Project/JPA/Entity/N대 1 관계.md",
+    "Project/JPA/Entity/manytoonem.png",
+    "Project/JPA/Entity/manytoone.png",
+    "Project/JPA/Entity/1대 1 관계.md",
+    "Project/JPA/Entity/Entity 연관관계.md",
+    "Project/JPA/Entity/Entity 상태.md",
+    "Project/JPA/Entity/onetoonem.png",
+    "Project/JPA/Entity/onetoone.png",
+    "Project/JPA/Entity/EntityManager.md",
+    "Project/JPA/Entity/Entity.md",
+    "Area/Database/DataBase.md",
     "Todo/TIL/2024-01/2024-01-25 TIL.md",
+    "Archive/img/TIL/20240126.png",
     "Todo/TIL/2024-01/Pasted image 20240126013601.png",
     "Project/Spring/Security/JWT/JWT 기반 인증.md",
     "Todo/TIL/2024-01/2024-01-24 TIL.md",
@@ -230,35 +247,18 @@
     "Project/CS/Network/Server의 분리.md",
     "Project/CS/Network/Server.md",
     "Inbox/나중에 정리할 것.md",
-    "Inbox/Pasted image 20240125194236.png",
     "Inbox/끄적끄적.md",
-    "Project/JPA/Entity/Entity 연관관계.md",
-    "Project/JPA/Entity/Entity.md",
-    "Project/JPA/Entity/EntityManager.md",
     "Project/JPA/Entity",
     "Project/JPA/JPA Auditing.md",
-    "Project/JPA/Entity/Entity 상태.md",
     "Project/JPA/트랜잭션.md",
     "Project/Spring/세팅/build.gradle.md",
     "Project/JPA/JPA (Java Persistence API).md",
     "Project/Spring/RestTemplate/RestTemplate.md",
-    "Templates/gitblog templete.md",
-    "Templates/TIL Templete.md",
-    "Project/Spring/Library/Validation.md",
     "Project/Spring/RestTemplate",
-    "Project/Spring/세팅/Gradle.md",
-    "Project/Spring/Security/접근 불가 페이지.md",
-    "Archive/img/Spring/filterorder.png",
-    "Archive/img/Spring/securitycontextholder.png",
-    "Archive/img/Spring/login1.png",
-    "Archive/img/Spring/filterChainsecurity.png",
-    "Archive/img/Spring/FormLogin.png",
-    "Archive/img/Spring/login3.png",
-    "Archive/img/Spring/login2.png",
     "Project/Spring/Annotation",
     "Project/Spring/Security/JWT",
     "Project/Spring/Security",
-    "Project/Error/DataBase",
+    "Area/Error/DataBase",
     "Archive/img/JPA",
     "Project/JPA",
     "Project/Spring/Spring과 객체지향",
