@@ -15,3 +15,8 @@ path:
 - Spring Data JPA에서는 JpaRepository 인터페이스를 구현하는 [[SimpleJpaRepository]]클래스를 자동으로 생성하여 Bean에 등록해준다.
 
 ![[SpringDataJPA.png]]
+
+## Spring Data JPA의 인터페이스 및 클래스
++ [[Page]]
++ [[Pageable]]
++ [[Project/JPA/Spring Data JPA/Sort|Sort]]
