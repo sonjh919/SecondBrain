@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9b8a7758eec0d23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/Spring/Library/Jackson.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Spring/Interface/ApplicationRunner.md",
+                "file": "Project/Spring/Library/Jackson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Spring/Interface/ApplicationRunner.md",
+                "file": "Project/Spring/Library/Jackson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Spring/Interface/ApplicationRunner.md"
+                "file": "Project/Spring/Library/Jackson.md"
               }
             }
           },
@@ -207,15 +221,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ca8e2f83bc103f3c",
+  "active": "c9b8a7758eec0d23",
   "lastOpenFiles": [
+    "Inbox/끄적끄적.md",
+    "Project/Spring/Servlet/Front Controller.md",
+    "Project/Spring/Servlet/Servlet Container.md",
+    "Project/Spring/Servlet/Servlet Life Cycle.md",
+    "Project/Spring/Servlet/Servlet.md",
+    "Project/Spring/Interface/ApplicationRunner.md",
+    "Inbox/Pasted image 20240126225608.png",
+    "Project/Spring/Library/Filter.md",
+    "Project/Spring/세팅/application.properties.md",
+    "Project/Spring/세팅/build.gradle.md",
     "Project/JPA/Spring Data JPA/Spring Data JPA.md",
     "Project/JPA/Spring Data JPA/Sort.md",
     "Project/JPA/Spring Data JPA/Pageable.md",
     "Project/JPA/Spring Data JPA/Page.md",
     "Project/JPA/Query Method.md",
     "Project/JPA/Spring Data JPA",
-    "Project/Spring/Interface/ApplicationRunner.md",
     "Project/Spring/Annotation/@Scheduled.md",
     "Project/Spring/Library/Validation.md",
     "Project/Spring/Library/URLEncoder.md",
@@ -223,20 +246,12 @@
     "Project/Spring/Library/Lombok.md",
     "Project/Spring/Library/Jackson.md",
     "Project/Spring/Library/HttpServletRequest.md",
-    "Project/Spring/Library/Filter.md",
     "Project/Spring/Interface",
-    "Project/Spring/세팅/build.gradle.md",
     "Project/JPA/영속성 컨텍스트/영속성 전이.md",
     "Project/JPA/영속성 컨텍스트/지연 로딩.md",
     "Project/JPA/영속성 컨텍스트/변경 감지.md",
     "Project/JPA/영속성 컨텍스트/쓰기 지연 저장소.md",
     "Project/JPA/JPA Auditing.md",
-    "Project/JPA/영속성 컨텍스트/영속성 컨텍스트.md",
-    "Project/JPA/영속성 컨텍스트/영속성 컨텍스트와 트랜잭션의 생명주기.md",
-    "Project/JPA/영속성 컨텍스트/1차 캐시.md",
-    "Area/Database/RDB/SQL/DDL/DDL.md",
-    "Area/Database/RDB/SQL/DDL/CREATE.md",
-    "Area/Database/RDB/SQL/DDL/제약조건.md",
     "Archive/img/JPA/lazy.png",
     "Archive/img/JPA/eager.png",
     "Project/JPA/영속성 컨텍스트",
@@ -247,7 +262,6 @@
     "Archive/img/JPA/manytoonem.png",
     "Archive/img/JPA/manytoone.png",
     "Archive/img/JPA/onetoonem.png",
-    "Archive/img/JPA/onetoone.png",
     "Project/JPA/Entity",
     "Project/Spring/RestTemplate",
     "Project/Spring/Annotation",
