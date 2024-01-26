@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/나중에 정리할 것.md",
+                "file": "Todo/TIL/2024-01/2024-01-25 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/나중에 정리할 것.md",
+                "file": "Todo/TIL/2024-01/2024-01-25 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/나중에 정리할 것.md",
+                "file": "Todo/TIL/2024-01/2024-01-25 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/나중에 정리할 것.md"
+                "file": "Todo/TIL/2024-01/2024-01-25 TIL.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "06bca203602d61c1",
@@ -218,6 +218,18 @@
   },
   "active": "ca8e2f83bc103f3c",
   "lastOpenFiles": [
+    "Archive/img/TIL/20240126.png",
+    "Todo/TIL/2024-01/2024-01-25 TIL.md",
+    "Todo/TIL/2024-01/Pasted image 20240126013601.png",
+    "Project/Spring/Security/JWT/JWT 기반 인증.md",
+    "Todo/TIL/2024-01/2024-01-24 TIL.md",
+    "Project/CS/Network/HTTP 상태 코드.md",
+    "Project/Spring/Library/Jackson.md",
+    "Project/Spring/Servlet/Front Controller.md",
+    "Project/Spring/Servlet/Servlet.md",
+    "Project/CS/Network/Server의 분리.md",
+    "Project/CS/Network/Server.md",
+    "Inbox/나중에 정리할 것.md",
     "Inbox/Pasted image 20240125194236.png",
     "Inbox/끄적끄적.md",
     "Project/JPA/Entity/Entity 연관관계.md",
@@ -236,27 +248,14 @@
     "Project/Spring/RestTemplate",
     "Project/Spring/세팅/Gradle.md",
     "Project/Spring/Security/접근 불가 페이지.md",
-    "Project/Spring/Security/로그인.md",
-    "Project/Spring/Security/Security.md",
     "Archive/img/Spring/filterorder.png",
-    "Project/Spring/Spring과 객체지향/IoC (Inversion of Controller).md",
-    "Project/Spring/Security/세션.md",
     "Archive/img/Spring/securitycontextholder.png",
     "Archive/img/Spring/login1.png",
     "Archive/img/Spring/filterChainsecurity.png",
     "Archive/img/Spring/FormLogin.png",
-    "Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
-    "Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
-    "Project/Spring/Spring과 객체지향/ApplicationContext.md",
-    "Project/Book/오브젝트/05 책임 할당하기.md",
-    "Project/Book/오브젝트/07 객체 분해.md",
-    "Project/Book/오브젝트/06 메시지와 인터페이스.md",
     "Archive/img/Spring/login3.png",
     "Archive/img/Spring/login2.png",
-    "Archive/img/Spring/upaf.png",
-    "Archive/img/Spring/filter.png",
     "Project/Spring/Annotation",
-    "Archive/img/Spring/filterChain.png",
     "Project/Spring/Security/JWT",
     "Project/Spring/Security",
     "Project/Error/DataBase",
