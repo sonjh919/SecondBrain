@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:sql",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -116,6 +116,6 @@
   "repelStrength": 8.75,
   "linkStrength": 1,
   "linkDistance": 260,
-  "scale": 0.09895430218637227,
+  "scale": 0.7514342322277678,
   "close": true
 }

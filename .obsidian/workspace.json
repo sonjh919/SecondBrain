@@ -8,28 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9893be4135d81e01",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "ca8e2f83bc103f3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/JPA/Entity/1대 N 관계.md",
+                "file": "Project/Spring/세팅/build.gradle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/JPA/Entity/1대 N 관계.md",
+                "file": "Project/Spring/세팅/build.gradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/JPA/Entity/1대 N 관계.md",
+                "file": "Project/Spring/세팅/build.gradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/JPA/Entity/1대 N 관계.md"
+                "file": "Project/Spring/세팅/build.gradle.md"
               }
             }
           },
@@ -218,42 +209,44 @@
   },
   "active": "ca8e2f83bc103f3c",
   "lastOpenFiles": [
-    "Project/JPA/Entity/N대 M 관계.md",
-    "Project/JPA/Entity/middletable.png",
-    "Project/JPA/Entity/manytomanym.png",
-    "Project/JPA/Entity/manytomany.png",
+    "Project/JPA/영속성 컨텍스트/영속성 전이.md",
+    "Project/JPA/영속성 컨텍스트/지연 로딩.md",
+    "Project/JPA/영속성 컨텍스트/변경 감지.md",
+    "Project/JPA/영속성 컨텍스트/쓰기 지연 저장소.md",
+    "Project/JPA/JPA Auditing.md",
+    "Project/JPA/영속성 컨텍스트/영속성 컨텍스트.md",
+    "Project/JPA/영속성 컨텍스트/영속성 컨텍스트와 트랜잭션의 생명주기.md",
+    "Project/JPA/영속성 컨텍스트/1차 캐시.md",
+    "Area/Database/RDB/SQL/DDL/DDL.md",
+    "Area/Database/RDB/SQL/DDL/CREATE.md",
+    "Area/Database/RDB/SQL/DDL/제약조건.md",
+    "Area/Database/RDB/SQL/TCL/Transaction.md",
+    "CASCADE.md",
+    "Project/JPA/트랜잭션.md",
+    "Archive/img/JPA/lazy.png",
+    "Archive/img/JPA/eager.png",
+    "Project/JPA/영속성 컨텍스트",
+    "Archive/img/JPA/manytomanym.png",
+    "Archive/img/JPA/onetomany.png",
+    "Archive/img/JPA/manytomany.png",
     "Project/JPA/Entity/1대 N 관계.md",
-    "Project/JPA/Entity/onetomany.png",
+    "Project/JPA/Entity/N대 M 관계.md",
+    "Archive/img/JPA/middletable.png",
     "Project/JPA/Entity/N대 1 관계.md",
-    "Project/JPA/Entity/manytoonem.png",
-    "Project/JPA/Entity/manytoone.png",
+    "Archive/img/JPA/manytoonem.png",
+    "Archive/img/JPA/manytoone.png",
     "Project/JPA/Entity/1대 1 관계.md",
     "Project/JPA/Entity/Entity 연관관계.md",
     "Project/JPA/Entity/Entity 상태.md",
-    "Project/JPA/Entity/onetoonem.png",
-    "Project/JPA/Entity/onetoone.png",
+    "Archive/img/JPA/onetoonem.png",
+    "Archive/img/JPA/onetoone.png",
     "Project/JPA/Entity/EntityManager.md",
     "Project/JPA/Entity/Entity.md",
     "Area/Database/DataBase.md",
     "Todo/TIL/2024-01/2024-01-25 TIL.md",
-    "Archive/img/TIL/20240126.png",
-    "Todo/TIL/2024-01/Pasted image 20240126013601.png",
     "Project/Spring/Security/JWT/JWT 기반 인증.md",
     "Todo/TIL/2024-01/2024-01-24 TIL.md",
-    "Project/CS/Network/HTTP 상태 코드.md",
-    "Project/Spring/Library/Jackson.md",
-    "Project/Spring/Servlet/Front Controller.md",
-    "Project/Spring/Servlet/Servlet.md",
-    "Project/CS/Network/Server의 분리.md",
-    "Project/CS/Network/Server.md",
-    "Inbox/나중에 정리할 것.md",
-    "Inbox/끄적끄적.md",
     "Project/JPA/Entity",
-    "Project/JPA/JPA Auditing.md",
-    "Project/JPA/트랜잭션.md",
-    "Project/Spring/세팅/build.gradle.md",
-    "Project/JPA/JPA (Java Persistence API).md",
-    "Project/Spring/RestTemplate/RestTemplate.md",
     "Project/Spring/RestTemplate",
     "Project/Spring/Annotation",
     "Project/Spring/Security/JWT",
@@ -262,7 +255,6 @@
     "Archive/img/JPA",
     "Project/JPA",
     "Project/Spring/Spring과 객체지향",
-    "Project/Spring/세팅",
     "Project/무제 파일.canvas"
   ]
 }
