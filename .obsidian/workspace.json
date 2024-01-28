@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Todo/TIL/2024-01/2024-01-28 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Todo/TIL/2024-01/2024-01-28 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Todo/TIL/2024-01/2024-01-28 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/끄적끄적.md"
+                "file": "Todo/TIL/2024-01/2024-01-28 TIL.md"
               }
             }
           },
@@ -223,10 +223,14 @@
   },
   "active": "c9b8a7758eec0d23",
   "lastOpenFiles": [
+    "Todo/TIL/2024-01/2024-01-27 TIL.md",
+    "Todo/TIL/2024-01/2024-01-26 TIL.md",
+    "Todo/TIL/2024-01/2024-01-28 TIL.md",
+    "Todo/TIL/2024-01/2024-01-25 TIL.md",
+    "Inbox/끄적끄적.md",
     "Project/Spring/세팅/build.gradle.md",
     "Project/Spring/Security/로그인.md",
     "Project/Spring/Security/Security.md",
-    "Inbox/끄적끄적.md",
     "Project/CS/Network/JSON.md",
     "Area/JAVA/기본 문법/배열.md",
     "Project/Spring/Library/Jackson.md",
@@ -247,11 +251,7 @@
     "Project/Spring/Annotation/@Scheduled.md",
     "Project/Spring/Library/Validation.md",
     "Project/Spring/Library/URLEncoder.md",
-    "Project/Spring/Library/PasswordEncoder.md",
-    "Project/Spring/Library/Lombok.md",
-    "Project/Spring/Library/HttpServletRequest.md",
     "Project/Spring/Interface",
-    "Project/JPA/영속성 컨텍스트/영속성 전이.md",
     "Archive/img/JPA/lazy.png",
     "Archive/img/JPA/eager.png",
     "Project/JPA/영속성 컨텍스트",
