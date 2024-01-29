@@ -26,11 +26,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/2024-01/2024-01-28 TIL.md",
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "2cefe2b37168aac1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -109,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/2024-01/2024-01-28 TIL.md",
+                "file": "Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/2024-01/2024-01-28 TIL.md",
+                "file": "Inbox/끄적끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/TIL/2024-01/2024-01-28 TIL.md"
+                "file": "Inbox/끄적끄적.md"
               }
             }
           },
@@ -223,11 +231,12 @@
   },
   "active": "c9b8a7758eec0d23",
   "lastOpenFiles": [
-    "Todo/TIL/2024-01/2024-01-27 TIL.md",
-    "Todo/TIL/2024-01/2024-01-26 TIL.md",
-    "Todo/TIL/2024-01/2024-01-28 TIL.md",
-    "Todo/TIL/2024-01/2024-01-25 TIL.md",
+    "Inbox/나중에 정리할 것.md",
     "Inbox/끄적끄적.md",
+    "Todo/TIL/2024-01/2024-01-26 TIL.md",
+    "Todo/TIL/2024-01/2024-01-25 TIL.md",
+    "Todo/TIL/2024-01/2024-01-28 TIL.md",
+    "Todo/TIL/2024-01/2024-01-27 TIL.md",
     "Project/Spring/세팅/build.gradle.md",
     "Project/Spring/Security/로그인.md",
     "Project/Spring/Security/Security.md",
@@ -250,7 +259,6 @@
     "Project/JPA/Spring Data JPA",
     "Project/Spring/Annotation/@Scheduled.md",
     "Project/Spring/Library/Validation.md",
-    "Project/Spring/Library/URLEncoder.md",
     "Project/Spring/Interface",
     "Archive/img/JPA/lazy.png",
     "Archive/img/JPA/eager.png",
