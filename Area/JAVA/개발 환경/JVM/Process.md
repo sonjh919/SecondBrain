@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#Java #JVM 
 
 ## Process
 + 프로세스(Process)는 일반적으로 cpu에 의해 메모리에 올려져 **실행중인 프로그램**을 말한다.

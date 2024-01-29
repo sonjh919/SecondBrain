@@ -9,6 +9,7 @@ tags:
 image: 
 path:
 ---
+#Test #AssertJ 
 
 ## AssertJ
 AssertJ는 많은 assertion을 제공하는 자바 라이브러리이다. `assertThat` 메서드를 중심으로 다양한 **메서드 체이닝**을 지원하여 에러 메세지와 테스트 코드의 가독성을 매우 높여준다.

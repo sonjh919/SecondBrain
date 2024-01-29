@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#Java #JVM 
 
 ## Class Loader
 + JVM내로 .class파일들을 Load한다. Loading 된 클래스들을 [[Runtime Data Area]]에 배치된다.

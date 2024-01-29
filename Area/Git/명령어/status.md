@@ -9,6 +9,7 @@ tags:
 image: 
 path:
 ---
+#Git
 
 ## status
 + **파일의 상태**를 확인할 수 있다.

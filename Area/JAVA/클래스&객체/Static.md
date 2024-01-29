@@ -10,6 +10,7 @@ tags:
 image: 
 path:
 ---
+#Java #OOP 
 
 ## Static
 - **메모리에 한번 할당되면 프로그램이 종료될 때 해제되는 것**

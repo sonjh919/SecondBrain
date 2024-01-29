@@ -12,6 +12,7 @@ tags:
 image: 
 path:
 ---
+#Java #JVM 
 
 ## 데몬 Thread와 사용자 Thread
 ### 데몬 Thread
@@ -45,5 +46,5 @@ public class Main {
 + 프로그램 기능을 담당하며 대표적인 사용자 쓰레드로는 메인 쓰레드가 있다.
 + 우리가 흔히 이야기하는 Thread는 사용자 Thread이다.
 
+> [!info]+ 
 > JVM 은 사용자 쓰레드의 작업이 끝나면 데몬 쓰레드도 자동으로 종료시켜 버린다.
-{: .prompt-warning }

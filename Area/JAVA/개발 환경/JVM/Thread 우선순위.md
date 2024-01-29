@@ -12,6 +12,7 @@ tags:
 image: 
 path:
 ---
+#Java #JVM 
 
 ## Thread 우선순위
 + 쓰레드 작업의 중요도에 따라서 쓰레드의 우선순위를 부여할 수 있다.
@@ -45,6 +46,6 @@ System.out.println("threadPriority = " + threadPriority);
 ```
 
 
+> [!tip]+ 
 > 우선순위가 높다고 반드시 쓰레드가 먼저 종료되는 것은 아니다.
 > 확률이 높은거지 반드시 먼저 종료가 되는 것은 아니다.
-{: .prompt-warning }

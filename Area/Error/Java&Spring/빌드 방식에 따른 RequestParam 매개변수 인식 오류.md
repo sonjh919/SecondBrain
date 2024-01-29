@@ -18,6 +18,7 @@ path:
 
 ![[requestparam.png]]
 
+> [!note]+ 
 > java.lang.IllegalArgumentException: Name for argument of type [java.lang.String] not specified, and parameter name information not found in class file either.
 
 ### (일단) 해결책
@@ -35,6 +36,7 @@ path:
 ### debugging enabled
 Spring Document에 다음과 같은 내용이 있다.
 
+> [!note]+ 
 > The matching of method parameter names to URI Template variable names can only be done if your code is compiled with debugging enabled. If you do have not debugging enabled, you must specify the name of the URI Template variable name to bind to in the @PathVariable annotation
 
 컴파일할 때 debugging enabled 상태이지 않은 경우는 name에 값을 줘야 한다고 명시되어 있었다.

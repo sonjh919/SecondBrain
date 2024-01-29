@@ -10,6 +10,7 @@ tags:
 image: 
 path:
 ---
+#Java #OOP 
 
 ## Has-A (포함 관계)
 - "Has-a" 관계는 객체가 다른 객체를 포함하고 있는 관계를 나타낸다.

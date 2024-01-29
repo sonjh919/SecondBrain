@@ -12,6 +12,7 @@ tags:
 image: 
 path:
 ---
+#Java #JVM 
 
 ## Thread
 + [[Process]] 안에서 실질적으로 작업을 실행하는 단위를 말하며, 자바에서는 [[JVM]]에 의해 관리된다. 

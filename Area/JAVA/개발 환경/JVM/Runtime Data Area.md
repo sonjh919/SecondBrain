@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#Java #JVM 
 
 ## JVM의 Runtime Data Area
 + JVM이 프로세스로써 수행되기 위해 OS로부터 할당받는 메모리 영역이다.

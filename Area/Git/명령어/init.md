@@ -9,6 +9,7 @@ tags:
 image: 
 path:
 ---
+#Git
 
 ## init
 + 현재 디렉토리를 기준으로 **Git  저장소**가 생성된다.

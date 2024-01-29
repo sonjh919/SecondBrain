@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#Java #JVM 
 
 ## Method Area
 + = **Metaspace, Static Area, Class Area**

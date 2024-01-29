@@ -9,6 +9,7 @@ tags:
 image: 
 path:
 ---
+#Git
 
 ## commit
 + 저장소의 변경 내역을 git에 저장한다.

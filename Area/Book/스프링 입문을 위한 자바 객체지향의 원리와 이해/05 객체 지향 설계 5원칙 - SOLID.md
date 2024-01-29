@@ -16,11 +16,12 @@ path:
 ## 객체 지향 5원칙
 객체 지향의 특성을 올바르게 사용하는 방법, 즉 객체 지향 언어를 이용해 객체 지향 프로그램을 올바르게 설계해 나가는 방법이다. 객체 지향 5원칙은 **응집도를 높이고, 결합도는 낮추라**는 고전 원칙을 객체 지향의 관점에서 재정립한 개념이다. SOLID는 **객체 지향 4대 특성을 발판**으로 하고 있으며, **디자인 패턴의 뼈대**이며 **스프링 프레임워크의 근간**이 된다.
 
-1. SRP(Single Responsibility Principle) : 단일 책임 원칙
-2. OCP(Open Closed Principle) : 개방 폐쇄 원칙
-3. LSP(Liskov Substitution Principle) : 리스코프 치환 원칙
-4. ISP(Interface Segregation Principle) : 인터페이스 분리 원칙
-5. DIP(Dependency Inversion Principle) : 의존 역전 원칙
+> [!summary]+ 
+> 1. SRP(Single Responsibility Principle) : 단일 책임 원칙
+> 2. OCP(Open Closed Principle) : 개방 폐쇄 원칙
+> 3. LSP(Liskov Substitution Principle) : 리스코프 치환 원칙
+> 4. ISP(Interface Segregation Principle) : 인터페이스 분리 원칙
+> 5. DIP(Dependency Inversion Principle) : 의존 역전 원칙
 
 #### 결합도 수준
 데이터 결합도, 스탬프 결합도, 컨트롤 결합도, 외부 결합도, 공유 결합도, 내용 결합도

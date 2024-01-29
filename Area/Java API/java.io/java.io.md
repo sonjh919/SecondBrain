@@ -11,7 +11,7 @@ tags:
 image: 
 path:
 ---
-
+#Java #JavaAPI #javaio 
 ## java.io
 + Java에서 입출력(io) 작업을 위한 클래스들을 제공한다.
 + **데이터 스트림, 직렬화 및 파일 시스템을 통한 시스템 입력 및 출력을 제공**한다.
@@ -26,22 +26,23 @@ path:
 + 따라서 스트림은 사용 목적에 따라, 처리 단위에 따라 InputStream & OutputStream / Reader & Writer로 분류된다.
 + InputStream와 Reader 클래스에는 **read()** 메서드가, OutputStream와 Writer 클래스에는 **write()** 메서드가 각각 추상 클래스로 포함되어 있다.
 
+> [!tip]+ 
 > 바이트 단위로 스트림을 처리할 때에는 InputStream & OutputStream을 사용하고
 > 문자 단위로 스트림을 처리할 때에는 Reader & Writer을 사용하자!
-{: .prompt-info }
 
-|클래스|메소드|설명|
-|---|---|---|
-|InputStream|abstract int read()|해당 입력 스트림으로부터 다음 바이트를 읽어들임.|
-||int read(byte[ ] b)|해당 입력 스트림으로부터 특정 바이트를 읽어들인 후, 배열 b에 저장함.|
-||int read(byte[ ] b, int off, int len)|해당 입력 스트림으로부터 len 바이트를 읽어들인 후, 배열 b[off]부터 저장함.|
-|OutputStream|abstract void write(int b)|해당 출력 스트림에 특정 바이트를 저장함.|
-||void write(byte[] b)|열 b의 특정 바이트를 배열 b의 길이만큼 해당 출력 스트림에 저장함.|
-||void write(byte[] b, int off, int len)|배열 b[off]부터 len 바이트를 해당 출력 스트림에 저장함.|
+| 클래스 | 메소드 | 설명 |
+| ---- | ---- | ---- |
+| InputStream | abstract int read() | 해당 입력 스트림으로부터 다음 바이트를 읽어들임. |
+|  | int read(byte[ ] b) | 해당 입력 스트림으로부터 특정 바이트를 읽어들인 후, 배열 b에 저장함. |
+|  | int read(byte[ ] b, int off, int len) | 해당 입력 스트림으로부터 len 바이트를 읽어들인 후, 배열 b[off]부터 저장함. |
+| OutputStream | abstract void write(int b) | 해당 출력 스트림에 특정 바이트를 저장함. |
+|  | void write(byte[] b) | 열 b의 특정 바이트를 배열 b의 길이만큼 해당 출력 스트림에 저장함. |
+|  | void write(byte[] b, int off, int len) | 배열 b[off]부터 len 바이트를 해당 출력 스트림에 저장함. |
+|  |  |  |
 
+> [!info]+ 
 > read() 메소드는 해당 입력 스트림에서 더 이상 읽어들일 바이트가 없으면, **-1을 반환**해야 한다.  
-그런데 반환 타입을 byte 타입으로 하면, 0부터 255까지의 바이트 정보는 표현할 수 있지만 -1은 표현할 수 없게 되므로 InputStream의 read() 메소드는 반환 타입을 **int형**으로 선언하고 있다.
-{: .prompt-tip }
+> 그런데 반환 타입을 byte 타입으로 하면, 0부터 255까지의 바이트 정보는 표현할 수 있지만 -1은 표현할 수 없게 되므로 InputStream의 read() 메소드는 반환 타입을 **int형**으로 선언하고 있다.
 
 ## 자주 쓰이는 클래스 및 인터페이스
 ### 바이트 기반 스트림

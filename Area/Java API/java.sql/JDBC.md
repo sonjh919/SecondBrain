@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#Java #JavaAPI #javasql 
 
 ## JDBC (Java Database Connectivity)
 + Java에서 DataBase에 접속할 수 있도록 하는 Java API이다.

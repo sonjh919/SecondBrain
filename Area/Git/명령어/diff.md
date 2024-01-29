@@ -9,6 +9,7 @@ tags:
 image: 
 path:
 ---
+#Git
 
 ## diff
 + [[Git의 3가지 영역|Working Directory]]와 [[Git의 3가지 영역|Staging Area]] 사이의 차이를 확인하기 위한 명령어이다.

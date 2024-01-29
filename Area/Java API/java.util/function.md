@@ -12,6 +12,7 @@ tags:
 image: 
 path:
 ---
+#Java #JavaAPI #javautil
 
 ## function
 + java.util.function은 Java에서 자주 사용되는 [[함수형 인터페이스]]를 미리 정의해둔 패키지이다.

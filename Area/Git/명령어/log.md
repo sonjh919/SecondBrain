@@ -9,6 +9,7 @@ tags:
 image: 
 path:
 ---
+#Git
 
 ## log
 + 저장소의 history를 볼 수 있다.

@@ -9,6 +9,7 @@ tags:
 image: 
 path:
 ---
+#Git
 
 ## config
 + git은 저장소에 대한 설정값을 저장해놓는 config 파일을 읽어 설정값들을 사용한다.

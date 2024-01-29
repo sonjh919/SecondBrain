@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#Java #JVM 
 
 ## PC Register
 - [[Thread]]가 시작될 때마다 생성되는 공간으로, Thread마다 하나씩 존재한다.

@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#Java #JavaAPI #javasql 
 
 ## java.sql
 + Java에서 관계형 데이터베이스와 상호 작용하기 위한 API를 제공한다. 

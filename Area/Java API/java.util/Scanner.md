@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#Java #JavaAPI #javautil
 
 ## Scanner
 + Java에서 입력을 받기 위해 사용되는 클래스이다.

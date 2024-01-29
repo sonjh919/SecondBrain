@@ -35,8 +35,8 @@ MAINTAINER sonjh
 WORKDIR /app
 ```
 
+> [!info]+ 
 > **Working Directory** : 이미지 안에서 어플리케이션 소스 코드를 가지고 있을 디렉토리를 의미한다.
-{: .prompt-info }
 
 ### RUN
 + 명령어를 실행하라는 의미이다.

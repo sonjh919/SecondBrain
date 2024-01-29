@@ -9,6 +9,7 @@ tags:
 image: 
 path:
 ---
+#Git
 
 ## reset
 + 현재 작업 중인 HEAD의 포인터를 특정 위치로 변경할 수 있다.

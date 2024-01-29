@@ -12,6 +12,7 @@ tags:
 image: 
 path:
 ---
+#Java #JVM 
 
 ## Thread lifecycle
 ![[threadcontrol.png]]

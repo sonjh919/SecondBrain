@@ -10,6 +10,7 @@ tags:
 image: 
 path:
 ---
+#Java #Java개발환경 
 
 ## JDK(Java Development Kit) : Java 개발 키트
 + JDK는 Java로 개발을 하려는 사람들이 설치하여 사용하면 된다!

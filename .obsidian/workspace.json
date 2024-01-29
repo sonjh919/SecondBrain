@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/Error/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md",
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/Error/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md",
+                "file": "Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/Error/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md",
+                "file": "Inbox/끄적끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/Error/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md"
+                "file": "Inbox/끄적끄적.md"
               }
             }
           },
@@ -210,39 +210,39 @@
   },
   "active": "ca8e2f83bc103f3c",
   "lastOpenFiles": [
-    "Area/Error/Java&Spring/빌드 방식에 따른 RequestParam 매개변수 인식 오류.md",
-    "Area/Error/Git/LF will be replaced by CRLF in pom.xml.md",
-    "Area/Error/Git/이미 push한 commit 변경하기.md",
-    "Area/Error/Docker/Error response from daemon When using COPY with more than one source file.md",
-    "Area/Error/Docker/Error response from daemon COPY failed no source files were specified.md",
-    "Area/Docker/DSL.md",
-    "Area/Docker/프로세스 격리.md",
-    "Area/Docker/Docker.md",
-    "Area/Docker/컨테이너.md",
-    "Area/Docker/이미지.md",
-    "Area/Docker/레이어 저장방식.md",
-    "Area/Docker/도커 허브.md",
-    "Area/Database/RDB/SQL/TCL/Transaction.md",
-    "Area/Database/RDB/SQL/TCL/TCL.md",
-    "Area/Database/RDB/SQL/TCL/SAVEPOINT.md",
-    "Area/Database/RDB/SQL/TCL/ROLLBACK.md",
-    "Area/Database/RDB/SQL/TCL/COMMIT.md",
-    "Area/Database/RDB/SQL/SQL.md",
-    "Area/Database/RDB/SQL/SQL 실행 순서/WHERE.md",
-    "Area/Database/RDB/SQL/SQL 실행 순서/ORDER BY.md",
-    "Area/Database/RDB/SQL/SQL 실행 순서/HAVING.md",
-    "Area/Database/RDB/SQL/SQL 실행 순서/GROUP BY.md",
-    "Area/Database/RDB/SQL/SQL 실행 순서/FROM.md",
-    "Area/Database/RDB/SQL/Query/Top-N Query.md",
-    "Area/Database/RDB/SQL/Query/SubQuery.md",
-    "Area/Database/RDB/SQL/Query/계층 Query.md",
+    "Inbox/나중에 정리할 것.md",
+    "Inbox/코테.md",
+    "Inbox/끄적끄적.md",
+    "Area/Test/TDD.md",
+    "Area/Test/Mockito.md",
+    "Area/Test/MOC.md",
+    "Area/Test/JUnit.md",
+    "Area/Test/JUnit Annotation.md",
+    "Area/Test/given when then 패턴.md",
+    "Area/Test/AssertJ.md",
+    "Area/Test/테스트의 종류.md",
+    "Area/Test/버그 잡기.md",
+    "Area/Java API/java.util/Scanner.md",
+    "Area/Java API/java.util/regex.md",
+    "Area/Java API/java.util/Random.md",
+    "Area/Java API/java.util/Optional.md",
+    "Area/Java API/java.util/Map.md",
+    "Area/Java API/java.util/logging.md",
+    "Area/Java API/java.util/java.util.md",
+    "Area/Java API/java.util/function.md",
+    "Area/Java API/java.util/Collection/Set.md",
+    "Area/Java API/java.util/Collection/Queue.md",
+    "Area/Java API/java.util/Collection/List.md",
+    "Area/Java API/java.util/Collection/Collection.md",
+    "Area/Java API/java.time/java.time.md",
+    "Area/Java API/java.sql/JdbcTemplate.md",
+    "Archive/img/Java API/java.lang/throwable.png",
+    "Inbox/Pasted image 20240125194236.png",
     "Archive/img/Algorithm & Data Structure/Stack.png",
     "Archive/img/Algorithm & Data Structure/Queue.png",
     "Archive/img/Algorithm & Data Structure/Deque.png",
     "Archive/img/Coding Test/1157.png",
     "Inbox/Pasted image 20240126225608.png",
-    "Inbox/Pasted image 20240125194236.png",
-    "Inbox/Pasted image 20240107103049.png",
     "SecondBrain.zip",
     "publish.css",
     "themes/publish.css",

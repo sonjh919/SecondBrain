@@ -9,6 +9,7 @@ tags:
 image: 
 path:
 ---
+#Git
 
 ## remote
 + 현재 프로젝트에 등록된 remote 저장소를 확인할 수 있다.

@@ -10,6 +10,7 @@ tags:
 image: 
 path:
 ---
+#Java 
 
 ## new 연산자
 + [[Heap Area]]에 메모리 공간을 할당해주고 메모리 주소를 반환한 후 생성자를 실행한다.

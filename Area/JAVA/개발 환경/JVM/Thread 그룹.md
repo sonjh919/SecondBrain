@@ -12,6 +12,7 @@ tags:
 image: 
 path:
 ---
+#Java #JVM 
 
 ## Thread 그룹
 + 서로 관련이 있는 Thread들을 그룹으로 묶어서 다룰 수 있다.

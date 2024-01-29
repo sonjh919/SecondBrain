@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#Java #JavaAPI #javalang 
 
 ## Stream
 ### 이전의 처리 방식
@@ -28,10 +29,11 @@ Stream은 **가독성, 병렬 처리, 지연 평가, 함수 구성** 등 여러 
 4. **일회용**이다. 한번 사용한 스트림은 어디에도 남지 않는다.
 ### Stream의 작동 방식
 Stream은 **데이터의 흐름**이다. 컬렉션 인스턴스에 함수 여러 개를 조합해서 원하는 결과를 필터링하고 가공된 결과를 얻을 수 있다. 즉 로직을 **함수형**으로 처리할 수 있다. Stream의 방식은 크게 3가지로 나눌 수 있다
->
-1. **생성하기** : 스트림 인스턴스 생성
-2. **가공하기** : 필터링(filtering) 및 맵핑(mapping) 등 원하는 결과를 만들어가는 중간 작업(intermediate operations)
-3. **결과 만들기** : 최종적으로 결과를 만들어내는 작업(terminal operations)
+
+> [!note]+ 
+> 1. **생성하기** : 스트림 인스턴스 생성
+> 2. **가공하기** : 필터링(filtering) 및 맵핑(mapping) 등 원하는 결과를 만들어가는 중간 작업(intermediate operations)
+> 3. **결과 만들기** : 최종적으로 결과를 만들어내는 작업(terminal operations)
 
 + ex)
 ```java

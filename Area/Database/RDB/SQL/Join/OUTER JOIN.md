@@ -78,5 +78,5 @@ SELECT E.EMP_NAME, D.DEPT_TITLE
 ```
 
 #### ORACLE
+> [!warning]+ 
 > ORACLE은 FULL OUTER JOIN이 안된다!
-{: .prompt-warning }

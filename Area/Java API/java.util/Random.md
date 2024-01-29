@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#Java #JavaAPI #javautil
 
 ## Random
 + 난수 생성을 위한 클래스이다.

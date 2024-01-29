@@ -9,6 +9,7 @@ tags:
 image: 
 path:
 ---
+#Git
 
 ## checkout
 + 다양한 기능을 수행할 수 있으나, 주로 **branch 전환**과 **파일 복원**에 사용된다.

@@ -22,7 +22,8 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "Templates/gitblog templete.md"
+    "Templates/gitblog templete.md",
+    "Templates/Insert_Callout.md"
   ],
   "startup_templates": [
     ""

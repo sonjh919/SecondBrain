@@ -10,6 +10,7 @@ tags:
 image: 
 path:
 ---
+#Java #Java개발환경 
 
 ## JRE(Java Runtime Environment)
 + 자바 실행 환경으로, JRE가 있으면 Java 프로그램을 실행시킬 수 있다.
