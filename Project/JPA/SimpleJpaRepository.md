@@ -8,6 +8,7 @@ tags:
 image: 
 path:
 ---
+#jpa 
 
 ## SimpleJpaRepository
 + Spring 프레임워크에서는 DB의 트랜잭션 개념을 애플리케이션에 적용할 수 있도록 **트랜잭션 관리자**를 제공한다.

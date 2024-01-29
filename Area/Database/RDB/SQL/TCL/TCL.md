@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#DataBase #RDB #SQL 
 
 ## TCL
 + [[Transaction]] 제어에 사용되는 기술

@@ -8,6 +8,7 @@ tags:
 image: 
 path:
 ---
+#jpa 
 
 ## JPA Auditing: Timestamped
 + 데이터의 생성(created_at), 수정(modified_at) 시간은 포스팅, 게시글, 댓글 등 다양한 데이터에 매우 자주 활용되지만, 각각의 Entity의 생성 수정 시간을 매번 작성하는건 너무 비효율적이다.

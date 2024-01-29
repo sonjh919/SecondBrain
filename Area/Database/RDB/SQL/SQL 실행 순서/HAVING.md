@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#DataBase #RDB #SQL 
 
 ## HAVING
 - [[GROUP BY]]에 대한 조건을 설정하는 절

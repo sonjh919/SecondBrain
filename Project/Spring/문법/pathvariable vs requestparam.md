@@ -8,6 +8,7 @@ tags:
 image: 
 path:
 ---
+#Spring 
 
 ## PathVariable vs RequestParam
 데이터를 받는 과정에서, 방식만 다르고 하는 역할은 똑같은 두 가지가 있다. PathVariable 방식과 RequestParam 방식인데, 과연 이 둘은 어떻게 다를까?

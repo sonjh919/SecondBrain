@@ -10,6 +10,7 @@ tags:
 image: 
 path:
 ---
+#CS #Network 
 
 ## HTTP (HyperText Transfer Protocol)
 + 데이터를 주고 받는 양식을 정의한 **"통신 규약"** 중 하나가 HTTP이다.

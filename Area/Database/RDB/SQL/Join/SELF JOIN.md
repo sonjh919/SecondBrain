@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#DataBase #RDB #SQL 
 
 ## SELF JOIN
 - 같은 TABLE을 JOIN

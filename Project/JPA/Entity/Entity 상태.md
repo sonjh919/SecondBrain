@@ -8,6 +8,7 @@ tags:
 image: 
 path:
 ---
+#jpa 
 
 ## Entity의 상태
 

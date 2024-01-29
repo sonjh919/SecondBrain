@@ -8,6 +8,7 @@ tags:
 image: 
 path:
 ---
+#Spring
 
 ## Spring IoC Container
 [[DI (Dependency Injection)]]를 이용하기 위해서는 객체 생성이 우선되어야 한다. 그렇다면 언제, 어디서, 누가 객체를 생성하는 걸까? 바로 Spring 프레임워크가 필요한 객체를 생성하고 관리하는 역할을 대신한다.

@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#DataBase #RDB #SQL 
 
 ## REVOKE
 + 사용자에게 권한 회수

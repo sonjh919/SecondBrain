@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#DataBase #RDB #SQL 
 
 ## OVER
 + 윈도우 함수는 OVER 키워드와 함께 사용할 수 있다.

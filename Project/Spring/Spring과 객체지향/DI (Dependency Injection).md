@@ -8,6 +8,7 @@ tags:
 image: 
 path:
 ---
+#Spring
 
 ## DI(Dependency Injection, 의존성 주입)
 DI(Dependency Injection)란 **객체를 직접 생성하는 게 아니라 외부에서 생성한 후 넣어주는 방식**이다.

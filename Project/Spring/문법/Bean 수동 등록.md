@@ -8,6 +8,7 @@ tags:
 image: 
 path:
 ---
+#Spring 
 
 ## Bean 수동 등록?
 ### Bean 자동 등록의 이점

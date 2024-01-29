@@ -9,6 +9,7 @@ tags:
 image: 
 path:
 ---
+#DataBase #RDB 
 
 ## RDB (relation database)
 + 관계형 database

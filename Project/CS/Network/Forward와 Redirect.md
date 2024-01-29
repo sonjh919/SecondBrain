@@ -10,6 +10,7 @@ tags:
 image: 
 path:
 ---
+#CS #Network 
 
 웹은 현재 작업중인 페이지에서 다른 페이지로 이동하기 위해 2가지 페이지 전환 기능을 제공한다. 그 두가지 방법에는 Forward와 Redirect가 있다.
 

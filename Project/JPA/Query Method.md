@@ -8,6 +8,7 @@ tags:
 image: 
 path:
 ---
+#jpa 
 
 ## Query Method
 + [[Spring Data JPA]]에서는 메서드 이름으로 [[SQL]]을 생성할 수 있는 Query Methods 기능을 제공한다.

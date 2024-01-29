@@ -9,6 +9,7 @@ tags:
 image: 
 path:
 ---
+#jpa 
 
 ## Page
 + `Page` 인터페이스는 **페이징된 결과를 표현**하는데 사용된다.

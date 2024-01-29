@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#Docker #Gradle #Error 
 
 ## 에러 발생 상황
 스프링 프로젝트에서 build하기 위해 Dockerfile을 만든 후 다음과 같은 내용을 넣어주었다.

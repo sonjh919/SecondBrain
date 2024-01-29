@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#DataBase #RDB #SQL 
 
 ## COALESCE
 - NULL이 아닌 최초의 인수 반환

@@ -9,6 +9,7 @@ tags:
 image: 
 path:
 ---
+#Docker #DSL 
 
 ## DSL(domain specific lanuage)
 도커는 [[이미지]]를 만들기 위해 DSL 파일을 사용한다. 이는 **서버 운용 기록**을 코드화한 파일로, **실행 명령어들의 집합**이라고 할 수 있다.

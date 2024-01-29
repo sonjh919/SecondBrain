@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#DataBase #RDB #SQL 
 
 ## OUTER JOIN
 + JOIN 조건에 만족하지 않는 데이터들도 출력

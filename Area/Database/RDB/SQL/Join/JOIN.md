@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#DataBase #RDB #SQL 
 
 ## JOIN
 - 두 개 이상의 TABLE을 하나로 합쳐서 결과를 조회

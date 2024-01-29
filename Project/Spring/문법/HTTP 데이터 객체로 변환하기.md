@@ -8,6 +8,7 @@ tags:
 image: 
 path:
 ---
+#Spring 
 
 ## @ModelAttribute
 RequestParam을 통해 얻은 데이터는 @ModelAttribute를 이용해 바로 객체로 선언하여 받아올 수 있다. 만약 객체에서 정의된 변수명이 다르다면 값을 넣어줄 수 없으므로 null이 들어가게 된다.

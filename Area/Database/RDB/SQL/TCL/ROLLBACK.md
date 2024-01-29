@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#DataBase #RDB #SQL 
 
 ## ROLLBACK
 + Transaction 작업을 취소하고 최근 COMMIT한 시점으로 이동하는 명령

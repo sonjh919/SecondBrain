@@ -8,6 +8,7 @@ tags:
 image: 
 path:
 ---
+#Spring 
 
 ## 같은 타입의 Bean이 2개일 경우
 + 다형성을 이용한 interface 설계 시, @Autowired를 사용하여 Bean 객체를 주입려고 시도하면 오류가 뜬다.

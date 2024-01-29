@@ -10,7 +10,7 @@ tags:
 image: 
 path:
 ---
-
+#CS #Network 
 
 [[Server의 분리]] 방식에 따라 3,2,1 Tier Architecture로 나눈다.
 ## 3 Tier Architecture

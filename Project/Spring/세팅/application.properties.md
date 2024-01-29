@@ -8,6 +8,7 @@ tags:
 image: 
 path:
 ---
+#Spring 
 
 ## application.properties
 + Spring과 관련된 설정을 할 때 사용되는 파일이다.

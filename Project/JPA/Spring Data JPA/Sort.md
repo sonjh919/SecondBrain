@@ -8,6 +8,7 @@ tags:
 image: 
 path:
 ---
+#jpa 
 
 ## Sort
 + 쿼리 결과를 특정 열을 기준으로 정렬할 때 사용된다.

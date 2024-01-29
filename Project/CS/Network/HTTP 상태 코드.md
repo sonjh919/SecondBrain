@@ -10,6 +10,7 @@ tags:
 image: 
 path:
 ---
+#CS #Network 
 
 ## HTTP 상태 코드
 + HTTP 상태 코드(Status Code)를 통해 브라우저와 서버간의 요청, 응답 과정에서 발생할 수 있는 상황들을 표현할 수 있다.

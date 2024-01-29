@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#DataBase #RDB #SQL 
 
 ## Inner JOIN
 + JOIN 조건에 충족하는 데이터만 출력

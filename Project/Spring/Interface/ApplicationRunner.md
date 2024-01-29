@@ -10,6 +10,7 @@ tags:
 image: 
 path:
 ---
+#Spring #Interface 
 
 ## ApplicationRunner
 + **애플리케이션이 실행될 때 특정한 코드 블록을 실행**하고자 할 때 사용된다. 

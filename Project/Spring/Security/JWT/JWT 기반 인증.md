@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#Spring #Security #JWT 
 
 ## JWT 기반 인증
 + JWT 기반 인증은 [[쿠키와 세션 기반 인증]] 방식과 유사하게 JWT 토큰(Access Token)을 HTTP 헤더에 실어 서버가 클라이언트를 식별한다.

@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#DataBase #RDB #SQL 
 
 ## 다중 JOIN
 - 여러 개의 TABLE을 조회

@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#DataBase #RDB #SQL 
 
 ## Subquery
 - QUERY문 안에 작성한 QUERY문(질의문)

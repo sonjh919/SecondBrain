@@ -10,6 +10,7 @@ tags:
 image: 
 path:
 ---
+#Git #Error 
 
 ## 발생 상황
 인텔리제이로 작업을 하던 도중, commit 메시지를 잘못 쓴 것을 발견했다. 하지만 commit and push를 했기 때문에 이미 올라가버린 commit.. 다시 복구할 순 없을까?

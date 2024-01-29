@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#DataBase #RDB #SQL 
 
 ## UPDATE
 + 변경값은 해당 컬럼에 대한 [[제약조건]]에 위배되지 않아야 한다.

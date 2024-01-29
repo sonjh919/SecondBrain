@@ -10,6 +10,7 @@ tags:
 image: 
 path:
 ---
+#CS #Network 
 
 ## HAL
 Hypertext Application Language 으로 [[JSON]], XMl 코드 내의 외부 리소스에 대한 링크를 추가하기 위한 특별한 데이터 타입이다. HAL은 `application/hal+json`와 `application/hal+xml` 2가지 타입을 가지는데, 이를 이용해 쉽게 [[HATEOAS]]를 달성할 수 있다.

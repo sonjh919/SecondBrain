@@ -10,6 +10,7 @@ tags:
 image: 
 path:
 ---
+#CS #Network 
 
 ## URI (Uniform Resource Identifier)
 URI는 우리말로 **통합 자원 식별자**라고 한다. Uniform은 리소스를 식별하는 통일된 방식을 말한다. Resource란

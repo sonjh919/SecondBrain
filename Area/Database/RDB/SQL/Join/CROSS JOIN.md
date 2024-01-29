@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#DataBase #RDB #SQL 
 
 ## CROSS JOIN
 - 조합할 수 있는 모든 경우를 출력

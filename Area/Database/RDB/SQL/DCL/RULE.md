@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#DataBase #RDB #SQL 
 
 ## RULE
 + 특정 권한들을 하나의 세트처럼 묶는 것

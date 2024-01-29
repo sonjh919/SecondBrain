@@ -10,6 +10,7 @@ tags:
 image: 
 path:
 ---
+#Spring #Security 
 
 ## Security
 + Spring Security는 스프링 기반의 어플리케이션에서 보안을 담당하는 프레임워크로, [[인증과 인가]]를 다룬다.

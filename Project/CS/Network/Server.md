@@ -10,6 +10,7 @@ tags:
 image: 
 path:
 ---
+#CS #Network 
 
 ## Client와 Server
 ![[clientServer.png]]

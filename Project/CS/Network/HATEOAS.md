@@ -10,6 +10,7 @@ tags:
 image: 
 path:
 ---
+#CS #Network 
 
 ## HATEOAS (Hypermedia As The Engine Of Application State)
 + Hateoas는 [[REST API]]를 잘 설계하기 위해 나온 개념이다.

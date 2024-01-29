@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#DataBase #RDB #SQL 
 
 ## 절차형 SQL
 - 일반적인 개발언어처럼 절차지향적인 프로그램 작성

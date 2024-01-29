@@ -10,6 +10,8 @@ tags:
 image: 
 path:
 ---
+#CS #Network 
+
 ## REST-API (Representational State Transfer API)
 + [[REST]] 아키텍쳐 스타일을 따르는 [[API]]를 REST-API라고 한다.
 + **해당 자원의 상태를 주고 받는 모든 것**

@@ -10,6 +10,7 @@ tags:
 image: 
 path:
 ---
+#Spring #Servlet 
 
 ## Front Controller?
 - 모든 API 요청을 앞서 살펴본 서블릿의 동작 방식에 맞춰 코드를 구현한다면 무수히 많은 Servlet 클래스를 구현해야 한다.

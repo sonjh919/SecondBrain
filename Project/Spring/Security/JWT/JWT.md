@@ -11,6 +11,8 @@ tags:
 image: 
 path:
 ---
+#Spring #Security #JWT 
+
 ## JWT (JSON Web Token)
 JWT([[JSON]] Web Token)란 인증에 필요한 정보들을 암호화시킨 토큰을 의미한다.  이 토큰은 JSON 포맷을 이용하여 사용자에 대한 속성을 저장하는 Claim 기반의 Web Token이다. 일반적으로 [[쿠키]] 저장소를 사용하여 JWT를 저장한다. [jwt.io](https://jwt.io/)를 이용하여 JWT를 사용할 수 있다.
 

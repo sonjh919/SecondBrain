@@ -10,6 +10,7 @@ tags:
 image: 
 path:
 ---
+#Git #Error 
 
 ## 오류
 

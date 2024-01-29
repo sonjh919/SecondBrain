@@ -8,6 +8,7 @@ tags:
 image: 
 path:
 ---
+#jpa 
 
 ## JPA (Java Persistence API)
 + 자바 Java [[ORM]] 기술에 대한 표준 명세이다.

@@ -10,6 +10,7 @@ tags:
 image: 
 path:
 ---
+#CS #Network 
 
 ## HTTP Method
 + POST : 해당 URL을 요청하면 자원을 생성한다.

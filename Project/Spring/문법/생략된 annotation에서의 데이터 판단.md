@@ -8,6 +8,7 @@ tags:
 image: 
 path:
 ---
+#Spring 
 
 ## 생략된 annotation에서의 데이터 판단
 http 정보를 받아올 때, @RequestParam으로 받아올 수도 있고, @ModelAttribute로 받아올 수도 있다. 두 annotation 모두 생략이 가능한데, Spring에서는 어떻게 구분할 수 있을까?

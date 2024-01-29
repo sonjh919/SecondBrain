@@ -8,6 +8,7 @@ tags:
 image: 
 path:
 ---
+#Spring
 
 ## 3 Layer Annotation
 - Spring 3 Layer Annotation은 Controller, Service, Repository의 역할로 구분된 클래스들을 ‘Bean’으로 등록할 때 해당 ‘Bean’ 클래스의 역할을 명시하기위해 사용된다.

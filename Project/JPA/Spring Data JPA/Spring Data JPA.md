@@ -8,6 +8,7 @@ tags:
 image: 
 path:
 ---
+#jpa 
 
 ## Spring Data JPA
 - Spring Data JPA는 JPA를 쉽게 사용할 수 있게 만들어놓은 하나의 모듈로, **JPA를 추상화**시킨 **Repository 인터페이스**를 제공한다.

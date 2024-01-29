@@ -8,6 +8,7 @@ tags:
 image: 
 path:
 ---
+#jpa 
 
 ## Entity
 + JPA에서 엔티티란 **DB 테이블에 대응하는 하나의 클래스**라고 생각하면 된다. 

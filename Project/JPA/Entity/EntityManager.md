@@ -8,6 +8,7 @@ tags:
 image: 
 path:
 ---
+#jpa 
 
 ## EntityManager
 - [[영속성 컨텍스트]]에 접근하여 [[Entity]] 객체들을 조작하기 위해서는 EntityManager가 필요하다.

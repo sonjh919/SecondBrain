@@ -11,6 +11,7 @@ tags:
 image: 
 path:
 ---
+#DataBase #RDB #SQL 
 
 ## IN
 +  IN 구문에 **입력된 값들 중에서 하나라도 일치하는 것이 있으면 조회**된다.
