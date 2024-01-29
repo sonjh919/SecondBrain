@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Todo/TIL/2024-01/2024-01-29 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Todo/TIL/2024-01/2024-01-29 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Todo/TIL/2024-01/2024-01-29 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/끄적끄적.md"
+                "file": "Todo/TIL/2024-01/2024-01-29 TIL.md"
               }
             }
           },
@@ -210,9 +210,18 @@
   },
   "active": "ca8e2f83bc103f3c",
   "lastOpenFiles": [
+    "Todo/TIL/2024-01/2024-01-28 TIL.md",
+    "Todo/TIL/2024-01/2024-01-29 TIL.md",
+    "Todo/TIL/2024-01/2024-01-27 TIL.md",
+    "Todo/TIL/2024-01/2024-01-26 TIL.md",
+    "Todo/TIL/2024-01/2024-01-25 TIL.md",
+    "Area/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
+    "Area/JAVA/개발 환경/JDK.md",
+    "Area/JAVA/개발 환경/Java의 역사와 특징.md",
+    "Area/JAVA/개발 환경/JAR.md",
+    "Inbox/끄적끄적.md",
     "Inbox/나중에 정리할 것.md",
     "Inbox/코테.md",
-    "Inbox/끄적끄적.md",
     "Area/Test/TDD.md",
     "Area/Test/Mockito.md",
     "Area/Test/MOC.md",
@@ -227,15 +236,6 @@
     "Area/Java API/java.util/Random.md",
     "Area/Java API/java.util/Optional.md",
     "Area/Java API/java.util/Map.md",
-    "Area/Java API/java.util/logging.md",
-    "Area/Java API/java.util/java.util.md",
-    "Area/Java API/java.util/function.md",
-    "Area/Java API/java.util/Collection/Set.md",
-    "Area/Java API/java.util/Collection/Queue.md",
-    "Area/Java API/java.util/Collection/List.md",
-    "Area/Java API/java.util/Collection/Collection.md",
-    "Area/Java API/java.time/java.time.md",
-    "Area/Java API/java.sql/JdbcTemplate.md",
     "Archive/img/Java API/java.lang/throwable.png",
     "Inbox/Pasted image 20240125194236.png",
     "Archive/img/Algorithm & Data Structure/Stack.png",
