@@ -26,19 +26,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/Welcome to JH SecondBrain.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "2cefe2b37168aac1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
@@ -117,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/Welcome to JH SecondBrain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/Welcome to JH SecondBrain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/끄적끄적.md"
+                "file": "Project/Welcome to JH SecondBrain.md"
               }
             }
           },
@@ -226,13 +218,27 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian42-brat:BRAT": false,
+      "publish:변경사항 출판": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "c9b8a7758eec0d23",
   "lastOpenFiles": [
-    "Inbox/나중에 정리할 것.md",
+    "Project/Welcome to JH SecondBrain.md",
+    "Publish/publish.css",
+    "Publish/publish.css.md",
+    "Publish",
+    "Archive/무제 폴더",
+    "Archive/img/109019081.jpg",
+    "Inbox/Pasted image 20240126225608.png",
+    "Inbox/Pasted image 20240125194236.png",
+    "Inbox/Pasted image 20240107103049.png",
+    "Project/CS/Network/HATEOAS.md",
+    "Project/CS/Network/API.md",
+    "Project/CS/Network/3 Tier Architecture.md",
+    "Todo/TIL/2024-01-29 TIL.md",
     "Inbox/끄적끄적.md",
+    "Inbox/나중에 정리할 것.md",
     "Todo/TIL/2024-01/2024-01-26 TIL.md",
     "Todo/TIL/2024-01/2024-01-25 TIL.md",
     "Todo/TIL/2024-01/2024-01-28 TIL.md",
@@ -248,17 +254,9 @@
     "Project/Spring/Servlet/Servlet Life Cycle.md",
     "Project/Spring/Servlet/Servlet.md",
     "Project/Spring/Interface/ApplicationRunner.md",
-    "Inbox/Pasted image 20240126225608.png",
     "Project/Spring/Library/Filter.md",
     "Project/Spring/세팅/application.properties.md",
-    "Project/JPA/Spring Data JPA/Spring Data JPA.md",
-    "Project/JPA/Spring Data JPA/Sort.md",
-    "Project/JPA/Spring Data JPA/Pageable.md",
-    "Project/JPA/Spring Data JPA/Page.md",
-    "Project/JPA/Query Method.md",
     "Project/JPA/Spring Data JPA",
-    "Project/Spring/Annotation/@Scheduled.md",
-    "Project/Spring/Library/Validation.md",
     "Project/Spring/Interface",
     "Archive/img/JPA/lazy.png",
     "Archive/img/JPA/eager.png",
@@ -267,16 +265,10 @@
     "Archive/img/JPA/onetomany.png",
     "Archive/img/JPA/manytomany.png",
     "Archive/img/JPA/middletable.png",
-    "Archive/img/JPA/manytoonem.png",
-    "Archive/img/JPA/manytoone.png",
-    "Archive/img/JPA/onetoonem.png",
     "Project/JPA/Entity",
     "Project/Spring/RestTemplate",
     "Project/Spring/Annotation",
     "Project/Spring/Security/JWT",
-    "Project/Spring/Security",
-    "Area/Error/DataBase",
-    "Archive/img/JPA",
     "Project/무제 파일.canvas"
   ]
 }
