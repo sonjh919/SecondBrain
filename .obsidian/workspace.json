@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/2024-01-30 TIL.md",
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/2024-01-30 TIL.md",
+                "file": "Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/2024-01-30 TIL.md",
+                "file": "Inbox/끄적끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/TIL/2024-01-30 TIL.md"
+                "file": "Inbox/끄적끄적.md"
               }
             }
           },
@@ -210,8 +210,8 @@
   },
   "active": "ca8e2f83bc103f3c",
   "lastOpenFiles": [
-    "Todo/TIL/2024-01/2024-01-29 TIL.md",
     "Todo/TIL/2024-01-30 TIL.md",
+    "Todo/TIL/2024-01/2024-01-29 TIL.md",
     "Todo/TIL/2024-01/2024-01-27 TIL.md",
     "Todo/TIL/2024-01/2024-01-28 TIL.md",
     "Todo/TIL/2024-01/2024-01-12 TIL.md",
