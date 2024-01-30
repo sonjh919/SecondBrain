@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Spring/Security/JWT/JWT 기반 인증.md",
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Spring/Security/JWT/JWT 기반 인증.md",
+                "file": "Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Spring/Security/JWT/JWT 기반 인증.md",
+                "file": "Inbox/끄적끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Spring/Security/JWT/JWT 기반 인증.md"
+                "file": "Inbox/끄적끄적.md"
               }
             }
           },
@@ -211,9 +211,9 @@
   "active": "ca8e2f83bc103f3c",
   "lastOpenFiles": [
     "Project/Spring/Security/인증과 인가.md",
+    "Project/Spring/Security/JWT/JWT 기반 인증.md",
     "Project/Spring/Security/세션.md",
     "Project/Spring/Security/JWT/JWT 사용 흐름.md",
-    "Project/Spring/Security/JWT/JWT 기반 인증.md",
     "Project/AWS/Elastic Beanstalk/Elastic Beanstalk + Github Actions + Spring Boot.md",
     "Archive/img/AWS/Elastic BeanStalk/githubaction.png",
     "Archive/img/AWS/Elastic BeanStalk/BeanstalkRDS1.png",
