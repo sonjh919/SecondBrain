@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/AWS/EC2/EC2 인스턴스 프로파일.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/AWS/EC2/EC2 인스턴스 프로파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/AWS/EC2/EC2 인스턴스 프로파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/끄적끄적.md"
+                "file": "Project/AWS/EC2/EC2 인스턴스 프로파일.md"
               }
             }
           },
@@ -210,6 +210,28 @@
   },
   "active": "ca8e2f83bc103f3c",
   "lastOpenFiles": [
+    "Project/AWS/Elastic Beanstalk/Elastic Beanstalk + Github Actions + Spring Boot.md",
+    "Project/AWS/EC2/EC2 키 페어.md",
+    "Project/AWS/Elastic Beanstalk/Elastic Beanstalk 생성(Elastic Beanstalk + Github Actions + Spring Boot).md",
+    "Project/AWS/Elastic Beanstalk/Github Actions 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
+    "Archive/img/AWS/Elastic BeanStalk/Beanstalk4.png",
+    "Archive/img/AWS/Elastic BeanStalk/Beanstalk6.png",
+    "Archive/img/AWS/Elastic BeanStalk/Beanstalk5.png",
+    "Archive/img/AWS/Elastic BeanStalk/Beanstalk7.png",
+    "Archive/img/AWS/Elastic BeanStalk/Beanstalk8.png",
+    "Archive/img/AWS/Elastic BeanStalk/Beanstalk9.png",
+    "Archive/img/AWS/Elastic BeanStalk/Beanstalk10.png",
+    "Archive/img/AWS/Elastic BeanStalk/Beanstalk11.png",
+    "Archive/img/AWS/Elastic BeanStalk/Beanstalk12.png",
+    "Archive/img/AWS/Elastic BeanStalk/Beanstalk13.png",
+    "Archive/img/AWS/Elastic BeanStalk",
+    "Archive/img/AWS",
+    "Project/AWS/Elastic Beanstalk/SpringBoot 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
+    "Project/AWS/EC2/EC2 인스턴스 프로파일.md",
+    "Project/AWS/Elastic Beanstalk",
+    "Project/AWS/EC2",
+    "Inbox/끄적끄적.md",
+    "Project/AWS",
     "Todo/TIL/2024-01-30 TIL.md",
     "Todo/TIL/2024-01/2024-01-29 TIL.md",
     "Todo/TIL/2024-01/2024-01-27 TIL.md",
@@ -228,34 +250,11 @@
     "Todo/TIL/2023-12/2023-12-30 TIL.md",
     "Todo/TIL/2023-12/2023-12-31 TIL.md",
     "Todo/TIL/2024-01/2024-01-03 TIL.md",
-    "Todo/TIL/2024-01/2024-01-05 TIL.md",
-    "Todo/TIL/2024-01/2024-01-16 TIL.md",
-    "Todo/TIL/2024-01/2024-01-21 TIL.md",
-    "Todo/TIL/2024-01/2024-01-24 TIL.md",
-    "Todo/TIL/2024-01/2024-01-23 TIL.md",
-    "Todo/TIL/2024-01/2024-01-22 TIL.md",
-    "Todo/TIL/2024-01/2024-01-26 TIL.md",
-    "Todo/TIL/2024-01/2024-01-25 TIL.md",
-    "Archive/img/Java API/java.lang/throwable.png",
-    "Inbox/Pasted image 20240125194236.png",
-    "Archive/img/Algorithm & Data Structure/Stack.png",
-    "Archive/img/Algorithm & Data Structure/Queue.png",
-    "Archive/img/Algorithm & Data Structure/Deque.png",
-    "Archive/img/Coding Test/1157.png",
-    "Inbox/Pasted image 20240126225608.png",
     "SecondBrain.zip",
     "publish.css",
     "themes/publish.css",
     "themes",
     "새 폴더",
-    "Publish/publish.css",
-    "Publish",
-    "Archive/무제 폴더",
-    "Archive/img/109019081.jpg",
-    "Project/JPA/Spring Data JPA",
-    "Project/Spring/Interface",
-    "Archive/img/JPA/lazy.png",
-    "Archive/img/JPA/eager.png",
     "Project/무제 파일.canvas"
   ]
 }
