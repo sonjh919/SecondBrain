@@ -7,5 +7,10 @@ Elastic Beanstalk + Github Actions + Spring Boot를 이용해서 CI/CD를 구축
 ## 구축 순서
 1. [[SpringBoot 세팅(Elastic Beanstalk + Github Actions + Spring Boot)]]
 2. [[Elastic Beanstalk 생성(Elastic Beanstalk + Github Actions + Spring Boot)]]
-3. Github Actions 세팅(Elastic Beanstalk + Github Actions + Spring Boot)
+3. [[Github Actions 세팅(Elastic Beanstalk + Github Actions + Spring Boot)]]
+4. [[RDS 세팅(Elastic Beanstalk + Github Actions + Spring Boot)]]
 
+## 완료!
+순서에 맞춰서 구축을 완료하면, 프로젝트를 push하여 잘 적용되는지 확인하면 된다.
+
+![[cicdtest.png]]
