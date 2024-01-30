@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/2024-01/2024-01-29 TIL.md",
+                "file": "Todo/TIL/2024-01-30 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/2024-01/2024-01-29 TIL.md",
+                "file": "Todo/TIL/2024-01-30 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/2024-01/2024-01-29 TIL.md",
+                "file": "Todo/TIL/2024-01-30 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/TIL/2024-01/2024-01-29 TIL.md"
+                "file": "Todo/TIL/2024-01-30 TIL.md"
               }
             }
           },
@@ -210,32 +210,32 @@
   },
   "active": "ca8e2f83bc103f3c",
   "lastOpenFiles": [
-    "Todo/TIL/2024-01/2024-01-28 TIL.md",
     "Todo/TIL/2024-01/2024-01-29 TIL.md",
+    "Todo/TIL/2024-01-30 TIL.md",
     "Todo/TIL/2024-01/2024-01-27 TIL.md",
+    "Todo/TIL/2024-01/2024-01-28 TIL.md",
+    "Todo/TIL/2024-01/2024-01-12 TIL.md",
+    "Todo/TIL/2023-12/2023-12-26 TIL.md",
+    "Todo/TIL/2023-12/2023-12-21-TIL.md",
+    "Todo/TIL/2023-12/2023-12 TIL.md",
+    "Todo/TIL/2023-12/2023-12-22-TIL.md",
+    "Todo/TIL/2023-12/2023-12-23 TIL.md",
+    "Todo/TIL/2023-12/2023-12-24 TIL.md",
+    "Todo/TIL/2023-12/2023-12-25 TIL.md",
+    "Todo/TIL/2023-12/2023-12-27 TIL.md",
+    "Todo/TIL/2023-12/2023-12-28 TIL.md",
+    "Todo/TIL/2023-12/2023-12-29 TIL.md",
+    "Todo/TIL/2023-12/2023-12-30 TIL.md",
+    "Todo/TIL/2023-12/2023-12-31 TIL.md",
+    "Todo/TIL/2024-01/2024-01-03 TIL.md",
+    "Todo/TIL/2024-01/2024-01-05 TIL.md",
+    "Todo/TIL/2024-01/2024-01-16 TIL.md",
+    "Todo/TIL/2024-01/2024-01-21 TIL.md",
+    "Todo/TIL/2024-01/2024-01-24 TIL.md",
+    "Todo/TIL/2024-01/2024-01-23 TIL.md",
+    "Todo/TIL/2024-01/2024-01-22 TIL.md",
     "Todo/TIL/2024-01/2024-01-26 TIL.md",
     "Todo/TIL/2024-01/2024-01-25 TIL.md",
-    "Area/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
-    "Area/JAVA/개발 환경/JDK.md",
-    "Area/JAVA/개발 환경/Java의 역사와 특징.md",
-    "Area/JAVA/개발 환경/JAR.md",
-    "Inbox/끄적끄적.md",
-    "Inbox/나중에 정리할 것.md",
-    "Inbox/코테.md",
-    "Area/Test/TDD.md",
-    "Area/Test/Mockito.md",
-    "Area/Test/MOC.md",
-    "Area/Test/JUnit.md",
-    "Area/Test/JUnit Annotation.md",
-    "Area/Test/given when then 패턴.md",
-    "Area/Test/AssertJ.md",
-    "Area/Test/테스트의 종류.md",
-    "Area/Test/버그 잡기.md",
-    "Area/Java API/java.util/Scanner.md",
-    "Area/Java API/java.util/regex.md",
-    "Area/Java API/java.util/Random.md",
-    "Area/Java API/java.util/Optional.md",
-    "Area/Java API/java.util/Map.md",
     "Archive/img/Java API/java.lang/throwable.png",
     "Inbox/Pasted image 20240125194236.png",
     "Archive/img/Algorithm & Data Structure/Stack.png",
