@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Area/Database/RDB/SQL/Query/SubQuery.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Area/Database/RDB/SQL/Query/SubQuery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Area/Database/RDB/SQL/Query/SubQuery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/끄적끄적.md"
+                "file": "Area/Database/RDB/SQL/Query/SubQuery.md"
               }
             }
           },
@@ -210,6 +210,10 @@
   },
   "active": "ca8e2f83bc103f3c",
   "lastOpenFiles": [
+    "Area/Database/RDB/SQL/Query/계층 Query.md",
+    "Area/Database/RDB/SQL/Query/Top-N Query.md",
+    "Area/Database/RDB/SQL/Query/SubQuery.md",
+    "Inbox/끄적끄적.md",
     "Project/Spring/Security/인증과 인가.md",
     "Project/Spring/Security/JWT/JWT 기반 인증.md",
     "Project/Spring/Security/세션.md",
@@ -237,7 +241,6 @@
     "Archive/img/AWS",
     "Project/AWS/Elastic Beanstalk",
     "Project/AWS/EC2",
-    "Inbox/끄적끄적.md",
     "Project/AWS",
     "Todo/TIL/2024-01-30 TIL.md",
     "Todo/TIL/2024-01/2024-01-29 TIL.md",
@@ -249,9 +252,6 @@
     "Todo/TIL/2023-12/2023-12 TIL.md",
     "Todo/TIL/2023-12/2023-12-22-TIL.md",
     "Todo/TIL/2023-12/2023-12-23 TIL.md",
-    "Todo/TIL/2023-12/2023-12-24 TIL.md",
-    "Todo/TIL/2023-12/2023-12-25 TIL.md",
-    "Todo/TIL/2023-12/2023-12-27 TIL.md",
     "SecondBrain.zip",
     "publish.css",
     "themes/publish.css",
