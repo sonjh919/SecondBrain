@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/AWS/Elastic Beanstalk/RDS 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/AWS/Elastic Beanstalk/RDS 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
+                "file": "Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/AWS/Elastic Beanstalk/RDS 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
+                "file": "Inbox/끄적끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/AWS/Elastic Beanstalk/RDS 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md"
+                "file": "Inbox/끄적끄적.md"
               }
             }
           },
@@ -208,10 +208,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ca8e2f83bc103f3c",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
-    "Project/AWS/Elastic Beanstalk/Github Actions 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
     "Project/AWS/Elastic Beanstalk/RDS 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
+    "Project/AWS/Elastic Beanstalk/Github Actions 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
     "Project/AWS/Elastic Beanstalk/Elastic Beanstalk 생성(Elastic Beanstalk + Github Actions + Spring Boot).md",
     "Project/AWS/Elastic Beanstalk/Elastic Beanstalk + Github Actions + Spring Boot.md",
     "Inbox/끄적끄적.md",
