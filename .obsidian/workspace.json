@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md",
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md",
+                "file": "Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md",
+                "file": "Inbox/끄적끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md"
+                "file": "Inbox/끄적끄적.md"
               }
             }
           },
@@ -210,6 +210,7 @@
   },
   "active": "49c6344b3159bf1d",
   "lastOpenFiles": [
+    "Project/CS/Network/HTTP 상태 코드.md",
     "Project/Spring/Security/인증과 인가.md",
     "Project/AWS/Elastic Beanstalk/SpringBoot 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
     "Archive/img/Error/502_2.png",
