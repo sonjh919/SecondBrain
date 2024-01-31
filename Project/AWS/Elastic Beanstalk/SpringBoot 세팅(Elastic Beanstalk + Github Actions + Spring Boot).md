@@ -66,7 +66,7 @@ jobs:
 ```
 
 ## 2. ebextensions
-**구성 파일**들의 모음집이다. root 디렉토리에서 `.ebextensions` 디렉토리를 만든 후 `.ebextensions` 파일을 작성한다. 사실 굳이 이렇게 만든다면 디렉토리를 만들 필요가 없지만, 나중에 어떤 세팅이 또 들어갈지 모르기 때문에 만드는 것이 좋다고 생각한다.
+Beanstalk은 시스템의 대부분을 AWS에서 자동으로 구성해주기 때문에 기존 EC2에 직접 설치할때처럼 사용할 수 없다. 그래서 직접 Custom 하게 사용할 수 있도록 설정할 수 있는 방법이 root 디렉토리에서 `.ebextensions` 디렉토리이다. 해당 디렉토리에 `.config` 파일 확장명을 가진 YAML이나 JSON 형태의 설정 코드를 두면 그에 맞춰 Beanstalk 배포시/환경 재구성시 사용하게 된다.
 
 ```yml
 commands:  

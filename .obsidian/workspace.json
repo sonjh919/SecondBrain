@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/2024-01/2024-01-30 TIL.md",
+                "file": "Area/Error/AWS/connect() failed (111 Connection refused).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/2024-01/2024-01-30 TIL.md",
+                "file": "Area/Error/AWS/connect() failed (111 Connection refused).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/2024-01/2024-01-30 TIL.md",
+                "file": "Area/Error/AWS/connect() failed (111 Connection refused).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/TIL/2024-01/2024-01-30 TIL.md"
+                "file": "Area/Error/AWS/connect() failed (111 Connection refused).md"
               }
             }
           },
@@ -224,15 +224,19 @@
   },
   "active": "56edd1fe260f3146",
   "lastOpenFiles": [
-    "Archive/img/TIL/20240131.png",
+    "Inbox/끄적끄적.md",
+    "Area/Error/AWS/connect() failed (111 Connection refused).md",
+    "Area/Error/AWS",
+    "Inbox/Pasted image 20240131111925.png",
+    "Project/AWS/Elastic Beanstalk/SpringBoot 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
+    "Project/AWS/Elastic Beanstalk/Elastic Beanstalk + Github Actions + Spring Boot.md",
     "Todo/TIL/2024-01/2024-01-30 TIL.md",
+    "Archive/img/TIL/20240131.png",
     "Project/AWS/EC2/EC2 인스턴스 프로파일.md",
     "Todo/TIL/2024-01/2024-01-29 TIL.md",
-    "Inbox/끄적끄적.md",
     "Project/AWS/Elastic Beanstalk/RDS 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
     "Project/AWS/Elastic Beanstalk/Github Actions 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
     "Project/AWS/Elastic Beanstalk/Elastic Beanstalk 생성(Elastic Beanstalk + Github Actions + Spring Boot).md",
-    "Project/AWS/Elastic Beanstalk/Elastic Beanstalk + Github Actions + Spring Boot.md",
     "Area/Database/RDB/SQL/Query/SubQuery.md",
     "Area/Database/RDB/SQL/Query/계층 Query.md",
     "Area/Database/RDB/SQL/Query/Top-N Query.md",
@@ -242,7 +246,6 @@
     "Project/Spring/Security/JWT/JWT 사용 흐름.md",
     "Archive/img/AWS/Elastic BeanStalk/githubaction.png",
     "Archive/img/AWS/Elastic BeanStalk/BeanstalkRDS1.png",
-    "Project/AWS/Elastic Beanstalk/SpringBoot 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
     "Archive/img/AWS/Elastic BeanStalk/cicdtest.png",
     "Archive/img/AWS/Elastic BeanStalk/BeanstalkRDS5.png",
     "Elastic.md",
@@ -252,7 +255,6 @@
     "Archive/img/AWS/EC2/keypair.png",
     "Archive/img/AWS/EC2",
     "Project/AWS/EC2/EC2 키 페어.md",
-    "Archive/img/AWS/Elastic BeanStalk/Beanstalk4.png",
     "Archive/img/AWS/Elastic BeanStalk",
     "Archive/img/AWS",
     "Project/AWS/Elastic Beanstalk",
@@ -268,7 +270,6 @@
     "SecondBrain.zip",
     "publish.css",
     "themes/publish.css",
-    "themes",
     "Project/무제 파일.canvas"
   ]
 }
