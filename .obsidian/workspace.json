@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "696370752b67f6f7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Inbox/Pasted image 20240131111925.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Inbox/Pasted image 20240131111925.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Inbox/Pasted image 20240131111925.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/끄적끄적.md"
+                "file": "Inbox/Pasted image 20240131111925.png"
               }
             }
           },
@@ -208,23 +219,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "49c6344b3159bf1d",
+  "active": "696370752b67f6f7",
   "lastOpenFiles": [
-    "Inbox/나중에 정리할 것.md",
+    "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
+    "Inbox/Pasted image 20240131111925.png",
+    "Project/CS/Network/Forward와 Redirect.md",
     "Inbox/끄적끄적.md",
+    "Todo/TIL/2024-01/2024-01-31 TIL.md",
+    "Todo/TIL/2024-01/2024-01-30 TIL.md",
+    "Inbox/나중에 정리할 것.md",
     "Project/CS/Network/HTTP 상태 코드.md",
     "Project/Spring/Security/인증과 인가.md",
     "Project/AWS/Elastic Beanstalk/SpringBoot 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
     "Archive/img/Error/502_2.png",
     "Archive/img/Error/502_1.png",
     "Area/Error/AWS/connect() failed (111 Connection refused).md",
-    "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
-    "Todo/TIL/2024-01/2024-01-30 TIL.md",
     "Project/AWS/Elastic Beanstalk/Elastic Beanstalk.md",
     "Area/Error/Docker/Error response from daemon COPY failed no source files were specified.md",
     "Area/Error/AWS/Beanstalk",
     "Area/Error/AWS",
-    "Inbox/Pasted image 20240131111925.png",
     "Project/AWS/Elastic Beanstalk/Elastic Beanstalk + Github Actions + Spring Boot.md",
     "Archive/img/TIL/20240131.png",
     "Project/AWS/EC2/EC2 인스턴스 프로파일.md",
@@ -246,14 +259,11 @@
     "Archive/img/AWS/Elastic BeanStalk/BeanstalkRDS4.png",
     "Archive/img/AWS/Elastic BeanStalk/BeanstalkRDS3.png",
     "Archive/img/AWS/EC2",
-    "Project/AWS/EC2/EC2 키 페어.md",
     "Archive/img/AWS/Elastic BeanStalk",
     "Archive/img/AWS",
     "Project/AWS/Elastic Beanstalk",
     "Project/AWS/EC2",
     "Project/AWS",
-    "Todo/TIL/2024-01/2024-01-27 TIL.md",
-    "Todo/TIL/2024-01/2024-01-28 TIL.md",
     "SecondBrain.zip",
     "publish.css",
     "Project/무제 파일.canvas"
