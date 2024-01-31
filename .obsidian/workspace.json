@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Todo/TIL/2024-01/2024-01-30 TIL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56edd1fe260f3146",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo/TIL/2024-01/2024-01-30 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Todo/TIL/2024-01/2024-01-30 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Todo/TIL/2024-01/2024-01-30 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/끄적끄적.md"
+                "file": "Todo/TIL/2024-01/2024-01-30 TIL.md"
               }
             }
           },
@@ -208,13 +222,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "56edd1fe260f3146",
   "lastOpenFiles": [
+    "Archive/img/TIL/20240131.png",
+    "Todo/TIL/2024-01/2024-01-30 TIL.md",
+    "Project/AWS/EC2/EC2 인스턴스 프로파일.md",
+    "Todo/TIL/2024-01/2024-01-29 TIL.md",
+    "Inbox/끄적끄적.md",
     "Project/AWS/Elastic Beanstalk/RDS 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
     "Project/AWS/Elastic Beanstalk/Github Actions 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
     "Project/AWS/Elastic Beanstalk/Elastic Beanstalk 생성(Elastic Beanstalk + Github Actions + Spring Boot).md",
     "Project/AWS/Elastic Beanstalk/Elastic Beanstalk + Github Actions + Spring Boot.md",
-    "Inbox/끄적끄적.md",
     "Area/Database/RDB/SQL/Query/SubQuery.md",
     "Area/Database/RDB/SQL/Query/계층 Query.md",
     "Area/Database/RDB/SQL/Query/Top-N Query.md",
@@ -234,16 +252,12 @@
     "Archive/img/AWS/EC2/keypair.png",
     "Archive/img/AWS/EC2",
     "Project/AWS/EC2/EC2 키 페어.md",
-    "Project/AWS/EC2/EC2 인스턴스 프로파일.md",
     "Archive/img/AWS/Elastic BeanStalk/Beanstalk4.png",
-    "Archive/img/AWS/Elastic BeanStalk/Beanstalk6.png",
     "Archive/img/AWS/Elastic BeanStalk",
     "Archive/img/AWS",
     "Project/AWS/Elastic Beanstalk",
     "Project/AWS/EC2",
     "Project/AWS",
-    "Todo/TIL/2024-01-30 TIL.md",
-    "Todo/TIL/2024-01/2024-01-29 TIL.md",
     "Todo/TIL/2024-01/2024-01-27 TIL.md",
     "Todo/TIL/2024-01/2024-01-28 TIL.md",
     "Todo/TIL/2024-01/2024-01-12 TIL.md",
@@ -251,7 +265,6 @@
     "Todo/TIL/2023-12/2023-12-21-TIL.md",
     "Todo/TIL/2023-12/2023-12 TIL.md",
     "Todo/TIL/2023-12/2023-12-22-TIL.md",
-    "Todo/TIL/2023-12/2023-12-23 TIL.md",
     "SecondBrain.zip",
     "publish.css",
     "themes/publish.css",
