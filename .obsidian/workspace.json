@@ -8,27 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca8e2f83bc103f3c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Area/Error/AWS/502_2.png"
-              }
-            }
-          },
-          {
             "id": "49c6344b3159bf1d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Archive/img/Error/502_1.png"
+                "file": "Project/CS/Network/HTTP 상태 코드.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/img/Error/502_1.png",
+                "file": "Project/CS/Network/HTTP 상태 코드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/img/Error/502_1.png",
+                "file": "Project/CS/Network/HTTP 상태 코드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/img/Error/502_1.png"
+                "file": "Project/CS/Network/HTTP 상태 코드.md"
               }
             }
           },
@@ -216,9 +208,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "49c6344b3159bf1d",
   "lastOpenFiles": [
-    "Area/Error/AWS/502_2.png",
+    "Project/Spring/Security/인증과 인가.md",
+    "Project/AWS/Elastic Beanstalk/SpringBoot 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
+    "Archive/img/Error/502_2.png",
     "Archive/img/Error/502_1.png",
     "Area/Error/AWS/connect() failed (111 Connection refused).md",
     "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
@@ -229,7 +223,6 @@
     "Area/Error/AWS/Beanstalk",
     "Area/Error/AWS",
     "Inbox/Pasted image 20240131111925.png",
-    "Project/AWS/Elastic Beanstalk/SpringBoot 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
     "Project/AWS/Elastic Beanstalk/Elastic Beanstalk + Github Actions + Spring Boot.md",
     "Archive/img/TIL/20240131.png",
     "Project/AWS/EC2/EC2 인스턴스 프로파일.md",
@@ -240,7 +233,6 @@
     "Area/Database/RDB/SQL/Query/SubQuery.md",
     "Area/Database/RDB/SQL/Query/계층 Query.md",
     "Area/Database/RDB/SQL/Query/Top-N Query.md",
-    "Project/Spring/Security/인증과 인가.md",
     "Project/Spring/Security/JWT/JWT 기반 인증.md",
     "Project/Spring/Security/세션.md",
     "Project/Spring/Security/JWT/JWT 사용 흐름.md",

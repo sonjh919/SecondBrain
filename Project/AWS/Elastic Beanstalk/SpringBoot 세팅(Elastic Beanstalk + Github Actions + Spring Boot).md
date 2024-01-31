@@ -68,6 +68,22 @@ jobs:
 ## 2. ebextensions
 Beanstalk은 시스템의 대부분을 AWS에서 자동으로 구성해주기 때문에 기존 EC2에 직접 설치할때처럼 사용할 수 없다. 그래서 직접 Custom 하게 사용할 수 있도록 설정할 수 있는 방법이 root 디렉토리에서 `.ebextensions` 디렉토리이다. 해당 디렉토리에 `.config` 파일 확장명을 가진 YAML이나 JSON 형태의 설정 코드를 두면 그에 맞춰 Beanstalk 배포시/환경 재구성시 사용하게 된다.
 
+#### 00-makeFiles.config
+```yml
+files:  
+    "/sbin/appstart" :  
+        mode: "000755"  
+        owner: webapp  
+        group: webapp  
+        content: |  
+            #!/usr/bin/env bash  
+            JAR_PATH=/var/app/current/application.jar  
+  
+            # run app  
+            killall java  
+            java -Dfile.encoding=UTF-8 -jar $JAR_PATH
+```
+#### 00-set-timezone.config
 ```yml
 commands:  
   set_time_zone:  
