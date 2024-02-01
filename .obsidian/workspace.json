@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/대용량 트래픽.md",
+                "file": "Todo/TIL/2024-02/2024-02-01 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/대용량 트래픽.md",
+                "file": "Todo/TIL/2024-02/2024-02-01 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/대용량 트래픽.md",
+                "file": "Todo/TIL/2024-02/2024-02-01 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/대용량 트래픽.md"
+                "file": "Todo/TIL/2024-02/2024-02-01 TIL.md"
               }
             }
           },
@@ -222,8 +222,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "696370752b67f6f7",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
+    "Todo/TIL/2024-01/2024-01-31 TIL.md",
+    "Todo/TIL/2024-02/2024-02-01 TIL.md",
+    "Todo/TIL/2024-02",
+    "Inbox/끄적끄적.md",
+    "Inbox/대용량 트래픽.md",
+    "Inbox/Pasted image 20240201201104.png",
     "Inbox/Pasted image 20240201200204.png",
     "Inbox/Pasted image 20240201195712.png",
     "Inbox/Pasted image 20240201194340.png",
@@ -232,7 +238,6 @@
     "Inbox/Pasted image 20240201193341.png",
     "Inbox/Pasted image 20240201191421.png",
     "Project/CS/Network/HTTP 상태 코드.md",
-    "Inbox/대용량 트래픽.md",
     "Project/CS/Network/REST API.md",
     "Project/CS/Network/JSON.md",
     "Project/CS/Network/HATEOAS.md",
@@ -245,23 +250,19 @@
     "Project/Spring/Security/JWT/JWT 사용 흐름.md",
     "Project/Spring/Security/JWT/JWT 기반 인증.md",
     "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
-    "Inbox/끄적끄적.md",
     "Inbox/Pasted image 20240131111925.png",
     "Project/CS/Network/Forward와 Redirect.md",
-    "Todo/TIL/2024-01/2024-01-31 TIL.md",
     "Todo/TIL/2024-01/2024-01-30 TIL.md",
     "Inbox/나중에 정리할 것.md",
     "Project/Spring/Security/인증과 인가.md",
     "Project/AWS/Elastic Beanstalk/SpringBoot 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
     "Archive/img/Error/502_2.png",
-    "Archive/img/Error/502_1.png",
     "Area/Error/AWS/connect() failed (111 Connection refused).md",
     "Project/AWS/Elastic Beanstalk/Elastic Beanstalk.md",
     "Area/Error/Docker/Error response from daemon COPY failed no source files were specified.md",
     "Area/Error/AWS/Beanstalk",
     "Area/Error/AWS",
     "Project/AWS/Elastic Beanstalk/Elastic Beanstalk + Github Actions + Spring Boot.md",
-    "Archive/img/TIL/20240131.png",
     "Archive/img/AWS/EC2",
     "Archive/img/AWS/Elastic BeanStalk",
     "Archive/img/AWS",
@@ -269,7 +270,6 @@
     "Project/AWS/EC2",
     "Project/AWS",
     "SecondBrain.zip",
-    "publish.css",
     "Project/무제 파일.canvas"
   ]
 }
