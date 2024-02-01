@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md",
+                "file": "Inbox/대용량 트래픽.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md",
+                "file": "Inbox/대용량 트래픽.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md",
+                "file": "Inbox/대용량 트래픽.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md"
+                "file": "Inbox/대용량 트래픽.md"
               }
             }
           },
@@ -224,9 +224,17 @@
   },
   "active": "696370752b67f6f7",
   "lastOpenFiles": [
+    "Inbox/Pasted image 20240201200204.png",
+    "Inbox/Pasted image 20240201195712.png",
+    "Inbox/Pasted image 20240201194340.png",
+    "Inbox/Pasted image 20240201194234.png",
+    "Inbox/Pasted image 20240201193601.png",
+    "Inbox/Pasted image 20240201193341.png",
+    "Inbox/Pasted image 20240201191421.png",
+    "Project/CS/Network/HTTP 상태 코드.md",
+    "Inbox/대용량 트래픽.md",
     "Project/CS/Network/REST API.md",
     "Project/CS/Network/JSON.md",
-    "Project/CS/Network/HTTP 상태 코드.md",
     "Project/CS/Network/HATEOAS.md",
     "Project/Spring/Library/Validation.md",
     "Project/Spring/Security/쿠키와 세션 기반 인증.md",
@@ -254,14 +262,6 @@
     "Area/Error/AWS",
     "Project/AWS/Elastic Beanstalk/Elastic Beanstalk + Github Actions + Spring Boot.md",
     "Archive/img/TIL/20240131.png",
-    "Project/AWS/EC2/EC2 인스턴스 프로파일.md",
-    "Todo/TIL/2024-01/2024-01-29 TIL.md",
-    "Archive/img/AWS/Elastic BeanStalk/githubaction.png",
-    "Archive/img/AWS/Elastic BeanStalk/BeanstalkRDS1.png",
-    "Archive/img/AWS/Elastic BeanStalk/cicdtest.png",
-    "Archive/img/AWS/Elastic BeanStalk/BeanstalkRDS5.png",
-    "Archive/img/AWS/Elastic BeanStalk/BeanstalkRDS4.png",
-    "Archive/img/AWS/Elastic BeanStalk/BeanstalkRDS3.png",
     "Archive/img/AWS/EC2",
     "Archive/img/AWS/Elastic BeanStalk",
     "Archive/img/AWS",
