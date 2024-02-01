@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
+                "file": "Project/Spring/Security/쿠키와 세션 기반 인증.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
+                "file": "Project/Spring/Security/쿠키와 세션 기반 인증.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
+                "file": "Project/Spring/Security/쿠키와 세션 기반 인증.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md"
+                "file": "Project/Spring/Security/쿠키와 세션 기반 인증.md"
               }
             }
           },
@@ -224,8 +224,14 @@
   },
   "active": "696370752b67f6f7",
   "lastOpenFiles": [
-    "Inbox/끄적끄적.md",
+    "Project/Spring/Security/접근 불가 페이지.md",
+    "Project/Spring/Security/세션.md",
+    "Project/Spring/Security/로그인.md",
+    "Project/Spring/Security/JWT/JWT.md",
+    "Project/Spring/Security/JWT/JWT 사용 흐름.md",
+    "Project/Spring/Security/JWT/JWT 기반 인증.md",
     "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
+    "Inbox/끄적끄적.md",
     "Inbox/Pasted image 20240131111925.png",
     "Project/CS/Network/Forward와 Redirect.md",
     "Todo/TIL/2024-01/2024-01-31 TIL.md",
@@ -250,15 +256,10 @@
     "Project/AWS/Elastic Beanstalk/Elastic Beanstalk 생성(Elastic Beanstalk + Github Actions + Spring Boot).md",
     "Area/Database/RDB/SQL/Query/SubQuery.md",
     "Area/Database/RDB/SQL/Query/계층 Query.md",
-    "Area/Database/RDB/SQL/Query/Top-N Query.md",
-    "Project/Spring/Security/JWT/JWT 기반 인증.md",
-    "Project/Spring/Security/세션.md",
-    "Project/Spring/Security/JWT/JWT 사용 흐름.md",
     "Archive/img/AWS/Elastic BeanStalk/githubaction.png",
     "Archive/img/AWS/Elastic BeanStalk/BeanstalkRDS1.png",
     "Archive/img/AWS/Elastic BeanStalk/cicdtest.png",
     "Archive/img/AWS/Elastic BeanStalk/BeanstalkRDS5.png",
-    "Elastic.md",
     "Archive/img/AWS/Elastic BeanStalk/BeanstalkRDS4.png",
     "Archive/img/AWS/Elastic BeanStalk/BeanstalkRDS3.png",
     "Archive/img/AWS/EC2",
