@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/2024-02/2024-02-01 TIL.md",
+                "file": "Area/Docker/이미지.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c445e86117f8077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/무제 파일.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/2024-02/2024-02-01 TIL.md",
+                "file": "Inbox/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/2024-02/2024-02-01 TIL.md",
+                "file": "Inbox/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/TIL/2024-02/2024-02-01 TIL.md"
+                "file": "Inbox/무제 파일.md"
               }
             }
           },
@@ -222,13 +235,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "5c445e86117f8077",
   "lastOpenFiles": [
-    "Todo/TIL/2024-01/2024-01-31 TIL.md",
-    "Todo/TIL/2024-02/2024-02-01 TIL.md",
-    "Todo/TIL/2024-02",
-    "Inbox/끄적끄적.md",
+    "Excalidraw/Drawing 2024-02-01 23.28.45.excalidraw.md",
+    "Inbox/무제 파일.md",
+    "Excalidraw/Drawing 2024-02-01 23.12.08.excalidraw.md",
+    "Area/Docker/이미지.md",
+    "Excalidraw",
+    "Area/Docker/컨테이너.md",
+    "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
+    "Inbox/Pasted image 20240131111925.png",
+    "Project/AWS/EC2/EC2 키 페어.md",
+    "Project/AWS/EC2/EC2 인스턴스 프로파일.md",
+    "Inbox/나중에 정리할 것.md",
     "Inbox/대용량 트래픽.md",
+    "Inbox/끄적끄적.md",
+    "Todo/TIL/2024-02/2024-02-01 TIL.md",
+    "Todo/TIL/2024-01/2024-01-31 TIL.md",
+    "Todo/TIL/2024-02",
     "Inbox/Pasted image 20240201201104.png",
     "Inbox/Pasted image 20240201200204.png",
     "Inbox/Pasted image 20240201195712.png",
@@ -249,27 +273,16 @@
     "Project/Spring/Security/JWT/JWT.md",
     "Project/Spring/Security/JWT/JWT 사용 흐름.md",
     "Project/Spring/Security/JWT/JWT 기반 인증.md",
-    "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
-    "Inbox/Pasted image 20240131111925.png",
     "Project/CS/Network/Forward와 Redirect.md",
-    "Todo/TIL/2024-01/2024-01-30 TIL.md",
-    "Inbox/나중에 정리할 것.md",
-    "Project/Spring/Security/인증과 인가.md",
-    "Project/AWS/Elastic Beanstalk/SpringBoot 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
     "Archive/img/Error/502_2.png",
-    "Area/Error/AWS/connect() failed (111 Connection refused).md",
-    "Project/AWS/Elastic Beanstalk/Elastic Beanstalk.md",
-    "Area/Error/Docker/Error response from daemon COPY failed no source files were specified.md",
     "Area/Error/AWS/Beanstalk",
     "Area/Error/AWS",
-    "Project/AWS/Elastic Beanstalk/Elastic Beanstalk + Github Actions + Spring Boot.md",
     "Archive/img/AWS/EC2",
     "Archive/img/AWS/Elastic BeanStalk",
     "Archive/img/AWS",
     "Project/AWS/Elastic Beanstalk",
     "Project/AWS/EC2",
     "Project/AWS",
-    "SecondBrain.zip",
     "Project/무제 파일.canvas"
   ]
 }
