@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/CS/Network/REST API.md",
+                "file": "Project/CS/Network/HTTP 상태 코드.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/CS/Network/REST API.md",
+                "file": "Project/CS/Network/HTTP 상태 코드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/CS/Network/REST API.md",
+                "file": "Project/CS/Network/HTTP 상태 코드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/CS/Network/REST API.md"
+                "file": "Project/CS/Network/HTTP 상태 코드.md"
               }
             }
           },
@@ -224,6 +224,7 @@
   },
   "active": "696370752b67f6f7",
   "lastOpenFiles": [
+    "Project/CS/Network/REST API.md",
     "Project/CS/Network/JSON.md",
     "Project/CS/Network/HTTP 상태 코드.md",
     "Project/CS/Network/HATEOAS.md",
@@ -255,7 +256,6 @@
     "Archive/img/TIL/20240131.png",
     "Project/AWS/EC2/EC2 인스턴스 프로파일.md",
     "Todo/TIL/2024-01/2024-01-29 TIL.md",
-    "Project/AWS/Elastic Beanstalk/RDS 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
     "Archive/img/AWS/Elastic BeanStalk/githubaction.png",
     "Archive/img/AWS/Elastic BeanStalk/BeanstalkRDS1.png",
     "Archive/img/AWS/Elastic BeanStalk/cicdtest.png",
