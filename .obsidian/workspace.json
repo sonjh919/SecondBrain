@@ -45,9 +45,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf93d816cd725dd9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/끄적끄적.md"
+                "file": "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md"
               }
             }
           },
@@ -235,11 +245,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5c445e86117f8077",
+  "active": "cf93d816cd725dd9",
   "lastOpenFiles": [
+    "Inbox/끄적끄적.md",
+    "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md",
     "Inbox/나중에 정리할 것.md",
     "Project/JPA/Entity/1대 N 관계.md",
-    "Inbox/끄적끄적.md",
     "Project/Spring/문법/Client에서 데이터 받기.md",
     "Project/Spring/문법/PathVariable vs RequestParam.md",
     "Inbox/무제 파일.md",
@@ -275,7 +286,6 @@
     "Project/CS/Network/JSON.md",
     "Project/CS/Network/HATEOAS.md",
     "Project/Spring/Library/Validation.md",
-    "Project/Spring/Security/쿠키와 세션 기반 인증.md",
     "Area/Error/AWS/Beanstalk",
     "Area/Error/AWS",
     "Archive/img/AWS/EC2",
