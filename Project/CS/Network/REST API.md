@@ -13,7 +13,7 @@ path:
 #CS #Network 
 
 ## REST-API (Representational State Transfer API)
-+ [[REST]] 아키텍쳐 스타일을 따르는 [[API]]를 REST-API라고 한다.
++ [[REST]] 아키텍쳐 스타일을 따르는 [[Project/CS/Network/API]]를 REST-API라고 한다.
 + **해당 자원의 상태를 주고 받는 모든 것**
 + 웹의 모든 자원에 고유한 id인 **http url**을 부여하고 **HTTP Method(Get, Post, Put, Delete)** 를 통해 해당 자원에 대한 **CRUD 연산**을 적용한다.
 - **자원 기반 구조** (ROA : Resource Oriented Architecture)로 설계된 아키텍처를 의미한다.
@@ -53,6 +53,7 @@ REST API 설계 시 가장 중요한 항목은 2가지이다.
 
 
 ### 1-3. 표현 (Representations)
+
 - 하나의 자원은 JSON, XML, TEXT, RSS등 여러 형태로 나타낼 수 있다.
 - 최근에는 [[JSON]]로 주고받는 것이 대부분이다.
 

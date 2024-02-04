@@ -13,33 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "696370752b67f6f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/Docker/이미지.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c445e86117f8077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/CS/Network/REST API.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,14 +24,17 @@
             "id": "cf93d816cd725dd9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md"
+                "file": "Excalidraw/api.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md",
+                "file": "Excalidraw/api.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md",
+                "file": "Excalidraw/api.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md"
+                "file": "Excalidraw/api.md"
               }
             }
           },
@@ -247,8 +224,23 @@
   },
   "active": "cf93d816cd725dd9",
   "lastOpenFiles": [
-    "Inbox/끄적끄적.md",
     "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md",
+    "Project/CS/Network/REST API.md",
+    "Excalidraw/api.md",
+    "Archive/img/Spring/mvcall.png",
+    "Project/Spring/문법/MVC.md",
+    "Project/CS/Network/JSON.md",
+    "Project/CS/Network/REST.md",
+    "Project/CS/Network/HTTP 상태 코드.md",
+    "Project/CS/Network/HTTP.md",
+    "Project/CS/Network/HTTP Method.md",
+    "Project/CS/Network/HTTP Headers.md",
+    "Project/CS/Network/API.md",
+    "Project/CS/Network/MOC.md",
+    "Project/CS/Network/3 Tier Architecture.md",
+    "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
+    "Area/Docker/이미지.md",
+    "Inbox/끄적끄적.md",
     "Inbox/나중에 정리할 것.md",
     "Project/JPA/Entity/1대 N 관계.md",
     "Project/Spring/문법/Client에서 데이터 받기.md",
@@ -262,30 +254,14 @@
     "Todo/TIL/2024-01/2024-01-31 TIL.md",
     "Excalidraw/Drawing 2024-02-01 23.12.08.excalidraw.md",
     "Excalidraw/Drawing 2024-02-01 23.28.45.excalidraw.md",
-    "Templates/TIL Templete.md",
-    "Templates/Insert_Callout.md",
-    "Templates/gitblog templete.md",
-    "Templates/blog_Callout.md",
-    "Area/Docker/이미지.md",
     "Excalidraw",
-    "Area/Docker/컨테이너.md",
-    "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
     "Inbox/대용량트래픽/Pasted image 20240131111925.png",
-    "Project/AWS/EC2/EC2 키 페어.md",
-    "Project/AWS/EC2/EC2 인스턴스 프로파일.md",
-    "Inbox/대용량트래픽/대용량 트래픽.md",
     "Todo/TIL/2024-02",
     "Inbox/대용량트래픽/Pasted image 20240201201104.png",
     "Inbox/대용량트래픽/Pasted image 20240201200204.png",
     "Inbox/대용량트래픽/Pasted image 20240201194340.png",
     "Inbox/대용량트래픽/Pasted image 20240201194234.png",
     "Inbox/대용량트래픽/Pasted image 20240201193601.png",
-    "Inbox/대용량트래픽/Pasted image 20240201193341.png",
-    "Project/CS/Network/HTTP 상태 코드.md",
-    "Project/CS/Network/REST API.md",
-    "Project/CS/Network/JSON.md",
-    "Project/CS/Network/HATEOAS.md",
-    "Project/Spring/Library/Validation.md",
     "Area/Error/AWS/Beanstalk",
     "Area/Error/AWS",
     "Archive/img/AWS/EC2",

@@ -13,7 +13,7 @@ path:
 #CS #Network 
 
 [[3 Tier Architecture]]
-[[API]]
+[[Project/CS/Network/API]]
 [[Forward와 Redirect]]
 [[HTTP 상태 코드]]
 [[HTTP]]
