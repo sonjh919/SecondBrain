@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/api.md",
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/api.md",
+                "file": "Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/api.md",
+                "file": "Inbox/끄적끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/api.md"
+                "file": "Inbox/끄적끄적.md"
               }
             }
           },
@@ -224,9 +224,9 @@
   },
   "active": "cf93d816cd725dd9",
   "lastOpenFiles": [
+    "Excalidraw/api.md",
     "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md",
     "Project/CS/Network/REST API.md",
-    "Excalidraw/api.md",
     "Archive/img/Spring/mvcall.png",
     "Project/Spring/문법/MVC.md",
     "Project/CS/Network/JSON.md",
