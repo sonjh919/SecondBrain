@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/JPA/영속성 컨텍스트/영속성 전이.md",
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/JPA/영속성 컨텍스트/영속성 전이.md",
+                "file": "Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/JPA/영속성 컨텍스트/영속성 전이.md",
+                "file": "Inbox/끄적끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/JPA/영속성 컨텍스트/영속성 전이.md"
+                "file": "Inbox/끄적끄적.md"
               }
             }
           },
@@ -224,6 +224,15 @@
   },
   "active": "cf93d816cd725dd9",
   "lastOpenFiles": [
+    "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
+    "Project/AWS/Elastic Beanstalk/Elastic Beanstalk + Github Actions + Spring Boot.md",
+    "Project/AWS/Elastic Beanstalk/RDS 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
+    "Project/AWS/Elastic Beanstalk/Github Actions 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
+    "Project/AWS/Elastic Beanstalk/Elastic Beanstalk.md",
+    "Project/AWS/Elastic Beanstalk/Elastic Beanstalk 생성(Elastic Beanstalk + Github Actions + Spring Boot).md",
+    "Project/AWS/EC2/EC2 인스턴스 프로파일.md",
+    "Project/AWS/Elastic Beanstalk/SpringBoot 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
+    "Project/JPA/영속성 컨텍스트/영속성 전이.md",
     "Area/Database/RDB/SQL/DDL/제약조건.md",
     "Inbox/끄적끄적.md",
     "Excalidraw/api.md",
@@ -240,21 +249,12 @@
     "Project/CS/Network/API.md",
     "Project/CS/Network/MOC.md",
     "Project/CS/Network/3 Tier Architecture.md",
-    "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
     "Area/Docker/이미지.md",
     "Inbox/나중에 정리할 것.md",
-    "Project/JPA/Entity/1대 N 관계.md",
-    "Project/Spring/문법/Client에서 데이터 받기.md",
-    "Project/Spring/문법/PathVariable vs RequestParam.md",
-    "Inbox/무제 파일.md",
     "Inbox/대용량트래픽/Pasted image 20240125194236.png",
     "Inbox/대용량트래픽/Pasted image 20240201195712.png",
     "Inbox/대용량트래픽",
     "Inbox/대용량트래픽/Pasted image 20240201191421.png",
-    "Todo/TIL/2024-02/2024-02-01 TIL.md",
-    "Todo/TIL/2024-01/2024-01-31 TIL.md",
-    "Excalidraw/Drawing 2024-02-01 23.12.08.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-01 23.28.45.excalidraw.md",
     "Excalidraw",
     "Inbox/대용량트래픽/Pasted image 20240131111925.png",
     "Todo/TIL/2024-02",
