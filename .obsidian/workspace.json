@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/JPA/영속성 컨텍스트/영속성 전이.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/JPA/영속성 컨텍스트/영속성 전이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/JPA/영속성 컨텍스트/영속성 전이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/끄적끄적.md"
+                "file": "Project/JPA/영속성 컨텍스트/영속성 전이.md"
               }
             }
           },
@@ -224,6 +224,8 @@
   },
   "active": "cf93d816cd725dd9",
   "lastOpenFiles": [
+    "Area/Database/RDB/SQL/DDL/제약조건.md",
+    "Inbox/끄적끄적.md",
     "Excalidraw/api.md",
     "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md",
     "Project/CS/Network/REST API.md",
@@ -240,7 +242,6 @@
     "Project/CS/Network/3 Tier Architecture.md",
     "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
     "Area/Docker/이미지.md",
-    "Inbox/끄적끄적.md",
     "Inbox/나중에 정리할 것.md",
     "Project/JPA/Entity/1대 N 관계.md",
     "Project/Spring/문법/Client에서 데이터 받기.md",
