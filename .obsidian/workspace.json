@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md",
+                "file": "Inbox/0205.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "792a0694421bce97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/0205.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Project/CS/Network/HTTP 상태 코드.md"
-              }
+              "state": {}
             }
           },
           {
@@ -222,8 +231,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cf93d816cd725dd9",
+  "active": "fff0c6353c28b71c",
   "lastOpenFiles": [
+    "Inbox/0205.md",
+    "Excalidraw/Drawing 2024-02-05 17.19.31.excalidraw.md",
+    "Excalidraw/Pasted Image 20240205172631_362.png",
+    "Excalidraw/Pasted Image 20240205171946_369.png",
+    "Project/CS/Network/HTTP 상태 코드.md",
     "Inbox/끄적끄적.md",
     "Project/JPA/영속성 컨텍스트/영속성 전이.md",
     "Project/JPA/Entity/N대 1 관계.md",
@@ -247,10 +261,6 @@
     "Excalidraw/api.md",
     "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md",
     "Archive/img/Spring/mvcall.png",
-    "Project/Spring/문법/MVC.md",
-    "Project/CS/Network/JSON.md",
-    "Project/CS/Network/REST.md",
-    "Project/CS/Network/HTTP 상태 코드.md",
     "Inbox/대용량트래픽/Pasted image 20240125194236.png",
     "Inbox/대용량트래픽/Pasted image 20240201195712.png",
     "Inbox/대용량트래픽",
@@ -261,8 +271,6 @@
     "Inbox/대용량트래픽/Pasted image 20240201201104.png",
     "Inbox/대용량트래픽/Pasted image 20240201200204.png",
     "Inbox/대용량트래픽/Pasted image 20240201194340.png",
-    "Inbox/대용량트래픽/Pasted image 20240201194234.png",
-    "Inbox/대용량트래픽/Pasted image 20240201193601.png",
     "Area/Error/AWS/Beanstalk",
     "Area/Error/AWS",
     "Archive/img/AWS/EC2",
