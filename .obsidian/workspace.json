@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/JPA/영속성 컨텍스트/영속성 전이.md",
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/JPA/영속성 컨텍스트/영속성 전이.md",
+                "file": "Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/JPA/영속성 컨텍스트/영속성 전이.md",
+                "file": "Inbox/끄적끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/JPA/영속성 컨텍스트/영속성 전이.md"
+                "file": "Inbox/끄적끄적.md"
               }
             }
           },
@@ -224,11 +224,11 @@
   },
   "active": "cf93d816cd725dd9",
   "lastOpenFiles": [
+    "Project/JPA/영속성 컨텍스트/영속성 전이.md",
     "Project/JPA/Entity/N대 1 관계.md",
     "Project/JPA/Entity/1대 1 관계.md",
     "Project/JPA/Entity/1대 N 관계.md",
     "Project/JPA/Entity/N대 M 관계.md",
-    "Project/JPA/영속성 컨텍스트/영속성 전이.md",
     "Project/CS/Network/REST API.md",
     "Todo/TIL/2024-02/2024-02-03 TIL.md",
     "Todo/TIL/2024-02/2024-02-04 TIL.md",
