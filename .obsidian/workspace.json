@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Todo/TIL/2024-02/2024-02-04 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Todo/TIL/2024-02/2024-02-04 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Todo/TIL/2024-02/2024-02-04 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/끄적끄적.md"
+                "file": "Todo/TIL/2024-02/2024-02-04 TIL.md"
               }
             }
           },
@@ -222,8 +222,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cf93d816cd725dd9",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
+    "Todo/TIL/2024-02/2024-02-03 TIL.md",
+    "Todo/TIL/2024-02/2024-02-04 TIL.md",
+    "Todo/TIL/2024-02/2024-02-02 TIL.md",
+    "Todo/TIL/2024-02/2024-02-01 TIL.md",
+    "Inbox/끄적끄적.md",
     "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
     "Project/AWS/Elastic Beanstalk/Elastic Beanstalk + Github Actions + Spring Boot.md",
     "Project/AWS/Elastic Beanstalk/RDS 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
@@ -234,7 +239,6 @@
     "Project/AWS/Elastic Beanstalk/SpringBoot 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
     "Project/JPA/영속성 컨텍스트/영속성 전이.md",
     "Area/Database/RDB/SQL/DDL/제약조건.md",
-    "Inbox/끄적끄적.md",
     "Excalidraw/api.md",
     "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md",
     "Project/CS/Network/REST API.md",
@@ -247,10 +251,6 @@
     "Project/CS/Network/HTTP Method.md",
     "Project/CS/Network/HTTP Headers.md",
     "Project/CS/Network/API.md",
-    "Project/CS/Network/MOC.md",
-    "Project/CS/Network/3 Tier Architecture.md",
-    "Area/Docker/이미지.md",
-    "Inbox/나중에 정리할 것.md",
     "Inbox/대용량트래픽/Pasted image 20240125194236.png",
     "Inbox/대용량트래픽/Pasted image 20240201195712.png",
     "Inbox/대용량트래픽",
