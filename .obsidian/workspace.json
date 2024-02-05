@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/0205.md",
+                "file": "Project/CS/Network/HTTP Headers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project/CS/Network/HTTP Headers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Project/CS/Network/HTTP Headers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Project/CS/Network/HTTP Headers.md"
+              }
             }
           },
           {
@@ -231,20 +235,29 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fff0c6353c28b71c",
+  "active": "792a0694421bce97",
   "lastOpenFiles": [
     "Inbox/0205.md",
+    "Project/CS/Network/HTTP Headers.md",
+    "Project/CS/Network/HTTP.md",
+    "Project/CS/Network/REST API.md",
+    "Project/CS/Network/REST.md",
+    "Project/CS/Network/Network.md",
+    "Project/CS/Network/HTTP Method.md",
+    "Project/CS/Network/API.md",
+    "Excalidraw/api.md",
+    "Inbox/나중에 정리할 것.md",
+    "Inbox/무제 파일.md",
+    "Inbox/끄적끄적.md",
     "Excalidraw/Drawing 2024-02-05 17.19.31.excalidraw.md",
     "Excalidraw/Pasted Image 20240205172631_362.png",
     "Excalidraw/Pasted Image 20240205171946_369.png",
     "Project/CS/Network/HTTP 상태 코드.md",
-    "Inbox/끄적끄적.md",
     "Project/JPA/영속성 컨텍스트/영속성 전이.md",
     "Project/JPA/Entity/N대 1 관계.md",
     "Project/JPA/Entity/1대 1 관계.md",
     "Project/JPA/Entity/1대 N 관계.md",
     "Project/JPA/Entity/N대 M 관계.md",
-    "Project/CS/Network/REST API.md",
     "Todo/TIL/2024-02/2024-02-03 TIL.md",
     "Todo/TIL/2024-02/2024-02-04 TIL.md",
     "Todo/TIL/2024-02/2024-02-02 TIL.md",
@@ -252,14 +265,6 @@
     "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
     "Project/AWS/Elastic Beanstalk/Elastic Beanstalk + Github Actions + Spring Boot.md",
     "Project/AWS/Elastic Beanstalk/RDS 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
-    "Project/AWS/Elastic Beanstalk/Github Actions 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
-    "Project/AWS/Elastic Beanstalk/Elastic Beanstalk.md",
-    "Project/AWS/Elastic Beanstalk/Elastic Beanstalk 생성(Elastic Beanstalk + Github Actions + Spring Boot).md",
-    "Project/AWS/EC2/EC2 인스턴스 프로파일.md",
-    "Project/AWS/Elastic Beanstalk/SpringBoot 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
-    "Area/Database/RDB/SQL/DDL/제약조건.md",
-    "Excalidraw/api.md",
-    "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md",
     "Archive/img/Spring/mvcall.png",
     "Inbox/대용량트래픽/Pasted image 20240125194236.png",
     "Inbox/대용량트래픽/Pasted image 20240201195712.png",

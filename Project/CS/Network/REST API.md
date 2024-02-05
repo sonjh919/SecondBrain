@@ -21,7 +21,7 @@ path:
 > 즉, 서버의 api가 적절하게 [[http]]를 준수하며 잘 설계되어있으면 RESTful 하게 설계되어 있다!
 {: .prompt-info }
 
-## REST  API 구성
+## REST API 구성
 REST API는 다음의 구성으로 이루어져 있다.
 
 - **자원(RESOURCE)** - URI

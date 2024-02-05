@@ -26,7 +26,6 @@ HTTP메소드에서 GET방식은 value=text 형식으로 보내지기 때문에 
 
 ## Retry-After
 비정상적인 방법(DoS, Brute-force attack)으로 API 서버를 이용하려는 경우 `429 Too Many Requests` [[HTTP 상태 코드]]로 오류 응답과 함께 일정 시간 뒤 요청할 것을 나타낸다. id, password를 이용한 로그인 작업 시, 서버 과부하를 목적으로 post 반복 호출 시 등이 있다. n시간동안 n회만 요청 가능 같은 제약을 걸 수 있다.
-
 ## Link
 페이징 처리를 위해 사용한다. 자세한 내용은 github 방법을 따른다.
 https://developer.github.com/v3/#pagination
