@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/2024-02/2024-02-04 TIL.md",
+                "file": "Project/JPA/영속성 컨텍스트/영속성 전이.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/2024-02/2024-02-04 TIL.md",
+                "file": "Project/JPA/영속성 컨텍스트/영속성 전이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/2024-02/2024-02-04 TIL.md",
+                "file": "Project/JPA/영속성 컨텍스트/영속성 전이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/TIL/2024-02/2024-02-04 TIL.md"
+                "file": "Project/JPA/영속성 컨텍스트/영속성 전이.md"
               }
             }
           },
@@ -222,8 +222,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "cf93d816cd725dd9",
   "lastOpenFiles": [
+    "Project/JPA/Entity/N대 1 관계.md",
+    "Project/JPA/Entity/1대 1 관계.md",
+    "Project/JPA/Entity/1대 N 관계.md",
+    "Project/JPA/Entity/N대 M 관계.md",
+    "Project/JPA/영속성 컨텍스트/영속성 전이.md",
+    "Project/CS/Network/REST API.md",
     "Todo/TIL/2024-02/2024-02-03 TIL.md",
     "Todo/TIL/2024-02/2024-02-04 TIL.md",
     "Todo/TIL/2024-02/2024-02-02 TIL.md",
@@ -237,20 +243,14 @@
     "Project/AWS/Elastic Beanstalk/Elastic Beanstalk 생성(Elastic Beanstalk + Github Actions + Spring Boot).md",
     "Project/AWS/EC2/EC2 인스턴스 프로파일.md",
     "Project/AWS/Elastic Beanstalk/SpringBoot 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
-    "Project/JPA/영속성 컨텍스트/영속성 전이.md",
     "Area/Database/RDB/SQL/DDL/제약조건.md",
     "Excalidraw/api.md",
     "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md",
-    "Project/CS/Network/REST API.md",
     "Archive/img/Spring/mvcall.png",
     "Project/Spring/문법/MVC.md",
     "Project/CS/Network/JSON.md",
     "Project/CS/Network/REST.md",
     "Project/CS/Network/HTTP 상태 코드.md",
-    "Project/CS/Network/HTTP.md",
-    "Project/CS/Network/HTTP Method.md",
-    "Project/CS/Network/HTTP Headers.md",
-    "Project/CS/Network/API.md",
     "Inbox/대용량트래픽/Pasted image 20240125194236.png",
     "Inbox/대용량트래픽/Pasted image 20240201195712.png",
     "Inbox/대용량트래픽",
