@@ -24,9 +24,12 @@
             "id": "792a0694421bce97",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md"
+                "file": "Project/Spring/Spring과 객체지향/IoC (Inversion of Controller).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -119,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md",
+                "file": "Project/Spring/Spring과 객체지향/IoC (Inversion of Controller).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md",
+                "file": "Project/Spring/Spring과 객체지향/IoC (Inversion of Controller).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md"
+                "file": "Project/Spring/Spring과 객체지향/IoC (Inversion of Controller).md"
               }
             }
           },
@@ -234,11 +237,13 @@
   },
   "active": "792a0694421bce97",
   "lastOpenFiles": [
-    "Excalidraw/Pasted Image 20240206105442_576.png",
+    "Inbox/끄적끄적.md",
+    "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
     "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md",
+    "Excalidraw/Pasted Image 20240206110343_379.png",
+    "Excalidraw/Pasted Image 20240206105442_576.png",
     "Excalidraw/Pasted Image 20240206105218_040.png",
     "Excalidraw/Pasted Image 20240206105124_525.png",
-    "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
     "Excalidraw/Drawing 2024-02-05 17.19.31.excalidraw.md",
     "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md",
     "Excalidraw/api.md",
@@ -250,10 +255,8 @@
     "Excalidraw/Pasted Image 20240206104212_402.png",
     "Excalidraw/Pasted Image 20240206103953_373.png",
     "Excalidraw/Pasted Image 20240206103905_382.png",
-    "Excalidraw/Pasted Image 20240206103748_207.png",
     "Todo/TIL/2024-02/2024-02-04 TIL.md",
     "Todo/TIL/2024-02/2024-02-03 TIL.md",
-    "Inbox/끄적끄적.md",
     "Inbox/0205.md",
     "Project/CS/Network/HTTP Headers.md",
     "Project/CS/Network/HTTP.md",
