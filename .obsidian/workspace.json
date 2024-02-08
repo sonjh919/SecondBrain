@@ -26,10 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/무제 파일.md",
+                "file": "Inbox/무제 파일 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "8e50cef6aa53c975",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Inbox/Pasted image 20240208233924.png"
               }
             }
           },
@@ -47,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/무제 파일.md",
+                "file": "Inbox/Pasted image 20240208233924.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/무제 파일.md",
+                "file": "Inbox/Pasted image 20240208233924.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/무제 파일.md"
+                "file": "Inbox/Pasted image 20240208233924.png"
               }
             }
           },
@@ -235,8 +245,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "792a0694421bce97",
+  "active": "8e50cef6aa53c975",
   "lastOpenFiles": [
+    "Inbox/무제 파일 1.md",
+    "Inbox/Pasted image 20240208233924.png",
+    "Inbox/코테.md",
+    "Inbox/나중에 정리할 것.md",
     "Inbox/끄적끄적.md",
     "Inbox/무제 파일.md",
     "Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
@@ -267,12 +281,7 @@
     "Todo/TIL/2024-01/2024-01-27 TIL.md",
     "Todo/TIL/2024-01/2024-01-28 TIL.md",
     "Todo/TIL/2024-01/2024-01-29 TIL.md",
-    "Todo/TIL/2024-01/2024-01-30 TIL.md",
-    "Todo/TIL/2024-02/2024-02-06 TIL.md",
-    "Todo/TIL/2024-02/2024-02-07 TIL.md",
-    "Todo/TIL/2024-02/2024-02-05 TIL.md",
     "Excalidraw/Pasted Image 20240206110343_379.png",
-    "Excalidraw/Pasted Image 20240206105442_576.png",
     "Inbox/대용량트래픽",
     "Excalidraw",
     "Todo/TIL/2024-02",
