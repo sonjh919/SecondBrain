@@ -37,9 +37,9 @@
             "id": "8e50cef6aa53c975",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Inbox/Pasted image 20240208233924.png"
+                "file": "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Pasted image 20240208233924.png",
+                "file": "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Pasted image 20240208233924.png",
+                "file": "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/Pasted image 20240208233924.png"
+                "file": "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md"
               }
             }
           },
@@ -247,14 +247,17 @@
   },
   "active": "8e50cef6aa53c975",
   "lastOpenFiles": [
-    "Inbox/무제 파일 1.md",
+    "Excalidraw/Drawing 2024-02-05 17.19.31.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md",
+    "Excalidraw/api.md",
+    "Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
+    "Inbox/대용량트래픽/대용량 트래픽.md",
     "Inbox/Pasted image 20240208233924.png",
+    "Inbox/무제 파일 1.md",
     "Inbox/코테.md",
     "Inbox/나중에 정리할 것.md",
     "Inbox/끄적끄적.md",
     "Inbox/무제 파일.md",
-    "Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
-    "Inbox/대용량트래픽/대용량 트래픽.md",
     "Inbox/대용량트래픽/Pasted image 20240208202330.png",
     "Inbox/대용량트래픽/Pasted image 20240208201711.png",
     "Inbox/대용량트래픽/Pasted image 20240208201537.png",
@@ -279,8 +282,6 @@
     "Todo/TIL/2024-01/2024-01-25 TIL.md",
     "Todo/TIL/2024-01/2024-01-26 TIL.md",
     "Todo/TIL/2024-01/2024-01-27 TIL.md",
-    "Todo/TIL/2024-01/2024-01-28 TIL.md",
-    "Todo/TIL/2024-01/2024-01-29 TIL.md",
     "Excalidraw/Pasted Image 20240206110343_379.png",
     "Inbox/대용량트래픽",
     "Excalidraw",
