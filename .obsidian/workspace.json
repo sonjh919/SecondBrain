@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md",
+                "file": "Inbox/무제 파일 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md",
+                "file": "Inbox/무제 파일 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md"
+                "file": "Inbox/무제 파일 1.md"
               }
             }
           },
@@ -245,8 +245,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8e50cef6aa53c975",
+  "active": "792a0694421bce97",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md",
     "Excalidraw/Drawing 2024-02-05 17.19.31.excalidraw.md",
     "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md",
     "Excalidraw/api.md",
@@ -281,7 +282,6 @@
     "Todo/TIL/2024-01/2024-01-24 TIL.md",
     "Todo/TIL/2024-01/2024-01-25 TIL.md",
     "Todo/TIL/2024-01/2024-01-26 TIL.md",
-    "Todo/TIL/2024-01/2024-01-27 TIL.md",
     "Excalidraw/Pasted Image 20240206110343_379.png",
     "Inbox/대용량트래픽",
     "Excalidraw",
