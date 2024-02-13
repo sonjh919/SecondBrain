@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/무제 파일 1.md",
+                "file": "Area/Docker/Docker.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/무제 파일 1.md",
+                "file": "Area/Docker/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/무제 파일 1.md",
+                "file": "Area/Docker/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/무제 파일 1.md"
+                "file": "Area/Docker/Docker.md"
               }
             }
           },
@@ -247,6 +247,7 @@
   },
   "active": "792a0694421bce97",
   "lastOpenFiles": [
+    "Inbox/무제 파일 1.md",
     "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md",
     "Excalidraw/Drawing 2024-02-05 17.19.31.excalidraw.md",
     "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md",
@@ -254,7 +255,6 @@
     "Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
     "Inbox/대용량트래픽/대용량 트래픽.md",
     "Inbox/Pasted image 20240208233924.png",
-    "Inbox/무제 파일 1.md",
     "Inbox/코테.md",
     "Inbox/나중에 정리할 것.md",
     "Inbox/끄적끄적.md",
