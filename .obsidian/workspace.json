@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/Docker/Docker.md",
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/Docker/Docker.md",
+                "file": "Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/Docker/Docker.md",
+                "file": "Inbox/끄적끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/Docker/Docker.md"
+                "file": "Inbox/끄적끄적.md"
               }
             }
           },
@@ -247,6 +247,9 @@
   },
   "active": "792a0694421bce97",
   "lastOpenFiles": [
+    "Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
+    "Project/Spring/MOC.md",
+    "Area/Docker/Docker.md",
     "Inbox/무제 파일 1.md",
     "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md",
     "Excalidraw/Drawing 2024-02-05 17.19.31.excalidraw.md",
@@ -279,9 +282,6 @@
     "Todo/TIL/2024-01/2024-01-21 TIL.md",
     "Todo/TIL/2024-01/2024-01-22 TIL.md",
     "Todo/TIL/2024-01/2024-01-23 TIL.md",
-    "Todo/TIL/2024-01/2024-01-24 TIL.md",
-    "Todo/TIL/2024-01/2024-01-25 TIL.md",
-    "Todo/TIL/2024-01/2024-01-26 TIL.md",
     "Excalidraw/Pasted Image 20240206110343_379.png",
     "Inbox/대용량트래픽",
     "Excalidraw",
