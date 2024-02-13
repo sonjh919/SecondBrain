@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Area/프로그래머스/문법/StringBuilder 활용 메서드.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Area/프로그래머스/문법/StringBuilder 활용 메서드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Area/프로그래머스/문법/StringBuilder 활용 메서드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/끄적끄적.md"
+                "file": "Area/프로그래머스/문법/StringBuilder 활용 메서드.md"
               }
             }
           },
@@ -247,6 +247,17 @@
   },
   "active": "792a0694421bce97",
   "lastOpenFiles": [
+    "Area/프로그래머스/문법/String 활용 메서드.md",
+    "Area/프로그래머스/문법/StringBuilder 활용 메서드.md",
+    "Area/프로그래머스/문법/배열을 List로 변환하기.md",
+    "Area/프로그래머스/문법/Collections 활용 메서드.md",
+    "Area/프로그래머스/문법/List 활용 메서드.md",
+    "Area/Java API/java.lang/StringBuffer & StringBuilder.md",
+    "Area/Java API/java.util/Collection/Collection.md",
+    "Inbox/끄적끄적.md",
+    "Area/프로그래머스/문제",
+    "Area/프로그래머스/문법",
+    "Area/프로그래머스",
     "Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
     "Project/Spring/MOC.md",
     "Area/Docker/Docker.md",
@@ -260,7 +271,6 @@
     "Inbox/Pasted image 20240208233924.png",
     "Inbox/코테.md",
     "Inbox/나중에 정리할 것.md",
-    "Inbox/끄적끄적.md",
     "Inbox/무제 파일.md",
     "Inbox/대용량트래픽/Pasted image 20240208202330.png",
     "Inbox/대용량트래픽/Pasted image 20240208201711.png",
@@ -275,13 +285,6 @@
     "Area/Error/Git/이미 push한 commit 변경하기.md",
     "Todo/TIL/2024-01/2024-01-15 TIL.md",
     "Todo/TIL/2024-01/2024-01-16 TIL.md",
-    "Todo/TIL/2024-01/2024-01-17 TIL.md",
-    "Todo/TIL/2024-01/2024-01-18 TIL.md",
-    "Todo/TIL/2024-01/2024-01-19 TIL.md",
-    "Todo/TIL/2024-01/2024-01-20 TIL.md",
-    "Todo/TIL/2024-01/2024-01-21 TIL.md",
-    "Todo/TIL/2024-01/2024-01-22 TIL.md",
-    "Todo/TIL/2024-01/2024-01-23 TIL.md",
     "Excalidraw/Pasted Image 20240206110343_379.png",
     "Inbox/대용량트래픽",
     "Excalidraw",
@@ -290,9 +293,6 @@
     "Area/Error/AWS",
     "Archive/img/AWS/EC2",
     "Archive/img/AWS/Elastic BeanStalk",
-    "Archive/img/AWS",
-    "Project/AWS/Elastic Beanstalk",
-    "Project/AWS/EC2",
     "Project/무제 파일.canvas"
   ]
 }
