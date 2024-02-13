@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/프로그래머스/문법/StringBuilder 활용 메서드.md",
+                "file": "Area/프로그래머스/문법/형변환 꿀팁.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/프로그래머스/문법/StringBuilder 활용 메서드.md",
+                "file": "Area/프로그래머스/문법/형변환 꿀팁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/프로그래머스/문법/StringBuilder 활용 메서드.md",
+                "file": "Area/프로그래머스/문법/형변환 꿀팁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/프로그래머스/문법/StringBuilder 활용 메서드.md"
+                "file": "Area/프로그래머스/문법/형변환 꿀팁.md"
               }
             }
           },
@@ -247,9 +247,12 @@
   },
   "active": "792a0694421bce97",
   "lastOpenFiles": [
+    "Area/프로그래머스/문법/배열을 List로 변환하기.md",
+    "Area/프로그래머스/문법/형변환 꿀팁.md",
+    "Area/프로그래머스/문법/Math 활용 메서드.md",
+    "Area/Java API/java.lang/Math.md",
     "Area/프로그래머스/문법/String 활용 메서드.md",
     "Area/프로그래머스/문법/StringBuilder 활용 메서드.md",
-    "Area/프로그래머스/문법/배열을 List로 변환하기.md",
     "Area/프로그래머스/문법/Collections 활용 메서드.md",
     "Area/프로그래머스/문법/List 활용 메서드.md",
     "Area/Java API/java.lang/StringBuffer & StringBuilder.md",
@@ -282,9 +285,6 @@
     "Inbox/대용량트래픽/Pasted image 20240208193358.png",
     "Project/Spring/Security/Security.md",
     "Project/CS/Network/REST API.md",
-    "Area/Error/Git/이미 push한 commit 변경하기.md",
-    "Todo/TIL/2024-01/2024-01-15 TIL.md",
-    "Todo/TIL/2024-01/2024-01-16 TIL.md",
     "Excalidraw/Pasted Image 20240206110343_379.png",
     "Inbox/대용량트래픽",
     "Excalidraw",

@@ -13,3 +13,15 @@ for (int i = 0; i < str.length(); i++) {
     System.out.println(str.charAt(i)); 
 }
 ```
+
+### 문자열 포함 확인
+```java
+String str1; String str2;
+str1.contains(str2);
+```
+
+### 문자열 비교
+```java
+String str1; String str2;
+str1.equals(str2);
+```
