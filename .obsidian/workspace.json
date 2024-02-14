@@ -26,29 +26,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/끄적끄적.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e50cef6aa53c975",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "89fe3ac8c77cb476",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
                 "mode": "source",
                 "backlinks": true,
@@ -56,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project/CS/Network/REST API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Project/CS/Network/REST API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Project/CS/Network/REST API.md"
+              }
             }
           },
           {
@@ -241,13 +221,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fff0c6353c28b71c",
+  "active": "49c6344b3159bf1d",
   "lastOpenFiles": [
+    "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
+    "Inbox/무제 파일 1.md",
+    "Inbox/무제 파일.md",
+    "Inbox/끄적끄적.md",
+    "Project/CS/Network/REST API.md",
     "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md",
     "Excalidraw/Drawing 2024-02-05 17.19.31.excalidraw.md",
     "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md",
     "Excalidraw/api.md",
-    "Inbox/끄적끄적.md",
     "Area/프로그래머스/문법/StringBuilder 활용 메서드.md",
     "Area/프로그래머스/문법/String 활용 메서드.md",
     "Area/프로그래머스/문법/Character 활용 메서드.md",
@@ -259,7 +243,6 @@
     "Area/프로그래머스/문법/배열을 List로 변환하기.md",
     "Inbox/코테.md",
     "Excalidraw/Drawing 2024-02-14 01.19.10.excalidraw.md",
-    "Project/CS/Network/REST API.md",
     "Inbox/Pasted image 20240208233924.png",
     "Area/Java API/java.lang/Math.md",
     "Area/Java API/java.lang/StringBuffer & StringBuilder.md",
@@ -270,9 +253,6 @@
     "Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
     "Project/Spring/MOC.md",
     "Area/Docker/Docker.md",
-    "Inbox/무제 파일 1.md",
-    "Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
-    "Inbox/대용량트래픽/대용량 트래픽.md",
     "Inbox/대용량트래픽/Pasted image 20240208202330.png",
     "Inbox/대용량트래픽/Pasted image 20240208201711.png",
     "Inbox/대용량트래픽/Pasted image 20240208201537.png",
