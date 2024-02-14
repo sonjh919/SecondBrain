@@ -1,4 +1,4 @@
-#프로그래머스 #Java 
+#코딩테스트 #Java 
 
 
 + [[Collection]]의 구현체인 Collections에 포함되어 있는 메서드를 활용할 수 있다.

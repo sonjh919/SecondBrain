@@ -34,22 +34,15 @@
             }
           },
           {
-            "id": "1333fe219a341b10",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-14 01.19.10.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "8e50cef6aa53c975",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md"
+                "file": "Area/프로그래머스/문법/StringBuilder 활용 메서드.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -67,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Area/프로그래머스/문법/StringBuilder 활용 메서드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Area/프로그래머스/문법/StringBuilder 활용 메서드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/끄적끄적.md"
+                "file": "Area/프로그래머스/문법/StringBuilder 활용 메서드.md"
               }
             }
           },
@@ -255,21 +248,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "792a0694421bce97",
+  "active": "8e50cef6aa53c975",
   "lastOpenFiles": [
-    "Project/CS/Network/REST API.md",
-    "Excalidraw/Drawing 2024-02-14 01.19.10.excalidraw.md",
-    "Inbox/끄적끄적.md",
-    "Inbox/Pasted image 20240208233924.png",
-    "Inbox/코테.md",
-    "Area/프로그래머스/문법/형변환 꿀팁.md",
-    "Area/프로그래머스/문법/배열을 List로 변환하기.md",
-    "Area/프로그래머스/문법/Math 활용 메서드.md",
-    "Area/Java API/java.lang/Math.md",
     "Area/프로그래머스/문법/String 활용 메서드.md",
+    "Area/프로그래머스/문법/Character 활용 메서드.md",
     "Area/프로그래머스/문법/StringBuilder 활용 메서드.md",
     "Area/프로그래머스/문법/Collections 활용 메서드.md",
+    "Area/프로그래머스/문법/문자열을 배열처럼.md",
+    "Area/프로그래머스/문법/Math 활용 메서드.md",
     "Area/프로그래머스/문법/List 활용 메서드.md",
+    "Area/프로그래머스/문법/형변환 꿀팁.md",
+    "Area/프로그래머스/문법/배열을 List로 변환하기.md",
+    "Inbox/코테.md",
+    "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md",
+    "Inbox/끄적끄적.md",
+    "Excalidraw/Drawing 2024-02-14 01.19.10.excalidraw.md",
+    "Project/CS/Network/REST API.md",
+    "Inbox/Pasted image 20240208233924.png",
+    "Area/Java API/java.lang/Math.md",
     "Area/Java API/java.lang/StringBuffer & StringBuilder.md",
     "Area/Java API/java.util/Collection/Collection.md",
     "Area/프로그래머스/문제",
@@ -279,14 +275,11 @@
     "Project/Spring/MOC.md",
     "Area/Docker/Docker.md",
     "Inbox/무제 파일 1.md",
-    "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md",
     "Excalidraw/Drawing 2024-02-05 17.19.31.excalidraw.md",
     "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md",
     "Excalidraw/api.md",
     "Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
     "Inbox/대용량트래픽/대용량 트래픽.md",
-    "Inbox/나중에 정리할 것.md",
-    "Inbox/무제 파일.md",
     "Inbox/대용량트래픽/Pasted image 20240208202330.png",
     "Inbox/대용량트래픽/Pasted image 20240208201711.png",
     "Inbox/대용량트래픽/Pasted image 20240208201537.png",
