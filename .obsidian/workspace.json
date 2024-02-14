@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/CS/Network/REST API.md",
+                "file": "Project/AWS/Elastic Beanstalk/RDS 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/CS/Network/REST API.md",
+                "file": "Project/AWS/Elastic Beanstalk/RDS 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/CS/Network/REST API.md",
+                "file": "Project/AWS/Elastic Beanstalk/RDS 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/CS/Network/REST API.md"
+                "file": "Project/AWS/Elastic Beanstalk/RDS 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md"
               }
             }
           },
@@ -223,11 +223,13 @@
   },
   "active": "49c6344b3159bf1d",
   "lastOpenFiles": [
+    "Project/AWS/EC2/EC2 키 페어.md",
+    "Project/AWS/EC2/EC2 인스턴스 프로파일.md",
     "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
+    "Project/CS/Network/REST API.md",
     "Inbox/무제 파일 1.md",
     "Inbox/무제 파일.md",
     "Inbox/끄적끄적.md",
-    "Project/CS/Network/REST API.md",
     "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md",
     "Excalidraw/Drawing 2024-02-05 17.19.31.excalidraw.md",
     "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md",
@@ -251,8 +253,6 @@
     "Area/프로그래머스/문법",
     "Area/프로그래머스",
     "Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
-    "Project/Spring/MOC.md",
-    "Area/Docker/Docker.md",
     "Inbox/대용량트래픽/Pasted image 20240208202330.png",
     "Inbox/대용량트래픽/Pasted image 20240208201711.png",
     "Inbox/대용량트래픽/Pasted image 20240208201537.png",
