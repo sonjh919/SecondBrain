@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Spring/RestTemplate/RestTemplate.md",
+                "file": "Project/Test/테스트의 종류.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Spring/RestTemplate/RestTemplate.md",
+                "file": "Project/Test/테스트의 종류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Spring/RestTemplate/RestTemplate.md",
+                "file": "Project/Test/테스트의 종류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Spring/RestTemplate/RestTemplate.md"
+                "file": "Project/Test/테스트의 종류.md"
               }
             }
           },
@@ -223,8 +223,13 @@
   },
   "active": "49c6344b3159bf1d",
   "lastOpenFiles": [
+    "Project/JPA/영속성 컨텍스트/변경 감지.md",
+    "Project/JPA/영속성 컨텍스트/쓰기 지연 저장소.md",
     "Project/Spring/OAuth/카카오 로그인.md",
+    "Project/Spring/OAuth/kakaologin_sequence.png",
     "Project/Spring/OAuth/OAuth.md",
+    "Project/Spring/Library/Jackson.md",
+    "Project/Spring/RestTemplate/RestTemplate.md",
     "Project/Spring/Interface/ApplicationRunner.md",
     "Todo/KPT회고/KPT회고 - 수강생 관리 프로그램.md",
     "Project/Spring/OAuth",
@@ -247,10 +252,6 @@
     "Excalidraw/Drawing 2024-02-05 17.19.31.excalidraw.md",
     "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md",
     "Excalidraw/api.md",
-    "Area/프로그래머스/문법/StringBuilder 활용 메서드.md",
-    "Area/프로그래머스/문법/String 활용 메서드.md",
-    "Area/프로그래머스/문법/Character 활용 메서드.md",
-    "Area/프로그래머스/문법/Collections 활용 메서드.md",
     "Area/프로그래머스/문제",
     "Area/프로그래머스/문법",
     "Area/프로그래머스",
@@ -262,7 +263,6 @@
     "Inbox/대용량트래픽/Pasted image 20240208200828.png",
     "Inbox/대용량트래픽/Pasted image 20240208194631.png",
     "Inbox/대용량트래픽/Pasted image 20240208193358.png",
-    "Excalidraw/Pasted Image 20240206110343_379.png",
     "Inbox/대용량트래픽",
     "Excalidraw",
     "Todo/TIL/2024-02",
