@@ -19,19 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "792a0694421bce97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -223,6 +210,8 @@
   },
   "active": "49c6344b3159bf1d",
   "lastOpenFiles": [
+    "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
+    "Inbox/끄적끄적.md",
     "Project/Spring/Security/쿠키와 세션 비교.md",
     "Project/Spring/Security/쿠키.md",
     "Project/Spring/Security/JWT/JWT 기반 인증.md",
@@ -248,9 +237,7 @@
     "Project/Spring/OAuth",
     "Project/Spring/무제 파일.md",
     "Area/Error/Java&Spring/빌드 방식에 따른 RequestParam 매개변수 인식 오류.md",
-    "Inbox/끄적끄적.md",
     "Inbox/코테.md",
-    "Inbox/나중에 정리할 것.md",
     "Inbox/Pasted image 20240208233924.png",
     "Area/프로그래머스/문제",
     "Area/프로그래머스/문법",
