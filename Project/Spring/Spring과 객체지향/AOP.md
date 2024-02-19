@@ -5,12 +5,26 @@
 Spring AOP(Aspect-Oriented Programming)는 관점 지향 프로그래밍의 한 형태로, 애플리케이션에서 특정 기능을 여러 모듈에 걸쳐서 공통적으로 적용하고 싶을 때 유용한 기술이다. Spring AOP는 **프록시**를 활용하여 구현된다. 이를 통해 원본 객체를 감싸고, 특정 기능을 추가하거나 수정하여 제어를 캡슐화할 수 있다.
 
 ![[AOP.png]]
-### AOP의 목적
+
+## AOP 동작
+### AOP 사용 전
+![[before.png]]
+
+![[before2.png]]
+
+### AOP 사용 후
++ 중간에 프록시 객체를 만들어 넣는다. [[Project/JPA/트랜잭션|트랜잭션]]도 같은 방식이다.
+
+![[after.png]]
+
+![[after2.png]]
+
+## AOP의 목적
 1. **관심사의 분리 (Separation of Concerns):** 기능의 관심사를 여러 모듈로부터 분리하여 모듈 간의 결합도를 낮추고 유지보수성을 향상시킨다.
 2. **코드 재사용 (Code Reusability):** 공통 기능을 하나의 모듈로 추상화하여 필요한 곳에서 재사용할 수 있도록 한다.
 3. **클린 코드 유지 (Maintaining Clean Code):** 핵심 비즈니스 로직과 관점 지향 코드를 분리함으로써 코드의 가독성과 유지보수성을 향상시킨다.
 
-### AOP 사용
+## AOP 사용
 1. **로깅(Logging):** 메서드 호출 시간, 매개변수, 반환 값 등을 로깅하는 용도로 사용된다.
 2. **트랜잭션(Transaction):** 트랜잭션의 시작과 종료 시점을 정의하여 메서드 호출 전후로 트랜잭션을 관리한다.
 3. **보안(Security):** 사용자 인증 및 권한 검사와 같은 보안 기능을 추가할 수 있다.
@@ -69,3 +83,29 @@ public Object execute(ProceedingJoinPoint joinPoint) throws Throwable { ... }
     - **()** - 인수 없음
     - **(*)** - 인수 1개 (타입 상관없음)
     - **(..)** - 인수 0~N개 (타입 상관없음)
+
+### @Pointcut
++ 포인트컷 재사용 가능
++ 포인트컷 결합(combine) 가능
+
+```java
+@Component
+@Aspect
+public class Aspect {
+	@Pointcut("execution(* com.sparta.myselectshop.controller.*.*(..))")
+	private void forAllController() {}
+
+	@Pointcut("execution(String com.sparta.myselectshop.controller.*.*())")
+	private void forAllViewController() {}
+
+	@Around("forAllContorller() && !forAllViewController()")
+	public void saveRestApiLog() {
+		...
+	}
+
+	@Around("forAllContorller()")
+	public void saveAllApiLog() {
+		...
+	}	
+}
+```

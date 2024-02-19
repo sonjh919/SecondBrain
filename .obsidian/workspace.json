@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Spring/Spring과 객체지향/AOP.md",
+                "file": "Project/Spring/예외처리/Exception.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Spring/Spring과 객체지향/AOP.md",
+                "file": "Project/Spring/예외처리/Exception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Spring/Spring과 객체지향/AOP.md",
+                "file": "Project/Spring/예외처리/Exception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Spring/Spring과 객체지향/AOP.md"
+                "file": "Project/Spring/예외처리/Exception.md"
               }
             }
           },
@@ -210,9 +210,19 @@
   },
   "active": "49c6344b3159bf1d",
   "lastOpenFiles": [
-    "Project/Spring/Spring과 객체지향/AOP.png",
-    "Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
+    "Project/Spring/예외처리/exception.png",
+    "Archive/img/Spring/kakaologin_sequence.png",
+    "Project/Spring/예외처리/Exception.md",
+    "Project/Spring/예외처리",
+    "Project/Spring/RestTemplate/RestTemplate.md",
+    "Archive/img/109019081.jpg",
+    "Archive/img/Spring/before.png",
+    "Archive/img/Spring/AOP.png",
+    "Archive/img/Spring/after.png",
+    "Archive/img/Spring/after2.png",
     "Project/Spring/Spring과 객체지향/AOP.md",
+    "Archive/img/Spring/before2.png",
+    "Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
     "Project/Spring/Spring과 객체지향/ApplicationContext.md",
     "Project/AWS/EC2/EC2 인스턴스 프로파일.md",
     "Project/AWS/Elastic Beanstalk/Elastic Beanstalk 생성(Elastic Beanstalk + Github Actions + Spring Boot).md",
@@ -234,9 +244,6 @@
     "Project/Test/AssertJ.md",
     "Project/Test/테스트의 종류.md",
     "Project/Test/버그 잡기.md",
-    "Project/Test/JUnit.md",
-    "Project/JPA/영속성 컨텍스트/변경 감지.md",
-    "Project/Spring/OAuth/kakaologin_sequence.png",
     "Project/Spring/OAuth",
     "Inbox/Pasted image 20240208233924.png",
     "Area/프로그래머스/문제",
@@ -244,18 +251,11 @@
     "Area/프로그래머스",
     "Inbox/대용량트래픽/Pasted image 20240208202330.png",
     "Inbox/대용량트래픽/Pasted image 20240208201711.png",
-    "Inbox/대용량트래픽/Pasted image 20240208201537.png",
-    "Inbox/대용량트래픽/Pasted image 20240208201515.png",
-    "Inbox/대용량트래픽/Pasted image 20240208200915.png",
-    "Inbox/대용량트래픽/Pasted image 20240208200828.png",
-    "Inbox/대용량트래픽/Pasted image 20240208194631.png",
-    "Inbox/대용량트래픽/Pasted image 20240208193358.png",
     "Inbox/대용량트래픽",
     "Excalidraw",
     "Todo/TIL/2024-02",
     "Area/Error/AWS/Beanstalk",
     "Area/Error/AWS",
-    "Archive/img/AWS/EC2",
     "Project/무제 파일.canvas"
   ]
 }
