@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Spring/Security/쿠키와 세션 기반 인증.md",
+                "file": "Project/Spring/Security/접근 불가 페이지.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Spring/Security/쿠키와 세션 기반 인증.md",
+                "file": "Project/Spring/Security/접근 불가 페이지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Spring/Security/쿠키와 세션 기반 인증.md",
+                "file": "Project/Spring/Security/접근 불가 페이지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Spring/Security/쿠키와 세션 기반 인증.md"
+                "file": "Project/Spring/Security/접근 불가 페이지.md"
               }
             }
           },
@@ -210,6 +210,14 @@
   },
   "active": "49c6344b3159bf1d",
   "lastOpenFiles": [
+    "Inbox/제목.md",
+    "Excalidraw/Drawing 2024-02-20 00.18.20.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-20 00.18.17.excalidraw.md",
+    "Project/Spring/Security/접근 불가 페이지.md",
+    "Inbox/끄적끄적.md",
+    "Project/Spring/Spring과 객체지향/AOP.md",
+    "Inbox/나중에 정리할 것.md",
+    "Project/Spring/Security/쿠키와 세션 기반 인증.md",
     "Project/Spring/Security/JWT/JWT 기반 인증.md",
     "Project/Spring/Security/JWT/JWT.md",
     "Project/Spring/Security/JWT/JWT 사용 흐름.md",
@@ -228,7 +236,6 @@
     "Archive/img/Spring/AOP.png",
     "Archive/img/Spring/after.png",
     "Archive/img/Spring/after2.png",
-    "Project/Spring/Spring과 객체지향/AOP.md",
     "Archive/img/Spring/before2.png",
     "Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
     "Project/AWS/EC2/EC2 인스턴스 프로파일.md",
@@ -236,15 +243,8 @@
     "Project/AWS/Elastic Beanstalk/Github Actions 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
     "Project/AWS/Elastic Beanstalk/Elastic Beanstalk.md",
     "Project/Spring/OAuth/카카오 로그인.md",
-    "Inbox/끄적끄적.md",
     "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
     "Project/Spring/Security/쿠키와 세션 비교.md",
-    "Project/Spring/Security/쿠키.md",
-    "Project/Spring/Security/쿠키와 세션 기반 인증.md",
-    "Project/Spring/Security/인증과 인가.md",
-    "Project/Spring/Security/세션.md",
-    "Project/Spring/Security/로그인.md",
-    "Project/Spring/OAuth/OAuth.md",
     "Project/Spring/OAuth",
     "Inbox/Pasted image 20240208233924.png",
     "Area/프로그래머스/문제",
