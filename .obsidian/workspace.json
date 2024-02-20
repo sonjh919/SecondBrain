@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/TIL Templete.md",
+                "file": "Project/Spring/Security/Security.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/TIL Templete.md",
+                "file": "Project/Spring/Security/Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/TIL Templete.md",
+                "file": "Project/Spring/Security/Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/TIL Templete.md"
+                "file": "Project/Spring/Security/Security.md"
               }
             }
           },
@@ -161,7 +161,7 @@
       {
         "id": "06bca203602d61c1",
         "type": "tabs",
-        "dimension": 30.028873917228104,
+        "dimension": 30.0288739172281,
         "children": [
           {
             "id": "fff0c6353c28b71c",
@@ -210,6 +210,15 @@
   },
   "active": "49c6344b3159bf1d",
   "lastOpenFiles": [
+    "Project/Spring/Security/인증과 인가.md",
+    "Project/Spring/Security/세션.md",
+    "Project/Spring/Security/로그인.md",
+    "Project/Spring/Security/JWT/JWT 기반 인증.md",
+    "Project/Spring/Security/JWT/JWT 사용 흐름.md",
+    "Project/Spring/Security/JWT/JWT.md",
+    "Project/Spring/Security/쿠키.md",
+    "Project/Spring/OAuth/카카오 로그인.md",
+    "Templates/TIL Templete.md",
     "Todo/TIL/TIL.md",
     "Project/Spring/Security/접근 불가 페이지.md",
     "Inbox/제목.md",
@@ -219,9 +228,6 @@
     "Project/Spring/Spring과 객체지향/AOP.md",
     "Inbox/나중에 정리할 것.md",
     "Project/Spring/Security/쿠키와 세션 기반 인증.md",
-    "Project/Spring/Security/JWT/JWT 기반 인증.md",
-    "Project/Spring/Security/JWT/JWT.md",
-    "Project/Spring/Security/JWT/JWT 사용 흐름.md",
     "Project/Spring/Spring과 객체지향/Interceptor.md",
     "Project/Spring/Servlet/Front Controller.md",
     "Project/Spring/Spring과 객체지향/ApplicationContext.md",
@@ -239,12 +245,6 @@
     "Archive/img/Spring/after2.png",
     "Archive/img/Spring/before2.png",
     "Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
-    "Project/AWS/EC2/EC2 인스턴스 프로파일.md",
-    "Project/AWS/Elastic Beanstalk/Elastic Beanstalk 생성(Elastic Beanstalk + Github Actions + Spring Boot).md",
-    "Project/AWS/Elastic Beanstalk/Github Actions 세팅(Elastic Beanstalk + Github Actions + Spring Boot).md",
-    "Project/AWS/Elastic Beanstalk/Elastic Beanstalk.md",
-    "Project/Spring/OAuth/카카오 로그인.md",
-    "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
     "Project/Spring/OAuth",
     "Inbox/Pasted image 20240208233924.png",
     "Area/프로그래머스/문제",
