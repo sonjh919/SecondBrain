@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Spring/Security/접근 불가 페이지.md",
+                "file": "Templates/TIL Templete.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
       {
         "id": "aee0c20d4d3b43d9",
         "type": "tabs",
-        "dimension": 33.39749759384023,
+        "dimension": 35.418671799807505,
         "children": [
           {
             "id": "194553660e95f057",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Spring/Security/접근 불가 페이지.md",
+                "file": "Templates/TIL Templete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Spring/Security/접근 불가 페이지.md",
+                "file": "Templates/TIL Templete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Spring/Security/접근 불가 페이지.md"
+                "file": "Templates/TIL Templete.md"
               }
             }
           },
@@ -161,7 +161,7 @@
       {
         "id": "06bca203602d61c1",
         "type": "tabs",
-        "dimension": 32.05004812319538,
+        "dimension": 30.028873917228104,
         "children": [
           {
             "id": "fff0c6353c28b71c",
@@ -210,10 +210,11 @@
   },
   "active": "49c6344b3159bf1d",
   "lastOpenFiles": [
+    "Todo/TIL/TIL.md",
+    "Project/Spring/Security/접근 불가 페이지.md",
     "Inbox/제목.md",
     "Excalidraw/Drawing 2024-02-20 00.18.20.excalidraw.md",
     "Excalidraw/Drawing 2024-02-20 00.18.17.excalidraw.md",
-    "Project/Spring/Security/접근 불가 페이지.md",
     "Inbox/끄적끄적.md",
     "Project/Spring/Spring과 객체지향/AOP.md",
     "Inbox/나중에 정리할 것.md",
@@ -244,7 +245,6 @@
     "Project/AWS/Elastic Beanstalk/Elastic Beanstalk.md",
     "Project/Spring/OAuth/카카오 로그인.md",
     "Area/Error/AWS/Elastic Beanstalk 502 Bad Gateway.md",
-    "Project/Spring/Security/쿠키와 세션 비교.md",
     "Project/Spring/OAuth",
     "Inbox/Pasted image 20240208233924.png",
     "Area/프로그래머스/문제",
