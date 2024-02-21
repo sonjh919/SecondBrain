@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Spring/Security/Security.md",
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Spring/Security/Security.md",
+                "file": "Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Spring/Security/Security.md",
+                "file": "Inbox/끄적끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Spring/Security/Security.md"
+                "file": "Inbox/끄적끄적.md"
               }
             }
           },
@@ -208,8 +208,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "49c6344b3159bf1d",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
+    "Project/Spring/Security/Security.md",
     "Project/Spring/Security/인증과 인가.md",
     "Project/Spring/Security/세션.md",
     "Project/Spring/Security/로그인.md",
@@ -244,7 +245,6 @@
     "Archive/img/Spring/after.png",
     "Archive/img/Spring/after2.png",
     "Archive/img/Spring/before2.png",
-    "Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
     "Project/Spring/OAuth",
     "Inbox/Pasted image 20240208233924.png",
     "Area/프로그래머스/문제",
