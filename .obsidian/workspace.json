@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/Book/오브젝트/06 메시지와 인터페이스.md",
+                "file": "Project/Test/테스트의 종류.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area/Book/오브젝트/06 메시지와 인터페이스.md",
+                "file": "Project/Test/테스트의 종류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area/Book/오브젝트/06 메시지와 인터페이스.md",
+                "file": "Project/Test/테스트의 종류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area/Book/오브젝트/06 메시지와 인터페이스.md"
+                "file": "Project/Test/테스트의 종류.md"
               }
             }
           },
@@ -210,6 +210,7 @@
   },
   "active": "49c6344b3159bf1d",
   "lastOpenFiles": [
+    "Area/Book/오브젝트/06 메시지와 인터페이스.md",
     "Area/Book/오브젝트/05 책임 할당하기.md",
     "Area/Book/오브젝트/04 설계 품질과 트레이드오프.md",
     "Area/Book/오브젝트/02 객체지향 프로그래밍.md",
@@ -235,7 +236,6 @@
     "Inbox/나중에 정리할 것.md",
     "Project/Spring/Security/쿠키와 세션 기반 인증.md",
     "Project/Spring/Spring과 객체지향/Interceptor.md",
-    "Project/Spring/Servlet/Front Controller.md",
     "Project/Spring/예외처리/exception.png",
     "Archive/img/Spring/kakaologin_sequence.png",
     "Project/Spring/예외처리",
