@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Area/Book/오브젝트/06 메시지와 인터페이스.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Area/Book/오브젝트/06 메시지와 인터페이스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Area/Book/오브젝트/06 메시지와 인터페이스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/끄적끄적.md"
+                "file": "Area/Book/오브젝트/06 메시지와 인터페이스.md"
               }
             }
           },
@@ -208,8 +208,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "49c6344b3159bf1d",
   "lastOpenFiles": [
+    "Area/Book/오브젝트/05 책임 할당하기.md",
+    "Area/Book/오브젝트/04 설계 품질과 트레이드오프.md",
+    "Area/Book/오브젝트/02 객체지향 프로그래밍.md",
+    "Area/Book/오브젝트/01 객체, 설계.md",
+    "Area/Book/오브젝트/03 역할, 책임, 협력.md",
+    "Inbox/끄적끄적.md",
     "Project/Spring/Security/Security.md",
     "Project/Spring/Security/인증과 인가.md",
     "Project/Spring/Security/세션.md",
@@ -225,20 +231,14 @@
     "Inbox/제목.md",
     "Excalidraw/Drawing 2024-02-20 00.18.20.excalidraw.md",
     "Excalidraw/Drawing 2024-02-20 00.18.17.excalidraw.md",
-    "Inbox/끄적끄적.md",
     "Project/Spring/Spring과 객체지향/AOP.md",
     "Inbox/나중에 정리할 것.md",
     "Project/Spring/Security/쿠키와 세션 기반 인증.md",
     "Project/Spring/Spring과 객체지향/Interceptor.md",
     "Project/Spring/Servlet/Front Controller.md",
-    "Project/Spring/Spring과 객체지향/ApplicationContext.md",
-    "Project/Spring/예외처리/Exception.md",
     "Project/Spring/예외처리/exception.png",
-    "Project/Spring/Servlet/배포서술자.md",
-    "Project/Spring/Servlet/인터셉터.md",
     "Archive/img/Spring/kakaologin_sequence.png",
     "Project/Spring/예외처리",
-    "Project/Spring/RestTemplate/RestTemplate.md",
     "Archive/img/109019081.jpg",
     "Archive/img/Spring/before.png",
     "Archive/img/Spring/AOP.png",
