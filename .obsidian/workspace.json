@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Test/테스트의 종류.md",
+                "file": "무제 파일.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,18 +59,10 @@
             }
           },
           {
-            "id": "f94ac31b3815532b",
+            "id": "b259c26245575d03",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "10a006f38cdebf79",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
               "state": {}
             }
           }
@@ -95,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/Test/테스트의 종류.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/Test/테스트의 종류.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Test/테스트의 종류.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -200,16 +192,32 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
+      "publish:변경사항 출판": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian42-brat:BRAT": false,
-      "publish:변경사항 출판": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "49c6344b3159bf1d",
   "lastOpenFiles": [
+    "무제 파일 2.md",
+    "무제 파일.md",
+    "무제 파일 1.md",
+    "Project/Test/테스트의 종류.md",
+    "SecondBrain2/Welcome.md",
+    "SecondBrain2",
+    "무제 폴더 7",
+    "무제 폴더 6",
+    "무제 폴더 5",
+    "Pasted image 20240225165939.png",
+    "무제 폴더 4",
+    "무제 폴더 3",
+    "무제 폴더 2",
+    "무제 폴더 1",
+    "Project/Spring/MOC.md",
+    "무제 폴더",
     "Area/Book/오브젝트/06 메시지와 인터페이스.md",
     "Area/Book/오브젝트/05 책임 할당하기.md",
     "Area/Book/오브젝트/04 설계 품질과 트레이드오프.md",
@@ -230,12 +238,6 @@
     "Todo/TIL/TIL.md",
     "Project/Spring/Security/접근 불가 페이지.md",
     "Inbox/제목.md",
-    "Excalidraw/Drawing 2024-02-20 00.18.20.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-20 00.18.17.excalidraw.md",
-    "Project/Spring/Spring과 객체지향/AOP.md",
-    "Inbox/나중에 정리할 것.md",
-    "Project/Spring/Security/쿠키와 세션 기반 인증.md",
-    "Project/Spring/Spring과 객체지향/Interceptor.md",
     "Project/Spring/예외처리/exception.png",
     "Archive/img/Spring/kakaologin_sequence.png",
     "Project/Spring/예외처리",
@@ -245,17 +247,7 @@
     "Archive/img/Spring/after.png",
     "Archive/img/Spring/after2.png",
     "Archive/img/Spring/before2.png",
-    "Project/Spring/OAuth",
     "Inbox/Pasted image 20240208233924.png",
-    "Area/프로그래머스/문제",
-    "Area/프로그래머스/문법",
-    "Area/프로그래머스",
-    "Inbox/대용량트래픽/Pasted image 20240208202330.png",
-    "Inbox/대용량트래픽",
-    "Excalidraw",
-    "Todo/TIL/2024-02",
-    "Area/Error/AWS/Beanstalk",
-    "Area/Error/AWS",
     "Project/무제 파일.canvas"
   ]
 }
