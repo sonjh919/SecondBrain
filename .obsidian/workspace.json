@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Inbox/끄적끄적.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "Inbox/끄적끄적.md"
               }
             }
           },
@@ -202,8 +202,12 @@
   },
   "active": "49c6344b3159bf1d",
   "lastOpenFiles": [
-    "무제 파일 2.md",
+    "Inbox/책/책.md",
+    "Inbox/끄적끄적.md",
+    "Inbox/코테.md",
+    "Inbox/나중에 정리할 것.md",
     "무제 파일.md",
+    "무제 파일 2.md",
     "무제 파일 1.md",
     "Project/Test/테스트의 종류.md",
     "SecondBrain2/Welcome.md",
@@ -224,7 +228,6 @@
     "Area/Book/오브젝트/02 객체지향 프로그래밍.md",
     "Area/Book/오브젝트/01 객체, 설계.md",
     "Area/Book/오브젝트/03 역할, 책임, 협력.md",
-    "Inbox/끄적끄적.md",
     "Project/Spring/Security/Security.md",
     "Project/Spring/Security/인증과 인가.md",
     "Project/Spring/Security/세션.md",
@@ -235,9 +238,6 @@
     "Project/Spring/Security/쿠키.md",
     "Project/Spring/OAuth/카카오 로그인.md",
     "Templates/TIL Templete.md",
-    "Todo/TIL/TIL.md",
-    "Project/Spring/Security/접근 불가 페이지.md",
-    "Inbox/제목.md",
     "Project/Spring/예외처리/exception.png",
     "Archive/img/Spring/kakaologin_sequence.png",
     "Project/Spring/예외처리",
