@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/JPA/Entity/1대 N 관계.md",
+                "file": "Project/Spring/Security/Security.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/JPA/Entity/1대 N 관계.md",
+                "file": "Project/Spring/Security/Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/JPA/Entity/1대 N 관계.md",
+                "file": "Project/Spring/Security/Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/JPA/Entity/1대 N 관계.md"
+                "file": "Project/Spring/Security/Security.md"
               }
             }
           },
@@ -202,6 +202,17 @@
   },
   "active": "49c6344b3159bf1d",
   "lastOpenFiles": [
+    "Project/Spring/Security/쿠키와 세션 기반 인증.md",
+    "Project/Spring/Security/쿠키.md",
+    "Project/Spring/Security/쿠키와 세션 비교.md",
+    "Project/Spring/Security/접근 불가 페이지.md",
+    "Project/Spring/Security/인증과 인가.md",
+    "Project/Spring/Security/세션.md",
+    "Project/Spring/Security/로그인.md",
+    "Project/Spring/Security/JWT/JWT 사용 흐름.md",
+    "Project/Spring/Security/JWT/JWT 기반 인증.md",
+    "Project/Spring/Security/JWT/JWT.md",
+    "Project/JPA/Entity/1대 N 관계.md",
     "Project/JPA/Entity/1대 1 관계.md",
     "Project/JPA/Entity/N대 M 관계.md",
     "Inbox/끄적끄적.md",
@@ -227,17 +238,6 @@
     "Area/Book/오브젝트/06 메시지와 인터페이스.md",
     "Area/Book/오브젝트/05 책임 할당하기.md",
     "Area/Book/오브젝트/04 설계 품질과 트레이드오프.md",
-    "Area/Book/오브젝트/02 객체지향 프로그래밍.md",
-    "Area/Book/오브젝트/01 객체, 설계.md",
-    "Area/Book/오브젝트/03 역할, 책임, 협력.md",
-    "Project/Spring/Security/Security.md",
-    "Project/Spring/Security/인증과 인가.md",
-    "Project/Spring/Security/세션.md",
-    "Project/Spring/Security/로그인.md",
-    "Project/Spring/Security/JWT/JWT 기반 인증.md",
-    "Project/Spring/Security/JWT/JWT 사용 흐름.md",
-    "Project/Spring/Security/JWT/JWT.md",
-    "Project/Spring/Security/쿠키.md",
     "Project/Spring/예외처리/exception.png",
     "Archive/img/Spring/kakaologin_sequence.png",
     "Project/Spring/예외처리",
