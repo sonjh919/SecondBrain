@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/Spring/Security/접근 불가 페이지.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/Spring/Security/접근 불가 페이지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/끄적끄적.md",
+                "file": "Project/Spring/Security/접근 불가 페이지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/끄적끄적.md"
+                "file": "Project/Spring/Security/접근 불가 페이지.md"
               }
             }
           },
@@ -202,9 +202,9 @@
   },
   "active": "49c6344b3159bf1d",
   "lastOpenFiles": [
+    "Inbox/끄적끄적.md",
     "Inbox/코테.md",
     "Inbox/나중에 정리할 것.md",
-    "Inbox/끄적끄적.md",
     "무제 파일.md",
     "Project/Spring/Security/Security.md",
     "Project/Spring/Security/쿠키와 세션 기반 인증.md",
