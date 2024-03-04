@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/무제 파일.md",
+                "file": "1. Project/자바 ORM 표준 JPA 프로그래밍/01 JPA 소개/SQL을 직접 다룰 때 발생하는 문제점.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/무제 파일.md",
+                "file": "1. Project/자바 ORM 표준 JPA 프로그래밍/01 JPA 소개/SQL을 직접 다룰 때 발생하는 문제점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/무제 파일.md",
+                "file": "1. Project/자바 ORM 표준 JPA 프로그래밍/01 JPA 소개/SQL을 직접 다룰 때 발생하는 문제점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/무제 파일.md"
+                "file": "1. Project/자바 ORM 표준 JPA 프로그래밍/01 JPA 소개/SQL을 직접 다룰 때 발생하는 문제점.md"
               }
             }
           },
@@ -202,9 +202,15 @@
   },
   "active": "49c6344b3159bf1d",
   "lastOpenFiles": [
+    "1. Project/자바 ORM 표준 JPA 프로그래밍/JPA.md",
+    "1. Project/자바 ORM 표준 JPA 프로그래밍/01 JPA 소개/SQL을 직접 다룰 때 발생하는 문제점.md",
+    "1. Project/JPA/트랜잭션.md",
+    "1. Project/자바 ORM 표준 JPA 프로그래밍/01 JPA 소개",
+    "1. Project/JPA/JPA (Java Persistence API).md",
+    "0. Inbox/무제 파일.md",
+    "1. Project/자바 ORM 표준 JPA 프로그래밍",
     "0. Inbox/나중에 정리할 것.md",
     "1. Project/JPA/ORM.md",
-    "1. Project/JPA/트랜잭션.md",
     "Excalidraw/Pasted Image 20240206110343_379.png",
     "Excalidraw/api.md",
     "Excalidraw/Pasted Image 20240206105442_576.png",
@@ -222,7 +228,6 @@
     "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md",
     "Excalidraw/Drawing 2024-02-05 17.19.31.excalidraw.md",
     "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md",
-    "0. Inbox/무제 파일.md",
     "1. Project/Spring/Security/접근 불가 페이지.md",
     "0. Inbox/끄적끄적.md",
     "0. Inbox/코테.md",
@@ -235,9 +240,6 @@
     "1. Project/Spring/Security/로그인.md",
     "1. Project/Spring/Security/JWT/JWT 사용 흐름.md",
     "1. Project/Spring/Security/JWT/JWT 기반 인증.md",
-    "1. Project/Spring/Security/JWT/JWT.md",
-    "1. Project/JPA/Entity/1대 N 관계.md",
-    "1. Project/JPA/Entity/1대 1 관계.md",
     "SecondBrain2",
     "무제 폴더 7",
     "무제 폴더 6",
@@ -246,8 +248,6 @@
     "무제 폴더 3",
     "무제 폴더 2",
     "무제 폴더 1",
-    "무제 폴더",
-    "1. Project/Spring/예외처리",
     "Project/무제 파일.canvas"
   ]
 }
