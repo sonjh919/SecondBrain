@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/자바 ORM 표준 JPA 프로그래밍/01 JPA 소개/SQL을 직접 다룰 때 발생하는 문제점.md",
+                "file": "1. Project/JPA/Entity/EntityManager.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/자바 ORM 표준 JPA 프로그래밍/01 JPA 소개/SQL을 직접 다룰 때 발생하는 문제점.md",
+                "file": "1. Project/JPA/Entity/EntityManager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/자바 ORM 표준 JPA 프로그래밍/01 JPA 소개/SQL을 직접 다룰 때 발생하는 문제점.md",
+                "file": "1. Project/JPA/Entity/EntityManager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/자바 ORM 표준 JPA 프로그래밍/01 JPA 소개/SQL을 직접 다룰 때 발생하는 문제점.md"
+                "file": "1. Project/JPA/Entity/EntityManager.md"
               }
             }
           },
@@ -202,8 +202,10 @@
   },
   "active": "49c6344b3159bf1d",
   "lastOpenFiles": [
-    "1. Project/자바 ORM 표준 JPA 프로그래밍/JPA.md",
+    "Todo/TIL/2024-02/2024-02-07 TIL.md",
+    "0. Inbox/책/책.md",
     "1. Project/자바 ORM 표준 JPA 프로그래밍/01 JPA 소개/SQL을 직접 다룰 때 발생하는 문제점.md",
+    "1. Project/자바 ORM 표준 JPA 프로그래밍/JPA.md",
     "1. Project/JPA/트랜잭션.md",
     "1. Project/자바 ORM 표준 JPA 프로그래밍/01 JPA 소개",
     "1. Project/JPA/JPA (Java Persistence API).md",
@@ -238,8 +240,6 @@
     "1. Project/Spring/Security/인증과 인가.md",
     "1. Project/Spring/Security/세션.md",
     "1. Project/Spring/Security/로그인.md",
-    "1. Project/Spring/Security/JWT/JWT 사용 흐름.md",
-    "1. Project/Spring/Security/JWT/JWT 기반 인증.md",
     "SecondBrain2",
     "무제 폴더 7",
     "무제 폴더 6",
