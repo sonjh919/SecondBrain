@@ -1,14 +1,3 @@
----
-title: N대 M 관계
-date: 2024-01-26 10:01
-categories:
-  - JPA
-tags:
-  - jpa
-  - 스파르타내일배움캠프TIL
-image: 
-path:
----
 #jpa 
 
 ## N대 M 관계 : @ManyToMany

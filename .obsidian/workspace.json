@@ -26,11 +26,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/Entity/연관관계/Entity 연관관계.md",
+                "file": "1. Project/JPA/Annotation/Column/@Column.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "38d1b55a43f92795",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -101,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/Entity/연관관계/Entity 연관관계.md",
+                "file": "1. Project/JPA/Annotation/Column/@Column.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/Entity/연관관계/Entity 연관관계.md",
+                "file": "1. Project/JPA/Annotation/Column/@Column.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/Entity/연관관계/Entity 연관관계.md"
+                "file": "1. Project/JPA/Annotation/Column/@Column.md"
               }
             }
           },
@@ -214,9 +222,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "4113df96c6316a25",
   "lastOpenFiles": [
+    "1. Project/JPA/Annotation/연관관계/@JoinColumn.md",
+    "1. Project/JPA/Annotation/연관관계/@ManyToOne.md",
+    "1. Project/JPA/Annotation/Column/@Column.md",
+    "1. Project/JPA/Entity/연관관계/1대 N 관계.md",
+    "1. Project/JPA/Entity/연관관계/Entity 연관관계.md",
     "1. Project/JPA/Annotation/Column/@Access.md",
+    "1. Project/JPA/Persistence Context/쓰기 지연 저장소.md",
+    "1. Project/JPA/Annotation/연관관계",
+    "1. Project/JPA/Persistence Context/변경 감지.md",
+    "1. Project/JPA/Persistence Context/영속성 전이.md",
+    "1. Project/JPA/Persistence Context/영속성 컨텍스트와 트랜잭션의 생명주기.md",
+    "1. Project/JPA/Persistence Context/1차 캐시.md",
+    "1. Project/JPA/Entity/Entity생명주기/Entity 생명주기.md",
+    "1. Project/JPA/Entity/Entity생명주기/persist.md",
+    "1. Project/JPA/트랜잭션/트랜잭션.md",
+    "1. Project/JPA/Entity/연관관계/N대 1 관계.md",
+    "1. Project/JPA/Entity/연관관계/객체 연관관계 vs 테이블 연관관계.md",
+    "3. Resource/Python/문법/기타/join.md",
+    "1. Project/JPA/Entity/연관관계/N대 M 관계.md",
+    "1. Project/JPA/Entity/연관관계/1대 1 관계.md",
     "1. Project/JPA/Entity/연관관계",
     "1. Project/JPA/Annotation/Column/@Enumerated.md",
     "1. Project/JPA/Annotation/Column/@Temporal.md",
@@ -225,34 +252,16 @@
     "1. Project/JPA/Annotation/Table/@Entity.md",
     "2. Area/JAVA/기본 문법/enum.md",
     "1. Project/JPA/Annotation/Id/@Id.md",
-    "1. Project/JPA/Annotation/Column/@Column.md",
-    "1. Project/JPA/Annotation/Id/@GeneratedValue.md",
     "1. Project/JPA/Annotation/Column",
     "1. Project/JPA/Annotation/Table",
     "1. Project/JPA/Annotation/Id",
-    "1. Project/JPA/Persistence Context/쓰기 지연 저장소.md",
-    "1. Project/JPA/Annotation/@JoinColumn.md",
     "1. Project/JPA/JPA 기초",
-    "1. Project/JPA/Annotation/Table/@Table.md",
-    "1. Project/JPA/JPA 기초/DB 스키마 자동 생성.md",
-    "2. Area/Database/RDB/SQL/DDL/DDL.md",
-    "1. Project/Spring/세팅/application.properties.md",
-    "1. Project/JPA/JPA 기초/데이터베이스 방언.md",
-    "1. Project/JPA/JPA 기초/패러다임의 불일치.md",
-    "1. Project/JPA/JPA 기초/하이버네이트.md",
-    "1. Project/JPA/JPA 기초/JPA (Java Persistence API).md",
-    "1. Project/JPA/JPA 기초/JPA 어플리케이션 개발 순서.md",
-    "1. Project/JPA/JPA 기초/SQL을 직접 다룰 때 발생하는 문제점.md",
-    "1. Project/JPA/SimpleJpaRepository.md",
-    "1. Project/JPA/Query Method.md",
-    "1. Project/JPA/JPA 기초/ORM.md",
     "1. Project/JPA/Entity/Entity생명주기",
     "4. Archive/img/JPA/entitystate.png",
     "4. Archive/img/JPA/entitystate.png",
     "1. Project/JPA/트랜잭션",
     "1. Project/JPA/Annotation",
     "1. Project/자바 ORM 표준 JPA 프로그래밍/01 JPA 소개",
-    "1. Project/자바 ORM 표준 JPA 프로그래밍",
     "Excalidraw/Pasted Image 20240206110343_379.png",
     "Excalidraw/Pasted Image 20240206105442_576.png",
     "Excalidraw/Pasted Image 20240206105218_040.png",

@@ -1,0 +1,28 @@
+#jpa #Annotation 
+
+## @JoinColumn
+외래 키를 매핑할 때 사용한다. 이 어노테이션은 생략 가능하다.
+
+## 속성
+> [!note]+ name
+> 매핑할 **외래 키** 이름을 지정한다.
+> 
+> **기본값**
+> 필드명 + _ + 참조하는 테이블의 기본 키 컬럼명
+
+> [!note]+ referencedColumnName
+> 외래 키가 참조하는 대상 테이블의 컬럼명
+> 
+> **기본값**
+> 참조하는 테이블의 기본 키 컬럼명
+
+> [!note]+ foreignKey
+> 외래 키 제약조건을 직접 지정할 수 있다. 이 속성은 테이블을 생성할 때만 사용한다.
+
+> [!summary]+ 
+> unique
+> nullable
+> insertable
+> updateable
+> 
+> [[@Column]]의 속성과 같다.

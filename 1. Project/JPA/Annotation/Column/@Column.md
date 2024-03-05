@@ -37,5 +37,16 @@ private String username;
 > 
 > precision : 소수점을 포함한 전체 자릿수
 > scale : 소수의 자릿수
+
+
+> [!note]+ insertable
+> false로 설정 시 이 필드는 데이터베이스에 저장하지 않는다. 읽기 전용 시 사용한다.
 > 
+> **기본값**
+> true
+
+> [!note]+ updateable
+> false로 설정 시 이 필드는 데이터베이스에 수정하지 않는다. 읽기 전용 시 사용한다.
 > 
+> **기본값**
+> true
