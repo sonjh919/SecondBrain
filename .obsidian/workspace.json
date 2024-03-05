@@ -13,11 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/패러다임의 불일치.md",
+                "file": "1. Project/JPA/트랜잭션/트랜잭션.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "4113df96c6316a25",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -87,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/패러다임의 불일치.md",
+                "file": "1. Project/JPA/트랜잭션/트랜잭션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/패러다임의 불일치.md",
+                "file": "1. Project/JPA/트랜잭션/트랜잭션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/패러다임의 불일치.md"
+                "file": "1. Project/JPA/트랜잭션/트랜잭션.md"
               }
             }
           },
@@ -202,28 +210,36 @@
   },
   "active": "f467b938af568cdc",
   "lastOpenFiles": [
-    "2. Area/Database/RDB/SQL/Join/JOIN.md",
+    "1. Project/JPA/JPA 어플리케이션 개발 순서.md",
+    "1. Project/JPA/트랜잭션/트랜잭션.md",
+    "1. Project/JPA/트랜잭션",
+    "1. Project/JPA/Entity/Entity 생성.md",
+    "1. Project/JPA/Entity/EntityManager.md",
+    "1. Project/JPA/Entity/EntityManagerFactory.md",
+    "1. Project/JPA/Entity/N대 1 관계.md",
+    "무제 파일.md",
+    "1. Project/JPA/데이터베이스 방언.md",
     "1. Project/JPA/패러다임의 불일치.md",
+    "1. Project/JPA/Annotation/@Column.md",
+    "1. Project/JPA/Annotation/@Id.md",
+    "1. Project/JPA/Annotation/@Table.md",
+    "1. Project/JPA/Annotation/@Entity.md",
+    "1. Project/JPA/JPA (Java Persistence API).md",
+    "1. Project/JPA/Annotation",
+    "1. Project/JPA/JPA Auditing.md",
+    "1. Project/JPA/하이버네이트.md",
+    "1. Project/JPA/ORM.md",
+    "2. Area/Database/RDB/SQL/Join/JOIN.md",
     "0. Inbox/코테.md",
     "0. Inbox/무제 파일.md",
-    "1. Project/JPA/JPA (Java Persistence API).md",
-    "1. Project/JPA/JPA Auditing.md",
     "1. Project/JPA/SQL을 직접 다룰 때 발생하는 문제점.md",
-    "1. Project/JPA/ORM.md",
     "1. Project/JPA/Query Method.md",
     "1. Project/JPA/MOC.md",
-    "1. Project/JPA/하이버네이트.md",
-    "1. Project/JPA/트랜잭션.md",
-    "1. Project/JPA/Entity/EntityManager.md",
     "1. Project/자바 ORM 표준 JPA 프로그래밍/01 JPA 소개/SQL을 직접 다룰 때 발생하는 문제점.md",
     "Todo/TIL/2024-02/2024-02-07 TIL.md",
-    "0. Inbox/책/책.md",
-    "1. Project/자바 ORM 표준 JPA 프로그래밍/JPA.md",
     "1. Project/자바 ORM 표준 JPA 프로그래밍/01 JPA 소개",
     "1. Project/자바 ORM 표준 JPA 프로그래밍",
-    "0. Inbox/나중에 정리할 것.md",
     "Excalidraw/Pasted Image 20240206110343_379.png",
-    "Excalidraw/api.md",
     "Excalidraw/Pasted Image 20240206105442_576.png",
     "Excalidraw/Pasted Image 20240206105218_040.png",
     "Excalidraw/Pasted Image 20240206105124_525.png",
@@ -233,21 +249,12 @@
     "Excalidraw/Pasted Image 20240206104212_402.png",
     "Excalidraw/Pasted Image 20240206103953_373.png",
     "Excalidraw/Pasted Image 20240206103905_382.png",
-    "Excalidraw/Drawing 2024-02-20 00.18.17.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-20 00.18.20.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-14 01.19.10.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-05 17.19.31.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-04 03.23.12.excalidraw.md",
-    "1. Project/Spring/Security/접근 불가 페이지.md",
     "SecondBrain2",
     "무제 폴더 7",
     "무제 폴더 6",
     "무제 폴더 5",
     "무제 폴더 4",
     "무제 폴더 3",
-    "무제 폴더 2",
-    "무제 폴더 1",
     "Project/무제 파일.canvas"
   ]
 }
