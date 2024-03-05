@@ -17,7 +17,7 @@ path:
 [[영속성 컨텍스트]]
 [[영속성 컨텍스트와 트랜잭션의 생명주기]]
 [[1. Project/JPA/트랜잭션/트랜잭션|트랜잭션]]
-[[Entity 상태]]
+[[Entity 생명주기]]
 [[Entity]]
 [[EntityManager]]
 [[JPA (Java Persistence API)]]

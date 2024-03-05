@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/트랜잭션/트랜잭션.md",
+                "file": "1. Project/JPA/Persistence Context/변경 감지.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,11 +24,17 @@
             "id": "4113df96c6316a25",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Project/JPA/Entity/Entity생명주기/Entity 생명주기.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/트랜잭션/트랜잭션.md",
+                "file": "1. Project/JPA/Entity/Entity생명주기/Entity 생명주기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/트랜잭션/트랜잭션.md",
+                "file": "1. Project/JPA/Entity/Entity생명주기/Entity 생명주기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/트랜잭션/트랜잭션.md"
+                "file": "1. Project/JPA/Entity/Entity생명주기/Entity 생명주기.md"
               }
             }
           },
@@ -208,35 +214,39 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f467b938af568cdc",
+  "active": "4113df96c6316a25",
   "lastOpenFiles": [
+    "1. Project/JPA/Entity/Entity 생성.md",
+    "1. Project/JPA/Entity/Entity 연관관계.md",
+    "1. Project/JPA/Entity/Entity생명주기/detach.md",
+    "1. Project/JPA/Entity/Entity생명주기/flush.md",
+    "1. Project/JPA/Entity/Entity생명주기/remove.md",
+    "1. Project/JPA/Persistence Context/변경 감지.md",
+    "1. Project/JPA/Persistence Context/1차 캐시.md",
+    "1. Project/JPA/Persistence Context/쓰기 지연 저장소.md",
+    "1. Project/JPA/Persistence Context/지연 로딩.md",
+    "1. Project/JPA/Persistence Context/영속성 전이.md",
+    "1. Project/JPA/Entity/Entity생명주기/Entity 생명주기.md",
+    "1. Project/JPA/Entity/EntityManager.md",
+    "1. Project/JPA/Entity/Entity생명주기/persist.md",
+    "1. Project/JPA/Persistence Context/영속성 컨텍스트.md",
+    "1. Project/JPA/Entity/Entity생명주기/merge.md",
+    "1. Project/JPA/Entity/Entity생명주기/clear.md",
+    "1. Project/JPA/Entity/Entity생명주기/close.md",
+    "1. Project/JPA/Entity/Entity생명주기",
+    "1. Project/JPA/Persistence Context/영속성 컨텍스트와 트랜잭션의 생명주기.md",
+    "4. Archive/img/JPA/entitystate.png",
+    "4. Archive/img/JPA/entitystate.png",
+    "1. Project/JPA/MOC.md",
+    "1. Project/JPA/JPQL.md",
+    "1. Project/JPA/ORM.md",
+    "1. Project/JPA/Entity/EntityManagerFactory.md",
     "1. Project/JPA/JPA 어플리케이션 개발 순서.md",
+    "1. Project/JPA/JPA (Java Persistence API).md",
+    "1. Project/JPA/SQL을 직접 다룰 때 발생하는 문제점.md",
     "1. Project/JPA/트랜잭션/트랜잭션.md",
     "1. Project/JPA/트랜잭션",
-    "1. Project/JPA/Entity/Entity 생성.md",
-    "1. Project/JPA/Entity/EntityManager.md",
-    "1. Project/JPA/Entity/EntityManagerFactory.md",
-    "1. Project/JPA/Entity/N대 1 관계.md",
-    "무제 파일.md",
-    "1. Project/JPA/데이터베이스 방언.md",
-    "1. Project/JPA/패러다임의 불일치.md",
-    "1. Project/JPA/Annotation/@Column.md",
-    "1. Project/JPA/Annotation/@Id.md",
-    "1. Project/JPA/Annotation/@Table.md",
-    "1. Project/JPA/Annotation/@Entity.md",
-    "1. Project/JPA/JPA (Java Persistence API).md",
     "1. Project/JPA/Annotation",
-    "1. Project/JPA/JPA Auditing.md",
-    "1. Project/JPA/하이버네이트.md",
-    "1. Project/JPA/ORM.md",
-    "2. Area/Database/RDB/SQL/Join/JOIN.md",
-    "0. Inbox/코테.md",
-    "0. Inbox/무제 파일.md",
-    "1. Project/JPA/SQL을 직접 다룰 때 발생하는 문제점.md",
-    "1. Project/JPA/Query Method.md",
-    "1. Project/JPA/MOC.md",
-    "1. Project/자바 ORM 표준 JPA 프로그래밍/01 JPA 소개/SQL을 직접 다룰 때 발생하는 문제점.md",
-    "Todo/TIL/2024-02/2024-02-07 TIL.md",
     "1. Project/자바 ORM 표준 JPA 프로그래밍/01 JPA 소개",
     "1. Project/자바 ORM 표준 JPA 프로그래밍",
     "Excalidraw/Pasted Image 20240206110343_379.png",
@@ -247,14 +257,11 @@
     "Excalidraw/Pasted Image 20240206104438_741.png",
     "Excalidraw/Pasted Image 20240206104331_436.png",
     "Excalidraw/Pasted Image 20240206104212_402.png",
-    "Excalidraw/Pasted Image 20240206103953_373.png",
-    "Excalidraw/Pasted Image 20240206103905_382.png",
     "SecondBrain2",
     "무제 폴더 7",
     "무제 폴더 6",
     "무제 폴더 5",
     "무제 폴더 4",
-    "무제 폴더 3",
     "Project/무제 파일.canvas"
   ]
 }
