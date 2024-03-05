@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/Annotation/Column/@Temporal.md",
+                "file": "1. Project/JPA/Entity/연관관계/Entity 연관관계.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/Annotation/Column/@Temporal.md",
+                "file": "1. Project/JPA/Entity/연관관계/Entity 연관관계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/Annotation/Column/@Temporal.md",
+                "file": "1. Project/JPA/Entity/연관관계/Entity 연관관계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/Annotation/Column/@Temporal.md"
+                "file": "1. Project/JPA/Entity/연관관계/Entity 연관관계.md"
               }
             }
           },
@@ -214,17 +214,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4113df96c6316a25",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
+    "1. Project/JPA/Annotation/Column/@Access.md",
+    "1. Project/JPA/Entity/연관관계",
     "1. Project/JPA/Annotation/Column/@Enumerated.md",
+    "1. Project/JPA/Annotation/Column/@Temporal.md",
+    "1. Project/JPA/Annotation/Column/@Transient.md",
+    "1. Project/JPA/Annotation/Column/@Lob.md",
     "1. Project/JPA/Annotation/Table/@Entity.md",
     "2. Area/JAVA/기본 문법/enum.md",
     "1. Project/JPA/Annotation/Id/@Id.md",
     "1. Project/JPA/Annotation/Column/@Column.md",
-    "1. Project/JPA/Annotation/Column/@Access.md",
-    "1. Project/JPA/Annotation/Column/@Transient.md",
-    "1. Project/JPA/Annotation/Column/@Temporal.md",
-    "1. Project/JPA/Annotation/Column/@Lob.md",
     "1. Project/JPA/Annotation/Id/@GeneratedValue.md",
     "1. Project/JPA/Annotation/Column",
     "1. Project/JPA/Annotation/Table",
@@ -245,7 +246,6 @@
     "1. Project/JPA/SimpleJpaRepository.md",
     "1. Project/JPA/Query Method.md",
     "1. Project/JPA/JPA 기초/ORM.md",
-    "1. Project/JPA/JPA Auditing.md",
     "1. Project/JPA/Entity/Entity생명주기",
     "4. Archive/img/JPA/entitystate.png",
     "4. Archive/img/JPA/entitystate.png",
@@ -261,7 +261,6 @@
     "Excalidraw/Pasted Image 20240206104438_741.png",
     "Excalidraw/Pasted Image 20240206104331_436.png",
     "Excalidraw/Pasted Image 20240206104212_402.png",
-    "SecondBrain2",
     "Project/무제 파일.canvas"
   ]
 }
