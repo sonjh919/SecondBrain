@@ -4,7 +4,7 @@
 em.detach(memo);
 ```
 
-- detach(entity) : 특정 Entity만 준영속 상태로 전환한다.
+- detach(entity) : **특정 Entity만** 준영속 상태로 전환한다.
 + 영속성 컨텍스트에서 관리되다(**Managed**)가 분리된 상태(**Detached**)로 전환된다.
 
 ```java

@@ -52,9 +52,4 @@ spring.jpa.properties.hibernate.format_sql=true
 spring.jpa.properties.hibernate.use_sql_comments=true
 ```
 
-### spring.jpa.hibernate.ddl-auto
-+ create : 기존 table을 전부 삭제한 후에 다시 생성 (drop + create)
-+ create-drop : create과 같지만 종료 시점에 table을 drop한다.
-+ update : 변경된 부분만 반영한다.
-+ validate : Entity와 table이 정상적으로 mapping되었는지만 확인한다.
-+ none : 아무것도 하지 않는다.
+참고 : [[DB 스키마 자동 생성]]

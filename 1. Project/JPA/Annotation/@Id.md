@@ -8,7 +8,7 @@
 @Table(name="MEMBER")
 public class Member {
 	@id
-	@Column(name-"ID")
+	@Column(name="ID")
 	private String id;
 }
 ```
