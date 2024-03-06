@@ -13,11 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/Annotation/연관관계/@SecondaryTable.md",
+                "file": "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "551b25b5e3896c93",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -87,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/Annotation/연관관계/@SecondaryTable.md",
+                "file": "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/Annotation/연관관계/@SecondaryTable.md",
+                "file": "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/Annotation/연관관계/@SecondaryTable.md"
+                "file": "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md"
               }
             }
           },
@@ -202,11 +210,13 @@
   },
   "active": "f467b938af568cdc",
   "lastOpenFiles": [
-    "1. Project/JPA/Annotation/연관관계/@JoinTable.md",
+    "4. Archive/img/JPA/secondarytable.png",
     "1. Project/JPA/Annotation/연관관계/@SecondaryTable.md",
-    "1. Project/JPA/Annotation/연관관계/ntom.png",
-    "1. Project/JPA/Annotation/연관관계/ntonone.png",
-    "1. Project/JPA/Annotation/연관관계/onetoone.png",
+    "1. Project/JPA/Annotation/연관관계/@JoinTable.md",
+    "4. Archive/img/JPA/onetoone 1.png",
+    "4. Archive/img/JPA/ntonone.png",
+    "4. Archive/img/JPA/ntom.png",
+    "1. Project/JPA/Annotation/Column/@Column.md",
     "1. Project/JPA/Annotation/연관관계/@JoinColumn.md",
     "1. Project/JPA/Annotation/Entity/@IdClass.md",
     "1. Project/JPA/Mapping/상속 관계/조인 전략.md",
@@ -236,9 +246,7 @@
     "1. Project/JPA/Entity/연관관계/식별&비식별 관계 매핑/무제 파일.md",
     "4. Archive/img/JPA/singletable.png",
     "4. Archive/img/JPA/classtable.png",
-    "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md",
     "1. Project/JPA/Mapping/식별&비식별 관계",
-    "1. Project/JPA/Annotation/Entity/@AttributeOverrides.md",
     "1. Project/JPA/Mapping/상속 관계",
     "4. Archive/img/JPA/joinstrategy.png",
     "1. Project/JPA/Annotation/연관관계",
@@ -247,7 +255,6 @@
     "1. Project/JPA/Annotation/Entity",
     "1. Project/JPA/Annotation/Id",
     "1. Project/JPA/JPA 기초",
-    "4. Archive/img/JPA/entitystate.png",
     "Project/무제 파일.canvas"
   ]
 }

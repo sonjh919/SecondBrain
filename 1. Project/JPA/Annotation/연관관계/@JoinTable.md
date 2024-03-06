@@ -16,7 +16,7 @@
 ## [[일대일]] 조인 테이블
 + 일대일 관계를 만들려면 조인 테이블의 외래 키 컬럼 각각에 총 2개의 unique 제약조건을 걸어야 한다.
 
-![[1. Project/JPA/Annotation/연관관계/onetoone.png]]
+![[onetoone 1.png]]
 ```java
 @Entity  
 public class Parnet {  
