@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md",
+                "file": "1. Project/JPA/Annotation/Entity/@IdClass.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md",
+                "file": "1. Project/JPA/Annotation/Entity/@IdClass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md",
+                "file": "1. Project/JPA/Annotation/Entity/@IdClass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md"
+                "file": "1. Project/JPA/Annotation/Entity/@IdClass.md"
               }
             }
           },
@@ -200,38 +200,39 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "f467b938af568cdc",
   "lastOpenFiles": [
+    "1. Project/JPA/Annotation/Column/@EmbeddedId.md",
+    "1. Project/JPA/Annotation/Column/@Enumerated.md",
+    "1. Project/JPA/Annotation/Entity/@IdClass.md",
+    "1. Project/JPA/Entity/연관관계/식별&비식별 관계 매핑/복합 키.md",
+    "1. Project/JPA/Annotation/Id/@GeneratedValue.md",
+    "@EmbeddedId.md",
+    "1. Project/JPA/Annotation/연관관계/@JoinColumn.md",
+    "1. Project/JPA/Annotation/Column/@Temporal.md",
+    "2. Area/JAVA/개발 환경/JVM/JVM.md",
+    "1. Project/JPA/Entity/연관관계/식별&비식별 관계 매핑/식별 관계와 비식별 관계.md",
+    "1. Project/JPA/Entity/연관관계/식별&비식별 관계 매핑/무제 파일.md",
+    "1. Project/JPA/Entity/연관관계/1대 1 관계.md",
+    "4. Archive/img/JPA/singletable.png",
+    "4. Archive/img/JPA/classtable.png",
+    "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md",
     "1. Project/JPA/Entity/연관관계/식별&비식별 관계 매핑",
     "1. Project/JPA/Annotation/Entity/@AttributeOverrides.md",
     "1. Project/JPA/Annotation/Entity/@DiscriminatorColumn.md",
-    "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md",
     "1. Project/JPA/Annotation/Entity/@PrimaryKeyJoinColumn.md",
     "1. Project/JPA/Annotation/Entity/@Entity.md",
-    "1. Project/JPA/Annotation/Entity/@IdClass.md",
     "1. Project/JPA/Annotation/Entity/@Inheritance.md",
     "1. Project/JPA/Annotation/Column/@Lob.md",
-    "1. Project/JPA/Annotation/Id/@GeneratedValue.md",
     "1. Project/JPA/Entity/연관관계/상속 관계 매핑/구현 클래스마다 테이블 전략.md",
     "1. Project/JPA/Entity/연관관계/상속 관계 매핑/단일 테이블 전략.md",
     "1. Project/JPA/Entity/연관관계/상속 관계 매핑/상속 관계 매핑.md",
-    "1. Project/JPA/Entity/연관관계/상속 관계 매핑/classtable.png",
     "1. Project/JPA/Entity/연관관계/상속 관계 매핑/조인 전략.md",
     "1. Project/JPA/Annotation/Entity/@DiscriminatorValue.md",
-    "1. Project/JPA/Entity/연관관계/상속 관계 매핑/singletable.png",
     "1. Project/JPA/Entity/연관관계/상속 관계 매핑",
     "4. Archive/img/JPA/joinstrategy.png",
     "1. Project/JPA/Entity/연관관계/1대 N 관계.md",
     "1. Project/JPA/Annotation/Entity/@Table.md",
-    "1. Project/JPA/Entity/연관관계/N대 M 관계.md",
-    "1. Project/JPA/Entity/연관관계/복합 기본 키 (7.3절).md",
-    "1. Project/JPA/Entity/연관관계/연관관계 편의 메서드.md",
-    "1. Project/JPA/Entity/연관관계/연관관계의 주인.md",
-    "1. Project/JPA/Entity/연관관계/Entity 연관관계.md",
-    "1. Project/JPA/Annotation/연관관계/@OneToMany.md",
-    "1. Project/JPA/Annotation/연관관계/@ManyToOne.md",
-    "1. Project/JPA/Entity/연관관계/1대 1 관계.md",
-    "1. Project/JPA/Entity/연관관계/N대 1 관계.md",
     "1. Project/JPA/Annotation/연관관계",
     "1. Project/JPA/Entity/연관관계",
     "1. Project/JPA/Annotation/Column",
@@ -242,7 +243,6 @@
     "4. Archive/img/JPA/entitystate.png",
     "4. Archive/img/JPA/entitystate.png",
     "1. Project/JPA/트랜잭션",
-    "1. Project/JPA/Annotation",
     "Excalidraw/Pasted Image 20240206110343_379.png",
     "Excalidraw/Pasted Image 20240206105442_576.png",
     "Excalidraw/Pasted Image 20240206105218_040.png",

@@ -19,6 +19,8 @@ JPA가 제공하는 데이터베이스 기본 키 생성 전략은 다음과 같
 > [!caution]+ 
 > 키 생성 전략을 사용하기 위해서는 hibernate.id.neew_generator_mappings=true 속성을 추가해야 한다.
 
+> [!check]+ 
+> [[복합 키]]에는 @GeneratedValue를 사용할 수 없다. 복합 키를 구성하는 여러 컬럼 중 하나에도 사용할 수 없다.
 ## 1. IDENTITY
 기본 키 생성을 데이터베이스에 위임하는 전략이다. 예를 들어 MySQL의 AUTO_INCREMENT 기능은 데이터베이스가 기본 키를 자동으로 생성해준다.
 
