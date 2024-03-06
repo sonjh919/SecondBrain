@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/JPA 기초/ORM.md",
+                "file": "1. Project/JPA/프록시/프록시.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/JPA 기초/ORM.md",
+                "file": "1. Project/JPA/프록시/프록시.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/JPA 기초/ORM.md",
+                "file": "1. Project/JPA/프록시/프록시.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/JPA 기초/ORM.md"
+                "file": "1. Project/JPA/프록시/프록시.md"
               }
             }
           },
@@ -202,6 +202,21 @@
   },
   "active": "551b25b5e3896c93",
   "lastOpenFiles": [
+    "1. Project/JPA/프록시/지연 로딩.md",
+    "1. Project/JPA/프록시/프록시.md",
+    "1. Project/JPA/Persistence Context/영속성 컨텍스트.md",
+    "1. Project/디자인 패턴/프록시 패턴.md",
+    "2. Area/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
+    "4. Archive/img/109019081.jpg",
+    "1. Project/디자인 패턴/proxy 1.png",
+    "1. Project/JPA/프록시/proxy.png",
+    "1. Project/디자인 패턴/proxy.png",
+    "1. Project/디자인 패턴",
+    "1. Project/JPA/Persistence Context/영속성 컨텍스트와 트랜잭션의 생명주기.md",
+    "1. Project/JPA/Mapping/조인 컬럼&테이블/연관관계 설계.md",
+    "1. Project/JPA/프록시",
+    "1. Project/JPA/JPA 기초/SQL을 직접 다룰 때 발생하는 문제점.md",
+    "1. Project/JPA/JPA 기초/ORM.md",
     "4. Archive/img/JPA/jointable.png",
     "4. Archive/img/JPA/joinmapping.png",
     "4. Archive/img/JPA/joincolumn.png",
@@ -217,7 +232,6 @@
     "1. Project/JPA/Annotation/연관관계/@JoinTable.md",
     "4. Archive/img/JPA/onetoone 1.png",
     "4. Archive/img/JPA/ntonone.png",
-    "4. Archive/img/JPA/ntom.png",
     "1. Project/JPA/Annotation/Column/@Column.md",
     "1. Project/JPA/Annotation/연관관계/@JoinColumn.md",
     "1. Project/JPA/Annotation/Entity/@IdClass.md",
@@ -226,27 +240,14 @@
     "1. Project/JPA/Mapping/연관관계/일대일.md",
     "1. Project/JPA/Mapping/연관관계/Entity 연관관계.md",
     "1. Project/JPA/Mapping/연관관계/일대다.md",
-    "1. Project/JPA/Mapping/연관관계/다대일.md",
-    "1. Project/JPA/Mapping/연관관계/다대다.md",
-    "1. Project/JPA/Mapping/조인 컬럼&테이블/연관관계 설계.md",
-    "1. Project/JPA/Annotation/Entity/@Inheritance.md",
-    "@JoinTable.md",
     "1. Project/JPA/Mapping/조인 컬럼&테이블",
     "1. Project/JPA/Mapping",
-    "1. Project/JPA/Mapping/식별&비식별 관계/식별 관계와 비식별 관계.md",
-    "1. Project/JPA/Mapping/식별&비식별 관계/복합 키.md",
-    "1. Project/JPA/Annotation/Column/@EmbeddedId.md",
-    "4. Archive/img/JPA/singletable.png",
-    "4. Archive/img/JPA/classtable.png",
     "1. Project/JPA/Mapping/식별&비식별 관계",
     "1. Project/JPA/Mapping/상속 관계",
-    "4. Archive/img/JPA/joinstrategy.png",
     "1. Project/JPA/Annotation/연관관계",
     "1. Project/JPA/Mapping/연관관계",
     "1. Project/JPA/Annotation/Column",
     "1. Project/JPA/Annotation/Entity",
-    "1. Project/JPA/Annotation/Id",
-    "1. Project/JPA/JPA 기초",
     "Project/무제 파일.canvas"
   ]
 }
