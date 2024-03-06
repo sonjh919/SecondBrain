@@ -13,19 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/Entity/연관관계/N대 M 관계.md",
+                "file": "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "38d1b55a43f92795",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -95,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/Entity/연관관계/N대 M 관계.md",
+                "file": "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/Entity/연관관계/N대 M 관계.md",
+                "file": "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/Entity/연관관계/N대 M 관계.md"
+                "file": "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md"
               }
             }
           },
@@ -208,38 +200,42 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f467b938af568cdc",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
+    "1. Project/JPA/Entity/연관관계/식별&비식별 관계 매핑",
+    "1. Project/JPA/Annotation/Entity/@AttributeOverrides.md",
+    "1. Project/JPA/Annotation/Entity/@DiscriminatorColumn.md",
+    "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md",
+    "1. Project/JPA/Annotation/Entity/@PrimaryKeyJoinColumn.md",
+    "1. Project/JPA/Annotation/Entity/@Entity.md",
+    "1. Project/JPA/Annotation/Entity/@IdClass.md",
+    "1. Project/JPA/Annotation/Entity/@Inheritance.md",
+    "1. Project/JPA/Annotation/Column/@Lob.md",
+    "1. Project/JPA/Annotation/Id/@GeneratedValue.md",
+    "1. Project/JPA/Entity/연관관계/상속 관계 매핑/구현 클래스마다 테이블 전략.md",
+    "1. Project/JPA/Entity/연관관계/상속 관계 매핑/단일 테이블 전략.md",
+    "1. Project/JPA/Entity/연관관계/상속 관계 매핑/상속 관계 매핑.md",
+    "1. Project/JPA/Entity/연관관계/상속 관계 매핑/classtable.png",
+    "1. Project/JPA/Entity/연관관계/상속 관계 매핑/조인 전략.md",
+    "1. Project/JPA/Annotation/Entity/@DiscriminatorValue.md",
+    "1. Project/JPA/Entity/연관관계/상속 관계 매핑/singletable.png",
+    "1. Project/JPA/Entity/연관관계/상속 관계 매핑",
+    "4. Archive/img/JPA/joinstrategy.png",
+    "1. Project/JPA/Entity/연관관계/1대 N 관계.md",
+    "1. Project/JPA/Annotation/Entity/@Table.md",
+    "1. Project/JPA/Entity/연관관계/N대 M 관계.md",
+    "1. Project/JPA/Entity/연관관계/복합 기본 키 (7.3절).md",
+    "1. Project/JPA/Entity/연관관계/연관관계 편의 메서드.md",
+    "1. Project/JPA/Entity/연관관계/연관관계의 주인.md",
+    "1. Project/JPA/Entity/연관관계/Entity 연관관계.md",
+    "1. Project/JPA/Annotation/연관관계/@OneToMany.md",
+    "1. Project/JPA/Annotation/연관관계/@ManyToOne.md",
     "1. Project/JPA/Entity/연관관계/1대 1 관계.md",
     "1. Project/JPA/Entity/연관관계/N대 1 관계.md",
-    "1. Project/JPA/Entity/연관관계/1대 N 관계.md",
-    "1. Project/JPA/Annotation/연관관계/@OneToMany.md",
-    "1. Project/JPA/Annotation/연관관계/@ManyToMany.md",
-    "1. Project/JPA/Annotation/연관관계/@ManyToOne.md",
-    "1. Project/JPA/Entity/연관관계/Entity 연관관계.md",
-    "1. Project/JPA/Entity/연관관계/연관관계의 주인.md",
-    "1. Project/JPA/Entity/연관관계/N대 M 관계.md",
-    "1. Project/JPA/Annotation/연관관계/@OneToOne.md",
-    "1. Project/JPA/Annotation/연관관계/@JoinColumn.md",
-    "1. Project/JPA/Persistence Context/변경 감지.md",
-    "2. Area/프로그래머스/문법/String 활용 메서드.md",
-    "2. Area/프로그래머스/문법/StringBuilder 활용 메서드.md",
-    "0. Inbox/무제 파일.md",
-    "0. Inbox/코테.md",
-    "0. Inbox/나중에 정리할 것.md",
-    "0. Inbox/끄적끄적.md",
-    "1. Project/JPA/Annotation/Column/@Column.md",
-    "1. Project/Spring/문법/Response 트렌드의 변화.md",
-    "2. Area/Git/명령어/remote.md",
-    "1. Project/JPA/Annotation/Column/@Access.md",
-    "1. Project/JPA/Persistence Context/쓰기 지연 저장소.md",
     "1. Project/JPA/Annotation/연관관계",
-    "1. Project/JPA/Persistence Context/영속성 전이.md",
-    "1. Project/JPA/Persistence Context/영속성 컨텍스트와 트랜잭션의 생명주기.md",
-    "1. Project/JPA/Persistence Context/1차 캐시.md",
     "1. Project/JPA/Entity/연관관계",
     "1. Project/JPA/Annotation/Column",
-    "1. Project/JPA/Annotation/Table",
+    "1. Project/JPA/Annotation/Entity",
     "1. Project/JPA/Annotation/Id",
     "1. Project/JPA/JPA 기초",
     "1. Project/JPA/Entity/Entity생명주기",
@@ -247,15 +243,11 @@
     "4. Archive/img/JPA/entitystate.png",
     "1. Project/JPA/트랜잭션",
     "1. Project/JPA/Annotation",
-    "1. Project/자바 ORM 표준 JPA 프로그래밍/01 JPA 소개",
     "Excalidraw/Pasted Image 20240206110343_379.png",
     "Excalidraw/Pasted Image 20240206105442_576.png",
     "Excalidraw/Pasted Image 20240206105218_040.png",
     "Excalidraw/Pasted Image 20240206105124_525.png",
     "Excalidraw/Pasted Image 20240206104439_589.png",
-    "Excalidraw/Pasted Image 20240206104438_741.png",
-    "Excalidraw/Pasted Image 20240206104331_436.png",
-    "Excalidraw/Pasted Image 20240206104212_402.png",
     "Project/무제 파일.canvas"
   ]
 }
