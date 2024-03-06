@@ -27,3 +27,7 @@ private Team team;
 
 > [!note]+ targetEntity
 > 연관된 엔티티의 타입정보를 설정한다. 거의 사용하지 않는 기능이다.
+
+> [!note]+ orphanRemoval
+> true : 고아 객체 제거 기능을 활성화한다.
+> 

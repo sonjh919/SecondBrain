@@ -29,3 +29,6 @@
 > updateable
 > 
 > [[@Column]]의 속성과 같다.
+
+> [!tip]+ 
+> nullable을 true로 설정할 시 외부 조인을 사용하며, nullable을 false로 설정할 시 내부 조인을 사용한다. 내부 조인이 성능과 최적화 면에서 더 뛰어나므로 고려해보도록 하자.
