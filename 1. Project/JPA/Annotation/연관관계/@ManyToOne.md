@@ -1,8 +1,13 @@
 #jpa #Annotation 
 
 ## @ManyToOne
-이름 그대로 다대일([[N대 1 관계]])관계에서 사용하는 매핑이다.
+다대일([[N대 1 관계]])관계에서 사용하는 매핑이다.
 
+```java
+@ManyToOne
+@JoinColumn(name="TEAM_ID")
+private Team team;
+```
 ## 속성
 > [!note]+ optional
 > false로 설정하면 연관된 엔티티가 항상 있어야 한다.
