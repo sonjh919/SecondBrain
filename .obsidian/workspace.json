@@ -8,24 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f467b938af568cdc",
+            "id": "551b25b5e3896c93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md",
+                "file": "1. Project/JPA/JPA 기초/ORM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "551b25b5e3896c93",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -95,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md",
+                "file": "1. Project/JPA/JPA 기초/ORM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md",
+                "file": "1. Project/JPA/JPA 기초/ORM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md"
+                "file": "1. Project/JPA/JPA 기초/ORM.md"
               }
             }
           },
@@ -208,8 +200,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f467b938af568cdc",
+  "active": "551b25b5e3896c93",
   "lastOpenFiles": [
+    "4. Archive/img/JPA/jointable.png",
+    "4. Archive/img/JPA/joinmapping.png",
+    "4. Archive/img/JPA/joincolumn.png",
+    "0. Inbox/책/책.md",
+    "2. Area/Book/오브젝트/06 메시지와 인터페이스.md",
+    "2. Area/Book/오브젝트/02 객체지향 프로그래밍.md",
+    "2. Area/Book/오브젝트/04 설계 품질과 트레이드오프.md",
+    "2. Area/Book/오브젝트/03 역할, 책임, 협력.md",
+    "2. Area/Book/오브젝트/01 객체, 설계.md",
+    "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md",
     "4. Archive/img/JPA/secondarytable.png",
     "1. Project/JPA/Annotation/연관관계/@SecondaryTable.md",
     "1. Project/JPA/Annotation/연관관계/@JoinTable.md",
@@ -229,21 +231,11 @@
     "1. Project/JPA/Mapping/조인 컬럼&테이블/연관관계 설계.md",
     "1. Project/JPA/Annotation/Entity/@Inheritance.md",
     "@JoinTable.md",
-    "1. Project/JPA/Mapping/조인 컬럼&테이블/jointable.png",
-    "1. Project/JPA/Mapping/조인 컬럼&테이블/joincolumn.png",
-    "1. Project/JPA/Mapping/조인 컬럼&테이블/joinmapping.png",
     "1. Project/JPA/Mapping/조인 컬럼&테이블",
     "1. Project/JPA/Mapping",
     "1. Project/JPA/Mapping/식별&비식별 관계/식별 관계와 비식별 관계.md",
     "1. Project/JPA/Mapping/식별&비식별 관계/복합 키.md",
     "1. Project/JPA/Annotation/Column/@EmbeddedId.md",
-    "1. Project/JPA/Annotation/Entity/@Entity.md",
-    "1. Project/JPA/Annotation/Column/@Enumerated.md",
-    "1. Project/JPA/Annotation/Id/@GeneratedValue.md",
-    "@EmbeddedId.md",
-    "1. Project/JPA/Annotation/Column/@Temporal.md",
-    "2. Area/JAVA/개발 환경/JVM/JVM.md",
-    "1. Project/JPA/Entity/연관관계/식별&비식별 관계 매핑/무제 파일.md",
     "4. Archive/img/JPA/singletable.png",
     "4. Archive/img/JPA/classtable.png",
     "1. Project/JPA/Mapping/식별&비식별 관계",
