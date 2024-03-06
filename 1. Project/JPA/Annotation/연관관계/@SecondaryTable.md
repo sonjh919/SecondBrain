@@ -1,0 +1,3 @@
+#jpa #Annotation 
+
+## @SecondaryTable

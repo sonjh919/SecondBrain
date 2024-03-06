@@ -1,7 +1,7 @@
 #jpa #Annotation 
 
 ## @OneToMany
-일대다([[1대 N 관계]])에서 사용하는 매핑이다.
+일대다([[일대다]])에서 사용하는 매핑이다.
 
 ```java
 @OneToMany(mappedBy="team")

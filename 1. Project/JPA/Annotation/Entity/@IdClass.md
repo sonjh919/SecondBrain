@@ -28,12 +28,13 @@ public class ParentId implements Serializable {
 ```
 
 ### 식별 관계
++ 식별 관계는 기본 키와 외래 키를 같이 매핑해야 하기 때문에 [[@ManyToOne]]을 같이 사용한다.
 ```java
 @Entity
 public class Parent {
     @Id    @Column(name = "PARENT_ID)
     private String id;
-	private String anme;
+	private String name;
 	...
 }
 
@@ -42,6 +43,20 @@ public class Parent {
 public class Child {
 	@Id
 	@ManyToOne
-	@JoinColumn(name -= )
-}				   
+	@JoinColumn(name = "PARENT_ID")
+	public Parent parent;
+
+	@Id @Column(name = "CHILD_ID")
+	private String childId;
+
+	private String name;
+	...
+}
+
+@NoArgsConstructor
+@EqualsAndHashCode
+public class ChildId implements Serializable {
+	private String parent;  //Child.parent mapping
+	private String childId;  //Child.childId mapping
+}
 ```
