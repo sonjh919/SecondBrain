@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
+                "file": "1. Project/JPA/데이터 타입/값 타입.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
+                "file": "1. Project/JPA/데이터 타입/값 타입.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
+                "file": "1. Project/JPA/데이터 타입/값 타입.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md"
+                "file": "1. Project/JPA/데이터 타입/값 타입.md"
               }
             }
           },
@@ -216,15 +216,15 @@
   },
   "active": "947b505f69777c70",
   "lastOpenFiles": [
-    "0. Inbox/대용량트래픽/대용량 트래픽.md",
-    "0. Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
-    "1. Project/JPA/데이터 타입/값 타입.md",
     "1. Project/JPA/Annotation/Entity/@AttributeOverride.md",
-    "1. Project/JPA/데이터 타입/embeded.png",
+    "1. Project/JPA/데이터 타입/값 타입.md",
+    "1. Project/JPA/Annotation/Column/@Embedded.md",
     "1. Project/JPA/데이터 타입/데이터 타입.md",
+    "0. Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
+    "0. Inbox/대용량트래픽/대용량 트래픽.md",
+    "1. Project/JPA/데이터 타입/embeded.png",
     "1. Project/JPA/Annotation/Entity/@Embeddable.md",
     "1. Project/JPA/Annotation/Column/@EmbeddedId.md",
-    "1. Project/JPA/Annotation/Column/@Embedded.md",
     "1. Project/JPA/Persistence Context/고아 객체.md",
     "1. Project/JPA/Annotation/연관관계/@OneToOne.md",
     "1. Project/JPA/데이터 타입",
