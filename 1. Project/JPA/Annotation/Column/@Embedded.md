@@ -21,6 +21,7 @@ public class Member {
 ```java
 @Embeddable
 @NoArgsConstructor
+@EqualsAndHashCode
 public class Address {
   private String city;
   private String street;
@@ -29,6 +30,7 @@ public class Address {
 }
 @Embeddable
 @NoArgsConstructor
+@EqualsAndHashCode
 public class Period {
   private LocalDateTime startDate;
   private LocalDateTime endDate;

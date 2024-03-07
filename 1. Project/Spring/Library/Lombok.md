@@ -35,4 +35,6 @@ Lombok(롬복)은 Java 라이브러리로 반복되는 `getter`, `setter`, `toSt
 @ Data // Getter + Setter + ToString + EqualsAndHashCode + RequiredArgsConstructor
 
 @Slf4j // 로깅
+
+@EqualsAndHashCode //Equals랑 hashcode overriding하여 구현
 ```

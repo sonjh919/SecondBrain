@@ -14,9 +14,10 @@ path:
 + 데이터의 생성(created_at), 수정(modified_at) 시간은 포스팅, 게시글, 댓글 등 다양한 데이터에 매우 자주 활용되지만, 각각의 Entity의 생성 수정 시간을 매번 작성하는건 너무 비효율적이다.
 + Spring Data JPA에서는 시간에 대해서 자동으로 값을 넣어주는 기능인 JPA Auditing을 제공하고 있다.
 
+> [!note]+ 
 > `@SpringBootApplication` 이 있는 class에 `@EnableJpaAuditing` 추가!
 > JPA Auditing 기능을 사용하겠다는 정보를 전달해주기 위해 `@EnableJpaAuditing` 을 추가해야 한다.
-{: .prompt-warning }
+
 
 
 ## example
