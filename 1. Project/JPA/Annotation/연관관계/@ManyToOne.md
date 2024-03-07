@@ -1,7 +1,7 @@
 #jpa #Annotation 
 
 ## @ManyToOne
-다대일([[다대일]])관계에서 사용하는 매핑이다.
+[[다대일]] 관계에서 사용하는 매핑이다.
 
 ```java
 @ManyToOne
