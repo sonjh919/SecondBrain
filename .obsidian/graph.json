@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag: jpa",
+  "search": "jpa",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -116,6 +116,6 @@
   "repelStrength": 8.75,
   "linkStrength": 1,
   "linkDistance": 260,
-  "scale": 0.5359795996226135,
+  "scale": 0.09895430218637513,
   "close": true
 }
