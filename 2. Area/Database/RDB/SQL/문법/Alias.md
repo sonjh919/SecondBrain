@@ -19,7 +19,7 @@ path:
 
 - 숫자, 특수문자 등으로 끝날 때에는 별칭을 “”로 묶어준다.
 - AS 키워드는 **생략 가능**하다.
-- **[[SELECT]]에서 설정한 Alias를 [[FROM]]에서 사용할 수 없다.**
+- **[[2. Area/Database/RDB/SQL/DML/SELECT]]에서 설정한 Alias를 [[FROM]]에서 사용할 수 없다.**
 
 ```sql
 SELECT

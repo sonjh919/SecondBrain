@@ -19,7 +19,7 @@ path:
 - DB의 표준언어로, DB의 종류가 달라져도 사용 가능하다.
 
 ## SQL 실행 순서
-**[[FROM]] → [[WHERE]] → [[GROUP BY]] → [[HAVING]] → [[SELECT]] → [[ORDER BY]]**
+**[[FROM]] → [[WHERE]] → [[GROUP BY]] → [[HAVING]] → [[2. Area/Database/RDB/SQL/DML/SELECT]] → [[ORDER BY]]**
 ```
 5 : SELECT 컬럼명, 계산식, 함수식 [AS 별칭]
 1 : FROM 참조할 테이블 명

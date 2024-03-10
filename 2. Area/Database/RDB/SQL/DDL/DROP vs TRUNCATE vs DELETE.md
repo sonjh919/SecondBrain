@@ -14,7 +14,7 @@ path:
 #DataBase #RDB #SQL 
 
 ## DROP vs TRUNCATE vs DELETE
-+ 테이블 삭제 시 [[DROP]], [[TRUNCATE]], [[DELETE]] 이 세 명령어는 언듯 비슷해 보이지만, 다음과 같은 차이점이 있다.
++ 테이블 삭제 시 [[DROP]], [[TRUNCATE]], [[2. Area/Database/RDB/SQL/DML/DELETE]] 이 세 명령어는 언듯 비슷해 보이지만, 다음과 같은 차이점이 있다.
 
 | 비교          | DELETE      | TRUNCATE      | DROP        |
 | ------------- | ----------- | ------------- | ----------- |

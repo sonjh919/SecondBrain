@@ -14,7 +14,7 @@ path:
 #DataBase #RDB #SQL 
 
 ## CASE
-+ 주로 [[SELECT]]에서 사용되며, SELECT 시 필터를 걸기 위해 사용한다.
++ 주로 [[2. Area/Database/RDB/SQL/DML/SELECT]]에서 사용되며, SELECT 시 필터를 걸기 위해 사용한다.
 
 ```sql
 CASE
