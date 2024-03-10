@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL.md",
+                "file": "0. Inbox/todo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL.md",
+                "file": "0. Inbox/todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL.md",
+                "file": "0. Inbox/todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL.md"
+                "file": "0. Inbox/todo.md"
               }
             }
           },
@@ -229,8 +229,10 @@
   },
   "active": "04e85e77adf27b38",
   "lastOpenFiles": [
-    "1. Project/JPA/객체지향 쿼리 언어/객체지향 쿼리.md",
+    "0. Inbox/끄적끄적.md",
+    "0. Inbox/todo.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL.md",
+    "1. Project/JPA/객체지향 쿼리 언어/객체지향 쿼리.md",
     "1. Project/JPA/SimpleJpaRepository.md",
     "1. Project/JPA/Query Method.md",
     "1. Project/JPA/MOC.md",
@@ -259,8 +261,6 @@
     "1. Project/JPA/Annotation/연관관계/@OneToOne.md",
     "1. Project/JPA/데이터 타입",
     "1. Project/JPA/Annotation/연관관계/@ManyToMany.md",
-    "1. Project/JPA/Mapping/연관관계/일대일.md",
-    "1. Project/JPA/Annotation/연관관계/@OneToMany.md",
     "4. Archive/img/109019081.jpg",
     "1. Project/디자인 패턴/proxy 1.png",
     "1. Project/JPA/프록시/proxy.png",
