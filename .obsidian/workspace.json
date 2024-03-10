@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/데이터 타입/값 타입.md",
+                "file": "1. Project/CS/Network/URI vs URL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/데이터 타입/값 타입.md",
+                "file": "1. Project/CS/Network/URI vs URL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/데이터 타입/값 타입.md",
+                "file": "1. Project/CS/Network/URI vs URL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/데이터 타입/값 타입.md"
+                "file": "1. Project/CS/Network/URI vs URL.md"
               }
             }
           },
@@ -210,6 +210,9 @@
   },
   "active": "04e85e77adf27b38",
   "lastOpenFiles": [
+    "1. Project/CS/Network/REST API.md",
+    "1. Project/CS/Network/URI vs URL.md",
+    "1. Project/JPA/데이터 타입/값 타입.md",
     "1. Project/JPA/데이터 타입/데이터 타입.md",
     "1. Project/JPA/Annotation/Column/@Embedded.md",
     "1. Project/JPA/Spring Data JPA/Pageable.md",
@@ -233,9 +236,6 @@
     "2. Area/Database/RDB/SQL/DML/SELECT.md",
     "1. Project/JPA/객체지향 쿼리 언어/객체지향 쿼리.md",
     "1. Project/JPA/객체지향 쿼리 언어/네이티브 SQL/네이티브 SQL.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JDBC & SQL Mapper.md",
-    "1. Project/JPA/객체지향 쿼리 언어/Criteria/Criteria.md",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL.md",
     "1. Project/JPA/객체지향 쿼리 언어/네이티브 SQL",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL",
     "1. Project/JPA/객체지향 쿼리 언어/Criteria",
