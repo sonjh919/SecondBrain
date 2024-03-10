@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/프로젝션.md",
+                "file": "1. Project/JPA/Spring Data JPA/Pageable.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/프로젝션.md",
+                "file": "1. Project/JPA/Spring Data JPA/Pageable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/프로젝션.md",
+                "file": "1. Project/JPA/Spring Data JPA/Pageable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/프로젝션.md"
+                "file": "1. Project/JPA/Spring Data JPA/Pageable.md"
               }
             }
           },
@@ -210,11 +210,15 @@
   },
   "active": "04e85e77adf27b38",
   "lastOpenFiles": [
+    "1. Project/JPA/Spring Data JPA/Page.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/페이징.md",
+    "1. Project/JPA/Spring Data JPA/Pageable.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/파라미터 바인딩.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/프로젝션.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/쿼리 객체.md",
+    "2. Area/Database/RDB/SQL/함수/함수.md",
     "1. Project/JPA/Annotation/Column/@Embedded.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/DELETE.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/쿼리 객체.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/기본 문법.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/SELECT.md",
     "1. Project/JPA/Annotation/Entity/@Entity.md",
@@ -236,10 +240,6 @@
     "1. Project/JPA/객체지향 쿼리 언어/Criteria",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL",
     "1. Project/JPA/Annotation/Entity/@AttributeOverride.md",
-    "1. Project/JPA/Annotation/Column/@ElementCollection.md",
-    "0. Inbox/todo.md",
-    "0. Inbox/끄적끄적.md",
-    "1. Project/JPA/SimpleJpaRepository.md",
     "1. Project/JPA/객체지향 쿼리 언어",
     "4. Archive/img/JPA/Pasted image 20240307162753.png",
     "4. Archive/img/JPA/Pasted image 20240307162705.png",
