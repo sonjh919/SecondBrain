@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81c50e83f33a4d49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Project/JPA/Annotation/Entity/@NamedQuery.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL 시작.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL.md"
-              }
+              "state": {}
             }
           },
           {
@@ -213,18 +196,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "04e85e77adf27b38",
+  "active": "fff0c6353c28b71c",
   "lastOpenFiles": [
-    "1. Project/JPA/객체지향 쿼리 언어/Criteria/Criteria.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL 시작.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건 쿼리.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/쿼리 타입 Q.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL.md",
+    "1. Project/JPA/객체지향 쿼리 언어/객체지향 쿼리.md",
+    "1. Project/Spring/세팅/build.gradle.md",
+    "1. Project/JPA/Annotation/Entity/@NamedQuery.md",
+    "1. Project/JPA/객체지향 쿼리 언어/Criteria/Criteria.md",
+    "1. Project/Spring/세팅/Gradle.md",
     "1. Project/JPA/데이터 타입/값 타입.md",
     "1. Project/JPA/Annotation/Id/@GeneratedValue.md",
     "4. Archive/img/109019081.jpg",
     "무제 파일.md",
-    "1. Project/JPA/객체지향 쿼리 언어/객체지향 쿼리.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/정적 쿼리(Named).md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/다형성 쿼리.md",
-    "1. Project/JPA/Annotation/Entity/@NamedQuery.md",
     "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/엔티티 직접 사용.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/경로 표현식.md",
@@ -237,11 +225,6 @@
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/기본 문법.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/조건식.md",
     "1. Project/JPA/Annotation/Column/@OrderColumn.md",
-    "1. Project/JPA/Annotation/Column/@Temporal.md",
-    "1. Project/JPA/Annotation/Column/@Lob.md",
-    "2. Area/Database/RDB/SQL/함수/함수.md",
-    "2. Area/Database/RDB/SQL/함수/문자 함수.md",
-    "2. Area/Database/RDB/SQL/함수/숫자 함수.md",
     "4. Archive/img/JPA/FETCHJOINDISTINCT.png",
     "4. Archive/img/JPA/Entityfetchjoin.png",
     "4. Archive/img/JPA/COLLECTIONFETCHJOIN.png",

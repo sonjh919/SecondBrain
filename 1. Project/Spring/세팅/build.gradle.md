@@ -40,6 +40,12 @@ External Libraries에서 Gradle이 다운로드해온 라이브러리들을 확�
 ```
 dependencies {  
 
+	//QueryDSL
+	implementation 'com.querydsl:querydsl-jpa:5.0.0:jakarta'
+	annotationProcessor 'com.querydsl:querydsl-apt:5.0.0:jakarta'
+	annotationProcessor "jakarta.annotation:jakarta.annotation-api"
+	annotationProcessor "jakarta.persistence:jakarta.persistence-api"
+
 	// json  
 	implementation 'org.json:json:20230227'
 	
