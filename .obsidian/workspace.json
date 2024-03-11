@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/경로 표현식.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/경로 표현식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/경로 표현식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md"
+                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/경로 표현식.md"
               }
             }
           },
@@ -210,14 +210,24 @@
   },
   "active": "04e85e77adf27b38",
   "lastOpenFiles": [
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/JOIN.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/기본 문법.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/쿼리 객체.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/경로 표현식.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/JPQL.md",
+    "4. Archive/img/JPA/FETCHJOINDISTINCT.png",
+    "4. Archive/img/JPA/Entityfetchjoin.png",
+    "4. Archive/img/JPA/COLLECTIONFETCHJOIN.png",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.avif",
+    "1. Project/JPA/프록시/지연 로딩.md",
+    "1. Project/JPA/Persistence Context/영속성 컨텍스트.md",
+    "1. Project/JPA/Entity/Entity생명주기/Entity 생명주기.md",
+    "1. Project/JPA/Persistence Context/영속성 컨텍스트와 트랜잭션의 생명주기.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/entityfetchjoin.png",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/JOIN.md",
     "1. Project/JPA/프록시/컬렉션 래퍼.md",
     "1. Project/JPA/Mapping/연관관계/일대다.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/JPQL.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/쿼리 객체.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/파라미터 바인딩.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/기본 문법.md",
     "2. Area/Database/RDB/SQL/Join/JOIN.md",
     "2. Area/Database/RDB/SQL/Join/INNER JOIN.md",
     "2. Area/Database/RDB/SQL/SQL.md",
@@ -231,11 +241,6 @@
     "1. Project/JPA/데이터 타입/데이터 타입.md",
     "1. Project/JPA/Annotation/Column/@Embedded.md",
     "1. Project/JPA/Spring Data JPA/Pageable.md",
-    "1. Project/JPA/Spring Data JPA/Page.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/프로젝션.md",
-    "2. Area/Database/RDB/SQL/함수/함수.md",
-    "1. Project/JPA/Annotation/Entity/@Entity.md",
-    "1. Project/CS/Network/MOC.md",
     "1. Project/JPA/객체지향 쿼리 언어/네이티브 SQL",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL",
     "1. Project/JPA/객체지향 쿼리 언어/Criteria",
@@ -247,13 +252,8 @@
     "1. Project/JPA/데이터 타입/Pasted image 20240307162647.png",
     "1. Project/JPA/데이터 타입",
     "4. Archive/img/109019081.jpg",
-    "1. Project/디자인 패턴/proxy 1.png",
-    "1. Project/JPA/프록시/proxy.png",
-    "1. Project/디자인 패턴/proxy.png",
     "1. Project/디자인 패턴",
     "1. Project/JPA/프록시",
-    "4. Archive/img/JPA/jointable.png",
-    "4. Archive/img/JPA/joinmapping.png",
     "1. Project/JPA/Mapping/조인 컬럼&테이블",
     "1. Project/JPA/Mapping",
     "Project/무제 파일.canvas"
