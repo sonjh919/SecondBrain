@@ -27,7 +27,7 @@ JPA가 제공하는 데이터베이스 기본 키 생성 전략은 다음과 같
 > [!example]+ 
 > MySQL, PostgreSQL, SQL Server, DB2 등
 
-```
+```java
 @Entity
 @Table(name="MEMBER")
 public class Member {

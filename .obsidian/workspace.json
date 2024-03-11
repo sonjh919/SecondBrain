@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/Criteria/Criteria.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/Criteria/Criteria.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/Criteria/Criteria.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/Criteria/Criteria.md"
+                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL.md"
               }
             }
           },
@@ -215,6 +215,12 @@
   },
   "active": "04e85e77adf27b38",
   "lastOpenFiles": [
+    "1. Project/JPA/객체지향 쿼리 언어/Criteria/Criteria.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL.md",
+    "1. Project/JPA/데이터 타입/값 타입.md",
+    "1. Project/JPA/Annotation/Id/@GeneratedValue.md",
+    "4. Archive/img/109019081.jpg",
+    "무제 파일.md",
     "1. Project/JPA/객체지향 쿼리 언어/객체지향 쿼리.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/정적 쿼리(Named).md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/다형성 쿼리.md",
@@ -225,7 +231,6 @@
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/사용자 정의 함수 호출.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/쿼리 객체.md",
     "1. Project/JPA/Annotation/Column/@Enumerated.md",
-    "1. Project/JPA/데이터 타입/값 타입.md",
     "1. Project/JPA/Mapping/상속 관계/단일 테이블 전략.md",
     "1. Project/JPA/Annotation/Entity/@DiscriminatorColumn.md",
     "1. Project/JPA/Annotation/Entity/@Inheritance.md",
@@ -237,10 +242,6 @@
     "2. Area/Database/RDB/SQL/함수/함수.md",
     "2. Area/Database/RDB/SQL/함수/문자 함수.md",
     "2. Area/Database/RDB/SQL/함수/숫자 함수.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/JOIN.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/SELECT.md",
-    "2. Area/Database/RDB/SQL/SQL.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/JPQL.md",
     "4. Archive/img/JPA/FETCHJOINDISTINCT.png",
     "4. Archive/img/JPA/Entityfetchjoin.png",
     "4. Archive/img/JPA/COLLECTIONFETCHJOIN.png",
@@ -256,7 +257,6 @@
     "4. Archive/img/JPA/embeded.png",
     "1. Project/JPA/데이터 타입/Pasted image 20240307162647.png",
     "1. Project/JPA/데이터 타입",
-    "4. Archive/img/109019081.jpg",
     "1. Project/디자인 패턴",
     "1. Project/JPA/프록시",
     "1. Project/JPA/Mapping/조인 컬럼&테이블",
