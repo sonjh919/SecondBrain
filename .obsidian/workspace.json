@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/CS/Network/URI vs URL.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/CS/Network/URI vs URL.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/CS/Network/URI vs URL.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/CS/Network/URI vs URL.md"
+                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md"
               }
             }
           },
@@ -210,32 +210,32 @@
   },
   "active": "04e85e77adf27b38",
   "lastOpenFiles": [
-    "1. Project/CS/Network/REST API.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/JOIN.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
+    "1. Project/JPA/프록시/컬렉션 래퍼.md",
+    "1. Project/JPA/Mapping/연관관계/일대다.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/JPQL.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/쿼리 객체.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/파라미터 바인딩.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/기본 문법.md",
+    "2. Area/Database/RDB/SQL/Join/JOIN.md",
+    "2. Area/Database/RDB/SQL/Join/INNER JOIN.md",
+    "2. Area/Database/RDB/SQL/SQL.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/DELETE.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/UPDATE.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/SELECT.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/페이징.md",
     "1. Project/CS/Network/URI vs URL.md",
+    "1. Project/CS/Network/REST API.md",
     "1. Project/JPA/데이터 타입/값 타입.md",
     "1. Project/JPA/데이터 타입/데이터 타입.md",
     "1. Project/JPA/Annotation/Column/@Embedded.md",
     "1. Project/JPA/Spring Data JPA/Pageable.md",
     "1. Project/JPA/Spring Data JPA/Page.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/페이징.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/파라미터 바인딩.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/프로젝션.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/쿼리 객체.md",
     "2. Area/Database/RDB/SQL/함수/함수.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/DELETE.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/기본 문법.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/SELECT.md",
     "1. Project/JPA/Annotation/Entity/@Entity.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/JPQL.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/UPDATE.md",
     "1. Project/CS/Network/MOC.md",
-    "1. Project/JPA/MOC.md",
-    "2. Area/Database/RDB/SQL/DDL/DDL.md",
-    "2. Area/Database/RDB/SQL/SQL.md",
-    "2. Area/Database/RDB/SQL/DML/DML.md",
-    "2. Area/Database/RDB/SQL/DML/SELECT.md",
-    "1. Project/JPA/객체지향 쿼리 언어/객체지향 쿼리.md",
-    "1. Project/JPA/객체지향 쿼리 언어/네이티브 SQL/네이티브 SQL.md",
     "1. Project/JPA/객체지향 쿼리 언어/네이티브 SQL",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL",
     "1. Project/JPA/객체지향 쿼리 언어/Criteria",
