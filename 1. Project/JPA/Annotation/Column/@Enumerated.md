@@ -1,7 +1,8 @@
 #jpa #Annotation 
 
 ## @Enumerated
-Java의 [[enum]] 타입을 매핑할 때 사용한다.
++ Java의 [[enum]] 타입을 매핑할 때 사용한다.
++ enum은 = 비교 연산만 지원한다.
 
 ```java
 enum RoleType{

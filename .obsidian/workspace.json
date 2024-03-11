@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/조건식.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/다형성 쿼리.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,11 +24,17 @@
             "id": "81c50e83f33a4d49",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Project/JPA/Annotation/Entity/@NamedQuery.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/조건식.md",
+                "file": "1. Project/JPA/Annotation/Entity/@NamedQuery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/조건식.md",
+                "file": "1. Project/JPA/Annotation/Entity/@NamedQuery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/조건식.md"
+                "file": "1. Project/JPA/Annotation/Entity/@NamedQuery.md"
               }
             }
           },
@@ -208,38 +214,38 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "04e85e77adf27b38",
+  "active": "81c50e83f33a4d49",
   "lastOpenFiles": [
-    "2. Area/Database/RDB/SQL/함수/함수.md",
+    "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md",
+    "1. Project/JPA/Annotation/Entity/@NamedQuery.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/정적 쿼리(Named).md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/엔티티 직접 사용.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/다형성 쿼리.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/경로 표현식.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/사용자 정의 함수 호출.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/쿼리 객체.md",
+    "1. Project/JPA/Annotation/Column/@Enumerated.md",
+    "1. Project/JPA/데이터 타입/값 타입.md",
+    "1. Project/JPA/Mapping/상속 관계/단일 테이블 전략.md",
+    "1. Project/JPA/Annotation/Entity/@DiscriminatorColumn.md",
+    "1. Project/JPA/Annotation/Entity/@Inheritance.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/기본 문법.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/조건식.md",
+    "1. Project/JPA/Annotation/Column/@OrderColumn.md",
+    "1. Project/JPA/Annotation/Column/@Temporal.md",
+    "1. Project/JPA/Annotation/Column/@Lob.md",
+    "2. Area/Database/RDB/SQL/함수/함수.md",
     "2. Area/Database/RDB/SQL/함수/문자 함수.md",
     "2. Area/Database/RDB/SQL/함수/숫자 함수.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/JOIN.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/SELECT.md",
     "2. Area/Database/RDB/SQL/SQL.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/JPQL.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/쿼리 객체.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/서브 쿼리.md",
-    "2. Area/Database/RDB/SQL/문법/연산자.md",
-    "2. Area/Database/RDB/SQL/문법/날짜형 포맷.md",
-    "2. Area/Database/RDB/SQL/Query/SubQuery.md",
-    "2. Area/Database/RDB/SQL/함수/형변환 함수.md",
-    "2. Area/Database/RDB/SQL/함수/행 순서 함수.md",
-    "2. Area/Database/RDB/SQL/함수/윈도우 함수 옵션.md",
-    "2. Area/Database/RDB/SQL/함수/비율 함수.md",
-    "2. Area/Database/RDB/SQL/함수/OVER.md",
-    "2. Area/Database/RDB/SQL/함수/순위 함수.md",
-    "2. Area/Database/RDB/SQL/함수/집계 함수.md",
-    "2. Area/Database/RDB/SQL/함수/소계(총계) 함수.md",
-    "2. Area/Database/RDB/SQL/문법/IN & EXISTS.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/기본 문법.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/경로 표현식.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
     "4. Archive/img/JPA/FETCHJOINDISTINCT.png",
     "4. Archive/img/JPA/Entityfetchjoin.png",
     "4. Archive/img/JPA/COLLECTIONFETCHJOIN.png",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.avif",
-    "1. Project/JPA/프록시/지연 로딩.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/entityfetchjoin.png",
     "1. Project/JPA/객체지향 쿼리 언어/네이티브 SQL",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL",
