@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL 시작.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md"
+              }
             }
           },
           {
@@ -196,12 +200,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fff0c6353c28b71c",
+  "active": "04e85e77adf27b38",
   "lastOpenFiles": [
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL 시작.md",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건 쿼리.md",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/쿼리 타입 Q.md",
+    "2. Area/Database/RDB/SQL/Join/JOIN.md",
+    "2. Area/Database/RDB/SQL/Join/OUTER JOIN.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/프로젝션과 결과 반환.md",
+    "2. Area/Database/RDB/SQL/Join/NATURAL JOIN.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/검색 조건 쿼리.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/그룹.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/페이징과 정렬.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/수정, 삭제 배치 쿼리.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/서브 쿼리.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/메소드 위임.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/동적 쿼리.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/쿼리 타입 Q.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL 시작.md",
     "1. Project/JPA/객체지향 쿼리 언어/객체지향 쿼리.md",
     "1. Project/Spring/세팅/build.gradle.md",
     "1. Project/JPA/Annotation/Entity/@NamedQuery.md",
@@ -214,17 +230,6 @@
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/정적 쿼리(Named).md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/다형성 쿼리.md",
     "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/엔티티 직접 사용.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/경로 표현식.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/사용자 정의 함수 호출.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/쿼리 객체.md",
-    "1. Project/JPA/Annotation/Column/@Enumerated.md",
-    "1. Project/JPA/Mapping/상속 관계/단일 테이블 전략.md",
-    "1. Project/JPA/Annotation/Entity/@DiscriminatorColumn.md",
-    "1. Project/JPA/Annotation/Entity/@Inheritance.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/기본 문법.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/조건식.md",
-    "1. Project/JPA/Annotation/Column/@OrderColumn.md",
     "4. Archive/img/JPA/FETCHJOINDISTINCT.png",
     "4. Archive/img/JPA/Entityfetchjoin.png",
     "4. Archive/img/JPA/COLLECTIONFETCHJOIN.png",
@@ -243,7 +248,6 @@
     "1. Project/디자인 패턴",
     "1. Project/JPA/프록시",
     "1. Project/JPA/Mapping/조인 컬럼&테이블",
-    "1. Project/JPA/Mapping",
     "Project/무제 파일.canvas"
   ]
 }
