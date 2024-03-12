@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/수정, 삭제 배치 쿼리.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/수정, 삭제 배치 쿼리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/수정, 삭제 배치 쿼리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md"
+                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/수정, 삭제 배치 쿼리.md"
               }
             }
           },
@@ -202,16 +203,18 @@
   },
   "active": "04e85e77adf27b38",
   "lastOpenFiles": [
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/검색 조건 쿼리.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/수정, 삭제 배치 쿼리.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/프로젝션과 결과 반환.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/서브 쿼리.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/JOIN.md",
     "2. Area/Database/RDB/SQL/Join/JOIN.md",
     "2. Area/Database/RDB/SQL/Join/OUTER JOIN.md",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/프로젝션과 결과 반환.md",
     "2. Area/Database/RDB/SQL/Join/NATURAL JOIN.md",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/검색 조건 쿼리.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/그룹.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/페이징과 정렬.md",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/수정, 삭제 배치 쿼리.md",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/서브 쿼리.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/메소드 위임.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/동적 쿼리.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL.md",
@@ -228,8 +231,6 @@
     "4. Archive/img/109019081.jpg",
     "무제 파일.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/정적 쿼리(Named).md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/다형성 쿼리.md",
-    "1. Project/JPA/Annotation/Entity/@MappedSuperclass.md",
     "4. Archive/img/JPA/FETCHJOINDISTINCT.png",
     "4. Archive/img/JPA/Entityfetchjoin.png",
     "4. Archive/img/JPA/COLLECTIONFETCHJOIN.png",
