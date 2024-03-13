@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1e90c2b1687806f1",
+        "id": "42d7aea4a595c4f2",
         "type": "tabs",
         "children": [
           {
-            "id": "04e85e77adf27b38",
+            "id": "3ac0cf169a3daf99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/무제 파일.md",
+                "file": "1. Project/JPA/Spring Data JPA/Spring Data JPA & QueryDSL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/무제 파일.md",
+                "file": "1. Project/JPA/Spring Data JPA/Spring Data JPA & QueryDSL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/무제 파일.md",
+                "file": "1. Project/JPA/Spring Data JPA/Spring Data JPA & QueryDSL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/무제 파일.md"
+                "file": "1. Project/JPA/Spring Data JPA/Spring Data JPA & QueryDSL.md"
               }
             }
           },
@@ -200,18 +200,32 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "04e85e77adf27b38",
+  "active": "3ac0cf169a3daf99",
   "lastOpenFiles": [
-    "0. Inbox/나중에 정리할 것.md",
+    "1. Project/JPA/Spring Data JPA/Spring Data JPA.md",
+    "1. Project/JPA/Spring Data JPA/Spring Data JPA & QueryDSL.md",
+    "4. Archive/img/JPA/springdataproject.png",
+    "4. Archive/img/JPA/querymethod2.jpg",
+    "4. Archive/img/JPA/querymethod1.jpg",
+    "4. Archive/img/JPA/bulk.png",
+    "1. Project/JPA/SimpleJpaRepository.md",
+    "1. Project/JPA/Spring Data JPA/QueryMethod/Pageable.md",
     "1. Project/JPA/Spring Data JPA/QueryMethod/Page.md",
+    "1. Project/JPA/Spring Data JPA/QueryMethod/페이징과 정렬.md",
+    "1. Project/JPA/Annotation/Spring Data JPA/@Qualifier.md",
+    "1. Project/JPA/Annotation/Spring Data JPA/@Lock.md",
+    "1. Project/JPA/Annotation/Spring Data JPA/@Modifying.md",
+    "1. Project/Spring/문법/같은 타입의 Bean이 2개일 경우.md",
+    "1. Project/JPA/Spring Data JPA/QueryMethod/쿼리 힌트.md",
+    "1. Project/JPA/Spring Data JPA/QueryMethod/Lock.md",
+    "1. Project/JPA/Spring Data JPA/QueryMethod/벌크성 수정 쿼리.md",
+    "1. Project/JPA/Annotation/Spring Data JPA/@QueryHints.md",
+    "1. Project/JPA/Annotation/Spring Data JPA/@Query.md",
+    "0. Inbox/무제 파일.md",
+    "0. Inbox/나중에 정리할 것.md",
     "1. Project/JPA/Spring Data JPA/QueryMethod/Slice.md",
     "1. Project/JPA/Spring Data JPA/QueryMethod/Query Method.md",
     "1. Project/JPA/Spring Data JPA/QueryMethod/Sort.md",
-    "1. Project/JPA/Spring Data JPA/QueryMethod/페이징과 정렬.md",
-    "1. Project/JPA/Spring Data JPA/QueryMethod/벌크성 수정 쿼리.md",
-    "1. Project/JPA/Spring Data JPA/QueryMethod/Pageable.md",
-    "1. Project/JPA/Annotation/Spring Data JPA/@Modifying.md",
-    "1. Project/JPA/Annotation/Spring Data JPA/@Query.md",
     "1. Project/JPA/Spring Data JPA/QueryMethod/JPA NamedQuery.md",
     "1. Project/JPA/Annotation/Spring Data JPA",
     "1. Project/JPA/Spring Data JPA/QueryMethod",
@@ -219,23 +233,9 @@
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/쿼리 타입 Q.md",
     "1. Project/JPA/Annotation/Entity/@NamedQuery.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/파라미터 바인딩.md",
-    "1. Project/JPA/Spring Data JPA/Spring Data JPA.md",
     "Templates/TIL Templete.md",
-    "1. Project/JPA/Annotation/Id/@Id.md",
-    "1. Project/JPA/객체지향 쿼리 언어/네이티브 SQL/Named 네이티브 SQL.md",
-    "1. Project/JPA/Spring Data JPA/querymethod1.jpg",
-    "1. Project/JPA/SimpleJpaRepository.md",
-    "1. Project/JPA/JPA Auditing.md",
-    "1. Project/JPA/Spring Data JPA/querymethod2.jpg",
-    "1. Project/JPA/Spring Data JPA/springdataproject.png",
-    "1. Project/JPA/객체지향 쿼리 언어/Criteria/Criteria.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/영속성 컨텍스트와 JPQL.md",
-    "1. Project/JPA/Entity/Entity생명주기/flush.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/jpqlpersistence2.jpg",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/jpqlpersistence1.jpg",
-    "1. Project/JPA/데이터 타입/값 타입.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/엔티티 직접 사용.md",
-    "1. Project/JPA/객체지향 쿼리 언어/bulk.png",
     "4. Archive/img/JPA/nativesqlannotation.png",
     "4. Archive/img/JPA/NamedNativeQuery.png",
     "1. Project/JPA/Annotation/QueryDSL",

@@ -26,3 +26,13 @@ public interface Pageable {
 Pageable pageable = PageRequest.of(pageNumber, pageSize, Sort.by("fieldName").descending());
 
 ```
+
+### 기본값 변경
+Pageable의 기본값은 page=0, size=20이다. 만약 기본값을 변경하고 싶으면 @PageableDefault를 사용하자.
+
+```java
+@RequestMapping(value = "/members_page", method = RequestMethod.GET)
+public String list(@PageableDefault(size = 12, sort = "name", direction = Sort.Direction.DESC) Pageable pageable){
+	...
+}
+```

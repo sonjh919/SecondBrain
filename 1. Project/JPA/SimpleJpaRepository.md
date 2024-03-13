@@ -10,10 +10,15 @@ path:
 ---
 #jpa 
 
+
+## SimpleJapRepository
+[[Spring Data JPA]]가 제공하는 공통 인터페이스는 SimpleJpaRepository 클래스가 구현한다.
+
 ## SimpleJpaRepository
 + Spring 프레임워크에서는 DB의 트랜잭션 개념을 애플리케이션에 적용할 수 있도록 **트랜잭션 관리자**를 제공한다.
 
 ```java
+@Repository
 @Transactional(readOnly = true)
 public class SimpleJpaRepository<T, ID> implements JpaRepositoryImplementation<T, ID> {
 						...
