@@ -1,15 +1,4 @@
----
-title: Page
-date: 2024-01-26 19:43
-categories:
-  - JPA
-tags:
-  - jpa
-  - Spring
-image: 
-path:
----
-#jpa 
+#jpa #SpringDataJPA
 
 ## Page
 + `Page` 인터페이스는 **페이징된 결과를 표현**하는데 사용된다.

@@ -1,14 +1,4 @@
----
-title: Sort
-date: 2024-01-26 19:53
-categories:
-  - Spring
-tags:
-  - Spring
-image: 
-path:
----
-#jpa 
+#jpa #SpringDataJPA
 
 ## Sort
 + 쿼리 결과를 특정 열을 기준으로 정렬할 때 사용된다.

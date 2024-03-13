@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/영속성 컨텍스트와 JPQL.md",
+                "file": "1. Project/JPA/Spring Data JPA/JPA NamedQuery.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/영속성 컨텍스트와 JPQL.md",
+                "file": "1. Project/JPA/Spring Data JPA/JPA NamedQuery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/영속성 컨텍스트와 JPQL.md",
+                "file": "1. Project/JPA/Spring Data JPA/JPA NamedQuery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/영속성 컨텍스트와 JPQL.md"
+                "file": "1. Project/JPA/Spring Data JPA/JPA NamedQuery.md"
               }
             }
           },
@@ -202,10 +202,29 @@
   },
   "active": "04e85e77adf27b38",
   "lastOpenFiles": [
+    "1. Project/JPA/Annotation/Entity/@NamedQuery.md",
+    "1. Project/JPA/Spring Data JPA/JPA NamedQuery.md",
+    "1. Project/JPA/Annotation/@Query.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/파라미터 바인딩.md",
+    "1. Project/JPA/Spring Data JPA/Spring Data JPA.md",
+    "Templates/TIL Templete.md",
+    "1. Project/JPA/Annotation/Id/@Id.md",
+    "1. Project/JPA/객체지향 쿼리 언어/네이티브 SQL/Named 네이티브 SQL.md",
+    "1. Project/JPA/Spring Data JPA/Page.md",
+    "1. Project/JPA/Spring Data JPA/Pageable.md",
+    "1. Project/JPA/Spring Data JPA/Query Method.md",
+    "1. Project/JPA/Spring Data JPA/Sort.md",
+    "1. Project/JPA/Spring Data JPA/querymethod1.jpg",
+    "1. Project/JPA/SimpleJpaRepository.md",
+    "1. Project/JPA/JPA Auditing.md",
+    "1. Project/JPA/Spring Data JPA/querymethod2.jpg",
+    "1. Project/JPA/Spring Data JPA/springdataproject.png",
+    "1. Project/JPA/객체지향 쿼리 언어/Criteria/Criteria.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/영속성 컨텍스트와 JPQL.md",
+    "1. Project/JPA/Entity/Entity생명주기/flush.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/jpqlpersistence2.jpg",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/jpqlpersistence1.jpg",
     "1. Project/JPA/데이터 타입/값 타입.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/영속성 컨텍스트와 JPQL.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/엔티티 직접 사용.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/벌크 연산.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/쿼리 타입 Q.md",
@@ -214,32 +233,13 @@
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/검색 조건 쿼리.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL 시작.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/사용자 정의 함수 호출.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/기본 문법.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/경로 표현식.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/조건식.md",
-    "1. Project/JPA/객체지향 쿼리 언어/객체지향 쿼리.md",
     "1. Project/JPA/객체지향 쿼리 언어/bulk.png",
-    "2. Area/Java API/java.util/Collection/Queue.md",
-    "2. Area/Java API/java.util/Collection/Collection.md",
-    "2. Area/Java API/java.lang/Wrapper.md",
-    "1. Project/JPA/JPA Auditing.md",
-    "3. Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념/시간 단위.md",
-    "1. Project/JPA/Annotation/Column/@Temporal.md",
-    "1. Project/Spring/Library/Lombok.md",
-    "1. Project/JPA/프록시/지연 로딩.md",
-    "1. Project/Spring/예외처리/Exception.md",
-    "1. Project/JPA/객체지향 쿼리 언어/네이티브 SQL/Named 네이티브 SQL.md",
     "4. Archive/img/JPA/nativesqlannotation.png",
     "4. Archive/img/JPA/NamedNativeQuery.png",
-    "1. Project/JPA/객체지향 쿼리 언어/네이티브 SQL/스토어드 프로시저.md",
     "1. Project/JPA/Annotation/QueryDSL",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건",
     "4. Archive/img/109019081.jpg",
     "4. Archive/img/JPA/FETCHJOINDISTINCT.png",
-    "4. Archive/img/JPA/Entityfetchjoin.png",
-    "4. Archive/img/JPA/COLLECTIONFETCHJOIN.png",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.avif",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/entityfetchjoin.png",
     "1. Project/JPA/객체지향 쿼리 언어/네이티브 SQL",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL",
     "1. Project/JPA/객체지향 쿼리 언어/Criteria",
