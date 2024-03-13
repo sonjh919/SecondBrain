@@ -40,6 +40,7 @@ public class MemberRepository{
 
 ### Spring Data JPA로 NamedQuery 호출
 + 만약 실행할 Named 쿼리가 없으면 메소드 이름으로 쿼리 생성 전략을 사용한다.
++ 참고 : [[JPA NamedQuery]]
 
 ```java
 public interface MemberRepository extends JpaRepository<Member, Long> {

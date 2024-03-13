@@ -20,25 +20,9 @@ public interface Pageable {
 - `getSort()`: 정렬 정보를 반환한다.
 
 ### PageRequest
-+ `PageRequest`는 `Pageable`에서 가장 많이 사용되는 구현체 중 하나로, 생성자를 통해 페이지 번호, 페이지 크기, 정렬 정보를 지정할 수 있다.
++ `PageRequest`는 `Pageable`에서 가장 많이 사용되는 구현체 중 하나로, 생성자를 통해 **페이지 번호, 페이지 크기, 정렬 정보**를 지정할 수 있다.
 
 ```java
 Pageable pageable = PageRequest.of(pageNumber, pageSize, Sort.by("fieldName").descending());
 
-```
-
-#### ex
-```java
-public Page<ProductResponseDto> getProductsInFolder(Long folderId, int page, int size, String sortBy, boolean isAsc, User user) {  
-    Sort.Direction direction = isAsc ? Sort.Direction.ASC : Sort.Direction.DESC;  
-    Sort sort = Sort.by(direction, sortBy);  
-    Pageable pageable = PageRequest.of(page, size, sort);  
-  
-    Page<Product> productList = productRepository.findAllByUserAndProductFolderList_FolderId(user, folderId, pageable);  
-  
-    Page<ProductResponseDto> responseDtoList = productList.map(ProductResponseDto::new);  
-  
-    return responseDtoList;  
-  
-}
 ```
