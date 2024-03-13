@@ -13,14 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/Spring Data JPA/Spring Data JPA & QueryDSL.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "c90e109836e6f883",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/Spring Data JPA/Spring Data JPA & QueryDSL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/Spring Data JPA/Spring Data JPA & QueryDSL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. Project/JPA/Spring Data JPA/Spring Data JPA & QueryDSL.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "06bca203602d61c1",
@@ -200,8 +205,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3ac0cf169a3daf99",
+  "active": "c90e109836e6f883",
   "lastOpenFiles": [
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/프로젝션과 결과 반환.md",
+    "1. Project/JPA/Spring Data JPA/Spring Data JPA & QueryDSL.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/검색 조건 쿼리.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/벌크 연산.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL 시작.md",
@@ -211,7 +220,6 @@
     "1. Project/JPA/Spring Data JPA/QueryMethod/쿼리 힌트.md",
     "1. Project/JPA/Spring Data JPA/QueryMethod/페이징과 정렬.md",
     "1. Project/JPA/Spring Data JPA/QueryMethod/벌크성 수정 쿼리.md",
-    "1. Project/JPA/Spring Data JPA/Spring Data JPA & QueryDSL.md",
     "1. Project/JPA/Spring Data JPA/Spring Data JPA.md",
     "4. Archive/img/JPA/springdataproject.png",
     "4. Archive/img/JPA/querymethod2.jpg",
@@ -229,11 +237,8 @@
     "1. Project/JPA/Annotation/Spring Data JPA/@Query.md",
     "0. Inbox/무제 파일.md",
     "0. Inbox/나중에 정리할 것.md",
-    "1. Project/JPA/Spring Data JPA/QueryMethod/Slice.md",
-    "1. Project/JPA/Spring Data JPA/QueryMethod/Sort.md",
     "1. Project/JPA/Annotation/Spring Data JPA",
     "1. Project/JPA/Spring Data JPA/QueryMethod",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/쿼리 타입 Q.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/jpqlpersistence2.jpg",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/jpqlpersistence1.jpg",
     "4. Archive/img/JPA/nativesqlannotation.png",
