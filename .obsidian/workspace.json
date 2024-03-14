@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/Spring Data JPA/Spring Data JPA & QueryDSL.md",
+                "file": "1. Project/JPA/Persistence Context/영속성 컨텍스트.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/Spring Data JPA/Spring Data JPA & QueryDSL.md",
+                "file": "1. Project/JPA/Persistence Context/영속성 컨텍스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/Spring Data JPA/Spring Data JPA & QueryDSL.md"
+                "file": "1. Project/JPA/Persistence Context/영속성 컨텍스트.md"
               }
             }
           },
@@ -190,9 +190,25 @@
   },
   "active": "3ac0cf169a3daf99",
   "lastOpenFiles": [
+    "1. Project/JPA/Entity/EntityManager.md",
+    "1. Project/JPA/Entity/EntityManagerFactory.md",
+    "1. Project/JPA/Persistence Context/영속성 컨텍스트.md",
+    "1. Project/JPA/Persistence Context/영속성 컨텍스트와 트랜잭션의 생명주기.md",
+    "1. Project/JPA/Persistence Context/쓰기 지연 저장소.md",
+    "1. Project/JPA/JPA 기초/ORM.md",
+    "1. Project/JPA/JPA 기초/JPA 어플리케이션 개발 순서.md",
+    "1. Project/JPA/JPA 기초/JPA (Java Persistence API).md",
+    "1. Project/JPA/JPA 기초/하이버네이트.md",
+    "1. Project/JPA/JPA 기초/패러다임의 불일치.md",
+    "1. Project/JPA/JPA Auditing.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL 시작.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/SELECT.md",
+    "4. Archive/img/JPA/jpqlpersistence2.jpg",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/Named 정적 쿼리.md",
+    "4. Archive/img/JPA/jpqlpersistence1.jpg",
+    "4. Archive/img/JPA/customjparepository.png",
+    "1. Project/JPA/SimpleJpaRepository.md",
+    "1. Project/JPA/Spring Data JPA/Spring Data JPA & QueryDSL.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/SELECT.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/영속성 컨텍스트와 JPQL.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/조건식.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/엔티티 직접 사용.md",
@@ -203,29 +219,13 @@
     "0. Inbox/Pasted image 20240314110107.png",
     "0. Inbox/성능 최적화 - querydsl.md",
     "1. Project/디자인 패턴/프록시 패턴.md",
-    "1. Project/JPA/Spring Data JPA/Spring Data JPA & QueryDSL.md",
-    "1. Project/JPA/Spring Data JPA/customjparepository.png",
     "1. Project/JPA/Spring Data JPA/Spring Data JPA.md",
-    "1. Project/JPA/JPA Auditing.md",
-    "1. Project/JPA/SimpleJpaRepository.md",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
-    "2. Area/JAVA/기본 문법/상수.md",
-    "Todo/TIL/2024-01/2024-01-18 TIL.md",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/프로젝션과 결과 반환.md",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/검색 조건 쿼리.md",
-    "1. Project/JPA/Spring Data JPA/QueryMethod/Query Method.md",
-    "1. Project/JPA/Spring Data JPA/QueryMethod/JPA NamedQuery.md",
-    "1. Project/JPA/Spring Data JPA/QueryMethod/쿼리 힌트.md",
     "4. Archive/img/JPA/springdataproject.png",
     "4. Archive/img/JPA/querymethod2.jpg",
     "4. Archive/img/JPA/querymethod1.jpg",
     "4. Archive/img/JPA/bulk.png",
     "1. Project/JPA/Annotation/Spring Data JPA",
     "1. Project/JPA/Spring Data JPA/QueryMethod",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/jpqlpersistence2.jpg",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/jpqlpersistence1.jpg",
     "4. Archive/img/JPA/nativesqlannotation.png",
     "4. Archive/img/JPA/NamedNativeQuery.png",
     "1. Project/JPA/Annotation/QueryDSL",
