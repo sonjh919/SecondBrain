@@ -2,7 +2,7 @@
 
 
 ## AOP(Aspect-Oriented Programming)
-Spring AOP(Aspect-Oriented Programming)는 관점 지향 프로그래밍의 한 형태로, 애플리케이션에서 특정 기능을 여러 모듈에 걸쳐서 공통적으로 적용하고 싶을 때 유용한 기술이다. Spring AOP는 **프록시**를 활용하여 구현된다. 이를 통해 원본 객체를 감싸고, 특정 기능을 추가하거나 수정하여 제어를 캡슐화할 수 있다.
+Spring AOP(Aspect-Oriented Programming)는 관점 지향 프로그래밍의 한 형태로, 애플리케이션에서 특정 기능을 여러 모듈에 걸쳐서 공통적으로 적용하고 싶을 때 유용한 기술이다. Spring AOP는 [[프록시 패턴]]를 활용하여 구현된다. 이를 통해 원본 객체를 감싸고, 특정 기능을 추가하거나 수정하여 제어를 캡슐화할 수 있다.
 
 ![[AOP.png]]
 

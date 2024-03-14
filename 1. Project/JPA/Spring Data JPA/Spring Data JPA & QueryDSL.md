@@ -1,12 +1,13 @@
 #jpa #SpringDataJPA #QueryDSL 
 
 ## Spring Data JPA와 QueryDSL 통합
- [[Spring Data JPA]]는 2가지 방법으로 [[QueryDSL]]을 지원한다. JPAQueryFactory를 이용하는 방법도 있다.
+ [[Spring Data JPA]]는 여러 방법으로 [[QueryDSL]]을 지원한다. 그 중에서는 JPAQueryFactory가 가장 쓰기 편한 것 같다.
  
 > [!summary]+ 
-> + org.springframework.data.querydsl.QueryDslPredicateExecutor
-> + org.springframework.data.querydsl.QueryDslRepositorySupport
-> + JPAQueryFactory
+> 1. org.springframework.data.querydsl.QueryDslPredicateExecutor
+> 2. org.springframework.data.querydsl.QueryDslRepositorySupport
+> 3. Spring Data Jpa Custom Repository
+> 4. JPAQueryFactory (참고 : [[QueryDSL 시작]])
 > 
 
 ## 1. QueryDslPredicateExecutor
@@ -55,4 +56,9 @@ public class OrderRepositoryImpl extends QueryDslRepositorySupport implements Cu
 }
 ```
 
-### 
+## 3. Spring Data Jpa Custom Repository
+Custom Repository를 이용하기 위해서는 다음과 같이 설정해 주어야 한다.
+![[customjparepository.png]]
+
+> [!caution]+ 
+> 커스텀 클래스 구현 시 반드시 'Interface 이름 + Impl'로 만들어야 한다.

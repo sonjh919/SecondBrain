@@ -1,8 +1,8 @@
 #jpa #QueryDSL
 
 
-## QueryDSL 시작
-### QueryDSL 설정
+## QueryDSL 시작 (JPAQueryFactory)
+### 1. QueryDSL 설정
 [[build.gradle]]에 다음과 같이 추가한다. 버전은 달라질 수 있다.
 ```java
 implementation 'com.querydsl:querydsl-jpa:5.0.0:jakarta'
@@ -17,8 +17,44 @@ annotationProcessor "jakarta.persistence:jakarta.persistence-api"
 > + jakarta.annotation-api : QueryDSL APT가 Annotation을 처리할 때 사용
 > + jakarta.persistence-api : 자바 객체와 DB간 매핑을 위한 표준 제공
 
+> [!caution]+ 
+> SpringBoot3.0 부터는 jakarta로 사용해야 한다.
 
-### QueryDSL 사용법
+### 2. JPAConfiguration 생성
+```java  
+@Configuration  
+public class JPAConfiguration {  
+  
+    @PersistenceContext  
+    private EntityManager entityManager;  
+  
+    @Bean  
+    public JPAQueryFactory jpaQueryFactory() {  
+        return new JPAQueryFactory(entityManager);  
+    }  
+}
+```
+
+### 3. import QEntity
+```java
+import static com.sparta.todocard.entity.QTodo.todo;
+```
+
+### 4. Query 작성
+```java
+@Repository
+@RequiredArgsConstructor
+public class TodoQueryRepository{
+	private final JPAQueryFactory jpaQueryFactory;
+
+	public List<Todo> findByUsername(String username){
+		return jpaQueryFactory
+			...
+	}
+}
+```
+
+## QueryDSL 사용법
 1. JPAQuery 객체를 생성한다. 이때 [[EntityManager]]를 생성자에 넘겨준다.
 2. 사용할 쿼리 타입(Q)를 생성한다. 생성자에는 별칭([[Alias]])을 준다.([[JPQL]])에서 사용한다.
 3. 로직에 맞는 [[검색 조건 쿼리]]를 작성한다.
