@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/동적 쿼리.md",
+                "file": "0. Inbox/끄적끄적.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "동적 쿼리",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/동적 쿼리.md",
+                "file": "0. Inbox/끄적끄적.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/동적 쿼리.md"
+                "file": "0. Inbox/끄적끄적.md"
               }
             }
           },
@@ -191,6 +190,8 @@
   },
   "active": "3ac0cf169a3daf99",
   "lastOpenFiles": [
+    "0. Inbox/책/책.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/동적 쿼리.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL 시작.md",
     "1. Project/JPA/Spring Data JPA/Spring Data JPA & QueryDSL.md",
     "1. Project/JPA/Spring Data JPA/Spring Data JPA.md",
@@ -219,8 +220,6 @@
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/벌크 연산.md",
     "1. Project/Spring/Spring과 객체지향/AOP.md",
     "0. Inbox/Pasted image 20240314110107.png",
-    "0. Inbox/성능 최적화 - querydsl.md",
-    "1. Project/디자인 패턴/프록시 패턴.md",
     "4. Archive/img/JPA/springdataproject.png",
     "4. Archive/img/JPA/querymethod2.jpg",
     "4. Archive/img/JPA/querymethod1.jpg",
