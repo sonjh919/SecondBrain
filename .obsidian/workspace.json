@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/동적 쿼리.md",
+                "file": "0. Inbox/무제 파일.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "동적 쿼리",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/동적 쿼리.md",
+                "file": "0. Inbox/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/동적 쿼리.md"
+                "file": "0. Inbox/무제 파일.md"
               }
             }
           },
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/동적 쿼리.md",
+                "file": "0. Inbox/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,13 +202,17 @@
   },
   "active": "3ac0cf169a3daf99",
   "lastOpenFiles": [
+    "0. Inbox/나중에 정리할 것.md",
+    "0. Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
+    "0. Inbox/대용량트래픽/대용량 트래픽.md",
+    "0. Inbox/책/책.md",
+    "0. Inbox/끄적끄적.md",
+    "0. Inbox/무제 파일.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/동적 쿼리.md",
     "1. Project/JPA/Spring Data JPA/QueryMethod/Pageable.md",
     "1. Project/JPA/Spring Data JPA/QueryMethod/Page.md",
     "1. Project/JPA/Spring Data JPA/QueryMethod/페이징과 정렬.md",
     "1. Project/JPA/Spring Data JPA/QueryMethod/Slice.md",
-    "0. Inbox/끄적끄적.md",
-    "0. Inbox/책/책.md",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/동적 쿼리.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL 시작.md",
     "1. Project/JPA/Spring Data JPA/Spring Data JPA & QueryDSL.md",
     "1. Project/JPA/Spring Data JPA/Spring Data JPA.md",
@@ -228,10 +231,6 @@
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/Named 정적 쿼리.md",
     "4. Archive/img/JPA/jpqlpersistence1.jpg",
     "4. Archive/img/JPA/customjparepository.png",
-    "1. Project/JPA/SimpleJpaRepository.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/SELECT.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/영속성 컨텍스트와 JPQL.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/조건식.md",
     "0. Inbox/Pasted image 20240314110107.png",
     "4. Archive/img/JPA/springdataproject.png",
     "4. Archive/img/JPA/querymethod2.jpg",
