@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Architecture/Event Storming.md",
+                "file": "1. Project/Architecture/Boris Diagram.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Architecture/Event Storming.md",
+                "file": "1. Project/Architecture/Boris Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Architecture/Event Storming.md"
+                "file": "1. Project/Architecture/Boris Diagram.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Architecture/Event Storming.md",
+                "file": "1. Project/Architecture/Boris Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,11 +202,30 @@
   },
   "active": "8903437f522640c1",
   "lastOpenFiles": [
-    "1. Project/Architecture/DDD.md",
+    "1. Project/Architecture/Pasted image 20240316161024.png",
+    "0. Inbox/끄적끄적.md",
+    "0. Inbox/나중에 정리할 것.md",
+    "0. Inbox/코테.md",
+    "0. Inbox/하고싶은거.md",
+    "0. Inbox/ddd.md",
+    "1. Project/Architecture/Boris Diagram.md",
+    "1. Project/Architecture/Pasted image 20240316160017.png",
+    "1. Project/Architecture/Pasted image 20240316160000.png",
     "1. Project/Architecture/Component.md",
+    "1. Project/Architecture/DDD.md",
     "1. Project/Architecture/Event Storming.md",
+    "4. Archive/img/Architecture/Pasted image 20240316154238.png",
+    "4. Archive/img/Architecture/ContextMapping.png",
+    "4. Archive/img/Architecture/snapE.png",
+    "1. Project/Architecture/Data Projection.md",
+    "4. Archive/img/Architecture/Pasted image 20240316154321.png",
     "1. Project/Architecture/Web System Architecture.md",
-    "1. Project/Architecture/Component.png",
+    "4. Archive/img/Architecture/BoundedContextDuduction.png",
+    "4. Archive/img/Architecture/ExternalSystem.png",
+    "4. Archive/img/Architecture/Policy.png",
+    "4. Archive/img/Architecture/DomainEvent.png",
+    "4. Archive/img/Architecture",
+    "4. Archive/img/무제 파일.md",
     "2. Area/Book/오브젝트/04 설계 품질과 트레이드오프.md",
     "2. Area/Book/오브젝트/01 객체, 설계.md",
     "2. Area/Book/오브젝트/02 객체지향 프로그래밍.md",
@@ -217,37 +236,18 @@
     "2. Area/Book/객체지향의 사실과 오해/05 책임과 메시지.md",
     "2. Area/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
     "Welcome to JH SecondBrain.md",
-    "0. Inbox/코테.md",
     "1. Project/Architecture",
     "0. Inbox/임시회의록/24.03.15.md",
-    "0. Inbox/나중에 정리할 것.md",
-    "0. Inbox/하고싶은거.md",
-    "0. Inbox/끄적끄적.md",
     "1. Project/JPA/Persistence Context/영속성 컨텍스트.md",
     "1. Project/JPA/Annotation/Id/@Id.md",
     "welcome",
     "0. Inbox/임시회의록",
-    "0. Inbox/책/책.md",
-    "3. Resource/BlockChain/블록체인.md",
-    "3. Resource/BlockChain/합의 프로토콜.md",
-    "3. Resource/BlockChain/채굴.md",
-    "0. Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
-    "4. Archive/img/JPA/jpqlpersistence2.jpg",
-    "4. Archive/img/JPA/jpqlpersistence1.jpg",
-    "4. Archive/img/JPA/customjparepository.png",
-    "0. Inbox/Pasted image 20240314110107.png",
-    "4. Archive/img/JPA/springdataproject.png",
-    "4. Archive/img/JPA/querymethod2.jpg",
-    "4. Archive/img/JPA/querymethod1.jpg",
-    "4. Archive/img/JPA/bulk.png",
     "1. Project/JPA/Annotation/Spring Data JPA",
     "1. Project/JPA/Spring Data JPA/QueryMethod",
-    "4. Archive/img/JPA/nativesqlannotation.png",
     "1. Project/JPA/Annotation/QueryDSL",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건",
     "1. Project/JPA/객체지향 쿼리 언어/네이티브 SQL",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL",
-    "1. Project/JPA/객체지향 쿼리 언어/Criteria",
     "Project/무제 파일.canvas"
   ]
 }
