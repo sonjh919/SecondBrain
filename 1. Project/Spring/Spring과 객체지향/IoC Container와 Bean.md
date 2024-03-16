@@ -29,7 +29,7 @@ path:
 public class MemoService { ... }
 ```
 
-![[component.png]]
+![[4. Archive/img/Spring/component.png]]
 
 + Spring 서버가 뜰 때 IoC 컨테이너에 'Bean'을 저장 해준다.
 

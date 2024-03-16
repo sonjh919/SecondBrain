@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Architecture/Web System Architecture.md",
+                "file": "1. Project/Architecture/Event Storming.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Architecture/Web System Architecture.md",
+                "file": "1. Project/Architecture/Event Storming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Architecture/Web System Architecture.md"
+                "file": "1. Project/Architecture/Event Storming.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Architecture/Web System Architecture.md",
+                "file": "1. Project/Architecture/Event Storming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +202,21 @@
   },
   "active": "8903437f522640c1",
   "lastOpenFiles": [
-    "Welcome to JH SecondBrain.md",
+    "1. Project/Architecture/DDD.md",
+    "1. Project/Architecture/Component.md",
+    "1. Project/Architecture/Event Storming.md",
     "1. Project/Architecture/Web System Architecture.md",
+    "1. Project/Architecture/Component.png",
+    "2. Area/Book/오브젝트/04 설계 품질과 트레이드오프.md",
+    "2. Area/Book/오브젝트/01 객체, 설계.md",
+    "2. Area/Book/오브젝트/02 객체지향 프로그래밍.md",
+    "2. Area/Book/오브젝트/03 역할, 책임, 협력.md",
+    "2. Area/Book/오브젝트/06 메시지와 인터페이스.md",
+    "2. Area/Book/객체지향의 사실과 오해/07 함께 모으기.md",
+    "2. Area/Book/객체지향의 사실과 오해/06 객체 지도.md",
+    "2. Area/Book/객체지향의 사실과 오해/05 책임과 메시지.md",
+    "2. Area/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+    "Welcome to JH SecondBrain.md",
     "0. Inbox/코테.md",
     "1. Project/Architecture",
     "0. Inbox/임시회의록/24.03.15.md",
@@ -219,18 +232,6 @@
     "3. Resource/BlockChain/합의 프로토콜.md",
     "3. Resource/BlockChain/채굴.md",
     "0. Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
-    "0. Inbox/대용량트래픽/대용량 트래픽.md",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/동적 쿼리.md",
-    "1. Project/JPA/Spring Data JPA/QueryMethod/Pageable.md",
-    "1. Project/JPA/Spring Data JPA/QueryMethod/Page.md",
-    "1. Project/JPA/Spring Data JPA/QueryMethod/페이징과 정렬.md",
-    "1. Project/JPA/Spring Data JPA/QueryMethod/Slice.md",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL 시작.md",
-    "1. Project/JPA/Spring Data JPA/Spring Data JPA & QueryDSL.md",
-    "1. Project/JPA/Spring Data JPA/Spring Data JPA.md",
-    "1. Project/JPA/Entity/EntityManager.md",
-    "1. Project/JPA/Entity/EntityManagerFactory.md",
-    "1. Project/JPA/Persistence Context/영속성 컨텍스트와 트랜잭션의 생명주기.md",
     "4. Archive/img/JPA/jpqlpersistence2.jpg",
     "4. Archive/img/JPA/jpqlpersistence1.jpg",
     "4. Archive/img/JPA/customjparepository.png",
@@ -242,7 +243,6 @@
     "1. Project/JPA/Annotation/Spring Data JPA",
     "1. Project/JPA/Spring Data JPA/QueryMethod",
     "4. Archive/img/JPA/nativesqlannotation.png",
-    "4. Archive/img/JPA/NamedNativeQuery.png",
     "1. Project/JPA/Annotation/QueryDSL",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건",
     "1. Project/JPA/객체지향 쿼리 언어/네이티브 SQL",
