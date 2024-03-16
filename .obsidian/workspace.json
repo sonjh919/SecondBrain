@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ac0cf169a3daf99",
+            "id": "8903437f522640c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome to JH SecondBrain.md",
+                "file": "1. Project/Architecture/Web System Architecture.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to JH SecondBrain.md",
+                "file": "1. Project/Architecture/Web System Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome to JH SecondBrain.md"
+                "file": "1. Project/Architecture/Web System Architecture.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to JH SecondBrain.md",
+                "file": "1. Project/Architecture/Web System Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,17 +200,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3ac0cf169a3daf99",
+  "active": "8903437f522640c1",
   "lastOpenFiles": [
+    "Welcome to JH SecondBrain.md",
+    "1. Project/Architecture/Web System Architecture.md",
+    "0. Inbox/코테.md",
+    "1. Project/Architecture",
     "0. Inbox/임시회의록/24.03.15.md",
     "0. Inbox/나중에 정리할 것.md",
     "0. Inbox/하고싶은거.md",
     "0. Inbox/끄적끄적.md",
     "1. Project/JPA/Persistence Context/영속성 컨텍스트.md",
     "1. Project/JPA/Annotation/Id/@Id.md",
-    "Welcome to JH SecondBrain.md",
     "welcome",
-    "0. Inbox/코테.md",
     "0. Inbox/임시회의록",
     "0. Inbox/책/책.md",
     "3. Resource/BlockChain/블록체인.md",
@@ -229,7 +231,6 @@
     "1. Project/JPA/Entity/EntityManager.md",
     "1. Project/JPA/Entity/EntityManagerFactory.md",
     "1. Project/JPA/Persistence Context/영속성 컨텍스트와 트랜잭션의 생명주기.md",
-    "1. Project/JPA/Persistence Context/쓰기 지연 저장소.md",
     "4. Archive/img/JPA/jpqlpersistence2.jpg",
     "4. Archive/img/JPA/jpqlpersistence1.jpg",
     "4. Archive/img/JPA/customjparepository.png",
@@ -247,7 +248,6 @@
     "1. Project/JPA/객체지향 쿼리 언어/네이티브 SQL",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL",
     "1. Project/JPA/객체지향 쿼리 언어/Criteria",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL",
     "Project/무제 파일.canvas"
   ]
 }
