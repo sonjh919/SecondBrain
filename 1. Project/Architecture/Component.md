@@ -6,6 +6,8 @@ Event Storming을 진행하기 전에 먼저 Component의 종류에 대해서 �
 
 ![[4. Archive/img/Architecture/Component.png]]
 
+> [!caution]+ 
+> 순서는 달라질 수 있다!
 ### 1. Domain Event
 + **시간의 흐름에 따라 비즈니스 상태 변경을 의미하는 도메인 이벤트를 도출**한다.
 + **P.P형태의 동사**로 작성한다. 이는 이 사건이 발생했다는 것을 의미한다.
@@ -50,9 +52,9 @@ Event Storming을 진행하기 전에 먼저 Component의 종류에 대해서 �
 ![[actor.png]]
 
 ### 6. Aggregate
- + 비즈니스 로직 처리의 도메인 객체 덩어리이다.
+ + 비즈니스 로직 처리의 **도메인 객체 덩어리**이다.
  + 유저 인터페이스를 통해 데이터를 소비하고 명령을 실행하여 시스템과 상호 작용한다.
- + Enitty, Table로도 생각할 수 있다.
+ + 한 Aggregate가 하나의 git repository가 되고, 여러 개의 git reopsitory가 통신하여 하나의 MSA 아키텍쳐를 구성할 것이다.
 
 ![[Aggregate.png]]
 
@@ -80,3 +82,7 @@ Event Storming을 진행하기 전에 먼저 Component의 종류에 대해서 �
 + 이벤트들을 간단한 텍스트 형식으로 기록하여 모델의 흐름을 시각화하는 데 사용한다.
 
 ![[snapE.png]]
+
+### 11. 개념 수준의 객체 모델
++ 객체 모델링을 하고 ,Boris Diagram과 함께 개발을 시작하면 된다!
+![[modeling.png]]

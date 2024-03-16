@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Architecture/Boris Diagram.md",
+                "file": "0. Inbox/ddd.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Architecture/Boris Diagram.md",
+                "file": "0. Inbox/ddd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Architecture/Boris Diagram.md"
+                "file": "0. Inbox/ddd.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Architecture/Boris Diagram.md",
+                "file": "0. Inbox/ddd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,28 +202,27 @@
   },
   "active": "8903437f522640c1",
   "lastOpenFiles": [
-    "1. Project/Architecture/Pasted image 20240316161024.png",
-    "0. Inbox/끄적끄적.md",
-    "0. Inbox/나중에 정리할 것.md",
-    "0. Inbox/코테.md",
     "0. Inbox/하고싶은거.md",
-    "0. Inbox/ddd.md",
-    "1. Project/Architecture/Boris Diagram.md",
-    "1. Project/Architecture/Pasted image 20240316160017.png",
-    "1. Project/Architecture/Pasted image 20240316160000.png",
-    "1. Project/Architecture/Component.md",
+    "0. Inbox/코테.md",
     "1. Project/Architecture/DDD.md",
     "1. Project/Architecture/Event Storming.md",
+    "0. Inbox/ddd.md",
+    "1. Project/Architecture/Boris Diagram.md",
+    "1. Project/Architecture/Component.md",
+    "4. Archive/img/Architecture/modeling.png",
+    "4. Archive/img/Architecture/boris1.png",
+    "4. Archive/img/Architecture/boris3.png",
+    "4. Archive/img/Architecture/boris2.png",
+    "1. Project/Architecture/Data Projection.md",
+    "1. Project/Architecture/Web System Architecture.md",
+    "0. Inbox/끄적끄적.md",
+    "0. Inbox/나중에 정리할 것.md",
     "4. Archive/img/Architecture/Pasted image 20240316154238.png",
     "4. Archive/img/Architecture/ContextMapping.png",
     "4. Archive/img/Architecture/snapE.png",
-    "1. Project/Architecture/Data Projection.md",
     "4. Archive/img/Architecture/Pasted image 20240316154321.png",
-    "1. Project/Architecture/Web System Architecture.md",
     "4. Archive/img/Architecture/BoundedContextDuduction.png",
     "4. Archive/img/Architecture/ExternalSystem.png",
-    "4. Archive/img/Architecture/Policy.png",
-    "4. Archive/img/Architecture/DomainEvent.png",
     "4. Archive/img/Architecture",
     "4. Archive/img/무제 파일.md",
     "2. Area/Book/오브젝트/04 설계 품질과 트레이드오프.md",
