@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Architecture/DDD.md",
+                "file": "0. Inbox/임시회의록/회의템플릿.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Architecture/DDD.md",
+                "file": "0. Inbox/임시회의록/회의템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Architecture/DDD.md"
+                "file": "0. Inbox/임시회의록/회의템플릿.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Architecture/DDD.md",
+                "file": "0. Inbox/임시회의록/회의템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,12 +202,12 @@
   },
   "active": "8903437f522640c1",
   "lastOpenFiles": [
-    "1. Project/Architecture/Event Storming.md",
     "1. Project/Architecture/DDD.md",
+    "1. Project/Architecture/Event Storming.md",
     "1. Project/Architecture/Data Projection.md",
     "1. Project/Architecture/Boris Diagram.md",
     "1. Project/Architecture/Component.md",
-    "0. Inbox/임시회의록/24.03.15.md",
+    "0. Inbox/임시회의록/회의템플릿.md",
     "1. Project/Architecture/Web System Architecture.md",
     "0. Inbox/ddd.md",
     "0. Inbox/하고싶은거.md",
