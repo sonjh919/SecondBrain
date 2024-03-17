@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Architecture/Web System Architecture.md",
+                "file": "1. Project/Architecture/DDD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Architecture/Web System Architecture.md",
+                "file": "1. Project/Architecture/DDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Architecture/Web System Architecture.md"
+                "file": "1. Project/Architecture/DDD.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Architecture/Web System Architecture.md",
+                "file": "1. Project/Architecture/DDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,18 +203,19 @@
   "active": "8903437f522640c1",
   "lastOpenFiles": [
     "1. Project/Architecture/Event Storming.md",
+    "1. Project/Architecture/DDD.md",
     "1. Project/Architecture/Data Projection.md",
-    "1. Project/Architecture/Component.md",
     "1. Project/Architecture/Boris Diagram.md",
+    "1. Project/Architecture/Component.md",
+    "0. Inbox/임시회의록/24.03.15.md",
+    "1. Project/Architecture/Web System Architecture.md",
     "0. Inbox/ddd.md",
     "0. Inbox/하고싶은거.md",
     "0. Inbox/코테.md",
-    "1. Project/Architecture/DDD.md",
     "4. Archive/img/Architecture/modeling.png",
     "4. Archive/img/Architecture/boris1.png",
     "4. Archive/img/Architecture/boris3.png",
     "4. Archive/img/Architecture/boris2.png",
-    "1. Project/Architecture/Web System Architecture.md",
     "0. Inbox/끄적끄적.md",
     "0. Inbox/나중에 정리할 것.md",
     "4. Archive/img/Architecture/Pasted image 20240316154238.png",
@@ -236,7 +237,6 @@
     "2. Area/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
     "Welcome to JH SecondBrain.md",
     "1. Project/Architecture",
-    "0. Inbox/임시회의록/24.03.15.md",
     "1. Project/JPA/Persistence Context/영속성 컨텍스트.md",
     "1. Project/JPA/Annotation/Id/@Id.md",
     "welcome",
