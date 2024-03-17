@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Spring/Servlet/Front Controller.md",
+                "file": "1. Project/Software Pattern/Design Pattern/Builder Pattern.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Spring/Servlet/Front Controller.md",
+                "file": "1. Project/Software Pattern/Design Pattern/Builder Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Spring/Servlet/Front Controller.md"
+                "file": "1. Project/Software Pattern/Design Pattern/Builder Pattern.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Spring/Servlet/Front Controller.md",
+                "file": "1. Project/Software Pattern/Design Pattern/Builder Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,42 +214,42 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "91f5e6c84a852efa",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
+    "1. Project/Software Pattern",
+    "1. Project/Software Pattern/Design Pattern/Template Callback Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Builder Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Template Method Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Strategy Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Singleton Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Proxy Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Factory Method Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Decorator Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Composite Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Adapter Pattern.md",
+    "1. Project/Software Pattern/Architecture Pattern/Front Controller Pattern.md",
+    "1. Project/Software Pattern/Architecture Pattern/Layered Pattern.md",
+    "1. Project/Software Pattern/Architecture Pattern/MVC Pattern.md",
+    "1. Project/Software Pattern/Architecture Pattern/Port Adapter Pattern.md",
+    "1. Project/Spring/Servlet/Front Controller.md",
     "1. Project/Spring/문법/Spring MVC.md",
     "1. Project/Spring/문법/MVC.md",
-    "1. Project/Architecture Pattern/Port Adapter Pattern.md",
-    "1. Project/Architecture Pattern",
+    "1. Project/Software Pattern/Architecture Pattern",
     "1. Project/Architecture/DDD/구현 방식.md",
     "1. Project/Architecture/Web System Architecture/Monolithic.md",
-    "1. Project/Design Pattern/Composite Pattern.md",
-    "1. Project/Design Pattern/Decorator Pattern.md",
-    "1. Project/Design Pattern/Proxy Pattern.md",
     "1. Project/Architecture/DDD/DDD.md",
     "1. Project/Architecture/DDD/Boris Diagram.md",
     "1. Project/Architecture/DDD/Component.md",
     "1. Project/Architecture/DDD/Event Storming.md",
     "1. Project/Architecture/Web System Architecture/Web System Architecture.md",
     "1. Project/Architecture/Web System Architecture/MSA.md",
-    "1. Project/Architecture/Web System Architecture/SOA.md",
-    "1. Project/Architecture/Web System Architecture/Hexagonal architecture.md",
-    "1. Project/JPA/프록시/프록시.md",
-    "1. Project/Spring/Spring과 객체지향/AOP.md",
-    "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
     "4. Archive/img/Architecture/PortAdapter.png",
     "4. Archive/img/Architecture/Hexagonal architecture.png",
     "4. Archive/img/Design Pattern/proxy 1.png",
     "4. Archive/img/Design Pattern/proxy.png",
     "4. Archive/img/Design Pattern",
-    "4. Archive/img/무제 파일.md",
-    "1. Project/Architecture/Data Projection.md",
     "1. Project/Architecture/Web System Architecture",
     "1. Project/Architecture/DDD",
-    "1. Project/Architecture/Blocking vs Non-Blocking.md",
-    "0. Inbox/ddd.md",
-    "0. Inbox/임시회의록/회의템플릿.md",
-    "0. Inbox/하고싶은거.md",
-    "0. Inbox/코테.md",
     "4. Archive/img/Architecture/modeling.png",
     "4. Archive/img/Architecture/boris1.png",
     "4. Archive/img/Architecture/boris3.png",
