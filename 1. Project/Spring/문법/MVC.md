@@ -1,13 +1,3 @@
----
-title: MVC
-date: 2024-01-17 14:47
-categories:
-  - Spring
-tags:
-  - Spring
-image: 
-path:
----
 #Spring 
 
 ## MVC 패턴

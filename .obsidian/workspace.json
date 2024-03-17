@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/임시회의록/회의템플릿.md",
+                "file": "1. Project/Architecture/Web System Architecture/Web System Architecture.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91f5e6c84a852efa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Project/Spring/Servlet/Front Controller.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/임시회의록/회의템플릿.md",
+                "file": "1. Project/Spring/Servlet/Front Controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/임시회의록/회의템플릿.md"
+                "file": "1. Project/Spring/Servlet/Front Controller.md"
               }
             }
           },
@@ -141,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/임시회의록/회의템플릿.md",
+                "file": "1. Project/Spring/Servlet/Front Controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,53 +214,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8903437f522640c1",
+  "active": "91f5e6c84a852efa",
   "lastOpenFiles": [
-    "1. Project/Architecture/DDD.md",
-    "1. Project/Architecture/Event Storming.md",
+    "1. Project/Spring/문법/Spring MVC.md",
+    "1. Project/Spring/문법/MVC.md",
+    "1. Project/Architecture Pattern/Port Adapter Pattern.md",
+    "1. Project/Architecture Pattern",
+    "1. Project/Architecture/DDD/구현 방식.md",
+    "1. Project/Architecture/Web System Architecture/Monolithic.md",
+    "1. Project/Design Pattern/Composite Pattern.md",
+    "1. Project/Design Pattern/Decorator Pattern.md",
+    "1. Project/Design Pattern/Proxy Pattern.md",
+    "1. Project/Architecture/DDD/DDD.md",
+    "1. Project/Architecture/DDD/Boris Diagram.md",
+    "1. Project/Architecture/DDD/Component.md",
+    "1. Project/Architecture/DDD/Event Storming.md",
+    "1. Project/Architecture/Web System Architecture/Web System Architecture.md",
+    "1. Project/Architecture/Web System Architecture/MSA.md",
+    "1. Project/Architecture/Web System Architecture/SOA.md",
+    "1. Project/Architecture/Web System Architecture/Hexagonal architecture.md",
+    "1. Project/JPA/프록시/프록시.md",
+    "1. Project/Spring/Spring과 객체지향/AOP.md",
+    "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
+    "4. Archive/img/Architecture/PortAdapter.png",
+    "4. Archive/img/Architecture/Hexagonal architecture.png",
+    "4. Archive/img/Design Pattern/proxy 1.png",
+    "4. Archive/img/Design Pattern/proxy.png",
+    "4. Archive/img/Design Pattern",
+    "4. Archive/img/무제 파일.md",
     "1. Project/Architecture/Data Projection.md",
-    "1. Project/Architecture/Boris Diagram.md",
-    "1. Project/Architecture/Component.md",
-    "0. Inbox/임시회의록/회의템플릿.md",
-    "1. Project/Architecture/Web System Architecture.md",
+    "1. Project/Architecture/Web System Architecture",
+    "1. Project/Architecture/DDD",
+    "1. Project/Architecture/Blocking vs Non-Blocking.md",
     "0. Inbox/ddd.md",
+    "0. Inbox/임시회의록/회의템플릿.md",
     "0. Inbox/하고싶은거.md",
     "0. Inbox/코테.md",
     "4. Archive/img/Architecture/modeling.png",
     "4. Archive/img/Architecture/boris1.png",
     "4. Archive/img/Architecture/boris3.png",
     "4. Archive/img/Architecture/boris2.png",
-    "0. Inbox/끄적끄적.md",
-    "0. Inbox/나중에 정리할 것.md",
     "4. Archive/img/Architecture/Pasted image 20240316154238.png",
     "4. Archive/img/Architecture/ContextMapping.png",
-    "4. Archive/img/Architecture/snapE.png",
-    "4. Archive/img/Architecture/Pasted image 20240316154321.png",
-    "4. Archive/img/Architecture/BoundedContextDuduction.png",
-    "4. Archive/img/Architecture/ExternalSystem.png",
     "4. Archive/img/Architecture",
-    "4. Archive/img/무제 파일.md",
-    "2. Area/Book/오브젝트/04 설계 품질과 트레이드오프.md",
-    "2. Area/Book/오브젝트/01 객체, 설계.md",
-    "2. Area/Book/오브젝트/02 객체지향 프로그래밍.md",
-    "2. Area/Book/오브젝트/03 역할, 책임, 협력.md",
-    "2. Area/Book/오브젝트/06 메시지와 인터페이스.md",
-    "2. Area/Book/객체지향의 사실과 오해/07 함께 모으기.md",
-    "2. Area/Book/객체지향의 사실과 오해/06 객체 지도.md",
-    "2. Area/Book/객체지향의 사실과 오해/05 책임과 메시지.md",
-    "2. Area/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
-    "Welcome to JH SecondBrain.md",
     "1. Project/Architecture",
-    "1. Project/JPA/Persistence Context/영속성 컨텍스트.md",
-    "1. Project/JPA/Annotation/Id/@Id.md",
     "welcome",
     "0. Inbox/임시회의록",
     "1. Project/JPA/Annotation/Spring Data JPA",
     "1. Project/JPA/Spring Data JPA/QueryMethod",
-    "1. Project/JPA/Annotation/QueryDSL",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건",
-    "1. Project/JPA/객체지향 쿼리 언어/네이티브 SQL",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL",
     "Project/무제 파일.canvas"
   ]
 }
