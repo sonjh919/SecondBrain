@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Software Pattern/Architecture Pattern/Port Adapter Pattern.md",
+                "file": "2. Area/Book/오브젝트/02 객체지향 프로그래밍.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Software Pattern/Architecture Pattern/Port Adapter Pattern.md",
+                "file": "2. Area/Book/오브젝트/02 객체지향 프로그래밍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Software Pattern/Architecture Pattern/Port Adapter Pattern.md"
+                "file": "2. Area/Book/오브젝트/02 객체지향 프로그래밍.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Software Pattern/Architecture Pattern/Port Adapter Pattern.md",
+                "file": "2. Area/Book/오브젝트/02 객체지향 프로그래밍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,19 +202,23 @@
   },
   "active": "8903437f522640c1",
   "lastOpenFiles": [
-    "1. Project/Software Pattern/Design Pattern/Decorator Pattern.md",
-    "1. Project/Software Pattern/Design Pattern/Composite Pattern.md",
-    "1. Project/Software Pattern/Design Pattern/Builder Pattern.md",
+    "2. Area/Book/오브젝트/04 설계 품질과 트레이드오프.md",
+    "2. Area/JAVA/클래스&객체/인터페이스.md",
     "1. Project/Software Pattern/Design Pattern/Adapter Pattern.md",
-    "1. Project/Software Pattern/Design Pattern/Design Pattern.md",
-    "1. Project/Software Pattern/Design Pattern/Factory Method Pattern.md",
     "1. Project/Software Pattern/Design Pattern/Proxy Pattern.md",
-    "1. Project/Software Pattern/Software Pattern.md",
+    "2. Area/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
     "1. Project/Software Pattern/Architecture Pattern/Port Adapter Pattern.md",
     "1. Project/Software Pattern/Architecture Pattern/MVC Pattern.md",
     "1. Project/Software Pattern/Architecture Pattern/Layered Pattern.md",
     "1. Project/Software Pattern/Architecture Pattern/Front Controller Pattern.md",
+    "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
     "1. Project/Software Pattern/Architecture Pattern/Architecture Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Decorator Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Composite Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Builder Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Design Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Factory Method Pattern.md",
+    "1. Project/Software Pattern/Software Pattern.md",
     "4. Archive/img/Architecture/layeredPattern.png",
     "1. Project/Spring/Servlet/DispatcherServlet.md",
     "3. Resource/기획/프로젝트 기획.md",
@@ -235,10 +239,6 @@
     "1. Project/Spring/문법/Controller.md",
     "1. Project/Spring/MOC.md",
     "1. Project/Architecture/Web System Architecture/Web System Architecture.md",
-    "1. Project/Spring/Spring과 객체지향/3 Layer Annotation.md",
-    "1. Project/Spring/문법/DTO.md",
-    "1. Project/Spring/Servlet/Servlet.md",
-    "1. Project/Spring/문법/MVC.md",
     "1. Project/Software Pattern",
     "1. Project/Software Pattern/Architecture Pattern",
     "4. Archive/img/Software Pattern/Design Pattern",
