@@ -19,7 +19,7 @@ path:
 - 웹에서 동적인 페이지를 java로 구현한 서버측 프로그램
 
 ## Servlet이 수행하는 역할
-+ **[[MVC]]에서 Controller로 이용된다.**
++ **[[MVC Pattern]]에서 Controller로 이용된다.**
 - **요청 받기** (HttpMethod GET/POST 요청에 따른 parameter로 전달받은 data를 꺼내 올 수 있다.)
 - 비지니스 로직 처리 (DB 접속과 CRUD에 대한 logic 처리는 서비스를 호출하는 것으로 해결([[Spring MVC]])
 - **응답하기** (문자열로 동적인 웹(HTML 태그) 페이지를 만들고 stream을 이용하여 내보내기)

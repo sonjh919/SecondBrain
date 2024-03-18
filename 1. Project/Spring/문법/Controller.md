@@ -16,8 +16,6 @@ path:
 ### html 반환
 @Controller Class에서 문자열, 객체 등이 반환된다면, resources/templates에서 해당 문자열의 이름을 가진 html 파일을 찾아 그 html을 반환하게 된다. 순수하게 문자열을 반환하고 싶다면 응답의 body 부분에 문자열을 추가한다는 뜻으로 @ResponseBody annotation을 추가한다.
 
-참고 : [[Front Controller]]
-
 ### API 예시
 
 ```java

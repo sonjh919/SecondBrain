@@ -15,5 +15,5 @@ path:
 [[Servlet]]
 [[Servlet Life Cycle]]
 [[Servlet Container]]
-[[Front Controller]]
+[[DispatcherServlet]]
 [[배포서술자]]

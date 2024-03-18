@@ -45,7 +45,7 @@ preHandle(request, response, handler)
 ```
 
 ### postHandle
-지정된 컨트롤러의 동작 이후에 처리하며, Spring MVC의 [[Front Controller]]인 DispatcherServlet이 **화면을 처리하기 전에 동작**한다.
+지정된 컨트롤러의 동작 이후에 처리하며, [[spring MVC]]의 Front Controller인 [[DispatcherServlet]]이 **화면을 처리하기 전에 동작**한다.
 
 ```java
 postHandle(request, response, handler, modelAndView)

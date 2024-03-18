@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Architecture/Web System Architecture/Web System Architecture.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91f5e6c84a852efa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Project/Software Pattern/Design Pattern/Builder Pattern.md",
+                "file": "1. Project/Software Pattern/Architecture Pattern/Port Adapter Pattern.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +50,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Software Pattern/Design Pattern/Builder Pattern.md",
+                "file": "1. Project/Software Pattern/Architecture Pattern/Port Adapter Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Software Pattern/Design Pattern/Builder Pattern.md"
+                "file": "1. Project/Software Pattern/Architecture Pattern/Port Adapter Pattern.md"
               }
             }
           },
@@ -155,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Software Pattern/Design Pattern/Builder Pattern.md",
+                "file": "1. Project/Software Pattern/Architecture Pattern/Port Adapter Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,54 +200,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "8903437f522640c1",
   "lastOpenFiles": [
-    "1. Project/Software Pattern",
-    "1. Project/Software Pattern/Design Pattern/Template Callback Pattern.md",
-    "1. Project/Software Pattern/Design Pattern/Builder Pattern.md",
-    "1. Project/Software Pattern/Design Pattern/Template Method Pattern.md",
-    "1. Project/Software Pattern/Design Pattern/Strategy Pattern.md",
-    "1. Project/Software Pattern/Design Pattern/Singleton Pattern.md",
-    "1. Project/Software Pattern/Design Pattern/Proxy Pattern.md",
-    "1. Project/Software Pattern/Design Pattern/Factory Method Pattern.md",
     "1. Project/Software Pattern/Design Pattern/Decorator Pattern.md",
     "1. Project/Software Pattern/Design Pattern/Composite Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Builder Pattern.md",
     "1. Project/Software Pattern/Design Pattern/Adapter Pattern.md",
-    "1. Project/Software Pattern/Architecture Pattern/Front Controller Pattern.md",
-    "1. Project/Software Pattern/Architecture Pattern/Layered Pattern.md",
-    "1. Project/Software Pattern/Architecture Pattern/MVC Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Design Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Factory Method Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Proxy Pattern.md",
+    "1. Project/Software Pattern/Software Pattern.md",
     "1. Project/Software Pattern/Architecture Pattern/Port Adapter Pattern.md",
-    "1. Project/Spring/Servlet/Front Controller.md",
+    "1. Project/Software Pattern/Architecture Pattern/MVC Pattern.md",
+    "1. Project/Software Pattern/Architecture Pattern/Layered Pattern.md",
+    "1. Project/Software Pattern/Architecture Pattern/Front Controller Pattern.md",
+    "1. Project/Software Pattern/Architecture Pattern/Architecture Pattern.md",
+    "4. Archive/img/Architecture/layeredPattern.png",
+    "1. Project/Spring/Servlet/DispatcherServlet.md",
+    "3. Resource/기획/프로젝트 기획.md",
     "1. Project/Spring/문법/Spring MVC.md",
-    "1. Project/Spring/문법/MVC.md",
-    "1. Project/Software Pattern/Architecture Pattern",
-    "1. Project/Architecture/DDD/구현 방식.md",
-    "1. Project/Architecture/Web System Architecture/Monolithic.md",
-    "1. Project/Architecture/DDD/DDD.md",
-    "1. Project/Architecture/DDD/Boris Diagram.md",
-    "1. Project/Architecture/DDD/Component.md",
-    "1. Project/Architecture/DDD/Event Storming.md",
+    "1. Project/CS/Network/REST.md",
+    "2. Area/Docker/레이어 저장방식.md",
+    "4. Archive/img/Software Pattern/controllers.png",
+    "4. Archive/img/Software Pattern/mvc.png",
+    "4. Archive/img/Software Pattern/mv.png",
+    "4. Archive/img/Software Pattern/mvcall.png",
+    "4. Archive/img/Software Pattern/mvclanguage.png",
+    "4. Archive/img/Software Pattern/mvcpart.png",
+    "4. Archive/img/Spring/front.png",
+    "4. Archive/img/Spring/frontController.png",
+    "4. Archive/img/Software Pattern/frontcontroller.png",
+    "4. Archive/img/Software Pattern",
+    "1. Project/Spring/Spring과 객체지향/Interceptor.md",
+    "1. Project/Spring/문법/Controller.md",
+    "1. Project/Spring/MOC.md",
     "1. Project/Architecture/Web System Architecture/Web System Architecture.md",
-    "1. Project/Architecture/Web System Architecture/MSA.md",
-    "4. Archive/img/Architecture/PortAdapter.png",
-    "4. Archive/img/Architecture/Hexagonal architecture.png",
-    "4. Archive/img/Design Pattern/proxy 1.png",
-    "4. Archive/img/Design Pattern/proxy.png",
-    "4. Archive/img/Design Pattern",
+    "1. Project/Spring/Spring과 객체지향/3 Layer Annotation.md",
+    "1. Project/Spring/문법/DTO.md",
+    "1. Project/Spring/Servlet/Servlet.md",
+    "1. Project/Spring/문법/MVC.md",
+    "1. Project/Software Pattern",
+    "1. Project/Software Pattern/Architecture Pattern",
+    "4. Archive/img/Software Pattern/Design Pattern",
     "1. Project/Architecture/Web System Architecture",
     "1. Project/Architecture/DDD",
-    "4. Archive/img/Architecture/modeling.png",
-    "4. Archive/img/Architecture/boris1.png",
-    "4. Archive/img/Architecture/boris3.png",
-    "4. Archive/img/Architecture/boris2.png",
-    "4. Archive/img/Architecture/Pasted image 20240316154238.png",
-    "4. Archive/img/Architecture/ContextMapping.png",
     "4. Archive/img/Architecture",
     "1. Project/Architecture",
     "welcome",
     "0. Inbox/임시회의록",
-    "1. Project/JPA/Annotation/Spring Data JPA",
-    "1. Project/JPA/Spring Data JPA/QueryMethod",
     "Project/무제 파일.canvas"
   ]
 }

@@ -1,4 +1,4 @@
-#DesignPattern
+#SoftwarePattern #DesignPattern
 
 > [!check]+ 적용된 설계 패턴
 > 개방 폐쇄 원칙

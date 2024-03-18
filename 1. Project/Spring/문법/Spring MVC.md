@@ -15,11 +15,11 @@ path:
 
 Spring Web MVC는 Servlet API를 기반으로 구축된 독창적인 웹 프레임워크로, 처음부터 Spring Framework에 포함되어 왔으며, 정식 명칭인 "Spring Web MVC"는 소스 모듈(spring-webmvc)의 이름에서 따왔으나, "Spring MVC"로 더 일반적으로 알려져 있다.
 
-Spring MVC는 중앙에 있는 **DispatcherServlet**이 요청을 처리하기 위한 공유 알고리즘을 제공하는 **[[Front Controller]] 패턴**을 중심으로 설계되어 있으며 이 모델은 유연하고 다양한 워크 플로우를 지원한다.
-쉽게 표현하면 ‘Spring에서 MVC 디자인 패턴을 적용하여 HTTP 요청을 효율적으로 처리하고 있다’ 라고 할 수 있다.
+Spring MVC는 중앙에 있는 [[DispatcherServlet]]이 요청을 처리하기 위한 공유 알고리즘을 제공하는[[Front Controller Pattern]]을 중심으로 설계되어 있으며 이 모델은 유연하고 다양한 워크 플로우를 지원한다.
+쉽게 표현하면 ‘Spring에서 [[MVC Pattern]]을 적용하여 HTTP 요청을 효율적으로 처리하고 있다’ 라고 할 수 있다.
 
 ## 3 Layer Architecture
-+ 서버 개발자들은 서버에서의 처리과정이 대부분 비슷하다는 걸 깨닫고 처리 과정을 **Controller, Service, Repository** 3개의 계층으로 나누어 처리한다.
++ 서버 개발자들은 서버에서의 처리과정이 대부분 비슷하다는 걸 깨닫고 처리 과정을 [[Layered Pattern]]을 사용하여 **Controller, Service, Repository** 3개의 계층으로 나누어 처리한다. 
 
 ### Controller
 - 클라이언트의 요청을 받는다.

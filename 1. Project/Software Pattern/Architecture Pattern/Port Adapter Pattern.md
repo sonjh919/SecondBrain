@@ -1,1 +1,2 @@
-#ArchitecturePattern
+#SoftwarePattern #ArchitecturePattern
+

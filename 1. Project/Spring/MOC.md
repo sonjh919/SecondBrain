@@ -23,7 +23,6 @@ path:
 [[Controller]]
 [[DTO]]
 [[HTTP 데이터 객체로 변환하기]]
-[[MVC]]
 [[Response 트렌드의 변화]]
 [[Spring MVC]]
 [[Spring]]
