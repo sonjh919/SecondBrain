@@ -30,7 +30,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/Java API/java.util/Collection/Collection.md",
+                "file": "Excalidraw/Drawing 2024-03-18 12.12.53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/Java API/java.util/Collection/Collection.md"
+                "file": "Excalidraw/Drawing 2024-03-18 12.12.53.excalidraw.md"
               }
             }
           },
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/Java API/java.util/Collection/Collection.md",
+                "file": "Excalidraw/Drawing 2024-03-18 12.12.53.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,10 +211,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8903437f522640c1",
+  "active": "61045e5ac45f406f",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-03-18 12.12.53.excalidraw.md",
     "2. Area/Java API/java.util/Collection/Collection.md",
+    "Excalidraw/Drawing 2024-03-18 12.12.53.excalidraw.md",
     "2. Area/Book/오브젝트/02 객체지향 프로그래밍.md",
     "2. Area/Book/오브젝트/04 설계 품질과 트레이드오프.md",
     "2. Area/JAVA/클래스&객체/인터페이스.md",
