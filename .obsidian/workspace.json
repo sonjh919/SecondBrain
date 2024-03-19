@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/Annotation/연관관계/@JoinTable.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "다대다",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/Annotation/연관관계/@JoinTable.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/Annotation/연관관계/@JoinTable.md"
+                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md"
               }
             }
           },
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/Annotation/연관관계/@JoinTable.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,6 +216,8 @@
   },
   "active": "61045e5ac45f406f",
   "lastOpenFiles": [
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/검색 조건 쿼리.md",
+    "1. Project/JPA/Annotation/연관관계/@JoinTable.md",
     "1. Project/JPA/Annotation/Id/@GeneratedValue.md",
     "0. Inbox/끄적끄적.md",
     "0. Inbox/ddd.md",
@@ -230,7 +231,6 @@
     "1. Project/JPA/Mapping/연관관계/Entity 연관관계.md",
     "1. Project/JPA/Mapping/연관관계/다대다.md",
     "비식별 관계.md",
-    "1. Project/JPA/Annotation/연관관계/@JoinTable.md",
     "1. Project/JPA/Annotation/연관관계/@ManyToMany.md",
     "1. Project/CS/Network/HTTP 상태 코드.md",
     "1. Project/JPA/Annotation/Column/@Enumerated.md",
@@ -243,7 +243,6 @@
     "2. Area/Book/오브젝트/04 설계 품질과 트레이드오프.md",
     "2. Area/JAVA/클래스&객체/인터페이스.md",
     "1. Project/Software Pattern/Design Pattern/Adapter Pattern.md",
-    "1. Project/Software Pattern/Design Pattern/Proxy Pattern.md",
     "4. Archive/img/Architecture/layeredPattern.png",
     "4. Archive/img/Software Pattern/controllers.png",
     "4. Archive/img/Software Pattern/mvc.png",
