@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/CS/Network/HTTP 상태 코드.md",
+                "file": "1. Project/JPA/Mapping/연관관계/다대일.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "204",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/CS/Network/HTTP 상태 코드.md",
+                "file": "1. Project/JPA/Mapping/연관관계/다대일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/CS/Network/HTTP 상태 코드.md"
+                "file": "1. Project/JPA/Mapping/연관관계/다대일.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/CS/Network/HTTP 상태 코드.md",
+                "file": "1. Project/JPA/Mapping/연관관계/다대일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,12 @@
   },
   "active": "61045e5ac45f406f",
   "lastOpenFiles": [
+    "1. Project/JPA/Mapping/연관관계/Entity 연관관계.md",
+    "1. Project/JPA/Mapping/연관관계/다대다.md",
+    "비식별 관계.md",
     "1. Project/JPA/Annotation/연관관계/@JoinTable.md",
+    "1. Project/JPA/Annotation/연관관계/@ManyToMany.md",
+    "1. Project/CS/Network/HTTP 상태 코드.md",
     "1. Project/JPA/Annotation/Column/@Enumerated.md",
     "1. Project/JPA/Annotation/Entity/@Embeddable.md",
     "1. Project/JPA/Annotation/Entity/@AttributeOverride.md",
@@ -238,12 +243,7 @@
     "1. Project/Software Pattern/Architecture Pattern/Architecture Pattern.md",
     "1. Project/Software Pattern/Design Pattern/Decorator Pattern.md",
     "1. Project/Software Pattern/Design Pattern/Composite Pattern.md",
-    "1. Project/Software Pattern/Design Pattern/Builder Pattern.md",
-    "1. Project/Software Pattern/Design Pattern/Design Pattern.md",
-    "1. Project/Software Pattern/Design Pattern/Factory Method Pattern.md",
-    "1. Project/Software Pattern/Software Pattern.md",
     "4. Archive/img/Architecture/layeredPattern.png",
-    "1. Project/Spring/Servlet/DispatcherServlet.md",
     "4. Archive/img/Software Pattern/controllers.png",
     "4. Archive/img/Software Pattern/mvc.png",
     "4. Archive/img/Software Pattern/mv.png",
