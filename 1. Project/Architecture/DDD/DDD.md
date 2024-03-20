@@ -1,16 +1,8 @@
 #Architecture #DDD
 
 
-## Domain
-+ 역할과 책임이 있는 사건의 주체 영역 (Action, Data, Event)
-+ **주체의 값이 변경되는 곳**이다.
-
-> [!example]+ 
-> + 장바구니는 시스템적으로 상품을 목록화해주기 때문에 Domain이 아닌 Read Model이다.
-> + 상품 Domain은 상품을 추가/수정/삭제를 해주기 때문에 Domain이다.
-
 ## DDD(Domain Driven Design)
-Domain model 단위로 나누어 설계하는 방식이다. DDD의 핵심 목표는 의존성을 최소화하고, 응집성을 최대화시키는 것이다.
+[[Domain]] model 단위로 나누어 설계하는 방식이다. DDD의 핵심 목표는 의존성을 최소화하고, 응집성을 최대화시키는 것이다.
 
 > [!faq]+ 응집도?결합도?
 > 오브젝트 4장의 설계 트레이드오프 부분을 참고하자.

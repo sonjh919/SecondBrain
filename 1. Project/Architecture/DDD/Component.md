@@ -84,5 +84,5 @@ Event Storming을 진행하기 전에 먼저 Component의 종류에 대해서 �
 ![[snapE.png]]
 
 ### 11. 개념 수준의 객체 모델
-+ 객체 모델링을 하고 ,Boris Diagram과 함께 개발을 시작하면 된다!
++ [[객체 모델링]]을 하고 ,Boris Diagram과 함께 개발을 시작하면 된다!
 ![[modeling.png]]

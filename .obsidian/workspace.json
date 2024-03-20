@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8903437f522640c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Area/Java API/java.util/Collection/Collection.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "61045e5ac45f406f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Java API/java.lang/java.lang.md",
+                "file": "1. Project/Architecture/DDD/도메인 모델/Domain model 도출.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/Java API/java.lang/java.lang.md",
+                "file": "1. Project/Architecture/DDD/도메인 모델/Domain model 도출.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/Java API/java.lang/java.lang.md"
+                "file": "1. Project/Architecture/DDD/도메인 모델/Domain model 도출.md"
               }
             }
           },
@@ -155,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/Java API/java.lang/java.lang.md",
+                "file": "1. Project/Architecture/DDD/도메인 모델/Domain model 도출.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,6 +202,24 @@
   },
   "active": "61045e5ac45f406f",
   "lastOpenFiles": [
+    "1. Project/Architecture/DDD/도메인 모델/Domain Model.md",
+    "1. Project/Architecture/DDD/도메인 모델/Domain model 도출.md",
+    "1. Project/Architecture/DDD/Boris Diagram.md",
+    "1. Project/Architecture/DDD/구현 방식.md",
+    "1. Project/Architecture/DDD/객체 모델링.md",
+    "1. Project/Architecture/DDD/도메인 모델/Domain.md",
+    "1. Project/Architecture/DDD/도메인 모델/Domain Model Pattern.md",
+    "1. Project/Architecture/DDD/도메인 모델",
+    "1. Project/Architecture/DDD/Event Storming.md",
+    "1. Project/Architecture/DDD/DomainModelPattern.png",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/프로젝션.md",
+    "1. Project/Architecture/DDD/domainmodel2.png",
+    "1. Project/Architecture/DDD/domainmodel1.png",
+    "2. Area/Java API/java.util/Collection/Collection.md",
+    "1. Project/Architecture/DDD/DDD.md",
+    "1. Project/Architecture/DDD/Component.md",
+    "0. Inbox/ddd.md",
+    "2. Area/Java API/java.lang/java.lang.md",
     "0. Inbox/동시성 제어.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/JOIN.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/기본 문법.md",
@@ -224,34 +228,17 @@
     "1. Project/JPA/Annotation/Spring Data JPA/@Query.md",
     "1. Project/JPA/Annotation/Spring Data JPA/@Modifying.md",
     "2. Area/Java API/java.lang/record.md",
-    "2. Area/Java API/java.lang/java.lang.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/검색 조건 쿼리.md",
     "1. Project/JPA/Annotation/연관관계/@JoinTable.md",
     "1. Project/JPA/Annotation/Id/@GeneratedValue.md",
-    "0. Inbox/끄적끄적.md",
-    "0. Inbox/ddd.md",
-    "0. Inbox/하고싶은거.md",
-    "0. Inbox/코테.md",
-    "0. Inbox/나중에 정리할 것.md",
-    "1. Project/JPA/Spring Data JPA/Spring Data JPA.md",
     "4. Archive/img/JPA/springdataproject.png",
-    "1. Project/JPA/SimpleJpaRepository.md",
-    "1. Project/JPA/Mapping/연관관계/다대일.md",
-    "1. Project/JPA/Mapping/연관관계/Entity 연관관계.md",
-    "1. Project/JPA/Mapping/연관관계/다대다.md",
-    "비식별 관계.md",
-    "1. Project/JPA/Annotation/연관관계/@ManyToMany.md",
-    "1. Project/CS/Network/HTTP 상태 코드.md",
     "4. Archive/img/Architecture/layeredPattern.png",
     "4. Archive/img/Software Pattern/controllers.png",
     "4. Archive/img/Software Pattern/mvc.png",
     "4. Archive/img/Software Pattern/mv.png",
     "4. Archive/img/Software Pattern/mvcall.png",
     "4. Archive/img/Software Pattern/mvclanguage.png",
-    "4. Archive/img/Software Pattern/mvcpart.png",
-    "4. Archive/img/Spring/front.png",
-    "4. Archive/img/Spring/frontController.png",
     "4. Archive/img/Software Pattern",
     "1. Project/Software Pattern",
     "1. Project/Software Pattern/Architecture Pattern",
@@ -261,7 +248,6 @@
     "4. Archive/img/Architecture",
     "1. Project/Architecture",
     "welcome",
-    "0. Inbox/임시회의록",
     "Project/무제 파일.canvas"
   ]
 }
