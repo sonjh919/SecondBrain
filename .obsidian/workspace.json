@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/JOIN.md",
+                "file": "0. Inbox/동시성 제어.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "JPQL",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/JOIN.md",
+                "file": "0. Inbox/동시성 제어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/JOIN.md"
+                "file": "0. Inbox/동시성 제어.md"
               }
             }
           },
@@ -169,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/JOIN.md",
+                "file": "0. Inbox/동시성 제어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,6 +229,8 @@
   },
   "active": "e25cee3cccf4fdd5",
   "lastOpenFiles": [
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/JOIN.md",
+    "0. Inbox/동시성 제어.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/기본 문법.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/Named 정적 쿼리.md",
     "1. Project/JPA/Annotation/Entity/@NamedQuery.md",
@@ -255,8 +256,6 @@
     "비식별 관계.md",
     "1. Project/JPA/Annotation/연관관계/@ManyToMany.md",
     "1. Project/CS/Network/HTTP 상태 코드.md",
-    "1. Project/JPA/Annotation/Column/@Enumerated.md",
-    "1. Project/JPA/Annotation/Entity/@Embeddable.md",
     "4. Archive/img/Architecture/layeredPattern.png",
     "4. Archive/img/Software Pattern/controllers.png",
     "4. Archive/img/Software Pattern/mvc.png",
