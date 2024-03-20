@@ -32,22 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e25cee3cccf4fdd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/동시성 제어.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/동시성 제어.md",
+                "file": "2. Area/Java API/java.lang/java.lang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/동시성 제어.md"
+                "file": "2. Area/Java API/java.lang/java.lang.md"
               }
             }
           },
@@ -168,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/동시성 제어.md",
+                "file": "2. Area/Java API/java.lang/java.lang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,10 +214,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e25cee3cccf4fdd5",
+  "active": "61045e5ac45f406f",
   "lastOpenFiles": [
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/JOIN.md",
     "0. Inbox/동시성 제어.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/JOIN.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/기본 문법.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/Named 정적 쿼리.md",
     "1. Project/JPA/Annotation/Entity/@NamedQuery.md",
