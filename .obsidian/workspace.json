@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Java API/java.lang/record.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/JOIN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "record",
+                "query": "JPQL",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/Java API/java.lang/record.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/JOIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/Java API/java.lang/record.md"
+                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/JOIN.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/Java API/java.lang/record.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/JOIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,6 +230,12 @@
   },
   "active": "e25cee3cccf4fdd5",
   "lastOpenFiles": [
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/기본 문법.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/Named 정적 쿼리.md",
+    "1. Project/JPA/Annotation/Entity/@NamedQuery.md",
+    "1. Project/JPA/Annotation/Spring Data JPA/@Query.md",
+    "1. Project/JPA/Annotation/Spring Data JPA/@Modifying.md",
+    "2. Area/Java API/java.lang/record.md",
     "2. Area/Java API/java.lang/java.lang.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/검색 조건 쿼리.md",
@@ -251,12 +257,6 @@
     "1. Project/CS/Network/HTTP 상태 코드.md",
     "1. Project/JPA/Annotation/Column/@Enumerated.md",
     "1. Project/JPA/Annotation/Entity/@Embeddable.md",
-    "1. Project/JPA/Annotation/Entity/@AttributeOverride.md",
-    "1. Project/JPA/Annotation/Column/@Temporal.md",
-    "Excalidraw/Drawing 2024-03-18 12.12.53.excalidraw.md",
-    "2. Area/Java API/java.util/Collection/Collection.md",
-    "2. Area/Book/오브젝트/02 객체지향 프로그래밍.md",
-    "2. Area/Book/오브젝트/04 설계 품질과 트레이드오프.md",
     "4. Archive/img/Architecture/layeredPattern.png",
     "4. Archive/img/Software Pattern/controllers.png",
     "4. Archive/img/Software Pattern/mvc.png",
