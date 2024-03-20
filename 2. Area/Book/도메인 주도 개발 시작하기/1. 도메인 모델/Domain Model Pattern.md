@@ -1,12 +1,11 @@
-#Architecture #DDD
+#Architecture #DDD #개발서적 
 
 
 ## Domain Model Pattern
 [[Domain Model]]이 도메인 자체를 이해하는데 필요한 **개념 모델**이라면, 도메인 모델 패턴은 **Architecture 상의 도메인 계층을 객체 지향 기법으로 구현하는 패턴**이다.
 
 ## Architecture 구조
-일반적으로 다음과 같이 4개의 영역으로 구성된다.
-
+일반적으로 다음과 같이 [[네 개의 영역]]으로 구성된다.
 
 ![[DomainModelPattern.png]]
 

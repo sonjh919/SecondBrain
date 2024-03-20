@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Architecture/DDD/도메인 모델/Domain model 도출.md",
+                "file": "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/DIP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Architecture/DDD/도메인 모델/Domain model 도출.md",
+                "file": "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/DIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Architecture/DDD/도메인 모델/Domain model 도출.md"
+                "file": "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/DIP.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Architecture/DDD/도메인 모델/Domain model 도출.md",
+                "file": "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/DIP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,43 +202,45 @@
   },
   "active": "61045e5ac45f406f",
   "lastOpenFiles": [
-    "1. Project/Architecture/DDD/도메인 모델/Domain Model.md",
-    "1. Project/Architecture/DDD/도메인 모델/Domain model 도출.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/dipcaution2.png",
+    "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/dipcaution1.png",
+    "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/dipex.png",
+    "0. Inbox/끄적끄적.md",
+    "0. Inbox/임시회의록/회의템플릿.md",
+    "0. Inbox/책/책.md",
+    "2. Area/Book/오브젝트/04 설계 품질과 트레이드오프.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/DIP.md",
+    "2. Area/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/계층 구조 아키텍처.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/dependency.png",
+    "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/serviceentityvalue.png",
+    "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/service.png",
+    "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/infrastructure.png",
+    "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Pasted image 20240320231414.png",
+    "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Pasted image 20240320231417.png",
+    "2. Area/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain Model Pattern.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain model 도출.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/1. 도메인 모델/도메인 언어와 유비쿼터스 언어.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain Model.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/4layers.png",
+    "1. Project/Software Pattern/Architecture Pattern/Layered Pattern.md",
+    "Excalidraw/Drawing 2024-03-20 22.40.00.excalidraw.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Entity와 Value.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/1. 도메인 모델/entityvalue.png",
+    "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요",
+    "2. Area/Book/오브젝트/01 객체, 설계.md",
+    "2. Area/Book/도메인 주도 개발 시작하기",
+    "1. Project/JPA/Annotation/Column/@Embedded.md",
+    "1. Project/JPA/데이터 타입/값 타입.md",
+    "1. Project/JPA/데이터 타입/데이터 타입.md",
+    "1. Project/JPA/Annotation/Entity/@Embeddable.md",
     "1. Project/Architecture/DDD/Boris Diagram.md",
     "1. Project/Architecture/DDD/구현 방식.md",
     "1. Project/Architecture/DDD/객체 모델링.md",
-    "1. Project/Architecture/DDD/도메인 모델/Domain.md",
-    "1. Project/Architecture/DDD/도메인 모델/Domain Model Pattern.md",
-    "1. Project/Architecture/DDD/도메인 모델",
+    "2. Area/Book/도메인 주도 개발 시작하기/1. 도메인 모델",
     "1. Project/Architecture/DDD/Event Storming.md",
-    "1. Project/Architecture/DDD/DomainModelPattern.png",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/프로젝션.md",
-    "1. Project/Architecture/DDD/domainmodel2.png",
-    "1. Project/Architecture/DDD/domainmodel1.png",
-    "2. Area/Java API/java.util/Collection/Collection.md",
-    "1. Project/Architecture/DDD/DDD.md",
-    "1. Project/Architecture/DDD/Component.md",
-    "0. Inbox/ddd.md",
-    "2. Area/Java API/java.lang/java.lang.md",
-    "0. Inbox/동시성 제어.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/JOIN.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/기본 문법.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/Named 정적 쿼리.md",
-    "1. Project/JPA/Annotation/Entity/@NamedQuery.md",
-    "1. Project/JPA/Annotation/Spring Data JPA/@Query.md",
-    "1. Project/JPA/Annotation/Spring Data JPA/@Modifying.md",
-    "2. Area/Java API/java.lang/record.md",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/검색 조건 쿼리.md",
-    "1. Project/JPA/Annotation/연관관계/@JoinTable.md",
-    "1. Project/JPA/Annotation/Id/@GeneratedValue.md",
-    "4. Archive/img/JPA/springdataproject.png",
-    "4. Archive/img/Architecture/layeredPattern.png",
-    "4. Archive/img/Software Pattern/controllers.png",
-    "4. Archive/img/Software Pattern/mvc.png",
-    "4. Archive/img/Software Pattern/mv.png",
-    "4. Archive/img/Software Pattern/mvcall.png",
-    "4. Archive/img/Software Pattern/mvclanguage.png",
     "4. Archive/img/Software Pattern",
     "1. Project/Software Pattern",
     "1. Project/Software Pattern/Architecture Pattern",
@@ -246,8 +248,6 @@
     "1. Project/Architecture/Web System Architecture",
     "1. Project/Architecture/DDD",
     "4. Archive/img/Architecture",
-    "1. Project/Architecture",
-    "welcome",
     "Project/무제 파일.canvas"
   ]
 }

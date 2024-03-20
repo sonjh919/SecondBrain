@@ -1,4 +1,4 @@
-#Architecture #DDD
+#Architecture #DDD #개발서적 
 
 ## Domain Model
 도메인 모델에는 다양한 정의가 존재하는데, 기본적으로는 **특정 [[Domain]]을 개념적으로 표현한 것**이다.
