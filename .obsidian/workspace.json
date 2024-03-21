@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Docker/프로세스 격리.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "left join",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/Docker/프로세스 격리.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/Docker/프로세스 격리.md"
+                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md"
               }
             }
           },
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/Docker/프로세스 격리.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,6 +203,10 @@
   },
   "active": "e0ee3ef9802c0a98",
   "lastOpenFiles": [
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
+    "1. Project/JPA/Annotation/연관관계/@JoinTable.md",
+    "1. Project/JPA/Annotation/Column/@CollectionTable.md",
+    "2. Area/Docker/프로세스 격리.md",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/도메인 구현과 DIP.md",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/모듈 위치.md",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/Aggregate의 영속성.md",
@@ -229,10 +234,6 @@
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑",
     "1. Project/JPA/Annotation/Column/@EmbeddedId.md",
     "1. Project/JPA/프록시/컬렉션 래퍼.md",
-    "1. Project/JPA/Annotation/Column/@CollectionTable.md",
-    "1. Project/JPA/Annotation/Column/@ElementCollection.md",
-    "1. Project/JPA/Annotation/Entity/@Embeddable.md",
-    "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/DIP.md",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/moduleposition.png",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/mn.png",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현",
