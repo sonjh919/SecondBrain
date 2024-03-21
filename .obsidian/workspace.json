@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate 루트.md",
+                "file": "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/ID를 이용한 Aggregate 참조.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate 루트.md",
+                "file": "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/ID를 이용한 Aggregate 참조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate 루트.md"
+                "file": "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/ID를 이용한 Aggregate 참조.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate 루트.md",
+                "file": "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/ID를 이용한 Aggregate 참조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,16 @@
   },
   "active": "61045e5ac45f406f",
   "lastOpenFiles": [
-    "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/rootentity.png",
+    "1. Project/JPA/프록시/즉시 로딩.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/ID를 이용한 Aggregate 참조.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate 루트.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/Repository와 Aggregate.md",
+    "4. Archive/img/Book/도메인 주도 개발 시작하기/rootentity.png",
+    "4. Archive/img/Book/도메인 주도 개발 시작하기/aggregateline.png",
+    "4. Archive/img/Book/도메인 주도 개발 시작하기/module1.png",
+    "1. Project/Architecture/DDD/Component.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain Model.md",
+    "1. Project/Architecture/DDD/Event Storming.md",
     "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Repository.md",
     "2. Area/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Entity와 Value.md",
     "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/DIP.md",
@@ -211,18 +220,14 @@
     "2. Area/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain Model Pattern.md",
     "2. Area/Book/도메인 주도 개발 시작하기/1. 도메인 모델/도메인 언어와 유비쿼터스 언어.md",
     "2. Area/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain model 도출.md",
-    "2. Area/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain Model.md",
     "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Aggregate.md",
-    "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate 루트.md",
     "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate.md",
-    "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/aggregateline.png",
-    "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/aggregateorder2.png",
-    "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/aggregateorder1.png",
+    "4. Archive/img/Book/도메인 주도 개발 시작하기/aggregateorder2.png",
+    "4. Archive/img/Book/도메인 주도 개발 시작하기/aggregateorder1.png",
     "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md",
     "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/모듈 구성.md",
     "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트",
-    "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/module2.png",
-    "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/module1.png",
+    "4. Archive/img/Book/도메인 주도 개발 시작하기/module2.png",
     "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/계층 구조 아키텍처.md",
     "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/아키텍처 구조/Presentation.md",
     "0. Inbox/ddd.md",
@@ -231,15 +236,10 @@
     "2. Area/Database/RDB/SQL/함수/윈도우 함수 옵션.md",
     "2. Area/Database/RDB/SQL/함수/함수.md",
     "2. Area/Database/RDB/SQL/함수/소계(총계) 함수.md",
-    "2. Area/Database/RDB/SQL/함수/NULL 처리 함수.md",
-    "2. Area/Database/RDB/SQL/함수/OVER.md",
-    "2. Area/Database/RDB/SQL/Query/SubQuery.md",
-    "2. Area/Database/RDB/SQL/Query/Top-N Query.md",
     "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/아키텍처 구조",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/repository.png",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/dipmodule.png",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/aggregate.png",
-    "4. Archive/img/Book/도메인 주도 개발 시작하기/aggregate2.png",
     "4. Archive/img/Book/도메인 주도 개발 시작하기",
     "4. Archive/img/Book",
     "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요",

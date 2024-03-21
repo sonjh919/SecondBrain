@@ -51,7 +51,7 @@ Event Storming을 진행하기 전에 먼저 Component의 종류에 대해서 �
 
 ![[actor.png]]
 
-### 6. Aggregate
+### 6. [[2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Aggregate|Aggregate]]
  + 비즈니스 로직 처리의 **도메인 객체 덩어리**이다.
  + 유저 인터페이스를 통해 데이터를 소비하고 명령을 실행하여 시스템과 상호 작용한다.
  + 한 Aggregate가 하나의 git repository가 되고, 여러 개의 git reopsitory가 통신하여 하나의 MSA 아키텍쳐를 구성할 것이다.
@@ -84,5 +84,5 @@ Event Storming을 진행하기 전에 먼저 Component의 종류에 대해서 �
 ![[snapE.png]]
 
 ### 11. 개념 수준의 객체 모델
-+ [[객체 모델링]]을 하고 ,Boris Diagram과 함께 개발을 시작하면 된다!
++ 객체 모델링([[Domain Model]])을 하고 ,Boris Diagram과 함께 개발을 시작하면 된다!
 ![[modeling.png]]
