@@ -56,7 +56,7 @@ Event Storming을 진행하기 전에 먼저 Component의 종류에 대해서 �
  + 유저 인터페이스를 통해 데이터를 소비하고 명령을 실행하여 시스템과 상호 작용한다.
  + 한 Aggregate가 하나의 git repository가 되고, 여러 개의 git reopsitory가 통신하여 하나의 MSA 아키텍쳐를 구성할 것이다.
 
-![[Aggregate.png]]
+![[4. Archive/img/Architecture/Aggregate.png]]
 
 ### 7. Bounded Context Deduction
 + 같은 Aggregate끼리 묶는다.

@@ -43,3 +43,41 @@ public class Order{
 	private OrderNo id;
 }
 ```
+
+---
+
+## 도메인 모델 엔티티 vs RDBMS 엔티티
+**실제 도메인 모델의 엔티티와 DB 관계형 모델의 엔티티는 같은 것이 아니다.**
+### 1. 기능 도메인 기능 제공
+도메인 모델의 엔티티는 데이터와 함께 도메인 기능을 함께 제공한다. 단순히 데이터를 담고 있는 데이터 구조라기보다는 데이터와 함께 기능을 제공하는 객체이다.
+
+> [!example]+ 
+> 주문 엔티티는 주문과 관련된 데이터뿐만 아니라 배송지 주소 변경을 위한 기능도 함께 제공한다.
+> 
+```java
+public class Order{  
+    // 주문 도메인 모델의 데이터  
+    private OrderNo number;  
+    private Orderer orderer;  
+    private ShippingInfo shippingInfo;  
+    ...  
+      
+    // 도메인 모델 엔티티는 도메인 기능도 함께 제공  
+    public void changeShippingInfo(ShippingInfo newShippingInfo) {  
+        ...  
+    }  
+      
+}
+```
+
+### 2. 밸류 타입의 표현
+또 다른 차이점은 도메인 모델의 엔티티는 두 개 이상의 데이터가 개념적으로 하나인 경우, 밸류 타입을 이용하여 표현할 수 있다는 것이다.
+
+```java
+public class Orderer {
+	private String name;
+	private String email;
+}
+```
+
+RDBMS와 같은 관계형 데이터베이스는 밸류 타입을 제대로 표현하기 힘들다. 별도의 테이블에 저장해도 이것은 엔티티에 가까우며 밸류 타입의 의미가 드러나지는 않는다.
