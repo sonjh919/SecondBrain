@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Database/RDB/SQL/Query/SubQuery.md",
+                "file": "0. Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "서브쿼리",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/Database/RDB/SQL/Query/SubQuery.md",
+                "file": "0. Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/Database/RDB/SQL/Query/SubQuery.md"
+                "file": "0. Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md"
               }
             }
           },
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/Database/RDB/SQL/Query/SubQuery.md",
+                "file": "0. Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,6 +202,7 @@
   },
   "active": "e0ee3ef9802c0a98",
   "lastOpenFiles": [
+    "2. Area/Database/RDB/SQL/Query/SubQuery.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/쿼리 타입 Q.md",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/Aggregate의 영속성.md",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/기본 생성자.md",
@@ -229,7 +229,6 @@
     "2. Area/Docker/프로세스 격리.md",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/도메인 구현과 DIP.md",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/무제 폴더",
-    "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/AttributeConverter를 이용한 밸류 매핑 처리.md",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/valuemapping 1.png",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/컬렉션 매핑",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/valuemapping.png",
