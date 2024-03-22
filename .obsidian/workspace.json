@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/별도 테이블에 저장하는 밸류 매핑.md",
+                "file": "1. Project/Software Pattern/Design Pattern/Facade Pattern.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/별도 테이블에 저장하는 밸류 매핑.md",
+                "file": "1. Project/Software Pattern/Design Pattern/Facade Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/별도 테이블에 저장하는 밸류 매핑.md"
+                "file": "1. Project/Software Pattern/Design Pattern/Facade Pattern.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/별도 테이블에 저장하는 밸류 매핑.md",
+                "file": "1. Project/Software Pattern/Design Pattern/Facade Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,8 +200,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "e0ee3ef9802c0a98",
   "lastOpenFiles": [
+    "1. Project/Software Pattern/Design Pattern/Design Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Facade Pattern.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/응용 서비스의 역할.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/표현 영역과 응용 영역.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/domainconnect.png",
+    "2. Area/Book/도메인 주도 개발 시작하기/5. Spring Data JPA를 이용한 조회 기능/검색을 위한 스펙.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역",
+    "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/Aggregate의 영속성.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/컬렉션 매핑/별도 테이블 매핑(컬렉션).md",
+    "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/별도 테이블에 저장하는 밸류 매핑.md",
     "2. Area/Book/도메인 주도 개발 시작하기/5. Spring Data JPA를 이용한 조회 기능",
     "2. Area/Docker/이미지.md",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/valuemapping.png",
@@ -210,14 +221,11 @@
     "0. Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
     "2. Area/Database/RDB/SQL/Query/SubQuery.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/쿼리 타입 Q.md",
-    "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/Aggregate의 영속성.md",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/기본 생성자.md",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/모듈 위치.md",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/밸류를 이용한 아이디 매핑.md",
-    "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/별도 테이블에 저장하는 밸류 매핑.md",
     "1. Project/JPA/Annotation/Entity/@AttributeOverride.md",
     "1. Project/JPA/Annotation/Column/@ElementCollection.md",
-    "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/컬렉션 매핑/별도 테이블 매핑(컬렉션).md",
     "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate.md",
     "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate간 집합 연관.md",
     "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate 루트.md",
@@ -225,11 +233,6 @@
     "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/Repository와 Aggregate.md",
     "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/ID를 이용한 Aggregate 참조.md",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/컬렉션 매핑/Entity로 매핑(컬렉션).md",
-    "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/컬렉션 매핑/한 개 칼럼 매핑(컬렉션).md",
-    "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/엔티티와 밸류 매핑.md",
-    "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/필드 접근 방식.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/무제 폴더",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/valuemapping 1.png",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/컬렉션 매핑",
@@ -241,13 +244,10 @@
     "4. Archive/img/Book/도메인 주도 개발 시작하기/repoaggregate.png",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/rootentity.png",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/aggregateline.png",
-    "4. Archive/img/Book/도메인 주도 개발 시작하기/module1.png",
     "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트",
     "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/아키텍처 구조",
     "4. Archive/img/Book/도메인 주도 개발 시작하기",
     "4. Archive/img/Book",
-    "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요",
-    "2. Area/Book/도메인 주도 개발 시작하기",
     "Project/무제 파일.canvas"
   ]
 }
