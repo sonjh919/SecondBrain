@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Software Pattern/Design Pattern/Facade Pattern.md",
+                "file": "2. Area/Book/도메인 주도 개발 시작하기/7. 도메인 서비스/도메인 서비스.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Software Pattern/Design Pattern/Facade Pattern.md",
+                "file": "2. Area/Book/도메인 주도 개발 시작하기/7. 도메인 서비스/도메인 서비스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Software Pattern/Design Pattern/Facade Pattern.md"
+                "file": "2. Area/Book/도메인 주도 개발 시작하기/7. 도메인 서비스/도메인 서비스.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Software Pattern/Design Pattern/Facade Pattern.md",
+                "file": "2. Area/Book/도메인 주도 개발 시작하기/7. 도메인 서비스/도메인 서비스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,10 +202,21 @@
   },
   "active": "e0ee3ef9802c0a98",
   "lastOpenFiles": [
-    "1. Project/Software Pattern/Design Pattern/Design Pattern.md",
-    "1. Project/Software Pattern/Design Pattern/Facade Pattern.md",
-    "2. Area/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/응용 서비스의 역할.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/7. 도메인 서비스/여러 애그리거트가 필요한 기능.md",
+    "Excalidraw/Drawing 2024-03-18 12.12.53.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-20 22.40.00.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md",
+    "Excalidraw/Pasted Image 20240206104212_402.png",
+    "Excalidraw/Pasted Image 20240206103905_382.png",
+    "Excalidraw/Pasted Image 20240206103748_207.png",
+    "2. Area/Book/도메인 주도 개발 시작하기/7. 도메인 서비스/도메인 서비스.md",
     "2. Area/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/표현 영역과 응용 영역.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/표현 영역.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/7. 도메인 서비스",
+    "2. Area/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/응용 서비스의 역할.md",
+    "2. Area/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/응용 서비스 구현.md",
+    "1. Project/Software Pattern/Design Pattern/Facade Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Design Pattern.md",
     "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
     "2. Area/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/domainconnect.png",
     "2. Area/Book/도메인 주도 개발 시작하기/5. Spring Data JPA를 이용한 조회 기능/검색을 위한 스펙.md",
@@ -226,13 +237,6 @@
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/밸류를 이용한 아이디 매핑.md",
     "1. Project/JPA/Annotation/Entity/@AttributeOverride.md",
     "1. Project/JPA/Annotation/Column/@ElementCollection.md",
-    "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate.md",
-    "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate간 집합 연관.md",
-    "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate 루트.md",
-    "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate를 팩토리로 사용하기.md",
-    "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/Repository와 Aggregate.md",
-    "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/ID를 이용한 Aggregate 참조.md",
-    "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/컬렉션 매핑/Entity로 매핑(컬렉션).md",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/무제 폴더",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/valuemapping 1.png",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/컬렉션 매핑",
@@ -241,13 +245,9 @@
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현",
     "1. Project/Software Pattern/Design Pattern/Pasted image 20240321145725.png",
     "1. Project/Software Pattern/Design Pattern/factorymethod.png",
-    "4. Archive/img/Book/도메인 주도 개발 시작하기/repoaggregate.png",
-    "4. Archive/img/Book/도메인 주도 개발 시작하기/rootentity.png",
-    "4. Archive/img/Book/도메인 주도 개발 시작하기/aggregateline.png",
     "2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트",
     "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/아키텍처 구조",
     "4. Archive/img/Book/도메인 주도 개발 시작하기",
-    "4. Archive/img/Book",
     "Project/무제 파일.canvas"
   ]
 }
