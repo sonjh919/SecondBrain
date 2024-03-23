@@ -87,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Area/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/Aggregate와 Transaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Area/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/Aggregate와 Transaction.md"
+              }
             }
           },
           {
@@ -138,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Area/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/Aggregate와 Transaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,8 +200,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fff0c6353c28b71c",
+  "active": "e0ee3ef9802c0a98",
   "lastOpenFiles": [
+    "2. Area/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/aggregatetransaction.png",
     "2. Area/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/Aggregate와 Transaction.md",
     "2. Area/Book/도메인 주도 개발 시작하기/7. 도메인 서비스/여러 애그리거트가 필요한 기능.md",
     "2. Area/Book/도메인 주도 개발 시작하기/5. Spring Data JPA를 이용한 조회 기능/검색을 위한 스펙.md",
@@ -235,7 +240,6 @@
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/기본 생성자.md",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/모듈 위치.md",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/밸류를 이용한 아이디 매핑.md",
-    "1. Project/JPA/Annotation/Entity/@AttributeOverride.md",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/무제 폴더",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/valuemapping 1.png",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/컬렉션 매핑",
