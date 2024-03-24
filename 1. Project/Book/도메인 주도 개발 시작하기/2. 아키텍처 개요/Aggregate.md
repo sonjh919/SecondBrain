@@ -7,7 +7,7 @@
 이 때 도메인 모델에서 전체 구조를 이해하는 데 도움이 되는 것이 바로 애그리거트이다.
 
 > [!tip]+ 
-> 좀 더 구현의 관점에서 보기 : [[2. Area/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate|Aggregate]]
+> 좀 더 구현의 관점에서 보기 : [[1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate|Aggregate]]
 
 ![[4. Archive/img/Book/도메인 주도 개발 시작하기/aggregate.png]]
 
