@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a811e0df4c3cd0f5",
+        "id": "e2fc870431b88a8e",
         "type": "tabs",
         "children": [
           {
-            "id": "e0ee3ef9802c0a98",
+            "id": "c8143bc4e7c0d83d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/5. Spring Data JPA를 이용한 조회 기능/검색을 위한 스펙.md",
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Bounded Context.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/5. Spring Data JPA를 이용한 조회 기능/검색을 위한 스펙.md",
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Bounded Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/5. Spring Data JPA를 이용한 조회 기능/검색을 위한 스펙.md"
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Bounded Context.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/5. Spring Data JPA를 이용한 조회 기능/검색을 위한 스펙.md",
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Bounded Context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,15 +200,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e0ee3ef9802c0a98",
+  "active": "c8143bc4e7c0d83d",
   "lastOpenFiles": [
+    "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/bc1.png",
+    "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/도메인 모델과 경계.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Bounded Context.md",
+    "1. Project/Architecture/DDD/Component.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/boundedcontext.png",
+    "1. Project/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/LockManager 인터페이스.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/오프라인 선점 잠금.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/Aggregate와 Transaction.md",
+    "4. Archive/img/Book/도메인 주도 개발 시작하기/aggregatetransaction.png",
+    "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트",
+    "4. Archive/img/Book/도메인 주도 개발 시작하기/offlinepessimisticlock.png",
+    "1. Project/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/비선점 잠금.md",
+    "4. Archive/img/Book/도메인 주도 개발 시작하기/optimisticlock3.png",
+    "4. Archive/img/Book/도메인 주도 개발 시작하기/optimisticlock2.png",
+    "1. Project/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/선점 잠금.md",
+    "4. Archive/img/Book/도메인 주도 개발 시작하기/optimisticlock.png",
+    "1. Project/JPA/Spring Data JPA/QueryMethod/쿼리 힌트.md",
+    "1. Project/JPA/Annotation/Spring Data JPA/@QueryHints.md",
+    "4. Archive/img/Book/도메인 주도 개발 시작하기/pressimisticlock.png",
+    "1. Project/Architecture/Web System Architecture/Hexagonal architecture.md",
+    "1. Project/Software Pattern/Architecture Pattern/Port Adapter Pattern.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/5. Spring Data JPA를 이용한 조회 기능/검색을 위한 스펙.md",
     "1. Project/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/응용 서비스 구현.md",
     "1. Project/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/응용 서비스의 역할.md",
     "1. Project/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/표현 영역과 응용 영역.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/Aggregate와 Transaction.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/aggregatetransaction.png",
     "1. Project/Book/도메인 주도 개발 시작하기/7. 도메인 서비스/여러 애그리거트가 필요한 기능.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/5. Spring Data JPA를 이용한 조회 기능/검색을 위한 스펙.md",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/domainservice2.png",
     "1. Project/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/domainservice.png",
@@ -217,36 +236,18 @@
     "Excalidraw/Drawing 2024-03-18 12.12.53.excalidraw.md",
     "Excalidraw/Drawing 2024-03-20 22.40.00.excalidraw.md",
     "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md",
-    "Excalidraw/Pasted Image 20240206104212_402.png",
-    "Excalidraw/Pasted Image 20240206103905_382.png",
-    "Excalidraw/Pasted Image 20240206103748_207.png",
     "1. Project/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/표현 영역.md",
     "1. Project/Book/도메인 주도 개발 시작하기/7. 도메인 서비스",
     "1. Project/Software Pattern/Design Pattern/Facade Pattern.md",
     "1. Project/Software Pattern/Design Pattern/Design Pattern.md",
     "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
     "1. Project/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역",
-    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/Aggregate의 영속성.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/컬렉션 매핑/별도 테이블 매핑(컬렉션).md",
-    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/별도 테이블에 저장하는 밸류 매핑.md",
     "1. Project/Book/도메인 주도 개발 시작하기/5. Spring Data JPA를 이용한 조회 기능",
-    "2. Area/Docker/이미지.md",
-    "4. Archive/img/Book/도메인 주도 개발 시작하기/valuemapping.png",
-    "4. Archive/img/Book/도메인 주도 개발 시작하기/moduleposition.png",
-    "2. Area/Docker/컨테이너.md",
-    "0. Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
-    "2. Area/Database/RDB/SQL/Query/SubQuery.md",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/쿼리 타입 Q.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/기본 생성자.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/모듈 위치.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/밸류를 이용한 아이디 매핑.md",
     "2. Area/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/무제 폴더",
-    "4. Archive/img/Book/도메인 주도 개발 시작하기/valuemapping 1.png",
     "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/컬렉션 매핑",
     "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑",
     "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현",
     "1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트",
-    "2. Area/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/아키텍처 구조",
     "Project/무제 파일.canvas"
   ]
 }

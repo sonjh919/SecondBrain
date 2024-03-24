@@ -58,7 +58,7 @@ Event Storming을 진행하기 전에 먼저 Component의 종류에 대해서 �
 
 ![[4. Archive/img/Architecture/Aggregate.png]]
 
-### 7. Bounded Context Deduction
+### 7. [[Bounded Context]] Deduction
 + 같은 Aggregate끼리 묶는다.
 
 ![[BoundedContextDuduction.png]]
