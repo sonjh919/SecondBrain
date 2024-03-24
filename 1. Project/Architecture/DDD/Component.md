@@ -72,7 +72,7 @@ Event Storming을 진행하기 전에 먼저 Component의 종류에 대해서 �
 
 ![[Policy.png]]
 
-### 9. Context Mapping
+### 9. [[Context Mapping]]
 + 지금까지 설계한 것들을 Context 간 Mapping으로 간단하게 나타내면 다음과 같다.
 + MSA로 개발할 경우, [[Boris Diagram]]을 이용하여 Context Mapping을 하게 된다. 만약 Mono를 사용할 것이라면, 바로 Snap-E를 정의하고 개념 수준의 객체 모델링으로 넘어가면 된다.
 
