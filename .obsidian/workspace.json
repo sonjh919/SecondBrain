@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e2fc870431b88a8e",
+        "id": "88bb8b20118ee865",
         "type": "tabs",
         "children": [
           {
-            "id": "c8143bc4e7c0d83d",
+            "id": "2c46ee6799ef5cc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/11. CQRS/CQRS.md",
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/시스템 간 강결합 문제.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/11. CQRS/CQRS.md",
+                "file": "0. Inbox/ddd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/11. CQRS/CQRS.md"
+                "file": "0. Inbox/ddd.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/11. CQRS/CQRS.md",
+                "file": "0. Inbox/ddd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,46 +200,85 @@
       "periodic-notes:Open today": false
     }
   },
+  "floating": {
+    "id": "7c4c82a8a9202ecf",
+    "type": "floating",
+    "children": [
+      {
+        "id": "78705380842d313a",
+        "type": "window",
+        "children": [
+          {
+            "id": "fd1f7c322aac190b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c8143bc4e7c0d83d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0. Inbox/ddd.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1328,
+        "y": 65,
+        "width": 1245,
+        "height": 1000,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "c8143bc4e7c0d83d",
   "lastOpenFiles": [
+    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/시스템 간 강결합 문제.md",
+    "0. Inbox/ddd.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/동기 이벤트 처리 문제.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/모듈 구성.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/모듈 위치.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/도메인 구현과 DIP.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/기본 생성자.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/AttributeConverter를 이용한 밸류 매핑 처리.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/엔티티와 밸류 매핑.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/필드 접근 방식.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/Aggregate의 영속성.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate를 팩토리로 사용하기.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate간 집합 연관.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Aggregate.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/DIP.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Repository.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate 루트.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/계층 구조 아키텍처.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
+    "0. Inbox/하고싶은거.md",
+    "0. Inbox/끄적끄적.md",
+    "0. Inbox/임시회의록/회의템플릿.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain.md",
+    "1. Project/Spring/세팅/application.properties.md",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/cqrs1.png",
-    "1. Project/Book/도메인 주도 개발 시작하기/11. CQRS/CQRS.md",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/cqrs2.png",
-    "1. Project/Book/도메인 주도 개발 시작하기/11. CQRS/단일 모델의 단점.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/ID를 이용한 Aggregate 참조.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/이벤트 적용 시 추가 고려 사항.md",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/event5.png",
     "1. Project/Book/도메인 주도 개발 시작하기/11. CQRS",
-    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/시스템 간 강결합 문제.md",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/event1.png",
-    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트/비동기 이벤트 처리.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트/이벤트 저장소와 이벤트 포워더.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트/이벤트 제공 API.md",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/event7.png",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/event6.png",
-    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트/Message Queue.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트/로컬 핸들러를 비동기로 실행.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/이벤트.md",
     "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트",
-    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/동기 이벤트 처리 문제.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/이벤트, 핸들러, 디스패처 구현.md",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/event4.png",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/event3.png",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/event2.png",
-    "1. Project/Architecture/Web System Architecture/Monolithic.md",
-    "1. Project/Architecture/Web System Architecture/Web System Architecture.md",
-    "2. Area/Java API/java.util/function.md",
-    "2. Area/JAVA/모던 자바/함수형 인터페이스.md",
-    "2. Area/JAVA/클래스&객체/제네릭.md",
-    "3. Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기/이벤트.md",
-    "3. Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기/Lesson 1 - 좀비 공장 만들기.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Context Mapping.md",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/bc10.png",
     "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트",
-    "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Bounded Context 간 관계.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Bounded Context 간 통합.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Bounded Context 구현.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Bounded Context.md",
     "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트",
     "1. Project/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리",
     "1. Project/Book/도메인 주도 개발 시작하기/7. 도메인 서비스",
