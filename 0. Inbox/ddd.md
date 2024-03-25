@@ -36,6 +36,7 @@ com.myshop.Order
 		ㄴ Orderer(Entity)
 		ㄴ Address(Value)
 	ㄴ JpaOrderRepository(구현체)
+	ㄴ querydsl/elasticsearch/elasticcache/redis등등
 ㄴ global 
 	ㄴ common
 		ㄴ event
