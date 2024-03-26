@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md",
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain Model.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "주요 구성",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md",
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md"
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain Model.md"
               }
             }
           },
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md",
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,6 +215,8 @@
   },
   "active": "0199241f663711f3",
   "lastOpenFiles": [
+    "1. Project/Architecture/DDD/Component.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md",
     "1. Project/Book/도메인 주도 개발 시작하기/MOC.md",
     "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트/로컬 핸들러를 비동기로 실행.md",
     "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트/비동기 이벤트 처리.md",
@@ -227,7 +228,6 @@
     "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/컬렉션 매핑/별도 테이블 매핑(컬렉션).md",
     "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/엔티티와 밸류 매핑.md",
     "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/필드 접근 방식.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md",
     "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Aggregate.md",
     "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/모듈 구성.md",
     "1. Project/Book/도메인 주도 개발 시작하기/5. Spring Data JPA를 이용한 조회 기능/검색을 위한 스펙.md",
@@ -242,7 +242,6 @@
     "1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate를 팩토리로 사용하기.md",
     "1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate간 집합 연관.md",
     "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/DIP.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Repository.md",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/cqrs1.png",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/cqrs2.png",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/event5.png",
