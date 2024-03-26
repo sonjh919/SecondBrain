@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Architecture/DDD/Component.md",
+                "file": "0. Inbox/임시회의록/회의템플릿.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Architecture/DDD/Component.md",
+                "file": "0. Inbox/임시회의록/회의템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Architecture/DDD/Component.md"
+                "file": "0. Inbox/임시회의록/회의템플릿.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Architecture/DDD/Component.md",
+                "file": "0. Inbox/임시회의록/회의템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,6 +215,12 @@
   },
   "active": "0199241f663711f3",
   "lastOpenFiles": [
+    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/시스템 간 강결합 문제.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/동기 이벤트 처리 문제.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Bounded Context 간 관계.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Context Mapping.md",
+    "1. Project/Architecture/DDD/Component.md",
+    "1. Project/Architecture/DDD/Boris Diagram.md",
     "0. Inbox/하고싶은거.md",
     "0. Inbox/동시성 제어.md",
     "0. Inbox/코테.md",
@@ -237,12 +243,6 @@
     "1. Project/Software Pattern/Architecture Pattern/Layered Pattern.md",
     "1. Project/Software Pattern/Architecture Pattern/Front Controller Pattern.md",
     "1. Project/Software Pattern/Architecture Pattern/Architecture Pattern.md",
-    "1. Project/Software Pattern/Architecture Pattern/MVC Pattern.md",
-    "0. Inbox/대용량트래픽/대용량 트래픽.md",
-    "0. Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain Model.md",
-    "1. Project/Architecture/DDD/Component.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md",
     "1. Project/Book/도메인 주도 개발 시작하기/5. Spring Data JPA를 이용한 조회 기능",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/cqrs1.png",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/cqrs2.png",
