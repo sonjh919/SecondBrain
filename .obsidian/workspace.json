@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain Model.md",
+                "file": "1. Project/Software Pattern/Design Pattern/Design Pattern.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain Model.md",
+                "file": "1. Project/Software Pattern/Design Pattern/Design Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain Model.md"
+                "file": "1. Project/Software Pattern/Design Pattern/Design Pattern.md"
               }
             }
           },
@@ -154,14 +154,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain Model.md",
+                "file": "1. Project/Software Pattern/Design Pattern/Design Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "06bca203602d61c1",
@@ -215,6 +215,24 @@
   },
   "active": "0199241f663711f3",
   "lastOpenFiles": [
+    "1. Project/Software Pattern/Design Pattern/Adapter Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Design Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Facade Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Factory Method Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Proxy Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Singleton Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Strategy Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Decorator Pattern.md",
+    "1. Project/Software Pattern/Architecture Pattern/Port Adapter Pattern.md",
+    "1. Project/Software Pattern/Architecture Pattern/Layered Pattern.md",
+    "1. Project/Software Pattern/Architecture Pattern/Front Controller Pattern.md",
+    "1. Project/Software Pattern/Architecture Pattern/Architecture Pattern.md",
+    "1. Project/Software Pattern/Architecture Pattern/MVC Pattern.md",
+    "0. Inbox/대용량트래픽/대용량 트래픽.md",
+    "0. Inbox/임시회의록/회의템플릿.md",
+    "0. Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
+    "0. Inbox/책/책.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain Model.md",
     "1. Project/Architecture/DDD/Component.md",
     "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md",
     "1. Project/Book/도메인 주도 개발 시작하기/MOC.md",
@@ -223,25 +241,7 @@
     "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/이벤트 적용 시 추가 고려 사항.md",
     "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Bounded Context 간 통합.md",
     "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/모듈 위치.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/Aggregate의 영속성.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/도메인 구현과 DIP.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/컬렉션 매핑/별도 테이블 매핑(컬렉션).md",
-    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/엔티티와 밸류 매핑.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/필드 접근 방식.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Aggregate.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/모듈 구성.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/5. Spring Data JPA를 이용한 조회 기능/검색을 위한 스펙.md",
     "1. Project/Book/도메인 주도 개발 시작하기/5. Spring Data JPA를 이용한 조회 기능",
-    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/시스템 간 강결합 문제.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/1. 도메인 모델/도메인 언어와 유비쿼터스 언어.md",
-    "0. Inbox/ddd.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/동기 이벤트 처리 문제.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/기본 생성자.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/AttributeConverter를 이용한 밸류 매핑 처리.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate를 팩토리로 사용하기.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate간 집합 연관.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/DIP.md",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/cqrs1.png",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/cqrs2.png",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/event5.png",
