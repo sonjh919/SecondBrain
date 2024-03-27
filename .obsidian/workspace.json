@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/시스템 간 강결합 문제.md",
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/엔티티와 밸류 매핑.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/시스템 간 강결합 문제.md",
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/엔티티와 밸류 매핑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/시스템 간 강결합 문제.md"
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/엔티티와 밸류 매핑.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/시스템 간 강결합 문제.md",
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/엔티티와 밸류 매핑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,6 +215,7 @@
   },
   "active": "0199241f663711f3",
   "lastOpenFiles": [
+    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/시스템 간 강결합 문제.md",
     "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/이벤트.md",
     "1. Project/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Entity와 Value.md",
     "1. Project/JPA/Annotation/Column/@Embedded.md",
@@ -243,7 +244,6 @@
     "1. Project/Book/도메인 주도 개발 시작하기/7. 도메인 서비스/도메인 서비스.md",
     "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Bounded Context 간 관계.md",
     "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Context Mapping.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트/Message Queue.md",
     "1. Project/Monitoring/Actuator",
     "1. Project/Monitoring",
     "1. Project/Book/도메인 주도 개발 시작하기/5. Spring Data JPA를 이용한 조회 기능",
