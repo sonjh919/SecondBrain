@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
+                "file": "2. Area/Database/DataBase.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
+                "file": "2. Area/Database/DataBase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md"
+                "file": "2. Area/Database/DataBase.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
+                "file": "2. Area/Database/DataBase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,15 +215,21 @@
   },
   "active": "0199241f663711f3",
   "lastOpenFiles": [
+    "2. Area/Database/Pasted image 20240327095613.png",
+    "2. Area/Database/Pasted image 20240327095530.png",
+    "2. Area/Database/Pasted image 20240327095507.png",
+    "1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/Repository와 Aggregate.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/ID를 이용한 Aggregate 참조.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate를 팩토리로 사용하기.md",
+    "1. Project/Software Pattern/Design Pattern/Factory Method Pattern.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate간 집합 연관.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate 루트.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
     "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/모듈 구성.md",
     "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/DIP.md",
     "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Repository.md",
     "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate 루트.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate간 집합 연관.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/ID를 이용한 Aggregate 참조.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate를 팩토리로 사용하기.md",
     "1. Project/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/표현 영역과 응용 영역.md",
     "1. Project/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/응용 서비스 구현.md",
     "1. Project/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/응용 서비스의 역할.md",
@@ -237,10 +243,6 @@
     "1. Project/Architecture/Web System Architecture/SOA.md",
     "1. Project/Architecture/Web System Architecture/Web System Architecture.md",
     "0. Inbox/임시회의록/회의템플릿.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/시스템 간 강결합 문제.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/동기 이벤트 처리 문제.md",
-    "1. Project/Architecture/DDD/Component.md",
-    "1. Project/Architecture/DDD/Boris Diagram.md",
     "1. Project/Monitoring/Actuator",
     "1. Project/Monitoring",
     "1. Project/Book/도메인 주도 개발 시작하기/5. Spring Data JPA를 이용한 조회 기능",
@@ -254,8 +256,6 @@
     "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/event4.png",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/event3.png",
-    "4. Archive/img/Book/도메인 주도 개발 시작하기/event2.png",
-    "4. Archive/img/Book/도메인 주도 개발 시작하기/bc10.png",
     "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트",
     "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트",
     "1. Project/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리",
