@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md",
+                "file": "1. Project/Architecture/DDD/Component.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "policy",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md",
+                "file": "1. Project/Architecture/DDD/Component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md"
+                "file": "1. Project/Architecture/DDD/Component.md"
               }
             }
           },
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md",
+                "file": "1. Project/Architecture/DDD/Component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,8 +201,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2c46ee6799ef5cc2",
+  "active": "e6d2440fd7f079b9",
   "lastOpenFiles": [
+    "1. Project/Monitoring/Actuator/Actuator.md",
+    "1. Project/Monitoring/Actuator/Actuator Endpoint.md",
+    "1. Project/Monitoring/Monitoring.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/엔티티와 밸류 매핑.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/AttributeConverter를 이용한 밸류 매핑 처리.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/별도 테이블에 저장하는 밸류 매핑.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/도메인 구현과 DIP.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/모듈 위치.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/밸류를 이용한 아이디 매핑.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md",
     "2. Area/Database/RDB/SQL/정규화/3정규화전.png",
     "2. Area/Database/RDB/SQL/정규화/3정규화후.png",
     "2. Area/Database/Pasted image 20240327095507.png",
@@ -216,7 +227,6 @@
     "1. Project/JPA/Mapping/상속 관계/조인 전략.md",
     "2. Area/Database/RDB/SQL/정규화",
     "1. Project/Software Pattern/Architecture Pattern/Front Controller Pattern.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/엔티티와 밸류 매핑.md",
     "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/시스템 간 강결합 문제.md",
     "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/이벤트.md",
     "1. Project/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Entity와 Value.md",
@@ -229,14 +239,6 @@
     "1. Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate 루트.md",
     "0. Inbox/임시회의록/회의템플릿.md",
     "0. Inbox/책/책.md",
-    "2. Area/Database/DataBase.md",
-    "1. Project/Software Pattern/Design Pattern/Factory Method Pattern.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/모듈 구성.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/DIP.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Repository.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/표현 영역과 응용 영역.md",
     "1. Project/Monitoring/Actuator",
     "1. Project/Monitoring",
     "1. Project/Book/도메인 주도 개발 시작하기/5. Spring Data JPA를 이용한 조회 기능",
