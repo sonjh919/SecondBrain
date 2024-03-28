@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0199241f663711f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/엔티티와 밸류 매핑.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2c46ee6799ef5cc2",
             "type": "leaf",
             "state": {
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/엔티티와 밸류 매핑.md",
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/엔티티와 밸류 매핑.md"
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md"
               }
             }
           },
@@ -154,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/엔티티와 밸류 매핑.md",
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,8 +200,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0199241f663711f3",
+  "active": "2c46ee6799ef5cc2",
   "lastOpenFiles": [
+    "2. Area/Database/RDB/SQL/정규화/3정규화전.png",
+    "2. Area/Database/RDB/SQL/정규화/3정규화후.png",
+    "2. Area/Database/Pasted image 20240327095507.png",
+    "2. Area/Database/Pasted image 20240327095530.png",
+    "2. Area/Database/Pasted image 20240327095613.png",
+    "2. Area/Database/RDB/SQL/정규화/정규화.md",
+    "2. Area/Database/RDB/SQL/정규화/2정규화후.png",
+    "2. Area/Database/RDB/SQL/정규화/2정규화전.png",
+    "2. Area/Database/RDB/SQL/정규화/1정규화후.png",
+    "2. Area/Database/RDB/SQL/정규화/1정규화전.png",
+    "2. Area/Database/RDB/TABLE.md",
+    "1. Project/JPA/Mapping/상속 관계/조인 전략.md",
+    "2. Area/Database/RDB/SQL/정규화",
+    "1. Project/Software Pattern/Architecture Pattern/Front Controller Pattern.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/엔티티와 밸류 매핑.md",
     "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/시스템 간 강결합 문제.md",
     "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/이벤트.md",
     "1. Project/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Entity와 Value.md",
@@ -228,9 +230,6 @@
     "0. Inbox/임시회의록/회의템플릿.md",
     "0. Inbox/책/책.md",
     "2. Area/Database/DataBase.md",
-    "2. Area/Database/Pasted image 20240327095613.png",
-    "2. Area/Database/Pasted image 20240327095530.png",
-    "2. Area/Database/Pasted image 20240327095507.png",
     "1. Project/Software Pattern/Design Pattern/Factory Method Pattern.md",
     "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
     "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/모듈 구성.md",
@@ -238,29 +237,16 @@
     "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Repository.md",
     "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md",
     "1. Project/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/표현 영역과 응용 영역.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/응용 서비스 구현.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/응용 서비스의 역할.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/7. 도메인 서비스/여러 애그리거트가 필요한 기능.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/7. 도메인 서비스/도메인 서비스.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Bounded Context 간 관계.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Context Mapping.md",
     "1. Project/Monitoring/Actuator",
     "1. Project/Monitoring",
     "1. Project/Book/도메인 주도 개발 시작하기/5. Spring Data JPA를 이용한 조회 기능",
     "4. Archive/img/Book/도메인 주도 개발 시작하기/cqrs1.png",
-    "4. Archive/img/Book/도메인 주도 개발 시작하기/cqrs2.png",
-    "4. Archive/img/Book/도메인 주도 개발 시작하기/event5.png",
     "1. Project/Book/도메인 주도 개발 시작하기/11. CQRS",
-    "4. Archive/img/Book/도메인 주도 개발 시작하기/event1.png",
-    "4. Archive/img/Book/도메인 주도 개발 시작하기/event7.png",
-    "4. Archive/img/Book/도메인 주도 개발 시작하기/event6.png",
     "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트",
-    "4. Archive/img/Book/도메인 주도 개발 시작하기/event4.png",
     "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트",
     "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트",
     "1. Project/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리",
     "1. Project/Book/도메인 주도 개발 시작하기/7. 도메인 서비스",
-    "1. Project/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역",
     "Project/무제 파일.canvas"
   ]
 }

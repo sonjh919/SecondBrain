@@ -1,14 +1,3 @@
----
-title: TABLE
-date: 2023-12-22 11:44
-categories:
-  - DataBase
-tags:
-  - DataBase
-  - RDB
-image: 
-path:
----
 #DataBase #RDB 
 
 ## TABLE
