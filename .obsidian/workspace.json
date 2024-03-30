@@ -11,12 +11,9 @@
             "id": "2c46ee6799ef5cc2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/7. 도메인 서비스/도메인 서비스.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "0. Inbox/Pasted image 20240330105649.png"
               }
             }
           }
@@ -49,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "도메인 서비스",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/7. 도메인 서비스/도메인 서비스.md",
+                "file": "0. Inbox/Pasted image 20240330105649.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/7. 도메인 서비스/도메인 서비스.md"
+                "file": "0. Inbox/Pasted image 20240330105649.png"
               }
             }
           },
@@ -142,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/7. 도메인 서비스/도메인 서비스.md",
+                "file": "0. Inbox/Pasted image 20240330105649.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,15 +197,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2c46ee6799ef5cc2",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
+    "0. Inbox/Pasted image 20240329202146.png",
+    "0. Inbox/Pasted image 20240330105649.png",
+    "0. Inbox/Pasted image 20240329191336.png",
+    "0. Inbox/무제 파일.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/7. 도메인 서비스/도메인 서비스.md",
     "2. Area/Java API/java.lang/record.md",
     "2. Area/Java API/java.lang/java.lang.md",
     "1. Project/Software Pattern/Design Pattern/Factory Method Pattern.md",
     "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
-    "0. Inbox/Pasted image 20240329191336.png",
-    "0. Inbox/무제 파일.md",
-    "0. Inbox/Pasted image 20240329202146.png",
     "0. Inbox/ddd.md",
     "0. Inbox/나중에 정리할 것.md",
     "0. Inbox/끄적끄적.md",
@@ -236,9 +234,6 @@
     "2. Area/Database/RDB/SQL/정규화/정규화.md",
     "2. Area/Database/RDB/SQL/정규화/2정규화후.png",
     "2. Area/Database/RDB/SQL/정규화/2정규화전.png",
-    "2. Area/Database/RDB/SQL/정규화/1정규화후.png",
-    "2. Area/Database/RDB/TABLE.md",
-    "1. Project/JPA/Mapping/상속 관계/조인 전략.md",
     "2. Area/Database/RDB/SQL/정규화",
     "1. Project/Monitoring/Actuator",
     "1. Project/Monitoring",
