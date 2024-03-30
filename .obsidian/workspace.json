@@ -11,9 +11,12 @@
             "id": "2c46ee6799ef5cc2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "0. Inbox/Pasted image 20240330105649.png"
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/시스템 간 강결합 문제.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Pasted image 20240330105649.png",
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/시스템 간 강결합 문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/Pasted image 20240330105649.png"
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/시스템 간 강결합 문제.md"
               }
             }
           },
@@ -138,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/Pasted image 20240330105649.png",
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/시스템 간 강결합 문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,13 +200,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "2c46ee6799ef5cc2",
   "lastOpenFiles": [
-    "0. Inbox/Pasted image 20240329202146.png",
+    "1. Project/Book/도메인 주도 개발 시작하기/MOC.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/이벤트.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/이벤트, 핸들러, 디스패처 구현.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/동기 이벤트 처리 문제.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트/Message Queue.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/이벤트 적용 시 추가 고려 사항.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/시스템 간 강결합 문제.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/7. 도메인 서비스/도메인 서비스.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/7. 도메인 서비스/여러 애그리거트가 필요한 기능.md",
     "0. Inbox/Pasted image 20240330105649.png",
+    "0. Inbox/Pasted image 20240329202146.png",
     "0. Inbox/Pasted image 20240329191336.png",
     "0. Inbox/무제 파일.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/7. 도메인 서비스/도메인 서비스.md",
     "2. Area/Java API/java.lang/record.md",
     "2. Area/Java API/java.lang/java.lang.md",
     "1. Project/Software Pattern/Design Pattern/Factory Method Pattern.md",
@@ -220,18 +231,11 @@
     "1. Project/Monitoring/Actuator/Actuator Endpoint.md",
     "1. Project/Monitoring/Monitoring.md",
     "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/엔티티와 밸류 매핑.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/AttributeConverter를 이용한 밸류 매핑 처리.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/별도 테이블에 저장하는 밸류 매핑.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/도메인 구현과 DIP.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/모듈 위치.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/밸류를 이용한 아이디 매핑.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md",
     "2. Area/Database/RDB/SQL/정규화/3정규화전.png",
     "2. Area/Database/RDB/SQL/정규화/3정규화후.png",
     "2. Area/Database/Pasted image 20240327095507.png",
     "2. Area/Database/Pasted image 20240327095530.png",
     "2. Area/Database/Pasted image 20240327095613.png",
-    "2. Area/Database/RDB/SQL/정규화/정규화.md",
     "2. Area/Database/RDB/SQL/정규화/2정규화후.png",
     "2. Area/Database/RDB/SQL/정규화/2정규화전.png",
     "2. Area/Database/RDB/SQL/정규화",
