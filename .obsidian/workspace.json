@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "0. Inbox/Pasted image 20240330215651.png"
+                "file": "0. Inbox/Pasted image 20240331153520.png"
               }
             }
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Pasted image 20240330215651.png",
+                "file": "0. Inbox/Pasted image 20240331153520.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/Pasted image 20240330215651.png"
+                "file": "0. Inbox/Pasted image 20240331153520.png"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/Pasted image 20240330215651.png",
+                "file": "0. Inbox/Pasted image 20240331153520.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,9 +197,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2c46ee6799ef5cc2",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
     "0. Inbox/무제 파일.md",
+    "0. Inbox/Pasted image 20240331153520.png",
+    "0. Inbox/Pasted image 20240330215651.png",
     "0. Inbox/끄적끄적.md",
     "0. Inbox/임시회의록/회의템플릿.md",
     "0. Inbox/책/책.md",
@@ -207,7 +209,6 @@
     "2. Area/CS/Network/MOC.md",
     "2. Area/CS/Network/REST.md",
     "Todo/TIL/2024-01/2024-01-21 TIL.md",
-    "0. Inbox/Pasted image 20240330215651.png",
     "0. Inbox/ddd.md",
     "0. Inbox/하고싶은거.md",
     "0. Inbox/코테.md",
@@ -228,13 +229,11 @@
     "2. Area/Java API/java.lang/record.md",
     "2. Area/Java API/java.lang/java.lang.md",
     "1. Project/Software Pattern/Design Pattern/Factory Method Pattern.md",
-    "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
     "2. Area/Database/RDB/SQL/정규화/3정규화전.png",
     "2. Area/Database/RDB/SQL/정규화/3정규화후.png",
     "2. Area/Database/Pasted image 20240327095507.png",
     "2. Area/Database/Pasted image 20240327095530.png",
     "2. Area/Database/Pasted image 20240327095613.png",
-    "2. Area/Database/RDB/SQL/정규화/2정규화후.png",
     "2. Area/Database/RDB/SQL/정규화",
     "1. Project/Monitoring/Actuator",
     "1. Project/Monitoring",
