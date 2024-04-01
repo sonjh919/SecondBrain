@@ -11,9 +11,12 @@
             "id": "2c46ee6799ef5cc2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "0. Inbox/Pasted image 20240331153520.png"
+                "file": "0. Inbox/무제 파일.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Pasted image 20240331153520.png",
+                "file": "0. Inbox/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/Pasted image 20240331153520.png"
+                "file": "0. Inbox/무제 파일.md"
               }
             }
           },
@@ -138,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/Pasted image 20240331153520.png",
+                "file": "0. Inbox/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,10 +200,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "2c46ee6799ef5cc2",
   "lastOpenFiles": [
-    "0. Inbox/무제 파일.md",
     "0. Inbox/Pasted image 20240331153520.png",
+    "0. Inbox/무제 파일.md",
     "0. Inbox/Pasted image 20240330215651.png",
     "0. Inbox/끄적끄적.md",
     "0. Inbox/임시회의록/회의템플릿.md",
