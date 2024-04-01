@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "88bb8b20118ee865",
+        "id": "1e4612fb85b60d93",
         "type": "tabs",
         "children": [
           {
-            "id": "2c46ee6799ef5cc2",
+            "id": "b22d5f8e36d00f8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/CS/Network/CORS.md",
+                "file": "1. Project/Monitoring/Grafana.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/CS/Network/CORS.md",
+                "file": "1. Project/Monitoring/Grafana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/CS/Network/CORS.md"
+                "file": "1. Project/Monitoring/Grafana.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/CS/Network/CORS.md",
+                "file": "1. Project/Monitoring/Grafana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,10 +200,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2c46ee6799ef5cc2",
+  "active": "b22d5f8e36d00f8e",
   "lastOpenFiles": [
-    "0. Inbox/임시회의록/회의템플릿.md",
+    "1. Project/Monitoring/Monitoring.md",
+    "1. Project/Monitoring/Prometheus.md",
+    "1. Project/Monitoring/Grafana.md",
+    "1. Project/Monitoring/grafana.png",
+    "1. Project/Monitoring/grafana 1.png",
+    "1. Project/Monitoring/Metric.md",
+    "1. Project/Monitoring/prometheus.png",
+    "1. Project/Monitoring/Actuator/Actuator Endpoint.md",
     "2. Area/CS/Network/CORS.md",
+    "0. Inbox/임시회의록/회의템플릿.md",
     "2. Area/CS/Network/cors.png",
     "2. Area/CS/Network/URI vs URL.md",
     "2. Area/CS/Network/Server의 분리.md",
@@ -223,20 +231,12 @@
     "2. Area/CS/Network/CSRF.md",
     "2. Area/CS/Network/API.md",
     "2. Area/CS/Network/3 Tier Architecture.md",
-    "0. Inbox/무제 파일.md",
     "0. Inbox/Pasted image 20240331153520.png",
     "0. Inbox/Pasted image 20240330215651.png",
-    "0. Inbox/끄적끄적.md",
-    "0. Inbox/책/책.md",
-    "Todo/TIL/2024-01/2024-01-21 TIL.md",
-    "0. Inbox/ddd.md",
     "0. Inbox/Pasted image 20240330105649.png",
     "0. Inbox/Pasted image 20240329202146.png",
     "0. Inbox/Pasted image 20240329191336.png",
     "2. Area/Database/RDB/SQL/정규화/3정규화전.png",
-    "2. Area/Database/RDB/SQL/정규화/3정규화후.png",
-    "2. Area/Database/Pasted image 20240327095507.png",
-    "2. Area/Database/Pasted image 20240327095530.png",
     "2. Area/Database/RDB/SQL/정규화",
     "1. Project/Monitoring/Actuator",
     "1. Project/Monitoring",
