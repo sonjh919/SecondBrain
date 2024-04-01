@@ -1,15 +1,3 @@
----
-title: 3 Tier Architecture
-date: 2024-01-17 14:37
-categories:
-  - CS
-  - Network
-tags:
-  - CS
-  - Network
-image: 
-path:
----
 #CS #Network 
 
 [[Server의 분리]] 방식에 따라 3,2,1 Tier Architecture로 나눈다.

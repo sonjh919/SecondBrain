@@ -1,15 +1,3 @@
----
-title: Network
-date: 2024-01-16 23:05
-categories:
-  - CS
-  - Network
-tags:
-  - CS
-  - Network
-image: 
-path:
----
 #CS #Network 
 
 ## Network

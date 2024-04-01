@@ -1,15 +1,3 @@
----
-title: CSRF
-date: 2024-01-24 22:31
-categories:
-  - CS
-  - Network
-tags:
-  - CS
-  - Network
-image: 
-path:
----
 #CS #Network 
 
 ## CSRF(사이트 간 요청 위조, Cross-site request forgery)

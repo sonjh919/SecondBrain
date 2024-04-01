@@ -1,15 +1,3 @@
----
-title: RESTful API
-date: 2024-01-16 23:19
-categories:
-  - CS
-  - Network
-tags:
-  - CS
-  - Network
-image: 
-path:
----
 #CS #Network 
 
 ## REST(Representational State Transfer)

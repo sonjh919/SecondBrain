@@ -1,15 +1,3 @@
----
-title: URI vs URL
-date: 2024-01-21 15:04
-categories:
-  - CS
-  - Network
-tags:
-  - CS
-  - Network
-image: 
-path:
----
 #CS #Network 
 
 ## URI (Uniform Resource Identifier)

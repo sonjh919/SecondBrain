@@ -1,15 +1,3 @@
----
-title: HAL JSON
-date: 2024-01-21 18:32
-categories:
-  - CS
-  - Network
-tags:
-  - CS
-  - Network
-image: 
-path:
----
 #CS #Network 
 
 ## HAL

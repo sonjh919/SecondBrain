@@ -1,15 +1,3 @@
----
-title: HATEOAS
-date: 2024-01-21 16:32
-categories:
-  - CS
-  - Network
-tags:
-  - CS
-  - Network
-image: 
-path:
----
 #CS #Network 
 
 ## HATEOAS (Hypermedia As The Engine Of Application State)

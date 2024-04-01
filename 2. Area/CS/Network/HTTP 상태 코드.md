@@ -1,15 +1,3 @@
----
-title: HTTP 상태 코드
-date: 2024-01-17 00:51
-categories:
-  - CS
-  - Network
-tags:
-  - CS
-  - Network
-image: 
-path:
----
 #CS #Network 
 
 ## HTTP 상태 코드

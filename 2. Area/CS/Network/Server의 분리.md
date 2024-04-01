@@ -1,16 +1,3 @@
----
-title: Server의 분리
-date: 2024-01-16 23:36
-categories:
-  - CS
-  - Network
-tags:
-  - CS
-  - Network
-  - Spring
-image: 
-path:
----
 #CS #Network 
 
 ## Web Server와 Web Application Server(WAS)
