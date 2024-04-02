@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/ELK/NHN/2. 전체 아키텍처.md",
+                "file": "2. Area/CS/Network/CORS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cors",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/ELK/NHN/2. 전체 아키텍처.md",
+                "file": "2. Area/CS/Network/CORS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/ELK/NHN/2. 전체 아키텍처.md"
+                "file": "2. Area/CS/Network/CORS.md"
               }
             }
           },
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/ELK/NHN/2. 전체 아키텍처.md",
+                "file": "2. Area/CS/Network/CORS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +213,9 @@
   },
   "active": "b22d5f8e36d00f8e",
   "lastOpenFiles": [
+    "1. Project/ELK/NHN/4. 검색 품질 개선 방안.md",
     "1. Project/ELK/NHN/3. 색인.md",
+    "1. Project/ELK/NHN/2. 전체 아키텍처.md",
     "1. Project/ELK/NHN/5. 검색 성능 테스트 결과 비교.md",
     "1. Project/ELK/NHN/Pasted image 20240402190349.png",
     "1. Project/ELK/NHN/Pasted image 20240402190152.png",
@@ -224,8 +227,6 @@
     "1. Project/ELK/NHN/Pasted image 20240402185932.png",
     "1. Project/ELK/NHN/Pasted image 20240402185908.png",
     "1. Project/ELK/NHN/Pasted image 20240402185852.png",
-    "1. Project/ELK/NHN/4. 검색 품질 개선 방안.md",
-    "1. Project/ELK/NHN/2. 전체 아키텍처.md",
     "1. Project/ELK/NHN",
     "Excalidraw/Drawing 2024-04-02 17.29.52.excalidraw.md",
     "1. Project/ELK/ELK Stack.md",
