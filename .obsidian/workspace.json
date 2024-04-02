@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/ELK/NHN/4. 검색 품질 개선 방안.md",
+                "file": "1. Project/ELK/NHN/2. 전체 아키텍처.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/ELK/NHN/4. 검색 품질 개선 방안.md",
+                "file": "1. Project/ELK/NHN/2. 전체 아키텍처.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/ELK/NHN/4. 검색 품질 개선 방안.md"
+                "file": "1. Project/ELK/NHN/2. 전체 아키텍처.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/ELK/NHN/4. 검색 품질 개선 방안.md",
+                "file": "1. Project/ELK/NHN/2. 전체 아키텍처.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,18 +213,19 @@
   "active": "b22d5f8e36d00f8e",
   "lastOpenFiles": [
     "1. Project/ELK/NHN/3. 색인.md",
-    "1. Project/ELK/NHN/2. 전체 아키텍처.md",
+    "1. Project/ELK/NHN/5. 검색 성능 테스트 결과 비교.md",
+    "1. Project/ELK/NHN/Pasted image 20240402190349.png",
+    "1. Project/ELK/NHN/Pasted image 20240402190152.png",
+    "1. Project/ELK/NHN/Pasted image 20240402190140.png",
+    "1. Project/ELK/NHN/Pasted image 20240402190109.png",
+    "1. Project/ELK/NHN/Pasted image 20240402190054.png",
+    "1. Project/ELK/NHN/Pasted image 20240402190035.png",
+    "1. Project/ELK/NHN/Pasted image 20240402190004.png",
+    "1. Project/ELK/NHN/Pasted image 20240402185932.png",
+    "1. Project/ELK/NHN/Pasted image 20240402185908.png",
+    "1. Project/ELK/NHN/Pasted image 20240402185852.png",
     "1. Project/ELK/NHN/4. 검색 품질 개선 방안.md",
-    "1. Project/ELK/NHN/Pasted image 20240402175341.png",
-    "1. Project/ELK/NHN/Pasted image 20240402175319.png",
-    "1. Project/ELK/NHN/Pasted image 20240402175058.png",
-    "1. Project/ELK/NHN/Pasted image 20240402175045.png",
-    "1. Project/ELK/NHN/Pasted image 20240402174832.png",
-    "1. Project/ELK/NHN/Pasted image 20240402174810.png",
-    "1. Project/ELK/NHN/Pasted image 20240402174546.png",
-    "1. Project/ELK/NHN/Pasted image 20240402174454.png",
-    "1. Project/ELK/NHN/Pasted image 20240402174336.png",
-    "1. Project/ELK/NHN/Pasted image 20240402173913.png",
+    "1. Project/ELK/NHN/2. 전체 아키텍처.md",
     "1. Project/ELK/NHN",
     "Excalidraw/Drawing 2024-04-02 17.29.52.excalidraw.md",
     "1. Project/ELK/ELK Stack.md",
@@ -248,8 +249,6 @@
     "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
     "1. Project/Spring/Security/인증과 인가.md",
     "1. Project/Spring/Security/쿠키와 세션 기반 인증.md",
-    "0. Inbox/제이미터 예시.md",
-    "0. Inbox/무제 파일.md",
     "2. Area/Database/RDB/SQL/정규화",
     "1. Project/Monitoring/Actuator",
     "1. Project/Monitoring",
