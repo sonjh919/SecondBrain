@@ -13,10 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
+                "file": "1. Project/ELK/NHN/4. 검색 품질 개선 방안.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "a986dc26a7eb9f51",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-02 17.29.52.excalidraw.md"
               }
             }
           }
@@ -49,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sqs",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
+                "file": "1. Project/ELK/NHN/4. 검색 품질 개선 방안.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md"
+                "file": "1. Project/ELK/NHN/4. 검색 품질 개선 방안.md"
               }
             }
           },
@@ -142,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
+                "file": "1. Project/ELK/NHN/4. 검색 품질 개선 방안.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,6 +212,37 @@
   },
   "active": "b22d5f8e36d00f8e",
   "lastOpenFiles": [
+    "1. Project/ELK/NHN/3. 색인.md",
+    "1. Project/ELK/NHN/2. 전체 아키텍처.md",
+    "1. Project/ELK/NHN/4. 검색 품질 개선 방안.md",
+    "1. Project/ELK/NHN/Pasted image 20240402175341.png",
+    "1. Project/ELK/NHN/Pasted image 20240402175319.png",
+    "1. Project/ELK/NHN/Pasted image 20240402175058.png",
+    "1. Project/ELK/NHN/Pasted image 20240402175045.png",
+    "1. Project/ELK/NHN/Pasted image 20240402174832.png",
+    "1. Project/ELK/NHN/Pasted image 20240402174810.png",
+    "1. Project/ELK/NHN/Pasted image 20240402174546.png",
+    "1. Project/ELK/NHN/Pasted image 20240402174454.png",
+    "1. Project/ELK/NHN/Pasted image 20240402174336.png",
+    "1. Project/ELK/NHN/Pasted image 20240402173913.png",
+    "1. Project/ELK/NHN",
+    "Excalidraw/Drawing 2024-04-02 17.29.52.excalidraw.md",
+    "1. Project/ELK/ELK Stack.md",
+    "1. Project/ELK/ElasticSearch.md",
+    "1. Project/ELK/Beats.md",
+    "1. Project/Monitoring/Agent.md",
+    "1. Project/Monitoring/Prometheus.md",
+    "1. Project/Monitoring/Grafana.md",
+    "1. Project/Monitoring/Metric.md",
+    "1. Project/ELK/Kibana.md",
+    "1. Project/ELK/Logstash.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트/Message Queue.md",
+    "2. Area/CS/Network/JSON.md",
+    "1. Project/ELK",
+    "1. Project/Monitoring/Monitoring.md",
+    "1. Project/Monitoring/Actuator/Actuator.md",
+    "1. Project/Monitoring/Actuator/Actuator Endpoint.md",
+    "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
     "1. Project/Spring/Security/쿠키.md",
     "1. Project/Spring/Security/세션.md",
     "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
@@ -210,35 +250,6 @@
     "1. Project/Spring/Security/쿠키와 세션 기반 인증.md",
     "0. Inbox/제이미터 예시.md",
     "0. Inbox/무제 파일.md",
-    "0. Inbox/동시성 제어.md",
-    "0. Inbox/나중에 정리할 것.md",
-    "0. Inbox/끄적끄적.md",
-    "0. Inbox/Pasted image 20240401200754.png",
-    "0. Inbox/Pasted image 20240401200747.png",
-    "0. Inbox/Pasted image 20240401163225.png",
-    "0. Inbox/Pasted image 20240401163211.png",
-    "0. Inbox/Pasted image 20240401163204.png",
-    "0. Inbox/Pasted image 20240401163151.png",
-    "1. Project/Monitoring/Grafana.md",
-    "1. Project/Monitoring/Monitoring.md",
-    "1. Project/Monitoring/Prometheus.md",
-    "1. Project/Monitoring/grafana.png",
-    "1. Project/Monitoring/grafana 1.png",
-    "1. Project/Monitoring/Metric.md",
-    "1. Project/Monitoring/prometheus.png",
-    "1. Project/Monitoring/Actuator/Actuator Endpoint.md",
-    "2. Area/CS/Network/CORS.md",
-    "0. Inbox/임시회의록/회의템플릿.md",
-    "2. Area/CS/Network/cors.png",
-    "2. Area/CS/Network/URI vs URL.md",
-    "2. Area/CS/Network/Server의 분리.md",
-    "2. Area/CS/Network/Server.md",
-    "2. Area/CS/Network/REST API.md",
-    "2. Area/CS/Network/REST.md",
-    "2. Area/CS/Network/Network.md",
-    "2. Area/CS/Network/MOC.md",
-    "2. Area/CS/Network/JSON.md",
-    "2. Area/CS/Network/HTTP Method.md",
     "2. Area/Database/RDB/SQL/정규화",
     "1. Project/Monitoring/Actuator",
     "1. Project/Monitoring",
@@ -247,8 +258,6 @@
     "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트",
     "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트",
     "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트",
-    "1. Project/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리",
-    "1. Project/Book/도메인 주도 개발 시작하기/7. 도메인 서비스",
     "Project/무제 파일.canvas"
   ]
 }
