@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/제이미터 예시.md",
+                "file": "1. Project/Spring/Security/쿠키.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "쿠키",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/제이미터 예시.md",
+                "file": "1. Project/Spring/Security/쿠키.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/제이미터 예시.md"
+                "file": "1. Project/Spring/Security/쿠키.md"
               }
             }
           },
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/제이미터 예시.md",
+                "file": "1. Project/Spring/Security/쿠키.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,11 +203,15 @@
   },
   "active": "b22d5f8e36d00f8e",
   "lastOpenFiles": [
+    "1. Project/Spring/Security/세션.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
+    "1. Project/Spring/Security/인증과 인가.md",
+    "1. Project/Spring/Security/쿠키와 세션 기반 인증.md",
+    "0. Inbox/제이미터 예시.md",
     "0. Inbox/무제 파일.md",
     "0. Inbox/동시성 제어.md",
     "0. Inbox/나중에 정리할 것.md",
     "0. Inbox/끄적끄적.md",
-    "0. Inbox/제이미터 예시.md",
     "0. Inbox/Pasted image 20240401200754.png",
     "0. Inbox/Pasted image 20240401200747.png",
     "0. Inbox/Pasted image 20240401163225.png",
@@ -234,10 +239,6 @@
     "2. Area/CS/Network/JSON.md",
     "2. Area/CS/Network/HTTP Method.md",
     "2. Area/CS/Network/HTTP Headers.md",
-    "2. Area/CS/Network/HTTP 상태 코드.md",
-    "2. Area/CS/Network/HTTP.md",
-    "2. Area/CS/Network/HATEOAS.md",
-    "2. Area/CS/Network/HAL JSON.md",
     "2. Area/Database/RDB/SQL/정규화",
     "1. Project/Monitoring/Actuator",
     "1. Project/Monitoring",
