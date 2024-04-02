@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Spring/Security/쿠키.md",
+                "file": "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "쿠키",
+                "query": "sqs",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Spring/Security/쿠키.md",
+                "file": "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Spring/Security/쿠키.md"
+                "file": "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Spring/Security/쿠키.md",
+                "file": "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,6 +203,7 @@
   },
   "active": "b22d5f8e36d00f8e",
   "lastOpenFiles": [
+    "1. Project/Spring/Security/쿠키.md",
     "1. Project/Spring/Security/세션.md",
     "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
     "1. Project/Spring/Security/인증과 인가.md",
@@ -238,7 +239,6 @@
     "2. Area/CS/Network/MOC.md",
     "2. Area/CS/Network/JSON.md",
     "2. Area/CS/Network/HTTP Method.md",
-    "2. Area/CS/Network/HTTP Headers.md",
     "2. Area/Database/RDB/SQL/정규화",
     "1. Project/Monitoring/Actuator",
     "1. Project/Monitoring",
