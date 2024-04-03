@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/ELK/Elasticsearch + Kibana + Cerebro (Docker).md",
+                "file": "1. Project/Spring/Spring과 객체지향/IoC (Inversion of Controller).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "IoC",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/ELK/Elasticsearch + Kibana + Cerebro (Docker).md",
+                "file": "1. Project/Spring/Spring과 객체지향/IoC (Inversion of Controller).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/ELK/Elasticsearch + Kibana + Cerebro (Docker).md"
+                "file": "1. Project/Spring/Spring과 객체지향/IoC (Inversion of Controller).md"
               }
             }
           },
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/ELK/Elasticsearch + Kibana + Cerebro (Docker).md",
+                "file": "1. Project/Spring/Spring과 객체지향/IoC (Inversion of Controller).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,11 +203,14 @@
   },
   "active": "b22d5f8e36d00f8e",
   "lastOpenFiles": [
+    "1. Project/ELK/Elasticsearch + Kibana + Cerebro (Docker).md",
+    "1. Project/Spring/Spring과 객체지향/IoC (Inversion of Controller).md",
+    "1. Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
+    "DI.md",
     "1. Project/ELK/Pasted image 20240403013956.png",
     "1. Project/ELK/Pasted image 20240403013547.png",
     "1. Project/ELK/Pasted image 20240403013344.png",
     "1. Project/ELK/NHN/3. 색인.md",
-    "1. Project/ELK/Elasticsearch + Kibana + Cerebro (Docker).md",
     "Excalidraw/Drawing 2024-04-02 17.29.52.excalidraw.md",
     "1. Project/ELK/NHN/2. 전체 아키텍처.md",
     "1. Project/ELK/NHN/4. 검색 품질 개선 방안.md",
@@ -221,7 +225,6 @@
     "1. Project/ELK/NHN/Pasted image 20240402190054.png",
     "1. Project/ELK/NHN/Pasted image 20240402190035.png",
     "1. Project/ELK/NHN/Pasted image 20240402190004.png",
-    "1. Project/ELK/NHN/Pasted image 20240402185932.png",
     "1. Project/ELK/NHN",
     "1. Project/ELK/ELK Stack.md",
     "1. Project/ELK/Beats.md",
@@ -238,8 +241,6 @@
     "1. Project/Monitoring/Actuator/Actuator Endpoint.md",
     "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
     "1. Project/Spring/Security/쿠키.md",
-    "1. Project/Spring/Security/세션.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
     "2. Area/Database/RDB/SQL/정규화",
     "1. Project/Monitoring/Actuator",
     "1. Project/Monitoring",
