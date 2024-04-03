@@ -22,4 +22,4 @@ path:
 ![[throwable.png]]
 ## 하위 클래스
 + [[2. Area/Java API/java.lang/Throwable/Exception]]
-+ [[Error]]
++ [[2. Area/Java API/java.lang/Throwable/Error]]

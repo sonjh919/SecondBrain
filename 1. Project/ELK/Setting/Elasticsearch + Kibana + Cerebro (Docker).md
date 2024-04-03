@@ -1,4 +1,9 @@
 #ELK #Docker #Elasticsearch #Kibana 
+
+현재 비번 : 
+
+{"@timestamp":"2024-04-03T07:36:24.199Z", "log.level": "INFO", "message":"Auto-configuration will not generate a password for the elastic built-in superuser, as we cannot  determine if there is a terminal attached to the elasticsearch process. You can use the `bin/elasticsearch-reset-password` tool to set the password for the elastic user.", "ecs.version": "1.2.0","service.name":"ES_ECS","event.dataset":"elasticsearch.server","process.thread.name":"main","log.logger":"org.elasticsearch.xpack.security.InitialNodeSecurityAutoConfiguration","elasticsearch.node.name":"0f0deecaf164","elasticsearch.cluster.name":"docker-cluster"}
+
 ## 1. Elasticsearch
 1. image pull
 ```
