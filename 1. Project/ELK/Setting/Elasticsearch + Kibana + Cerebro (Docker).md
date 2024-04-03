@@ -1,4 +1,4 @@
-
+#ELK #Docker #Elasticsearch #Kibana 
 ## 1. Elasticsearch
 1. image pull
 ```
@@ -25,10 +25,12 @@ docker run -d --name elasticsearch -p 9200:9200 -p 9300:9300 -v elasticsearch-vo
 > 기본 값은 multi-node (해당 명령어는 싱글 노드로 옵션을 설정한 것)
 
 4. 설치 테스트
++ 8버전부터는 시큐리티가 들어가기 때문에 토큰을 발급받아야 한다.
+참고 : [[토큰 발급]]
 ```
 curl http://127.0.0.1:9200/
 ```
-![[Pasted image 20240403013344.png]]
+![[elksetting1.png]]
 ## 2. Kibana
 1. image pull
 ```
@@ -44,7 +46,7 @@ docker run -d --link elasticsearch:elasticsearch -p 5601:5601 --name kibana kiba
 ```
 docker exec -i -t kibana cat /usr/share/kibana/config/kibana.yml
 ```
-![[Pasted image 20240403013547.png]]
+![[elksetting2.png]]
 
 4. kibana 페이지 접속
 ```
@@ -73,4 +75,4 @@ localhost:9000
 
 ## 완성
 타란~
-![[Pasted image 20240403013956.png]]
+![[elksetting3.png]]
