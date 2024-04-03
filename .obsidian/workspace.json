@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/ELK/ElasticSearch.md",
+                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/ELK/ElasticSearch.md",
+                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/ELK/ElasticSearch.md"
+                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/ELK/ElasticSearch.md",
+                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +202,11 @@
   },
   "active": "b22d5f8e36d00f8e",
   "lastOpenFiles": [
-    "1. Project/ELK/ELK Stack.md",
+    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/KakaoTalk_20240403_225605591_01.jpg",
+    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/KakaoTalk_20240403_225605591.jpg",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
+    "1. Project/ELK/ElasticSearch.md",
+    "1. Project/ELK/ELK Stack.md",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조.md",
     "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트/Message Queue.md",
     "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트/비동기 이벤트 처리.md",
@@ -212,7 +215,6 @@
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조",
     "1. Project/ELK/Setting/토큰 발급.md",
     "1. Project/ELK/Beats.md",
-    "1. Project/ELK/ElasticSearch.md",
     "1. Project/ELK/NHN/3. 색인.md",
     "1. Project/ELK/NHN/5. 검색 성능 테스트 결과 비교.md",
     "1. Project/ELK/NHN/4. 검색 품질 개선 방안.md",
@@ -239,8 +241,6 @@
     "1. Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
     "DI.md",
     "Excalidraw/Drawing 2024-04-02 17.29.52.excalidraw.md",
-    "1. Project/ELK/NHN/2. 전체 아키텍처.md",
-    "1. Project/ELK/NHN/Pasted image 20240402190349.png",
     "1. Project/ELK/NHN",
     "1. Project/ELK",
     "2. Area/Database/RDB/SQL/정규화",
