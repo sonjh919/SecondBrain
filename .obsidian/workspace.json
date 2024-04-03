@@ -11,9 +11,12 @@
             "id": "b22d5f8e36d00f8e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "4. Archive/img/ELK/kibana.png"
+                "file": "1. Project/ELK/ElasticSearch.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archive/img/ELK/kibana.png",
+                "file": "1. Project/ELK/ElasticSearch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Archive/img/ELK/kibana.png"
+                "file": "1. Project/ELK/ElasticSearch.md"
               }
             }
           },
@@ -138,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Archive/img/ELK/kibana.png",
+                "file": "1. Project/ELK/ElasticSearch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,10 +200,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "b22d5f8e36d00f8e",
   "lastOpenFiles": [
-    "4. Archive/img/ELK/kibana2.png",
+    "1. Project/ELK/ELK Stack.md",
+    "1. Project/ELK/ElasticSearch.md",
+    "1. Project/ELK/NHN/3. 색인.md",
+    "1. Project/ELK/NHN/5. 검색 성능 테스트 결과 비교.md",
+    "1. Project/ELK/NHN/4. 검색 품질 개선 방안.md",
+    "1. Project/ELK/Setting/토큰 발급.md",
     "4. Archive/img/ELK/kibana.png",
+    "4. Archive/img/ELK/kibana2.png",
     "4. Archive/img/ELK/elksetting2.png",
     "4. Archive/img/ELK/elksetting1.png",
     "4. Archive/img/ELK/elk2.png",
@@ -214,7 +223,6 @@
     "0. Inbox/하고싶은거.md",
     "0. Inbox/제이미터 예시.md",
     "0. Inbox/무제 파일.md",
-    "1. Project/ELK/Setting/토큰 발급.md",
     "1. Project/ELK/Setting/error.md",
     "4. Archive/img/ELK/kibana3.png",
     "1. Project/ELK/Beats.md",
@@ -224,18 +232,12 @@
     "1. Project/Spring/Spring과 객체지향/IoC (Inversion of Controller).md",
     "1. Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
     "DI.md",
-    "1. Project/ELK/NHN/3. 색인.md",
     "Excalidraw/Drawing 2024-04-02 17.29.52.excalidraw.md",
     "1. Project/ELK/NHN/2. 전체 아키텍처.md",
-    "1. Project/ELK/NHN/4. 검색 품질 개선 방안.md",
-    "1. Project/ELK/NHN/5. 검색 성능 테스트 결과 비교.md",
     "1. Project/ELK/Kibana.md",
-    "1. Project/ELK/ElasticSearch.md",
     "2. Area/CS/Network/CORS.md",
     "1. Project/ELK/NHN/Pasted image 20240402190349.png",
-    "1. Project/ELK/NHN/Pasted image 20240402190152.png",
     "1. Project/ELK/NHN",
-    "1. Project/ELK/ELK Stack.md",
     "1. Project/Monitoring/Agent.md",
     "1. Project/Monitoring/Prometheus.md",
     "1. Project/ELK",
