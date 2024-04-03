@@ -11,12 +11,9 @@
             "id": "b22d5f8e36d00f8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1. Project/ELK/Setting/토큰 발급.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "4. Archive/img/ELK/kibana.png"
               }
             }
           }
@@ -87,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/ELK/Setting/토큰 발급.md",
+                "file": "4. Archive/img/ELK/kibana.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/ELK/Setting/토큰 발급.md"
+                "file": "4. Archive/img/ELK/kibana.png"
               }
             }
           },
@@ -141,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/ELK/Setting/토큰 발급.md",
+                "file": "4. Archive/img/ELK/kibana.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,21 +197,29 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b22d5f8e36d00f8e",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
+    "4. Archive/img/ELK/kibana2.png",
+    "4. Archive/img/ELK/kibana.png",
+    "4. Archive/img/ELK/elksetting2.png",
+    "4. Archive/img/ELK/elksetting1.png",
+    "4. Archive/img/ELK/elk2.png",
+    "4. Archive/img/ELK/elk.png",
+    "1. Project/ELK/Setting/Pasted image 20240403155021.png",
     "1. Project/ELK/Setting/Elasticsearch + Kibana + Cerebro (Docker).md",
+    "0. Inbox/끄적끄적.md",
+    "0. Inbox/동시성 제어.md",
+    "0. Inbox/나중에 정리할 것.md",
+    "0. Inbox/코테.md",
+    "0. Inbox/하고싶은거.md",
+    "0. Inbox/제이미터 예시.md",
+    "0. Inbox/무제 파일.md",
     "1. Project/ELK/Setting/토큰 발급.md",
     "1. Project/ELK/Setting/error.md",
-    "1. Project/ELK/Setting/Pasted image 20240403155021.png",
-    "1. Project/ELK/Setting/kibana3.png",
-    "1. Project/ELK/Setting/kibana2.png",
-    "1. Project/ELK/Setting/kibana.png",
+    "4. Archive/img/ELK/kibana3.png",
     "1. Project/ELK/Beats.md",
-    "4. Archive/img/ELK/elksetting1.png",
-    "4. Archive/img/ELK/elk.png",
     "4. Archive/img/ELK/elksetting3.png",
     "4. Archive/img/ELK",
-    "4. Archive/img/ELK/elksetting2.png",
     "1. Project/ELK/Setting",
     "1. Project/Spring/Spring과 객체지향/IoC (Inversion of Controller).md",
     "1. Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
@@ -233,14 +238,7 @@
     "1. Project/ELK/ELK Stack.md",
     "1. Project/Monitoring/Agent.md",
     "1. Project/Monitoring/Prometheus.md",
-    "1. Project/Monitoring/Grafana.md",
-    "1. Project/Monitoring/Metric.md",
-    "1. Project/ELK/Logstash.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트/Message Queue.md",
-    "2. Area/CS/Network/JSON.md",
     "1. Project/ELK",
-    "1. Project/Monitoring/Monitoring.md",
-    "1. Project/Monitoring/Actuator/Actuator.md",
     "2. Area/Database/RDB/SQL/정규화",
     "1. Project/Monitoring/Actuator",
     "1. Project/Monitoring",

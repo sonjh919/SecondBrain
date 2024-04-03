@@ -1,9 +1,6 @@
 #ELK #Docker #Elasticsearch #Kibana 
 
 현재 비번 : 
-
-{"@timestamp":"2024-04-03T07:36:24.199Z", "log.level": "INFO", "message":"Auto-configuration will not generate a password for the elastic built-in superuser, as we cannot  determine if there is a terminal attached to the elasticsearch process. You can use the `bin/elasticsearch-reset-password` tool to set the password for the elastic user.", "ecs.version": "1.2.0","service.name":"ES_ECS","event.dataset":"elasticsearch.server","process.thread.name":"main","log.logger":"org.elasticsearch.xpack.security.InitialNodeSecurityAutoConfiguration","elasticsearch.node.name":"0f0deecaf164","elasticsearch.cluster.name":"docker-cluster"}
-
 ## 1. Elasticsearch
 1. image pull
 ```
@@ -59,6 +56,8 @@ http://localhost:5601/app/home#/
 http://localhost:5601/app/kibana#/home
 ```
 
+> [!failure]+ 
+> 만약 연결 실패가 뜨면 이전의 설정과 겹쳤을 가능성이 있으니, image/container/volume을 모두 삭제하고 다시 세팅하는 것이 가장 좋다.
 ## 3. Cerebro
 > [!info]+ 
 > Elasticsearch에서 구성된 Master, Data Node 구성 및 Shards에 대해서 좀 더 물리적으로 나눠져있는 주샤드,복제샤드를 모니터링할 수 있는 Tool
