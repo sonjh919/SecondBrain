@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/필드 타입.md",
+                "file": "Welcome to JH SecondBrain.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/필드 타입.md",
+                "file": "Welcome to JH SecondBrain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/필드 타입.md"
+                "file": "Welcome to JH SecondBrain.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/필드 타입.md",
+                "file": "Welcome to JH SecondBrain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +202,10 @@
   },
   "active": "95775da7906be2e1",
   "lastOpenFiles": [
-    "1. Project/ELK/03 인덱스 설계/매핑.md",
     "1. Project/ELK/03 인덱스 설계/필드 타입.md",
+    "DI.md",
+    "비식별 관계.md",
+    "1. Project/ELK/03 인덱스 설계/매핑.md",
     "1. Project/ELK/03 인덱스 설계/인덱스 설정.md",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 내부 구조와 루씬.md",
@@ -238,8 +240,6 @@
     "0. Inbox/동시성 제어.md",
     "0. Inbox/나중에 정리할 것.md",
     "0. Inbox/코테.md",
-    "0. Inbox/하고싶은거.md",
-    "0. Inbox/제이미터 예시.md",
     "4. Archive/img/ELK",
     "1. Project/ELK/Setting",
     "1. Project/ELK/NHN",
