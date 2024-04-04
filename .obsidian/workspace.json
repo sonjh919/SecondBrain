@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/필드 타입/text와 keyword.md",
+                "file": "1. Project/ELK/NHN/3. 색인.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/필드 타입/text와 keyword.md",
+                "file": "1. Project/ELK/NHN/3. 색인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/필드 타입/text와 keyword.md"
+                "file": "1. Project/ELK/NHN/3. 색인.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/필드 타입/text와 keyword.md",
+                "file": "1. Project/ELK/NHN/3. 색인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,21 +202,29 @@
   },
   "active": "95775da7906be2e1",
   "lastOpenFiles": [
-    "1. Project/ELK/03 인덱스 설계/필드 타입/필드 타입.md",
-    "1. Project/ELK/03 인덱스 설계/필드 타입/심플 타입.md",
-    "1. Project/ELK/03 인덱스 설계/필드 타입/계층 구조를 지원하는 타입.md",
-    "1. Project/ELK/03 인덱스 설계/필드 타입/그 외 특수한 타입.md",
+    "1. Project/ELK/NHN/4. 검색 품질 개선 방안.md",
+    "1. Project/ELK/NHN/5. 검색 성능 테스트 결과 비교.md",
     "1. Project/ELK/03 인덱스 설계/필드 타입/text와 keyword.md",
-    "1. Project/ELK/03 인덱스 설계/매핑.md",
     "1. Project/ELK/03 인덱스 설계/애널라이저와 토크나이저.md",
-    "1. Project/ELK/03 인덱스 설계/인덱스 매핑 설정.md",
-    "1. Project/ELK/03 인덱스 설계/인덱스 설정.md",
-    "1. Project/ELK/03 인덱스 설계/템플릿.md",
-    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
-    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 내부 구조와 루씬.md",
     "1. Project/ELK/03 인덱스 설계/라우팅.md",
-    "1. Project/ELK/03 인덱스 설계/필드 타입",
+    "1. Project/ELK/03 인덱스 설계/필드 타입/그 외 특수한 타입.md",
+    "1. Project/ELK/03 인덱스 설계/필드 타입/필드 타입.md",
+    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 내부 구조와 루씬.md",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조 개괄.md",
+    "1. Project/ELK/03 인덱스 설계/인덱스 설정.md",
+    "1. Project/ELK/03 인덱스 설계/인덱스 매핑 설정.md",
+    "1. Project/ELK/03 인덱스 설계/매핑.md",
+    "1. Project/ELK/03 인덱스 설계/필드 타입/계층 구조를 지원하는 타입.md",
+    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
+    "1. Project/ELK/03 인덱스 설계/캐시/doc_values.md",
+    "1. Project/ELK/03 인덱스 설계/필드 타입/심플 타입.md",
+    "1. Project/ELK/03 인덱스 설계/템플릿.md",
+    "1. Project/ELK/03 인덱스 설계/캐시",
+    "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
+    "0. Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
+    "1. Project/Monitoring/Agent.md",
+    "1. Project/ELK/Beats.md",
+    "1. Project/ELK/03 인덱스 설계/필드 타입",
     "Welcome to JH SecondBrain.md",
     "0. Inbox/Pasted image 20240401163151.png",
     "0. Inbox/제이미터 예시.md",
@@ -226,13 +234,6 @@
     "4. Archive/img/ELK/index.jpg",
     "4. Archive/img/ELK/cluster.jpg",
     "1. Project/ELK/Setting/Elasticsearch + Kibana + Cerebro (Docker).md",
-    "1. Project/ELK/Setting/토큰 발급.md",
-    "0. Inbox/ddd.md",
-    "0. Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
-    "0. Inbox/대용량트래픽/대용량 트래픽.md",
-    "1. Project/ELK/ElasticSearch.md",
-    "1. Project/ELK/ELK Stack.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트/Message Queue.md",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조",
     "4. Archive/img/ELK/kibana.png",
     "4. Archive/img/ELK/kibana2.png",
@@ -247,7 +248,6 @@
     "1. Project/ELK",
     "2. Area/Database/RDB/SQL/정규화",
     "1. Project/Monitoring/Actuator",
-    "1. Project/Monitoring",
     "Project/무제 파일.canvas"
   ]
 }
