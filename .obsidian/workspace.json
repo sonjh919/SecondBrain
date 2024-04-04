@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조.md",
+                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 내부 구조와 루씬.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조.md",
+                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 내부 구조와 루씬.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조.md"
+                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 내부 구조와 루씬.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조.md",
+                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 내부 구조와 루씬.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,18 +202,23 @@
   },
   "active": "b22d5f8e36d00f8e",
   "lastOpenFiles": [
-    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/KakaoTalk_20240403_225605591_01.jpg",
-    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/KakaoTalk_20240403_225605591.jpg",
+    "4. Archive/img/ELK/index.jpg",
+    "4. Archive/img/ELK/cluster.jpg",
+    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 내부 구조와 루씬.md",
+    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조 개괄.md",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
+    "1. Project/ELK/Setting/Elasticsearch + Kibana + Cerebro (Docker).md",
+    "1. Project/ELK/Setting/토큰 발급.md",
+    "0. Inbox/ddd.md",
+    "0. Inbox/Pasted image 20240401163151.png",
+    "0. Inbox/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
+    "0. Inbox/대용량트래픽/대용량 트래픽.md",
     "1. Project/ELK/ElasticSearch.md",
     "1. Project/ELK/ELK Stack.md",
-    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조.md",
     "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트/Message Queue.md",
     "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트/비동기 이벤트 처리.md",
     "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
-    "1. Project/ELK/Setting/Elasticsearch + Kibana + Cerebro (Docker).md",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조",
-    "1. Project/ELK/Setting/토큰 발급.md",
     "1. Project/ELK/Beats.md",
     "1. Project/ELK/NHN/3. 색인.md",
     "1. Project/ELK/NHN/5. 검색 성능 테스트 결과 비교.md",
@@ -233,14 +238,8 @@
     "0. Inbox/제이미터 예시.md",
     "0. Inbox/무제 파일.md",
     "1. Project/ELK/Setting/error.md",
-    "4. Archive/img/ELK/kibana3.png",
-    "4. Archive/img/ELK/elksetting3.png",
     "4. Archive/img/ELK",
     "1. Project/ELK/Setting",
-    "1. Project/Spring/Spring과 객체지향/IoC (Inversion of Controller).md",
-    "1. Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
-    "DI.md",
-    "Excalidraw/Drawing 2024-04-02 17.29.52.excalidraw.md",
     "1. Project/ELK/NHN",
     "1. Project/ELK",
     "2. Area/Database/RDB/SQL/정규화",
