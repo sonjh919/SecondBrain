@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome to JH SecondBrain.md",
+                "file": "1. Project/ELK/03 인덱스 설계/필드 타입.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to JH SecondBrain.md",
+                "file": "1. Project/ELK/03 인덱스 설계/필드 타입.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome to JH SecondBrain.md"
+                "file": "1. Project/ELK/03 인덱스 설계/필드 타입.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to JH SecondBrain.md",
+                "file": "1. Project/ELK/03 인덱스 설계/필드 타입.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +202,8 @@
   },
   "active": "95775da7906be2e1",
   "lastOpenFiles": [
-    "0. Inbox/Pasted image 20240401163151.png",
     "Welcome to JH SecondBrain.md",
+    "0. Inbox/Pasted image 20240401163151.png",
     "0. Inbox/제이미터 예시.md",
     "1. Project/ELK/03 인덱스 설계/필드 타입.md",
     "DI.md",
