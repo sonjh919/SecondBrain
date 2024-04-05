@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/5. 라우팅/라우팅.md",
+                "file": "1. Project/ELK/04 데이터 다루기/검색/10. bool.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/5. 라우팅/라우팅.md",
+                "file": "1. Project/ELK/04 데이터 다루기/검색/10. bool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/5. 라우팅/라우팅.md"
+                "file": "1. Project/ELK/04 데이터 다루기/검색/10. bool.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/5. 라우팅/라우팅.md",
+                "file": "1. Project/ELK/04 데이터 다루기/검색/10. bool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,47 +202,47 @@
   },
   "active": "95775da7906be2e1",
   "lastOpenFiles": [
+    "1. Project/ELK/04 데이터 다루기/검색/9. exists.md",
+    "1. Project/ELK/04 데이터 다루기/검색/5. term.md",
+    "1. Project/ELK/04 데이터 다루기/검색/10. bool.md",
+    "1. Project/ELK/04 데이터 다루기/검색/8. prefix.md",
+    "1. Project/ELK/04 데이터 다루기/검색/7. range.md",
+    "1. Project/ELK/04 데이터 다루기/검색/6. terms.md",
+    "1. Project/ELK/04 데이터 다루기/검색/4. match.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/text와 keyword.md",
+    "1. Project/ELK/04 데이터 다루기/검색/3. match_all.md",
+    "1. Project/ELK/04 데이터 다루기/검색/2. 쿼리DSL 검색과 쿼리 문자열 검색.md",
+    "1. Project/ELK/04 데이터 다루기/검색/1. 검색 대상 지정.md",
+    "1. Project/ELK/04 데이터 다루기/검색/검색 API.md",
+    "1. Project/ELK/04 데이터 다루기/단건 문서 API.md",
+    "1. Project/ELK/04 데이터 다루기/검색/14. 페이지네이션.md",
+    "1. Project/ELK/04 데이터 다루기/검색/13. 검색 결과 정렬.md",
+    "1. Project/ELK/04 데이터 다루기/검색/12. 그 외 주요 매개변수.md",
+    "1. Project/ELK/04 데이터 다루기/검색/11. constant_score.md",
+    "1. Project/ELK/04 데이터 다루기/검색",
+    "1. Project/ELK/04 데이터 다루기/복수 문서 API.md",
+    "1. Project/ELK/Beats.md",
+    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 내부 구조와 루씬.md",
+    "1. Project/ELK/03 인덱스 설계/5. 라우팅/라우팅.md",
+    "1. Project/ELK/04 데이터 다루기/1. 단건 문서 API",
+    "1. Project/ELK/04 데이터 다루기",
     "1. Project/ELK/03 인덱스 설계/4. 템플릿/인덱스 템플릿.md",
     "1. Project/ELK/03 인덱스 설계/4. 템플릿/레거시 템플릿.md",
     "1. Project/ELK/03 인덱스 설계/4. 템플릿/컴포넌트 템플릿.md",
-    "1. Project/ELK/03 인덱스 설계/5. 라우팅/라우팅.md",
     "1. Project/ELK/03 인덱스 설계/4. 템플릿/템플릿.md",
     "1. Project/ELK/03 인덱스 설계/4. 템플릿/동적 템플릿.md",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/매핑.md",
     "1. Project/ELK/03 인덱스 설계/5. 라우팅",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/인덱스 매핑 설정.md",
     "1. Project/ELK/03 인덱스 설계/4. 템플릿",
-    "1. Project/ELK/03 인덱스 설계/1. 인덱스 설정/인덱스 설정.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/노멀라이저.md",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/text와 keyword.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/내장 애널라이저.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/nori.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/애널라이저.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토크나이저.md",
-    "1. Project/대용량트래픽/대용량 트래픽.md",
-    "1. Project/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/캐릭터 필터.md",
-    "1. Project/ELK/ElasticSearch.md",
     "4. Archive/img/ELK/analyzer.jpg",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/term.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/기타 설정",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/기타 설정/enabled.md",
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저",
     "1. Project/ELK/03 인덱스 설계/1. 인덱스 설정",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/기타 설정/index.md",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/캐시/doc_values.md",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/기타 설정/_source.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/심플 타입.md",
     "1. Project/ELK/Pasted image 20240404214354.png",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/캐시",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입",
     "0. Inbox/Pasted image 20240401163151.png",
-    "1. Project/ELK/03 인덱스 설계",
     "4. Archive/img/ELK/index.jpg",
     "4. Archive/img/ELK/cluster.jpg",
-    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조",
     "4. Archive/img/ELK/kibana.png",
     "4. Archive/img/ELK/kibana2.png",
     "4. Archive/img/ELK/elksetting2.png",
