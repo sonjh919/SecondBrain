@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/ELK/04 데이터 다루기/검색/4. match.md",
+                "file": "0. Inbox/무제 파일 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/ELK/04 데이터 다루기/검색/4. match.md",
+                "file": "0. Inbox/무제 파일 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/ELK/04 데이터 다루기/검색/4. match.md"
+                "file": "0. Inbox/무제 파일 1.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/ELK/04 데이터 다루기/검색/4. match.md",
+                "file": "0. Inbox/무제 파일 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,33 +202,33 @@
   },
   "active": "95775da7906be2e1",
   "lastOpenFiles": [
-    "0. Inbox/es(0405).md",
+    "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
+    "0. Inbox/무제 파일 1.md",
+    "1. Project/ELK/04 데이터 다루기/검색/4. match.md",
+    "1. Project/ELK/04 데이터 다루기/검색/5. term.md",
+    "1. Project/ELK/03 인덱스 설계/1. 인덱스 설정/인덱스 설정.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/매핑.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/인덱스 매핑 설정.md",
+    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토크나이저.md",
+    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/애널라이저.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/text와 keyword.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/심플 타입.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/필드 타입.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/기타 설정/_source.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/기타 설정/enabled.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/기타 설정/index.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/캐시/doc_values.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/캐시/fielddata.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/계층 구조를 지원하는 타입.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/그 외 특수한 타입.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/term.md",
+    "1. Project/ELK/03 인덱스 설계/4. 템플릿/인덱스 템플릿.md",
+    "1. Project/ELK/04 데이터 다루기/검색/7. range.md",
+    "1. Project/ELK/04 데이터 다루기/검색/8. prefix.md",
     "0. Inbox/끄적끄적.md",
     "0. Inbox/나중에 정리할 것.md",
-    "1. Project/ELK/Setting/Elasticsearch + Kibana + Cerebro (Docker).md",
-    "1. Project/ELK/Setting/토큰 발급.md",
-    "1. Project/ELK/ElasticSearch.md",
-    "1. Project/ELK/04 데이터 다루기/검색/5. term.md",
-    "1. Project/ELK/04 데이터 다루기/검색/11. constant_score.md",
-    "1. Project/ELK/04 데이터 다루기/검색/13. 검색 결과 정렬.md",
-    "1. Project/ELK/04 데이터 다루기/검색/12. 그 외 주요 매개변수.md",
-    "1. Project/ELK/04 데이터 다루기/검색/10. bool.md",
-    "1. Project/ELK/04 데이터 다루기/검색/9. exists.md",
-    "1. Project/ELK/04 데이터 다루기/검색/8. prefix.md",
-    "1. Project/ELK/04 데이터 다루기/검색/6. terms.md",
-    "1. Project/ELK/04 데이터 다루기/검색/7. range.md",
-    "1. Project/ELK/04 데이터 다루기/검색/2. 쿼리DSL 검색과 쿼리 문자열 검색.md",
-    "1. Project/ELK/03 인덱스 설계/4. 템플릿/동적 템플릿.md",
-    "1. Project/ELK/04 데이터 다루기/검색/1. 검색 대상 지정.md",
-    "1. Project/ELK/04 데이터 다루기/검색/검색 API.md",
-    "1. Project/ELK/04 데이터 다루기/검색/3. match_all.md",
-    "1. Project/ELK/04 데이터 다루기/검색/4. match.md",
-    "1. Project/ELK/04 데이터 다루기/집계/집계 API.md",
-    "1. Project/ELK/04 데이터 다루기/단건 문서 API.md",
+    "0. Inbox/임시회의록/회의템플릿.md",
     "1. Project/ELK/04 데이터 다루기/집계",
-    "1. Project/ELK/04 데이터 다루기/복수 문서 API.md",
-    "1. Project/ELK/04 데이터 다루기/검색/14. 페이지네이션.md",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/text와 keyword.md",
     "1. Project/ELK/04 데이터 다루기/검색",
     "1. Project/ELK/04 데이터 다루기/1. 단건 문서 API",
     "1. Project/ELK/04 데이터 다루기",
