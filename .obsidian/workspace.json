@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/캐시/fielddata.md",
+                "file": "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/애널라이저와 토크나이저.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/캐시/fielddata.md",
+                "file": "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/애널라이저와 토크나이저.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/캐시/fielddata.md"
+                "file": "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/애널라이저와 토크나이저.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/캐시/fielddata.md",
+                "file": "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/애널라이저와 토크나이저.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,16 +200,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "95775da7906be2e1",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
-    "1. Project/ELK/03 인덱스 설계/캐시/doc_values.md",
-    "1. Project/ELK/03 인덱스 설계/필드 타입/text와 keyword.md",
-    "1. Project/ELK/03 인덱스 설계/캐시/fielddata.md",
-    "1. Project/ELK/03 인덱스 설계/필드 타입/term.md",
-    "1. Project/ELK/03 인덱스 설계/필드 타입/심플 타입.md",
-    "1. Project/ELK/03 인덱스 설계/필드 타입/계층 구조를 지원하는 타입.md",
-    "1. Project/ELK/03 인덱스 설계/필드 타입/그 외 특수한 타입.md",
-    "1. Project/ELK/03 인덱스 설계/필드 타입/필드 타입.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/인덱스 매핑 설정.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/기타 설정",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/기타 설정/enabled.md",
+    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저",
+    "1. Project/ELK/03 인덱스 설계/1. 인덱스 설정",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/기타 설정/index.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/캐시/doc_values.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/기타 설정/_source.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입",
+    "1. Project/ELK/03 인덱스 설계/매핑.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/심플 타입.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/필드 타입.md",
+    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/애널라이저와 토크나이저.md",
+    "1. Project/ELK/03 인덱스 설계/라우팅.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/계층 구조를 지원하는 타입.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/그 외 특수한 타입.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/text와 keyword.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/캐시/fielddata.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/term.md",
     "1. Project/ELK/역색인.md",
     "1. Project/ELK/색인.md",
     "1. Project/ELK/Pasted image 20240404214354.png",
@@ -219,18 +230,10 @@
     "1. Project/ELK/NHN/3. 색인.md",
     "1. Project/ELK/NHN/4. 검색 품질 개선 방안.md",
     "1. Project/ELK/NHN/5. 검색 성능 테스트 결과 비교.md",
-    "1. Project/ELK/03 인덱스 설계/애널라이저와 토크나이저.md",
-    "1. Project/ELK/03 인덱스 설계/라우팅.md",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 내부 구조와 루씬.md",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조 개괄.md",
-    "1. Project/ELK/03 인덱스 설계/인덱스 설정.md",
-    "1. Project/ELK/03 인덱스 설계/인덱스 매핑 설정.md",
-    "1. Project/ELK/03 인덱스 설계/매핑.md",
-    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
-    "1. Project/ELK/03 인덱스 설계/템플릿.md",
-    "1. Project/ELK/03 인덱스 설계/캐시",
-    "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
-    "1. Project/ELK/03 인덱스 설계/필드 타입",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/캐시",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입",
     "0. Inbox/Pasted image 20240401163151.png",
     "1. Project/ELK/03 인덱스 설계",
     "4. Archive/img/ELK/index.jpg",
@@ -244,10 +247,6 @@
     "4. Archive/img/ELK/elk.png",
     "4. Archive/img/ELK",
     "1. Project/ELK/Setting",
-    "1. Project/ELK/NHN",
-    "1. Project/ELK",
-    "2. Area/Database/RDB/SQL/정규화",
-    "1. Project/Monitoring/Actuator",
     "Project/무제 파일.canvas"
   ]
 }
