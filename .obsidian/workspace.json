@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/무제 파일 1.md",
+                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/무제 파일 1.md",
+                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/무제 파일 1.md"
+                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/무제 파일 1.md",
+                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +202,12 @@
   },
   "active": "95775da7906be2e1",
   "lastOpenFiles": [
-    "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
+    "1. Project/ELK/03 인덱스 설계/4. 템플릿/템플릿.md",
+    "1. Project/ELK/03 인덱스 설계/4. 템플릿/컴포넌트 템플릿.md",
+    "1. Project/ELK/03 인덱스 설계/4. 템플릿/인덱스 템플릿.md",
+    "0. Inbox/es(0405).md",
     "0. Inbox/무제 파일 1.md",
+    "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
     "1. Project/ELK/04 데이터 다루기/검색/4. match.md",
     "1. Project/ELK/04 데이터 다루기/검색/5. term.md",
     "1. Project/ELK/03 인덱스 설계/1. 인덱스 설정/인덱스 설정.md",
@@ -222,12 +226,8 @@
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/계층 구조를 지원하는 타입.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/그 외 특수한 타입.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/term.md",
-    "1. Project/ELK/03 인덱스 설계/4. 템플릿/인덱스 템플릿.md",
     "1. Project/ELK/04 데이터 다루기/검색/7. range.md",
     "1. Project/ELK/04 데이터 다루기/검색/8. prefix.md",
-    "0. Inbox/끄적끄적.md",
-    "0. Inbox/나중에 정리할 것.md",
-    "0. Inbox/임시회의록/회의템플릿.md",
     "1. Project/ELK/04 데이터 다루기/집계",
     "1. Project/ELK/04 데이터 다루기/검색",
     "1. Project/ELK/04 데이터 다루기/1. 단건 문서 API",
