@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
+                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "동기 비동기",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
+                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md"
+                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md"
               }
             }
           },
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
+                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,10 +216,13 @@
   },
   "active": "11ea83246a45f53e",
   "lastOpenFiles": [
+    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 내부 구조와 루씬.md",
+    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조 개괄.md",
+    "1. Project/ELK/ElasticSearch.md",
+    "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
     "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트/Message Queue.md",
     "0. Inbox/es(0405).md",
     "1. Project/Message Queue",
-    "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
     "2. Area/JAVA/개발 환경/JVM/Thread 그룹.md",
     "2. Area/JAVA/개발 환경/JVM/Thread.md",
     "2. Area/JAVA/개발 환경/JVM/PC Register.md",
@@ -241,9 +243,6 @@
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/필드 타입.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/기타 설정/_source.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/기타 설정/enabled.md",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/기타 설정/index.md",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/캐시/doc_values.md",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/캐시/fielddata.md",
     "1. Project/ELK/04 데이터 다루기/집계",
     "1. Project/ELK/04 데이터 다루기/검색",
     "1. Project/ELK/04 데이터 다루기/1. 단건 문서 API",
