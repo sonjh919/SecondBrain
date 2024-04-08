@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/JAVA/개발 환경/JVM/Thread 그룹.md",
+                "file": "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "동기 비동기",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/JAVA/개발 환경/JVM/Thread 그룹.md",
+                "file": "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/JAVA/개발 환경/JVM/Thread 그룹.md"
+                "file": "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md"
               }
             }
           },
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/JAVA/개발 환경/JVM/Thread 그룹.md",
+                "file": "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,15 +217,18 @@
   },
   "active": "11ea83246a45f53e",
   "lastOpenFiles": [
+    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트/Message Queue.md",
+    "0. Inbox/es(0405).md",
+    "1. Project/Message Queue",
+    "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
+    "2. Area/JAVA/개발 환경/JVM/Thread 그룹.md",
     "2. Area/JAVA/개발 환경/JVM/Thread.md",
     "2. Area/JAVA/개발 환경/JVM/PC Register.md",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
     "1. Project/ELK/03 인덱스 설계/4. 템플릿/템플릿.md",
     "1. Project/ELK/03 인덱스 설계/4. 템플릿/컴포넌트 템플릿.md",
     "1. Project/ELK/03 인덱스 설계/4. 템플릿/인덱스 템플릿.md",
-    "0. Inbox/es(0405).md",
     "0. Inbox/무제 파일 1.md",
-    "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
     "1. Project/ELK/04 데이터 다루기/검색/4. match.md",
     "1. Project/ELK/04 데이터 다루기/검색/5. term.md",
     "1. Project/ELK/03 인덱스 설계/1. 인덱스 설정/인덱스 설정.md",
@@ -240,8 +244,6 @@
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/기타 설정/index.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/캐시/doc_values.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/캐시/fielddata.md",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/계층 구조를 지원하는 타입.md",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/그 외 특수한 타입.md",
     "1. Project/ELK/04 데이터 다루기/집계",
     "1. Project/ELK/04 데이터 다루기/검색",
     "1. Project/ELK/04 데이터 다루기/1. 단건 문서 API",
@@ -252,7 +254,6 @@
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/기타 설정",
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저",
     "1. Project/ELK/03 인덱스 설계/1. 인덱스 설정",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입",
     "1. Project/ELK/Pasted image 20240404214354.png",
     "0. Inbox/Pasted image 20240401163151.png",
     "4. Archive/img/ELK/index.jpg",
