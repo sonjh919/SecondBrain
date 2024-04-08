@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "11ea83246a45f53e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Area/JAVA/개발 환경/JVM/Thread 그룹.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
+                "file": "2. Area/JAVA/개발 환경/JVM/Thread 그룹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md"
+                "file": "2. Area/JAVA/개발 환경/JVM/Thread 그룹.md"
               }
             }
           },
@@ -141,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
+                "file": "2. Area/JAVA/개발 환경/JVM/Thread 그룹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,8 +214,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "95775da7906be2e1",
+  "active": "11ea83246a45f53e",
   "lastOpenFiles": [
+    "2. Area/JAVA/개발 환경/JVM/Thread.md",
+    "2. Area/JAVA/개발 환경/JVM/PC Register.md",
+    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
     "1. Project/ELK/03 인덱스 설계/4. 템플릿/템플릿.md",
     "1. Project/ELK/03 인덱스 설계/4. 템플릿/컴포넌트 템플릿.md",
     "1. Project/ELK/03 인덱스 설계/4. 템플릿/인덱스 템플릿.md",
@@ -225,9 +242,6 @@
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/캐시/fielddata.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/계층 구조를 지원하는 타입.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/그 외 특수한 타입.md",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/term.md",
-    "1. Project/ELK/04 데이터 다루기/검색/7. range.md",
-    "1. Project/ELK/04 데이터 다루기/검색/8. prefix.md",
     "1. Project/ELK/04 데이터 다루기/집계",
     "1. Project/ELK/04 데이터 다루기/검색",
     "1. Project/ELK/04 데이터 다루기/1. 단건 문서 API",
