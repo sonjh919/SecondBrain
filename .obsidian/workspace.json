@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/락,es.md",
+                "file": "1. Project/JPA/Persistence Context/변경 감지.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/락,es.md",
+                "file": "1. Project/JPA/Persistence Context/변경 감지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/락,es.md"
+                "file": "1. Project/JPA/Persistence Context/변경 감지.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/락,es.md",
+                "file": "1. Project/JPA/Persistence Context/변경 감지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,8 +216,9 @@
   },
   "active": "11ea83246a45f53e",
   "lastOpenFiles": [
-    "0. Inbox/es(0405).md",
+    "2. Area/Database/RDB/SQL/TCL/Transaction.md",
     "0. Inbox/락,es.md",
+    "0. Inbox/es(0405).md",
     "0. Inbox/Pasted image 20240408212226.png",
     "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
