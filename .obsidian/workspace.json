@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Database/Lock/Lock.md",
+                "file": "1. Project/Redis/RedLock.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Database/Lock/Lock.md",
+                "file": "1. Project/Redis/RedLock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Database/Lock/Lock.md"
+                "file": "1. Project/Redis/RedLock.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Database/Lock/Lock.md",
+                "file": "1. Project/Redis/RedLock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,8 +212,13 @@
   },
   "active": "95775da7906be2e1",
   "lastOpenFiles": [
-    "1. Project/Redis/데이터타입/Redis 데이터 타입.md",
+    "1. Project/Redis/분산락.png",
     "1. Project/Database/Lock/Lock.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/선점 잠금.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/비선점 잠금.md",
+    "1. Project/Redis/RedLock.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/MOC.md",
+    "1. Project/Redis/데이터타입/Redis 데이터 타입.md",
     "1. Project/Database/Lock",
     "1. Project/Redis/데이터타입/Sorted Sets.md",
     "1. Project/Redis/데이터타입/Streams.md",
@@ -246,12 +251,7 @@
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
     "1. Project/Database/NoSQL/NoSQL.md",
     "1. Project/Database/DataBase.md",
-    "1. Project/Database/RDB/RDB.md",
-    "1. Project/Database/NoSQL/NoSQL의 종류/Graph.md",
-    "1. Project/Database/NoSQL/NoSQL의 종류/Document.md",
     "1. Project/Database/NoSQL/NoSQL의 종류",
-    "1. Project/Database/RDB/데이터 유형.md",
-    "1. Project/Database/RDB/TABLE.md",
     "1. Project/Database/NoSQL",
     "1. Project/Redis",
     "1. Project/Message Queue",
