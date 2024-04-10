@@ -1,7 +1,7 @@
 #jpa #JPQL
 
 ## JOIN
-+ JPQL도 JOIN을 지원하는데 SQL의 [[2. Area/Database/RDB/SQL/Join/JOIN|JOIN]]과 기능은 같고 문법만 약간 다르다.
++ JPQL도 JOIN을 지원하는데 SQL의 [[1. Project/Database/RDB/SQL/Join/JOIN|JOIN]]과 기능은 같고 문법만 약간 다르다.
 + JPQL에서는 성능 최적화를 위해 SQL에는 없는 [[FETCH JOIN]]을 지원한다.
 
 ## 1. 내부 JOIN

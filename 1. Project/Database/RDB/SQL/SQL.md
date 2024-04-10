@@ -19,7 +19,7 @@ path:
 - DB의 표준언어로, DB의 종류가 달라져도 사용 가능하다.
 
 ## SQL 실행 순서
-**[[FROM]] → [[WHERE]] → [[GROUP BY]] → [[HAVING]] → [[2. Area/Database/RDB/SQL/DML/SELECT|SELECT]] → [[ORDER BY]]**
+**[[FROM]] → [[WHERE]] → [[GROUP BY]] → [[HAVING]] → [[1. Project/Database/RDB/SQL/DML/SELECT|SELECT]] → [[ORDER BY]]**
 ```
 5 : SELECT 컬럼명, 계산식, 함수식 [AS 별칭]
 1 : FROM 참조할 테이블 명
@@ -48,17 +48,17 @@ path:
 + 논리적인 작업 단위로 묶어 제어한다.
 
 ### 함수
-+ [[2. Area/Database/RDB/SQL/함수/함수|함수]]
++ [[1. Project/Database/RDB/SQL/함수/함수|함수]]
 
 ### 문법
 + [[DESC]]
 + [[Alias]]
-+ [[2. Area/Database/RDB/SQL/문법/연산자|연산자]]
++ [[1. Project/Database/RDB/SQL/문법/연산자|연산자]]
 + [[날짜형 포맷]]
 + [[CASE]]
 + [[DUAL]]
 + [[IN & EXISTS]]
-+ [[2. Area/Database/RDB/SQL/Join/JOIN|JOIN]]
++ [[1. Project/Database/RDB/SQL/Join/JOIN|JOIN]]
 + [[VIEW]]
 + [[집합 연산자]]
 + [[절차형 SQL]]

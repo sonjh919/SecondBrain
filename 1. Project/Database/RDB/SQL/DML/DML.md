@@ -18,11 +18,11 @@ path:
 - 구조는 변하지 않고 data 변화 행의 내용을 추가/수정/삭제하는 것
 
 + [[INSERT]]
-+ [[2. Area/Database/RDB/SQL/DML/UPDATE]]
-+ [[2. Area/Database/RDB/SQL/DML/DELETE]]
++ [[UPDATE]]
++ [[DELETE]]
 
 ## DQL/DML
 
 - 조건에 맞는 data를 select하는 기술
 
-+ [[2. Area/Database/RDB/SQL/DML/SELECT]]
++ [[1. Project/Database/RDB/SQL/DML/SELECT]]

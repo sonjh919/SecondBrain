@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
+                "file": "1. Project/Redis/Cache.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,17 +24,13 @@
             "id": "11ea83246a45f53e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1. Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "4. Archive/img/Database/keyvalue.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "component",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
+                "file": "1. Project/Redis/Cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Spring/Spring과 객체지향/IoC Container와 Bean.md"
+                "file": "1. Project/Redis/Cache.md"
               }
             }
           },
@@ -156,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
+                "file": "1. Project/Redis/Cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,15 +210,38 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "11ea83246a45f53e",
+  "active": "95775da7906be2e1",
   "lastOpenFiles": [
+    "1. Project/Redis/lookaside.png",
+    "1. Project/Redis/Cache.md",
+    "1. Project/Redis/Redis.md",
+    "1. Project/Redis/inmemory.png",
+    "1. Project/Redis/redisdatastructure.png",
+    "1. Project/Database/Pasted image 20240327095613.png",
+    "1. Project/Database/Pasted image 20240327095530.png",
+    "1. Project/Database/Pasted image 20240327095507.png",
+    "4. Archive/img/Database/keyvalue.png",
+    "1. Project/Database/NoSQL/NoSQL의 종류/Key-Value.md",
+    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
+    "4. Archive/img/ELK/invertedIndex.png",
+    "1. Project/Database/NoSQL/NoSQL.md",
+    "1. Project/Database/DataBase.md",
+    "1. Project/Database/RDB/RDB.md",
+    "1. Project/Database/NoSQL/NoSQL의 종류/Graph.md",
+    "1. Project/Database/NoSQL/NoSQL의 종류/graph.png",
+    "1. Project/Database/NoSQL/NoSQL의 종류/Document.md",
+    "1. Project/Database/NoSQL/NoSQL의 종류",
+    "1. Project/Database/RDB/데이터 유형.md",
+    "1. Project/Database/RDB/TABLE.md",
+    "1. Project/Database/NoSQL",
+    "1. Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
+    "1. Project/Redis",
     "1. Project/JPA/Persistence Context/변경 감지.md",
-    "2. Area/Database/RDB/SQL/TCL/Transaction.md",
+    "1. Project/Database/RDB/SQL/TCL/Transaction.md",
     "0. Inbox/락,es.md",
     "0. Inbox/es(0405).md",
     "0. Inbox/Pasted image 20240408212226.png",
     "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
-    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 내부 구조와 루씬.md",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조 개괄.md",
     "1. Project/ELK/ElasticSearch.md",
@@ -233,36 +251,12 @@
     "2. Area/JAVA/개발 환경/JVM/Thread.md",
     "2. Area/JAVA/개발 환경/JVM/PC Register.md",
     "1. Project/ELK/03 인덱스 설계/4. 템플릿/템플릿.md",
-    "1. Project/ELK/03 인덱스 설계/4. 템플릿/컴포넌트 템플릿.md",
-    "1. Project/ELK/03 인덱스 설계/4. 템플릿/인덱스 템플릿.md",
-    "0. Inbox/무제 파일 1.md",
-    "1. Project/ELK/04 데이터 다루기/검색/4. match.md",
-    "1. Project/ELK/04 데이터 다루기/검색/5. term.md",
-    "1. Project/ELK/03 인덱스 설계/1. 인덱스 설정/인덱스 설정.md",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/매핑.md",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/인덱스 매핑 설정.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토크나이저.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/애널라이저.md",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/text와 keyword.md",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/심플 타입.md",
     "1. Project/ELK/04 데이터 다루기/집계",
     "1. Project/ELK/04 데이터 다루기/검색",
     "1. Project/ELK/04 데이터 다루기/1. 단건 문서 API",
     "1. Project/ELK/04 데이터 다루기",
     "1. Project/ELK/03 인덱스 설계/5. 라우팅",
     "1. Project/ELK/03 인덱스 설계/4. 템플릿",
-    "4. Archive/img/ELK/analyzer.jpg",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/기타 설정",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저",
-    "1. Project/ELK/03 인덱스 설계/1. 인덱스 설정",
-    "1. Project/ELK/Pasted image 20240404214354.png",
-    "0. Inbox/Pasted image 20240401163151.png",
-    "4. Archive/img/ELK/index.jpg",
-    "4. Archive/img/ELK/cluster.jpg",
-    "4. Archive/img/ELK/kibana.png",
-    "4. Archive/img/ELK/kibana2.png",
-    "4. Archive/img/ELK/elksetting2.png",
-    "4. Archive/img/ELK/elksetting1.png",
     "Project/무제 파일.canvas"
   ]
 }
