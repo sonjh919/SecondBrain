@@ -22,7 +22,7 @@ path:
 ![[javalang.png]]
 ## 자주 쓰이는 클래스 및 인터페이스
 + [[Object]]
-+ [[String]]
++ [[2. Area/Java API/java.lang/String]]
 + [[StringBuffer & StringBuilder]]
 + [[Throwable]]
 + [[Wrapper]]
