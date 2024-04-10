@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/Persistence Context/변경 감지.md",
+                "file": "1. Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "component",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/Persistence Context/변경 감지.md",
+                "file": "1. Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/Persistence Context/변경 감지.md"
+                "file": "1. Project/Spring/Spring과 객체지향/IoC Container와 Bean.md"
               }
             }
           },
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/Persistence Context/변경 감지.md",
+                "file": "1. Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,6 +217,7 @@
   },
   "active": "11ea83246a45f53e",
   "lastOpenFiles": [
+    "1. Project/JPA/Persistence Context/변경 감지.md",
     "2. Area/Database/RDB/SQL/TCL/Transaction.md",
     "0. Inbox/락,es.md",
     "0. Inbox/es(0405).md",
@@ -243,7 +245,6 @@
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/애널라이저.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/text와 keyword.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/심플 타입.md",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/필드 타입.md",
     "1. Project/ELK/04 데이터 다루기/집계",
     "1. Project/ELK/04 데이터 다루기/검색",
     "1. Project/ELK/04 데이터 다루기/1. 단건 문서 API",
