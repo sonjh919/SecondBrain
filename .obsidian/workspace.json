@@ -24,9 +24,12 @@
             "id": "7c550582571cd13b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-11 14.05.07.excalidraw.md"
+                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -70,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "서브 쿼리",
+                "query": "fetchjoin",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-11 14.05.07.excalidraw.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-11 14.05.07.excalidraw.md"
+                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md"
               }
             }
           },
@@ -162,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-11 14.05.07.excalidraw.md",
+                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,8 +227,9 @@
   },
   "active": "7c550582571cd13b",
   "lastOpenFiles": [
-    "0. Inbox/끄적끄적.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/이벤트.md",
     "Excalidraw/Drawing 2024-04-11 14.05.07.excalidraw.md",
+    "0. Inbox/끄적끄적.md",
     "0. Inbox/Pasted image 20240411123301.png",
     "1. Project/Redis/RedLock.md",
     "1. Project/Redis/Redis.md",
@@ -261,7 +266,6 @@
     "4. Archive/img/Redis",
     "1. Project/Database/NoSQL/NoSQL의 종류/Key-Value.md",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
-    "1. Project/Database/NoSQL/NoSQL.md",
     "1. Project/Database/NoSQL/NoSQL의 종류",
     "1. Project/Database/NoSQL",
     "1. Project/Redis",
