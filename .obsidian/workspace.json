@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Database/NoSQL/NoSQL.md",
+                "file": "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -80,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Database/NoSQL/NoSQL.md",
+                "file": "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Database/NoSQL/NoSQL.md"
+                "file": "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md"
               }
             }
           },
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Database/NoSQL/NoSQL.md",
+                "file": "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,35 +216,36 @@
   },
   "active": "7c550582571cd13b",
   "lastOpenFiles": [
-    "4. Archive/img/Database/keyvalue.png",
+    "1. Project/ELK/03 인덱스 설계/4. 템플릿/템플릿.md",
+    "1. Project/ELK/04 데이터 다루기/검색/10. bool.md",
+    "1. Project/ELK/04 데이터 다루기/검색/11. constant_score.md",
+    "1. Project/ELK/04 데이터 다루기/검색/13. 검색 결과 정렬.md",
+    "1. Project/ELK/04 데이터 다루기/검색/12. 그 외 주요 매개변수.md",
+    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/애널라이저.md",
+    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/캐릭터 필터.md",
+    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토크나이저.md",
+    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md",
+    "1. Project/ELK/04 데이터 다루기/검색/7. range.md",
+    "1. Project/ELK/04 데이터 다루기/검색/6. terms.md",
+    "1. Project/ELK/04 데이터 다루기/검색/9. exists.md",
+    "1. Project/ELK/04 데이터 다루기/검색/8. prefix.md",
+    "1. Project/ELK/04 데이터 다루기/검색/2. 쿼리DSL 검색과 쿼리 문자열 검색.md",
+    "1. Project/ELK/04 데이터 다루기/검색/4. match.md",
+    "1. Project/ELK/04 데이터 다루기/검색/3. match_all.md",
     "1. Project/Database/NoSQL/NoSQL.md",
+    "4. Archive/img/Database/keyvalue.png",
     "1. Project/Database/NoSQL/NoSQL의 종류/Document.md",
     "1. Project/Database/NoSQL/NoSQL의 종류/Key-Value.md",
     "1. Project/Database/DataBase.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md",
     "Excalidraw/Drawing 2024-04-11 14.05.07.excalidraw.md",
     "4. Archive/Openrun/기획&설계/어떤 DB를 선택해야 할까.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/인덱스 매핑 설정.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/term.md",
     "1. Project/ELK/03 인덱스 설계/1. 인덱스 설정/인덱스 설정.md",
     "0. Inbox/dynamicscheduler.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/이벤트.md",
-    "0. Inbox/끄적끄적.md",
     "0. Inbox/Pasted image 20240411123301.png",
-    "1. Project/Redis/RedLock.md",
-    "1. Project/Redis/Redis.md",
-    "1. Project/Redis/Redis의 주의사항.md",
-    "1. Project/Redis/Cache.md",
     "1. Project/Redis/분산락.png",
-    "1. Project/Database/Lock/Lock.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/선점 잠금.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/비선점 잠금.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/MOC.md",
-    "1. Project/Redis/데이터타입/Redis 데이터 타입.md",
     "1. Project/Database/Lock",
-    "1. Project/Redis/데이터타입/Sorted Sets.md",
-    "1. Project/Redis/데이터타입/Streams.md",
     "4. Archive/img/Redis/Strings.png",
     "4. Archive/img/Redis/sortedset.png",
     "4. Archive/img/Redis/sets.png",
@@ -253,7 +253,6 @@
     "4. Archive/img/Redis/hashes.png",
     "4. Archive/img/Redis/bitmaps 1.png",
     "1. Project/Redis/데이터타입/Pasted image 20240410143947.png",
-    "4. Archive/img/Redis/datatype 1.png",
     "1. Project/Redis/데이터타입",
     "4. Archive/img/Redis",
     "1. Project/Database/NoSQL/NoSQL의 종류",
