@@ -26,20 +26,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
+                "file": "1. Project/Database/NoSQL/NoSQL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "11ea83246a45f53e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "4. Archive/img/Database/keyvalue.png"
               }
             }
           }
@@ -73,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fetchjoin",
+                "query": "NoSQL",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
+                "file": "1. Project/Database/NoSQL/NoSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md"
+                "file": "1. Project/Database/NoSQL/NoSQL.md"
               }
             }
           },
@@ -166,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
+                "file": "1. Project/Database/NoSQL/NoSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,8 +217,20 @@
   },
   "active": "7c550582571cd13b",
   "lastOpenFiles": [
-    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/이벤트.md",
+    "4. Archive/img/Database/keyvalue.png",
+    "1. Project/Database/NoSQL/NoSQL.md",
+    "1. Project/Database/NoSQL/NoSQL의 종류/Document.md",
+    "1. Project/Database/NoSQL/NoSQL의 종류/Key-Value.md",
+    "1. Project/Database/DataBase.md",
+    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md",
     "Excalidraw/Drawing 2024-04-11 14.05.07.excalidraw.md",
+    "4. Archive/Openrun/기획&설계/어떤 DB를 선택해야 할까.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/인덱스 매핑 설정.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/term.md",
+    "1. Project/ELK/03 인덱스 설계/1. 인덱스 설정/인덱스 설정.md",
+    "0. Inbox/dynamicscheduler.md",
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/이벤트.md",
     "0. Inbox/끄적끄적.md",
     "0. Inbox/Pasted image 20240411123301.png",
     "1. Project/Redis/RedLock.md",
@@ -244,28 +246,16 @@
     "1. Project/Database/Lock",
     "1. Project/Redis/데이터타입/Sorted Sets.md",
     "1. Project/Redis/데이터타입/Streams.md",
-    "1. Project/Redis/Redis의 특징.md",
     "4. Archive/img/Redis/Strings.png",
     "4. Archive/img/Redis/sortedset.png",
     "4. Archive/img/Redis/sets.png",
     "4. Archive/img/Redis/Lists.png",
     "4. Archive/img/Redis/hashes.png",
     "4. Archive/img/Redis/bitmaps 1.png",
-    "1. Project/Redis/데이터타입/Sets.md",
-    "1. Project/Redis/데이터타입/HyperLogLogs.md",
-    "1. Project/Redis/데이터타입/Strings.md",
-    "1. Project/Redis/데이터타입/Bitmaps.md",
-    "1. Project/Redis/데이터타입/Lists.md",
-    "1. Project/Redis/데이터타입/Hashes.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/비동기 이벤트/Message Queue.md",
     "1. Project/Redis/데이터타입/Pasted image 20240410143947.png",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/서브 쿼리.md",
-    "1. Project/JPA/데이터 타입/값 타입.md",
     "4. Archive/img/Redis/datatype 1.png",
     "1. Project/Redis/데이터타입",
     "4. Archive/img/Redis",
-    "1. Project/Database/NoSQL/NoSQL의 종류/Key-Value.md",
-    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
     "1. Project/Database/NoSQL/NoSQL의 종류",
     "1. Project/Database/NoSQL",
     "1. Project/Redis",
