@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md",
+                "file": "0. Inbox/무제 파일 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md",
+                "file": "0. Inbox/무제 파일 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md"
+                "file": "0. Inbox/무제 파일 1.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md",
+                "file": "0. Inbox/무제 파일 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,6 +216,7 @@
   },
   "active": "7c550582571cd13b",
   "lastOpenFiles": [
+    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md",
     "1. Project/ELK/03 인덱스 설계/4. 템플릿/템플릿.md",
     "1. Project/ELK/04 데이터 다루기/검색/10. bool.md",
     "1. Project/ELK/04 데이터 다루기/검색/11. constant_score.md",
@@ -224,7 +225,6 @@
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/애널라이저.md",
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/캐릭터 필터.md",
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토크나이저.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md",
     "1. Project/ELK/04 데이터 다루기/검색/7. range.md",
     "1. Project/ELK/04 데이터 다루기/검색/6. terms.md",
     "1. Project/ELK/04 데이터 다루기/검색/9. exists.md",
