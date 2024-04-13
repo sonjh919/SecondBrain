@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/무제 파일 1.md",
+                "file": "2. Area/CS/Network/CORS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "NoSQL",
+                "query": "cors",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/무제 파일 1.md",
+                "file": "2. Area/CS/Network/CORS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/무제 파일 1.md"
+                "file": "2. Area/CS/Network/CORS.md"
               }
             }
           },
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/무제 파일 1.md",
+                "file": "2. Area/CS/Network/CORS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,15 +217,21 @@
   },
   "active": "7c550582571cd13b",
   "lastOpenFiles": [
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/심플 타입.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/필드 타입.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/인덱스 매핑 설정.md",
+    "1. Project/ELK/ELK Stack.md",
+    "0. Inbox/무제 파일.md",
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md",
+    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/애널라이저.md",
+    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토크나이저.md",
+    "0. Inbox/무제 파일 1.md",
     "1. Project/ELK/03 인덱스 설계/4. 템플릿/템플릿.md",
     "1. Project/ELK/04 데이터 다루기/검색/10. bool.md",
     "1. Project/ELK/04 데이터 다루기/검색/11. constant_score.md",
     "1. Project/ELK/04 데이터 다루기/검색/13. 검색 결과 정렬.md",
     "1. Project/ELK/04 데이터 다루기/검색/12. 그 외 주요 매개변수.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/애널라이저.md",
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/캐릭터 필터.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토크나이저.md",
     "1. Project/ELK/04 데이터 다루기/검색/7. range.md",
     "1. Project/ELK/04 데이터 다루기/검색/6. terms.md",
     "1. Project/ELK/04 데이터 다루기/검색/9. exists.md",
@@ -237,12 +244,6 @@
     "1. Project/Database/NoSQL/NoSQL의 종류/Document.md",
     "1. Project/Database/NoSQL/NoSQL의 종류/Key-Value.md",
     "1. Project/Database/DataBase.md",
-    "Excalidraw/Drawing 2024-04-11 14.05.07.excalidraw.md",
-    "4. Archive/Openrun/기획&설계/어떤 DB를 선택해야 할까.md",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/인덱스 매핑 설정.md",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/term.md",
-    "1. Project/ELK/03 인덱스 설계/1. 인덱스 설정/인덱스 설정.md",
-    "0. Inbox/dynamicscheduler.md",
     "0. Inbox/Pasted image 20240411123301.png",
     "1. Project/Redis/분산락.png",
     "1. Project/Database/Lock",
