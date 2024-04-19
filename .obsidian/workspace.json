@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/심플 타입.md",
+                "file": "1. Project/ELK/ELK Stack.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "upper",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/심플 타입.md",
+                "file": "1. Project/ELK/ELK Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/심플 타입.md"
+                "file": "1. Project/ELK/ELK Stack.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/심플 타입.md",
+                "file": "1. Project/ELK/ELK Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,11 @@
   "active": "7c550582571cd13b",
   "lastOpenFiles": [
     "1. Project/ELK/ElasticSearch.md",
+    "1. Project/ELK/Setting/토큰 발급.md",
+    "1. Project/ELK/Setting/Elasticsearch + Kibana + Cerebro (Docker).md",
     "1. Project/ELK/ELK Stack.md",
+    "1. Project/ELK/Beats.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/심플 타입.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/인덱스 매핑 설정.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/매핑.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/계층 구조를 지원하는 타입.md",
@@ -234,14 +238,10 @@
     "1. Project/Architecture/Web System Architecture/Web System Architecture.md",
     "1. Project/Architecture/Web System Architecture/Hexagonal architecture.md",
     "2. Area/CS/Network/CORS.md",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/심플 타입.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/필드 타입.md",
     "0. Inbox/무제 파일.md",
     "0. Inbox/무제 파일 1.md",
     "1. Project/ELK/03 인덱스 설계/4. 템플릿/템플릿.md",
-    "1. Project/ELK/04 데이터 다루기/검색/10. bool.md",
-    "1. Project/ELK/04 데이터 다루기/검색/11. constant_score.md",
-    "1. Project/ELK/04 데이터 다루기/검색/13. 검색 결과 정렬.md",
     "4. Archive/img/Database/keyvalue.png",
     "0. Inbox/Pasted image 20240411123301.png",
     "1. Project/Redis/분산락.png",
