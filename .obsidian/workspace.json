@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/ELK/ELK Stack.md",
+                "file": "0. Inbox/모니터링.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/ELK/ELK Stack.md",
+                "file": "0. Inbox/모니터링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/ELK/ELK Stack.md"
+                "file": "0. Inbox/모니터링.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/ELK/ELK Stack.md",
+                "file": "0. Inbox/모니터링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,17 +216,26 @@
   },
   "active": "7c550582571cd13b",
   "lastOpenFiles": [
+    "0. Inbox/Pasted image 20240421200616.png",
+    "0. Inbox/Pasted image 20240421200552.png",
+    "0. Inbox/Pasted image 20240421200529.png",
+    "0. Inbox/Pasted image 20240421200502.png",
+    "0. Inbox/락,es.md",
+    "0. Inbox/모니터링.md",
+    "0. Inbox/무제 파일 1.md",
+    "0. Inbox/무제 파일.md",
+    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
+    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/매핑.md",
+    "1. Project/ELK/03 인덱스 설계/1. 인덱스 설정/인덱스 설정.md",
+    "1. Project/ELK/ELK Stack.md",
     "1. Project/ELK/ElasticSearch.md",
     "1. Project/ELK/Setting/토큰 발급.md",
     "1. Project/ELK/Setting/Elasticsearch + Kibana + Cerebro (Docker).md",
-    "1. Project/ELK/ELK Stack.md",
     "1. Project/ELK/Beats.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/심플 타입.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/인덱스 매핑 설정.md",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/매핑.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/계층 구조를 지원하는 타입.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/그 외 특수한 타입.md",
-    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 내부 구조와 루씬.md",
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토크나이저.md",
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/애널라이저.md",
@@ -236,12 +245,6 @@
     "1. Project/Architecture/DDD/Component.md",
     "1. Project/Architecture/DDD/Event Storming.md",
     "1. Project/Architecture/Web System Architecture/Web System Architecture.md",
-    "1. Project/Architecture/Web System Architecture/Hexagonal architecture.md",
-    "2. Area/CS/Network/CORS.md",
-    "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/필드 타입.md",
-    "0. Inbox/무제 파일.md",
-    "0. Inbox/무제 파일 1.md",
-    "1. Project/ELK/03 인덱스 설계/4. 템플릿/템플릿.md",
     "4. Archive/img/Database/keyvalue.png",
     "0. Inbox/Pasted image 20240411123301.png",
     "1. Project/Redis/분산락.png",
@@ -250,9 +253,6 @@
     "4. Archive/img/Redis/sortedset.png",
     "4. Archive/img/Redis/sets.png",
     "4. Archive/img/Redis/Lists.png",
-    "4. Archive/img/Redis/hashes.png",
-    "4. Archive/img/Redis/bitmaps 1.png",
-    "1. Project/Redis/데이터타입/Pasted image 20240410143947.png",
     "1. Project/Redis/데이터타입",
     "4. Archive/img/Redis",
     "1. Project/Database/NoSQL/NoSQL의 종류",
