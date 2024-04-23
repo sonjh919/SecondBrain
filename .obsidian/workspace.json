@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Redis/Redis.md",
+                "file": "0. Inbox/모니터링.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Redis/Redis.md",
+                "file": "0. Inbox/모니터링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Redis/Redis.md"
+                "file": "0. Inbox/모니터링.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Redis/Redis.md",
+                "file": "0. Inbox/모니터링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,6 +216,7 @@
   },
   "active": "7c550582571cd13b",
   "lastOpenFiles": [
+    "1. Project/Redis/Redis.md",
     "1. Project/Redis/데이터타입/Strings.md",
     "1. Project/Redis/데이터타입/Redis 데이터 타입.md",
     "1. Project/Redis/데이터타입/Lists.md",
@@ -245,7 +246,6 @@
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/캐릭터 필터.md",
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md",
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/노멀라이저.md",
-    "1. Project/Architecture/DDD/Component.md",
     "4. Archive/img/Database/keyvalue.png",
     "0. Inbox/Pasted image 20240411123301.png",
     "1. Project/Redis/분산락.png",
