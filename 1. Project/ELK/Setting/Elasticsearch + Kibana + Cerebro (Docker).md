@@ -1,6 +1,4 @@
 #ELK #Docker #Elasticsearch #Kibana 
-
-현재 비번 : 
 ## 1. Elasticsearch
 1. image pull
 ```
