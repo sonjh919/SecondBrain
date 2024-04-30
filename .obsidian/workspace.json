@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/대용량트래픽/대용량 트래픽.md",
+                "file": "2. Area/Error/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "edge",
+                "query": "record",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/대용량트래픽/대용량 트래픽.md",
+                "file": "2. Area/Error/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/대용량트래픽/대용량 트래픽.md"
+                "file": "2. Area/Error/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/대용량트래픽/대용량 트래픽.md",
+                "file": "2. Area/Error/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,6 +229,8 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
+    "2. Area/Java API/java.lang/record.md",
+    "1. Project/대용량트래픽/대용량 트래픽.md",
     "1. Project/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
     "1. Project/ELK/03 인덱스 설계/2. 매핑과 필드 타입/인덱스 매핑 설정.md",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 내부 구조와 루씬.md",
@@ -254,8 +256,6 @@
     "1. Project/ELK/04 데이터 다루기/검색/검색 API.md",
     "1. Project/ELK/04 데이터 다루기/검색/2. 쿼리DSL 검색과 쿼리 문자열 검색.md",
     "1. Project/ELK/04 데이터 다루기/검색/3. match_all.md",
-    "1. Project/ELK/04 데이터 다루기/검색/1. 검색 대상 지정.md",
-    "1. Project/ELK/03 인덱스 설계/5. 라우팅/라우팅.md",
     "0. Inbox/Pasted image 20240421200616.png",
     "0. Inbox/Pasted image 20240421200552.png",
     "0. Inbox/Pasted image 20240421200529.png",
