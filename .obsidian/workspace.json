@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/ELK/ELK Stack.md",
+                "file": "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "edge",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/ELK/ELK Stack.md",
+                "file": "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/ELK/ELK Stack.md"
+                "file": "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md"
               }
             }
           },
@@ -168,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/ELK/ELK Stack.md",
+                "file": "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,16 +230,16 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
-    "4. Archive/img/ELK/elk.png",
+    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/애널라이저.md",
+    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토크나이저.md",
     "1. Project/ELK/ELK Stack.md",
+    "4. Archive/img/ELK/elk.png",
     "1. Project/ELK/ElasticSearch.md",
     "1. Project/ELK/색인.md",
     "1. Project/ELK/역색인.md",
     "1. Project/ELK/Beats.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토크나이저.md",
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/캐릭터 필터.md",
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/노멀라이저.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/애널라이저.md",
     "1. Project/ELK/Kibana.md",
     "1. Project/ELK/Logstash.md",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조 개괄.md",
@@ -265,7 +266,6 @@
     "1. Project/Database/Lock",
     "4. Archive/img/Redis/Strings.png",
     "4. Archive/img/Redis/sortedset.png",
-    "4. Archive/img/Redis/sets.png",
     "1. Project/Redis/데이터타입",
     "4. Archive/img/Redis",
     "1. Project/Database/NoSQL/NoSQL의 종류",
