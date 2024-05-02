@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Error/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md",
+                "file": "1. Project/Book/오브젝트/04 설계 품질과 트레이드오프.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/Error/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md",
+                "file": "1. Project/Book/오브젝트/04 설계 품질과 트레이드오프.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/Error/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md"
+                "file": "1. Project/Book/오브젝트/04 설계 품질과 트레이드오프.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/Error/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md",
+                "file": "1. Project/Book/오브젝트/04 설계 품질과 트레이드오프.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,6 +229,20 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
+    "1. Project/Book/오브젝트/03 역할, 책임, 협력.md",
+    "1. Project/Book/오브젝트/02 객체지향 프로그래밍.md",
+    "1. Project/Book/오브젝트/01 객체, 설계.md",
+    "1. Project/Book/오브젝트/04 설계 품질과 트레이드오프.md",
+    "1. Project/Book/객체지향의 사실과 오해/05 책임과 메시지.md",
+    "1. Project/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+    "1. Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
+    "1. Project/Book/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
+    "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/04 자바가 확장한 객체 지향.md",
+    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/03 자바와 객체 지향.md",
+    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/02 자바와 절차적, 구조적 프로그래밍.md",
+    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/01 사람을 사랑한 기술.md",
+    "2. Area/Error/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md",
     "2. Area/Java API/java.lang/record.md",
     "1. Project/대용량트래픽/대용량 트래픽.md",
     "1. Project/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
@@ -241,21 +255,7 @@
     "1. Project/ELK/ElasticSearch.md",
     "1. Project/ELK/Beats.md",
     "1. Project/ELK/역색인.md",
-    "1. Project/ELK/색인.md",
-    "1. Project/ELK/Logstash.md",
-    "1. Project/ELK/Kibana.md",
-    "1. Project/ELK/ELK Stack.md",
-    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
-    "0. Inbox/dynamicscheduler.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/애널라이저.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토크나이저.md",
     "4. Archive/img/ELK/elk.png",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/캐릭터 필터.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/노멀라이저.md",
-    "1. Project/ELK/04 데이터 다루기/검색/검색 API.md",
-    "1. Project/ELK/04 데이터 다루기/검색/2. 쿼리DSL 검색과 쿼리 문자열 검색.md",
-    "1. Project/ELK/04 데이터 다루기/검색/3. match_all.md",
     "0. Inbox/Pasted image 20240421200616.png",
     "0. Inbox/Pasted image 20240421200552.png",
     "0. Inbox/Pasted image 20240421200529.png",
