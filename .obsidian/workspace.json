@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/일정.md",
+                "file": "Todo/TIL/2024-05/2024-05-08 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/일정.md",
+                "file": "Todo/TIL/2024-05/2024-05-08 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/일정.md"
+                "file": "Todo/TIL/2024-05/2024-05-08 TIL.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/일정.md",
+                "file": "Todo/TIL/2024-05/2024-05-08 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,9 +229,9 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
+    "0. Inbox/일정.md",
     "0. Inbox/무제 파일.md",
     "0. Inbox/무제 파일 1.md",
-    "0. Inbox/일정.md",
     "0. Inbox/ddd.md",
     "0. Inbox/코테.md",
     "0. Inbox/es(0405).md",
