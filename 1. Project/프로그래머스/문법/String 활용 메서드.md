@@ -41,6 +41,15 @@ String.join("",str);
 
 ```
 
+### 문자열을 배열처럼 2
+toCharArray()를 사용하자.
+
+```java
+String str;
+
+for(char x : str.toCharArray()){
+}
+```
 ### 문자열 덧셈
 문자열에서 뒤에 문자열을 추가하고 싶다면 + 연산자를 쓸 수 있다.
 ```java

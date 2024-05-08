@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "7c550582571cd13b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Project/Database/Lock/Lock.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a983fc1a9a82f592",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/2024-05/2024-05-08 TIL.md",
+                "file": "1. Project/프로그래머스/문법/String 활용 메서드.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/2024-05/2024-05-08 TIL.md",
+                "file": "1. Project/프로그래머스/문법/String 활용 메서드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/TIL/2024-05/2024-05-08 TIL.md"
+                "file": "1. Project/프로그래머스/문법/String 활용 메서드.md"
               }
             }
           },
@@ -168,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/2024-05/2024-05-08 TIL.md",
+                "file": "1. Project/프로그래머스/문법/String 활용 메서드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,6 +216,19 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
+    "1. Project/프로그래머스/문법/Math 활용 메서드.md",
+    "1. Project/프로그래머스/문법/List 활용 메서드.md",
+    "1. Project/프로그래머스/문법/형변환 꿀팁.md",
+    "1. Project/프로그래머스/문법/String 활용 메서드.md",
+    "2. Area/Java API/java.lang/StringBuffer & StringBuilder.md",
+    "1. Project/프로그래머스/문법/StringBuilder 활용 메서드.md",
+    "1. Project/프로그래머스/문법/Collections 활용 메서드.md",
+    "1. Project/프로그래머스/문법/Character 활용 메서드.md",
+    "1. Project/프로그래머스/문법/배열을 List로 변환하기.md",
+    "Todo/TIL/2024-05/2024-05-08 TIL.md",
+    "Todo/TIL/2024-05/2024-05-07 TIL.md",
+    "0. Inbox/끄적끄적.md",
+    "1. Project/Database/Lock/Lock.md",
     "0. Inbox/일정.md",
     "0. Inbox/무제 파일.md",
     "0. Inbox/무제 파일 1.md",
@@ -238,24 +238,11 @@
     "0. Inbox/락,es.md",
     "0. Inbox/dynamicscheduler.md",
     "0. Inbox/책/책.md",
-    "0. Inbox/끄적끄적.md",
-    "Todo/TIL/2024-05/2024-05-07 TIL.md",
     "Todo/TIL/2024-05/2024-05-06 TIL.md",
-    "Todo/TIL/2024-05/2024-05-08 TIL.md",
     "Templates/TIL Templete.md",
     "Todo/TIL/2024-05",
     "Todo/TIL/TIL.md",
     "Templates/Insert_Callout.md",
-    "Templates/gitblog templete.md",
-    "Templates/blog_Callout.md",
-    "Welcome to JH SecondBrain.md",
-    "무제 파일.md",
-    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/01 사람을 사랑한 기술.md",
-    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/02 자바와 절차적, 구조적 프로그래밍.md",
-    "1. Project/Book/오브젝트/04 설계 품질과 트레이드오프.md",
-    "1. Project/Book/오브젝트/03 역할, 책임, 협력.md",
-    "1. Project/Book/오브젝트/02 객체지향 프로그래밍.md",
-    "1. Project/Book/오브젝트/01 객체, 설계.md",
     "4. Archive/img/ELK/elk.png",
     "0. Inbox/Pasted image 20240421200616.png",
     "0. Inbox/Pasted image 20240421200552.png",
