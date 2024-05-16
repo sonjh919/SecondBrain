@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품/ERC-721.md",
+                "file": "1. Project/프로그래머스/문법/형변환 꿀팁.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/끄적끄적.md",
+                "file": "1. Project/프로그래머스/문법/형변환 꿀팁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/끄적끄적.md"
+                "file": "1. Project/프로그래머스/문법/형변환 꿀팁.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/끄적끄적.md",
+                "file": "1. Project/프로그래머스/문법/형변환 꿀팁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,8 +214,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
+    "0. Inbox/끄적끄적.md",
     "3. Resource/BlockChain/ERC.md",
     "3. Resource/BlockChain/토큰.md",
     "3. Resource/BlockChain/FT.md",
@@ -243,7 +244,6 @@
     "1. Project/프로그래머스/문법/String 활용 메서드.md",
     "1. Project/프로그래머스/문법/Math 활용 메서드.md",
     "1. Project/프로그래머스/문법/List 활용 메서드.md",
-    "1. Project/프로그래머스/문법/Collections 활용 메서드.md",
     "Todo/TIL/2024-05",
     "4. Archive/img/ELK/elk.png",
     "0. Inbox/Pasted image 20240421200616.png",
