@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/프로그래머스/문법/List 활용 메서드.md",
+                "file": "1. Project/프로그래머스/문법/Collections 활용 메서드.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/프로그래머스/문법/List 활용 메서드.md",
+                "file": "1. Project/프로그래머스/문법/Collections 활용 메서드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/프로그래머스/문법/List 활용 메서드.md"
+                "file": "1. Project/프로그래머스/문법/Collections 활용 메서드.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/프로그래머스/문법/List 활용 메서드.md",
+                "file": "1. Project/프로그래머스/문법/Collections 활용 메서드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,14 +202,14 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
+    "1. Project/프로그래머스/문법/Character 활용 메서드.md",
     "1. Project/프로그래머스/문법/형변환 꿀팁.md",
     "1. Project/프로그래머스/문법/배열을 List로 변환하기.md",
+    "1. Project/프로그래머스/문법/List 활용 메서드.md",
     "1. Project/프로그래머스/문법/StringBuilder 활용 메서드.md",
     "1. Project/프로그래머스/문법/String 활용 메서드.md",
     "1. Project/프로그래머스/문법/Math 활용 메서드.md",
-    "1. Project/프로그래머스/문법/List 활용 메서드.md",
     "1. Project/프로그래머스/문법/Collections 활용 메서드.md",
-    "1. Project/프로그래머스/문법/Character 활용 메서드.md",
     "0. Inbox/끄적끄적.md",
     "3. Resource/BlockChain/ERC.md",
     "3. Resource/BlockChain/토큰.md",
