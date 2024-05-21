@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/프로그래머스/문법/Collections 활용 메서드.md",
+                "file": "2. Area/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca67809392be6c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "record",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/프로그래머스/문법/Collections 활용 메서드.md",
+                "file": "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/프로그래머스/문법/Collections 활용 메서드.md"
+                "file": "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md"
               }
             }
           },
@@ -141,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/프로그래머스/문법/Collections 활용 메서드.md",
+                "file": "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,16 +214,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a983fc1a9a82f592",
+  "active": "ca67809392be6c64",
   "lastOpenFiles": [
-    "1. Project/프로그래머스/문법/Character 활용 메서드.md",
-    "1. Project/프로그래머스/문법/형변환 꿀팁.md",
-    "1. Project/프로그래머스/문법/배열을 List로 변환하기.md",
-    "1. Project/프로그래머스/문법/List 활용 메서드.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/1. 도메인 모델/도메인 언어와 유비쿼터스 언어.md",
+    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/03 자바와 객체 지향.md",
+    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/02 자바와 절차적, 구조적 프로그래밍.md",
+    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/01 사람을 사랑한 기술.md",
+    "2. Area/Java API/java.lang/StringBuffer & StringBuilder.md",
     "1. Project/프로그래머스/문법/StringBuilder 활용 메서드.md",
     "1. Project/프로그래머스/문법/String 활용 메서드.md",
     "1. Project/프로그래머스/문법/Math 활용 메서드.md",
+    "1. Project/프로그래머스/문법/List 활용 메서드.md",
+    "1. Project/프로그래머스/문법/Character 활용 메서드.md",
+    "1. Project/프로그래머스/문법/형변환 꿀팁.md",
+    "2. Area/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
+    "2. Area/JAVA/개발 환경/JVM/Execution Engine.md",
+    "2. Area/JAVA/개발 환경/JVM/Garbage Collector.md",
+    "2. Area/JAVA/개발 환경/JVM/JVM.md",
     "1. Project/프로그래머스/문법/Collections 활용 메서드.md",
+    "1. Project/프로그래머스/문법/배열을 List로 변환하기.md",
+    "2. Area/Java API/java.util/function.md",
+    "2. Area/JAVA/모던 자바/함수형 인터페이스.md",
     "0. Inbox/끄적끄적.md",
     "3. Resource/BlockChain/ERC.md",
     "3. Resource/BlockChain/토큰.md",
@@ -217,18 +242,7 @@
     "3. Resource/BlockChain/이더리움.md",
     "1. Project/이선좌/기획&설계/4. 기획.md",
     "1. Project/이선좌/이선좌 프로젝트.md",
-    "1. Project/이선좌/기획&설계/1. 프로젝트의 목적.md",
-    "1. Project/이선좌/기획&설계/2. 주제 확정짓기.md",
-    "1. Project/이선좌/기획&설계/3. 도메인 분석.md",
-    "1. Project/Architecture/DDD/Event Storming.md",
-    "1. Project/이선좌/기획&설계/4. 기술스택 검증하기.md",
-    "1. Project/Openrun/기획&설계/주제 확정짓기.md",
-    "1. Project/Openrun/기획&설계/프로젝트 시작.md",
-    "1. Project/Openrun/기획&설계/프로젝트의 목적.md",
-    "1. Project/Openrun/기획&설계/어떤 DB를 선택해야 할까.md",
     "1. Project/이선좌/기획&설계",
-    "1. Project/Openrun/기획&설계/Repository Rule.md",
-    "1. Project/Openrun/기획&설계/Spring과 Java 버전 선택.md",
     "1. Project/이선좌",
     "Todo/TIL/2024-05",
     "4. Archive/img/ELK/elk.png",
