@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/DIP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "고수준",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/DIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md"
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/DIP.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/DIP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,34 +214,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ca67809392be6c64",
+  "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
+    "1. Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
+    "1. Project/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+    "1. Project/Book/객체지향의 사실과 오해/07 함께 모으기.md",
+    "1. Project/Book/객체지향의 사실과 오해/06 객체 지도.md",
+    "1. Project/Book/객체지향의 사실과 오해/05 책임과 메시지.md",
+    "1. Project/Book/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
+    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/01 사람을 사랑한 기술.md",
+    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/02 자바와 절차적, 구조적 프로그래밍.md",
+    "1. Project/Book/오브젝트/06 메시지와 인터페이스.md",
+    "1. Project/Book/오브젝트/04 설계 품질과 트레이드오프.md",
+    "1. Project/Book/오브젝트/05 책임 할당하기.md",
+    "1. Project/Book/오브젝트/03 역할, 책임, 협력.md",
+    "1. Project/Book/오브젝트/02 객체지향 프로그래밍.md",
+    "2. Area/JAVA/개발 환경/JVM/Execution Engine.md",
+    "2. Area/JAVA/개발 환경/JIT.md",
+    "2. Area/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
+    "2. Area/JAVA/개발 환경/JVM/Runtime Data Area.md",
+    "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
     "1. Project/Book/도메인 주도 개발 시작하기/1. 도메인 모델/도메인 언어와 유비쿼터스 언어.md",
     "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/03 자바와 객체 지향.md",
-    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/02 자바와 절차적, 구조적 프로그래밍.md",
-    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/01 사람을 사랑한 기술.md",
     "2. Area/Java API/java.lang/StringBuffer & StringBuilder.md",
     "1. Project/프로그래머스/문법/StringBuilder 활용 메서드.md",
     "1. Project/프로그래머스/문법/String 활용 메서드.md",
     "1. Project/프로그래머스/문법/Math 활용 메서드.md",
     "1. Project/프로그래머스/문법/List 활용 메서드.md",
     "1. Project/프로그래머스/문법/Character 활용 메서드.md",
-    "1. Project/프로그래머스/문법/형변환 꿀팁.md",
-    "2. Area/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
-    "2. Area/JAVA/개발 환경/JVM/Execution Engine.md",
-    "2. Area/JAVA/개발 환경/JVM/Garbage Collector.md",
-    "2. Area/JAVA/개발 환경/JVM/JVM.md",
-    "1. Project/프로그래머스/문법/Collections 활용 메서드.md",
-    "1. Project/프로그래머스/문법/배열을 List로 변환하기.md",
-    "2. Area/Java API/java.util/function.md",
-    "2. Area/JAVA/모던 자바/함수형 인터페이스.md",
-    "0. Inbox/끄적끄적.md",
-    "3. Resource/BlockChain/ERC.md",
-    "3. Resource/BlockChain/토큰.md",
-    "3. Resource/BlockChain/FT.md",
-    "3. Resource/BlockChain/이더리움.md",
-    "1. Project/이선좌/기획&설계/4. 기획.md",
-    "1. Project/이선좌/이선좌 프로젝트.md",
     "1. Project/이선좌/기획&설계",
     "1. Project/이선좌",
     "Todo/TIL/2024-05",
