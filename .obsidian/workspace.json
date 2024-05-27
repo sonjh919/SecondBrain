@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/책/책.md",
+                "file": "1. Project/Redis/RedLock.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/책/책.md",
+                "file": "1. Project/Redis/RedLock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/책/책.md"
+                "file": "1. Project/Redis/RedLock.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/책/책.md",
+                "file": "1. Project/Redis/RedLock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,15 +215,19 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
+    "1. Project/Redis/분산락.png",
+    "0. Inbox/끄적끄적.md",
+    "0. Inbox/락,es.md",
+    "0. Inbox/면접.md",
+    "0. Inbox/모니터링.md",
+    "0. Inbox/dynamicscheduler.md",
+    "0. Inbox/Pasted image 20240408212226.png",
+    "0. Inbox/책/책.md",
     "0. Inbox/동시성 제어.md",
     "0. Inbox/임시회의록/회의템플릿.md",
-    "0. Inbox/면접.md",
-    "0. Inbox/락,es.md",
     "0. Inbox/ddd.md",
-    "0. Inbox/dynamicscheduler.md",
     "0. Inbox/Pasted image 20240421200529.png",
     "0. Inbox/Pasted image 20240411123301.png",
-    "0. Inbox/Pasted image 20240408212226.png",
     "0. Inbox/무제 파일 1.md",
     "0. Inbox/일정.md",
     "0. Inbox/무제 파일.md",
@@ -240,10 +244,6 @@
     "2. Area/JAVA/개발 환경/JVM/싱글 Thread와 멀티 Thread.md",
     "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
     "2. Area/JAVA/클래스&객체/Static.md",
-    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/01 사람을 사랑한 기술.md",
-    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/03 자바와 객체 지향.md",
-    "1. Project/Software Pattern/Design Pattern/Singleton Pattern.md",
-    "1. Project/Book/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
     "1. Project/이선좌/기획&설계",
     "1. Project/이선좌",
     "Todo/TIL/2024-05",
@@ -252,7 +252,6 @@
     "0. Inbox/Pasted image 20240421200552.png",
     "0. Inbox/Pasted image 20240421200502.png",
     "4. Archive/img/Database/keyvalue.png",
-    "1. Project/Redis/분산락.png",
     "1. Project/Database/Lock",
     "4. Archive/img/Redis/Strings.png",
     "1. Project/Redis/데이터타입",
