@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "DI",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,14 +214,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a983fc1a9a82f592",
+  "active": "e6d2440fd7f079b9",
   "lastOpenFiles": [
+    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/02 자바와 절차적, 구조적 프로그래밍.md",
+    "0. Inbox/면접.md",
     "0. Inbox/코테.md",
     "1. Project/Redis/RedLock.md",
     "1. Project/Redis/분산락.png",
     "0. Inbox/끄적끄적.md",
     "0. Inbox/락,es.md",
-    "0. Inbox/면접.md",
     "0. Inbox/모니터링.md",
     "0. Inbox/dynamicscheduler.md",
     "0. Inbox/Pasted image 20240408212226.png",
@@ -239,7 +241,6 @@
     "2. Area/Java API/java.lang/Throwable/Throwable.md",
     "2. Area/Java API/java.lang/Throwable/Error.md",
     "2. Area/Java API/java.lang/Throwable/Exception.md",
-    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/02 자바와 절차적, 구조적 프로그래밍.md",
     "2. Area/Java API/java.lang/StringBuffer & StringBuilder.md",
     "2. Area/JAVA/기본 문법/Literal.md",
     "2. Area/JAVA/개발 환경/JVM/Thread.md",
