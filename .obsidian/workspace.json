@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Redis/RedLock.md",
+                "file": "0. Inbox/면접.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Redis/RedLock.md",
+                "file": "0. Inbox/면접.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Redis/RedLock.md"
+                "file": "0. Inbox/면접.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Redis/RedLock.md",
+                "file": "0. Inbox/면접.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,6 +215,8 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
+    "0. Inbox/코테.md",
+    "1. Project/Redis/RedLock.md",
     "1. Project/Redis/분산락.png",
     "0. Inbox/끄적끄적.md",
     "0. Inbox/락,es.md",
@@ -243,7 +245,6 @@
     "2. Area/JAVA/개발 환경/JVM/Thread.md",
     "2. Area/JAVA/개발 환경/JVM/싱글 Thread와 멀티 Thread.md",
     "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
-    "2. Area/JAVA/클래스&객체/Static.md",
     "1. Project/이선좌/기획&설계",
     "1. Project/이선좌",
     "Todo/TIL/2024-05",
