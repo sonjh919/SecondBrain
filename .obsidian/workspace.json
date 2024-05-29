@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/면접.md",
+                "file": "1. Project/Spring/Security/인증과 인가.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
+                "file": "1. Project/JPA/프록시/프록시.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DI",
+                "query": "인증",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
+                "file": "1. Project/Spring/Security/인증과 인가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Spring/Spring과 객체지향/DI (Dependency Injection).md"
+                "file": "1. Project/Spring/Security/인증과 인가.md"
               }
             }
           },
@@ -169,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
+                "file": "1. Project/Spring/Security/인증과 인가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,12 +227,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ca67809392be6c64",
+  "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
+    "1. Project/Spring/Security/쿠키와 세션 기반 인증.md",
+    "1. Project/Spring/Security/로그인.md",
+    "1. Project/Spring/Security/인증과 인가.md",
+    "1. Project/Spring/Security/JWT/JWT 기반 인증.md",
+    "3. Resource/BlockChain/트랜잭션.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/시스템 간 강결합 문제.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/이벤트.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/벌크 연산.md",
+    "0. Inbox/면접.md",
+    "1. Project/JPA/프록시/프록시.md",
+    "1. Project/Software Pattern/Design Pattern/Proxy Pattern.md",
+    "1. Project/JPA/프록시/지연 로딩.md",
+    "1. Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
     "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
     "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/DIP.md",
-    "1. Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
-    "0. Inbox/면접.md",
     "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/02 자바와 절차적, 구조적 프로그래밍.md",
     "0. Inbox/코테.md",
     "1. Project/Redis/RedLock.md",
@@ -249,17 +259,6 @@
     "0. Inbox/ddd.md",
     "0. Inbox/Pasted image 20240421200529.png",
     "0. Inbox/Pasted image 20240411123301.png",
-    "0. Inbox/무제 파일 1.md",
-    "0. Inbox/일정.md",
-    "0. Inbox/무제 파일.md",
-    "2. Area/JAVA/클래스&객체/오버라이딩과 오버로딩.md",
-    "1. Project/Software Pattern/Design Pattern/Facade Pattern.md",
-    "1. Project/Software Pattern/Architecture Pattern/Front Controller Pattern.md",
-    "2. Area/Java API/java.lang/Throwable/Throwable.md",
-    "2. Area/Java API/java.lang/Throwable/Error.md",
-    "2. Area/Java API/java.lang/Throwable/Exception.md",
-    "2. Area/Java API/java.lang/StringBuffer & StringBuilder.md",
-    "2. Area/JAVA/기본 문법/Literal.md",
     "1. Project/이선좌/기획&설계",
     "1. Project/이선좌",
     "Todo/TIL/2024-05",
