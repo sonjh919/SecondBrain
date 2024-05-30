@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ORM",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,8 +92,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,31 +229,31 @@
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
     "1. Project/Database/RDB/SQL/Join/JOIN.md",
+    "1. Project/Database/RDB/SQL/Join/OUTER JOIN.md",
     "0. Inbox/면접.md",
+    "1. Project/JPA/JPA 기초/SQL을 직접 다룰 때 발생하는 문제점.md",
+    "1. Project/JPA/JPA 기초/ORM.md",
+    "1. Project/Database/RDB/SQL/TCL/Transaction.md",
+    "1. Project/Database/RDB/SQL/정규화/정규화.md",
+    "1. Project/JPA/Annotation/연관관계/@OneToMany.md",
+    "1. Project/JPA/Mapping/연관관계/일대다.md",
+    "1. Project/JPA/Mapping/연관관계/Entity 연관관계.md",
+    "1. Project/JPA/Entity/Entity생명주기/Entity 생명주기.md",
+    "1. Project/JPA/JPA 기초/하이버네이트.md",
     "1. Project/JPA/데이터 타입/값 타입.md",
     "1. Project/Book/도메인 주도 개발 시작하기/11. CQRS/단일 모델의 단점.md",
-    "1. Project/JPA/JPA 기초/ORM.md",
-    "1. Project/JPA/JPA 기초/SQL을 직접 다룰 때 발생하는 문제점.md",
-    "1. Project/Database/RDB/SQL/TCL/Transaction.md",
     "1. Project/JPA/트랜잭션/트랜잭션.md",
-    "1. Project/Database/RDB/SQL/정규화/정규화.md",
     "1. Project/Spring/Security/인증과 인가.md",
     "1. Project/Database/RDB/SQL/SQL.md",
     "1. Project/Database/RDB/RDB.md",
     "1. Project/Database/DataBase.md",
     "1. Project/Database/NoSQL/NoSQL.md",
-    "1. Project/JPA/Annotation/연관관계/@OneToMany.md",
-    "1. Project/JPA/Mapping/연관관계/일대다.md",
-    "1. Project/JPA/Entity/Entity생명주기/Entity 생명주기.md",
     "1. Project/Spring/세팅/build.gradle.md",
-    "1. Project/JPA/JPA 기초/하이버네이트.md",
     "1. Project/Spring/Security/쿠키와 세션 기반 인증.md",
     "1. Project/Spring/Security/로그인.md",
     "1. Project/Spring/Security/JWT/JWT 기반 인증.md",
     "3. Resource/BlockChain/트랜잭션.md",
     "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/시스템 간 강결합 문제.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/10. 이벤트/이벤트.md",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/벌크 연산.md",
     "1. Project/Redis/분산락.png",
     "0. Inbox/Pasted image 20240408212226.png",
     "0. Inbox/Pasted image 20240421200529.png",
