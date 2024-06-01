@@ -39,14 +39,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
+                "file": "1. Project/이선좌/이선좌 프로젝트.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/책/책.md",
+                "file": "1. Project/이선좌/이선좌 프로젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/책/책.md"
+                "file": "1. Project/이선좌/이선좌 프로젝트.md"
               }
             }
           },
@@ -167,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/책/책.md",
+                "file": "1. Project/이선좌/이선좌 프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,8 +227,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a983fc1a9a82f592",
+  "active": "43c789fc7d85debb",
   "lastOpenFiles": [
+    "1. Project/이선좌/기획&설계/1. 프로젝트의 목적.md",
+    "1. Project/이선좌/기획&설계/4. 기획.md",
+    "1. Project/이선좌/기획&설계/3. 도메인 분석.md",
+    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
+    "1. Project/JPA/프록시/프록시.md",
+    "0. Inbox/책/책.md",
     "0. Inbox/무제 파일 1.md",
     "0. Inbox/끄적끄적.md",
     "0. Inbox/ddd.md",
@@ -248,12 +255,6 @@
     "1. Project/Book/도메인 주도 개발 시작하기/11. CQRS/단일 모델의 단점.md",
     "1. Project/JPA/트랜잭션/트랜잭션.md",
     "1. Project/Spring/Security/인증과 인가.md",
-    "1. Project/Database/RDB/SQL/SQL.md",
-    "1. Project/Database/RDB/RDB.md",
-    "1. Project/Database/DataBase.md",
-    "1. Project/Database/NoSQL/NoSQL.md",
-    "1. Project/Spring/세팅/build.gradle.md",
-    "1. Project/Spring/Security/쿠키와 세션 기반 인증.md",
     "1. Project/Redis/분산락.png",
     "0. Inbox/Pasted image 20240408212226.png",
     "0. Inbox/Pasted image 20240421200529.png",
