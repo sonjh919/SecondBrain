@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/메소드 위임.md",
+                "file": "1. Project/이선좌/이선좌 프로젝트.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/메소드 위임.md",
+                "file": "1. Project/이선좌/이선좌 프로젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/메소드 위임.md"
+                "file": "1. Project/이선좌/이선좌 프로젝트.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/메소드 위임.md",
+                "file": "1. Project/이선좌/이선좌 프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,6 +229,7 @@
   },
   "active": "43c789fc7d85debb",
   "lastOpenFiles": [
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/메소드 위임.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/그룹.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/검색 조건 쿼리.md",
     "1. Project/이선좌/이선좌 프로젝트.md",
@@ -254,7 +255,6 @@
     "1. Project/JPA/Mapping/연관관계/Entity 연관관계.md",
     "1. Project/JPA/Entity/Entity생명주기/Entity 생명주기.md",
     "1. Project/JPA/JPA 기초/하이버네이트.md",
-    "1. Project/JPA/데이터 타입/값 타입.md",
     "1. Project/Redis/분산락.png",
     "0. Inbox/Pasted image 20240408212226.png",
     "0. Inbox/Pasted image 20240421200529.png",
