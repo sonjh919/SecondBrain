@@ -24,30 +24,14 @@
             "id": "ca67809392be6c64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1. Project/JPA/프록시/프록시.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43c789fc7d85debb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Project/이선좌/이선좌 프로젝트.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "0. Inbox/Pasted image 20240421200552.png"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/이선좌/이선좌 프로젝트.md",
+                "file": "0. Inbox/Pasted image 20240421200552.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/이선좌/이선좌 프로젝트.md"
+                "file": "0. Inbox/Pasted image 20240421200552.png"
               }
             }
           },
@@ -168,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/이선좌/이선좌 프로젝트.md",
+                "file": "0. Inbox/Pasted image 20240421200552.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,8 +211,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "43c789fc7d85debb",
+  "active": "ca67809392be6c64",
   "lastOpenFiles": [
+    "0. Inbox/Pasted image 20240421200502.png",
+    "0. Inbox/Pasted image 20240411123301.png",
+    "0. Inbox/Pasted image 20240408212226.png",
+    "1. Project/JPA/프록시/프록시.md",
+    "1. Project/이선좌/Pasted image 20240604154447.png",
+    "1. Project/이선좌/Pasted image 20240604154354.png",
+    "1. Project/이선좌/Pasted image 20240604154416.png",
+    "1. Project/이선좌/Pasted image 20240604154401.png",
+    "1. Project/이선좌/Pasted image 20240604151803.png",
+    "1. Project/이선좌/이선좌 프로젝트.md",
     "SecondBrain.git-objects-24-37480faa75cc1766e9a0a60b401c201c98def7",
     "SecondBrain.git-objects-df-d5b6516f7548bdf224c99542e8e64e5e3eeed7",
     "SecondBrain.git-objects-ac-c270def22e3de6a1216729f4e5299de41b028b",
@@ -239,16 +233,13 @@
     "SecondBrain.git-objects-c2-ad39a6e91436d2c759226715ffbc548ef20ad3",
     "SecondBrain.git-objects-a3-38255e8e7bfa4fab3fc5cd1ef5331c54b19a59",
     "SecondBrain.git-objects-68-37fd70f8b3d9e411379f97228b1e7c491d3504",
-    "SecondBrain.git-objects-f9-85af45f8092a56008310c469647927b225c6bc",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/메소드 위임.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/그룹.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/검색 조건 쿼리.md",
-    "1. Project/이선좌/이선좌 프로젝트.md",
     "1. Project/이선좌/기획&설계/1. 프로젝트의 목적.md",
     "1. Project/이선좌/기획&설계/4. 기획.md",
     "1. Project/이선좌/기획&설계/3. 도메인 분석.md",
     "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
-    "1. Project/JPA/프록시/프록시.md",
     "0. Inbox/책/책.md",
     "0. Inbox/무제 파일 1.md",
     "0. Inbox/끄적끄적.md",
@@ -266,15 +257,8 @@
     "1. Project/JPA/Mapping/연관관계/Entity 연관관계.md",
     "1. Project/JPA/Entity/Entity생명주기/Entity 생명주기.md",
     "1. Project/Redis/분산락.png",
-    "0. Inbox/Pasted image 20240408212226.png",
     "0. Inbox/Pasted image 20240421200529.png",
-    "0. Inbox/Pasted image 20240411123301.png",
     "4. Archive/img/ELK/elk.png",
-    "0. Inbox/Pasted image 20240421200616.png",
-    "0. Inbox/Pasted image 20240421200552.png",
-    "0. Inbox/Pasted image 20240421200502.png",
-    "4. Archive/img/Database/keyvalue.png",
-    "4. Archive/img/Redis/Strings.png",
     "Project/무제 파일.canvas"
   ]
 }
