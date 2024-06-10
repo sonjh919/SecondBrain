@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/이선좌/이선좌 프로젝트.md",
+                "file": "1. Project/Book/객체지향의 사실과 오해/05 책임과 메시지.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/이선좌/이선좌 프로젝트.md",
+                "file": "1. Project/Book/객체지향의 사실과 오해/05 책임과 메시지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/이선좌/이선좌 프로젝트.md"
+                "file": "1. Project/Book/객체지향의 사실과 오해/05 책임과 메시지.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/이선좌/이선좌 프로젝트.md",
+                "file": "1. Project/Book/객체지향의 사실과 오해/05 책임과 메시지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,6 +216,15 @@
   },
   "active": "ca67809392be6c64",
   "lastOpenFiles": [
+    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
+    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/04 자바가 확장한 객체 지향.md",
+    "1. Project/Book/오브젝트/06 메시지와 인터페이스.md",
+    "1. Project/Book/오브젝트/07 객체 분해.md",
+    "1. Project/Book/오브젝트/05 책임 할당하기.md",
+    "1. Project/Book/오브젝트/04 설계 품질과 트레이드오프.md",
+    "1. Project/Book/오브젝트/02 객체지향 프로그래밍.md",
+    "1. Project/Book/오브젝트/03 역할, 책임, 협력.md",
+    "1. Project/이선좌/이선좌 프로젝트.md",
     "0. Inbox/책/책.md",
     "0. Inbox/동시성 제어.md",
     "0. Inbox/락,es.md",
@@ -232,7 +241,6 @@
     "1. Project/이선좌/Pasted image 20240604154416.png",
     "1. Project/이선좌/Pasted image 20240604154401.png",
     "1. Project/이선좌/Pasted image 20240604151803.png",
-    "1. Project/이선좌/이선좌 프로젝트.md",
     "SecondBrain.git-objects-24-37480faa75cc1766e9a0a60b401c201c98def7",
     "SecondBrain.git-objects-df-d5b6516f7548bdf224c99542e8e64e5e3eeed7",
     "SecondBrain.git-objects-ac-c270def22e3de6a1216729f4e5299de41b028b",
@@ -249,18 +257,10 @@
     "1. Project/이선좌/기획&설계/1. 프로젝트의 목적.md",
     "1. Project/이선좌/기획&설계/4. 기획.md",
     "1. Project/이선좌/기획&설계/3. 도메인 분석.md",
-    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
     "0. Inbox/끄적끄적.md",
     "0. Inbox/ddd.md",
     "0. Inbox/dynamicscheduler.md",
     "0. Inbox/면접.md",
-    "1. Project/Database/RDB/SQL/Join/JOIN.md",
-    "1. Project/Database/RDB/SQL/Join/OUTER JOIN.md",
-    "1. Project/JPA/JPA 기초/SQL을 직접 다룰 때 발생하는 문제점.md",
-    "1. Project/JPA/JPA 기초/ORM.md",
-    "1. Project/Database/RDB/SQL/TCL/Transaction.md",
-    "1. Project/Database/RDB/SQL/정규화/정규화.md",
-    "1. Project/JPA/Annotation/연관관계/@OneToMany.md",
     "1. Project/Redis/분산락.png",
     "Project/무제 파일.canvas"
   ]
