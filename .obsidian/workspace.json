@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Database/DataBase.md",
+                "file": "3. Resource/대용량트래픽/대용량 트래픽.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "인덱스",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Database/DataBase.md",
+                "file": "3. Resource/대용량트래픽/대용량 트래픽.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Database/DataBase.md"
+                "file": "3. Resource/대용량트래픽/대용량 트래픽.md"
               }
             }
           },
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Database/DataBase.md",
+                "file": "3. Resource/대용량트래픽/대용량 트래픽.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +203,14 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
-    "1. Project/이선좌/개발/1. Gradle Multi-Module.md",
+    "1. Project/Database/RDB/SQL/TCL/Transaction.md",
+    "1. Project/Database/RDB/TABLE.md",
+    "1. Project/Database/RDB/RDB.md",
+    "1. Project/Database/RDB/데이터 유형.md",
     "1. Project/Database/DataBase.md",
+    "1. Project/Database/RDB/SQL/SQL.md",
+    "1. Project/Database/RDB/SQL/정규화/정규화.md",
+    "1. Project/이선좌/개발/1. Gradle Multi-Module.md",
     "1. Project/Database/Lock/Lock.md",
     "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
     "1. Project/이선좌/기획&설계/4. 기획.md",
@@ -234,12 +241,6 @@
     "1. Project/ELK/역색인.md",
     "1. Project/ELK/색인.md",
     "1. Project/ELK/Setting/토큰 발급.md",
-    "1. Project/ELK/Setting/Elasticsearch + Kibana + Cerebro (Docker).md",
-    "1. Project/ELK/NHN/5. 검색 성능 테스트 결과 비교.md",
-    "1. Project/ELK/NHN/4. 검색 품질 개선 방안.md",
-    "1. Project/ELK/NHN/3. 색인.md",
-    "1. Project/ELK/NHN/2. 전체 아키텍처.md",
-    "1. Project/Monitoring/Actuator/Actuator.md",
     "SecondBrain.git-objects-24-37480faa75cc1766e9a0a60b401c201c98def7",
     "SecondBrain.git-objects-df-d5b6516f7548bdf224c99542e8e64e5e3eeed7",
     "SecondBrain.git-objects-ac-c270def22e3de6a1216729f4e5299de41b028b",
