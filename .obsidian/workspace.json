@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/이선좌/개발/1. Gradle Multi-Module.md",
+                "file": "1. Project/Database/DataBase.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/이선좌/개발/1. Gradle Multi-Module.md",
+                "file": "1. Project/Database/DataBase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/이선좌/개발/1. Gradle Multi-Module.md"
+                "file": "1. Project/Database/DataBase.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/이선좌/개발/1. Gradle Multi-Module.md",
+                "file": "1. Project/Database/DataBase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +202,11 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
-    "1. Project/이선좌/기획&설계/4. 기획.md",
     "1. Project/이선좌/개발/1. Gradle Multi-Module.md",
+    "1. Project/Database/DataBase.md",
+    "1. Project/Database/Lock/Lock.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
+    "1. Project/이선좌/기획&설계/4. 기획.md",
     "1. Project/이선좌/개발/2. ELK.md",
     "1. Project/이선좌/이선좌 프로젝트.md",
     "1. Project/이선좌/개발/6. 모니터링.md",
@@ -212,7 +215,6 @@
     "1. Project/이선좌/개발/3. Custom Analyzer.md",
     "1. Project/이선좌/Pasted image 20240604151803.png",
     "4. Archive/img/이선좌/Pasted image 20240610231552.png",
-    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
     "1. Project/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain Model Pattern.md",
     "1. Project/이선좌/기획&설계/1. 프로젝트의 목적.md",
     "1. Project/이선좌/개발",
@@ -238,8 +240,6 @@
     "1. Project/ELK/NHN/3. 색인.md",
     "1. Project/ELK/NHN/2. 전체 아키텍처.md",
     "1. Project/Monitoring/Actuator/Actuator.md",
-    "1. Project/Monitoring/Actuator/Actuator Endpoint.md",
-    "1. Project/Monitoring/Agent.md",
     "SecondBrain.git-objects-24-37480faa75cc1766e9a0a60b401c201c98def7",
     "SecondBrain.git-objects-df-d5b6516f7548bdf224c99542e8e64e5e3eeed7",
     "SecondBrain.git-objects-ac-c270def22e3de6a1216729f4e5299de41b028b",
