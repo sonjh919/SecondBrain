@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/이선좌/기획&설계/4. 기획.md",
+                "file": "1. Project/이선좌/개발/1. Gradle Multi-Module.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/이선좌/기획&설계/4. 기획.md",
+                "file": "1. Project/이선좌/개발/1. Gradle Multi-Module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/이선좌/기획&설계/4. 기획.md"
+                "file": "1. Project/이선좌/개발/1. Gradle Multi-Module.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/이선좌/기획&설계/4. 기획.md",
+                "file": "1. Project/이선좌/개발/1. Gradle Multi-Module.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,22 +202,31 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
+    "1. Project/이선좌/기획&설계/4. 기획.md",
+    "1. Project/이선좌/개발/1. Gradle Multi-Module.md",
+    "1. Project/이선좌/개발/2. ELK.md",
     "1. Project/이선좌/이선좌 프로젝트.md",
+    "1. Project/이선좌/개발/6. 모니터링.md",
+    "1. Project/이선좌/개발/5. 대기열 구현.md",
+    "1. Project/이선좌/개발/4. 대기열- webflux 선택.md",
+    "1. Project/이선좌/개발/3. Custom Analyzer.md",
+    "1. Project/이선좌/Pasted image 20240604151803.png",
+    "4. Archive/img/이선좌/Pasted image 20240610231552.png",
+    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain Model Pattern.md",
+    "1. Project/이선좌/기획&설계/1. 프로젝트의 목적.md",
+    "1. Project/이선좌/개발",
+    "1. Project/이선좌/기획&설계/2. 주제 확정짓기.md",
+    "1. Project/이선좌/기획&설계/3. 도메인 분석.md",
     "4. Archive/img/Algorithm & Data Structure/Queue.png",
     "4. Archive/img/Algorithm & Data Structure/Deque.png",
     "4. Archive/img/이선좌/Pasted image 20240610201028.png",
     "4. Archive/img/이선좌/Pasted image 20240610202633.png",
     "4. Archive/img/이선좌",
-    "1. Project/이선좌/Pasted image 20240604151803.png",
-    "1. Project/이선좌/기획&설계/4. 기획.md",
     "4. Archive/img/이선좌/Pasted image 20240610211045.png",
-    "1. Project/이선좌/기획&설계/3. 도메인 분석.md",
-    "1. Project/이선좌/기획&설계/1. 프로젝트의 목적.md",
-    "1. Project/이선좌/기획&설계/2. 주제 확정짓기.md",
     "4. Archive/img/이선좌/Pasted image 20240610210126.png",
     "4. Archive/img/이선좌/Pasted image 20240610205943.png",
     "4. Archive/img/이선좌/Pasted image 20240610205925.png",
-    "4. Archive/img/이선좌/Pasted image 20240610205405.png",
     "1. Project/Architecture/DDD/Component.md",
     "1. Project/Architecture/DDD/Event Storming.md",
     "1. Project/ELK/역색인.md",
@@ -231,13 +240,6 @@
     "1. Project/Monitoring/Actuator/Actuator.md",
     "1. Project/Monitoring/Actuator/Actuator Endpoint.md",
     "1. Project/Monitoring/Agent.md",
-    "1. Project/Monitoring/Metric.md",
-    "1. Project/Monitoring/Monitoring.md",
-    "1. Project/Monitoring/Prometheus.md",
-    "1. Project/Software Pattern/Architecture Pattern/Layered Pattern.md",
-    "1. Project/Software Pattern/Architecture Pattern/Architecture Pattern.md",
-    "1. Project/Redis/데이터타입/Redis 데이터 타입.md",
-    "1. Project/Software Pattern/Architecture Pattern/MVC Pattern.md",
     "SecondBrain.git-objects-24-37480faa75cc1766e9a0a60b401c201c98def7",
     "SecondBrain.git-objects-df-d5b6516f7548bdf224c99542e8e64e5e3eeed7",
     "SecondBrain.git-objects-ac-c270def22e3de6a1216729f4e5299de41b028b",
@@ -246,7 +248,6 @@
     "SecondBrain.git-objects-d4-da8bbbda49e30cc5e64ae5d76cf3a5418be9e9",
     "SecondBrain.git-objects-a3-74db9807d67350916fb8b5f3f1ec718e3645da",
     "SecondBrain.git-objects-c2-ad39a6e91436d2c759226715ffbc548ef20ad3",
-    "SecondBrain.git-objects-a3-38255e8e7bfa4fab3fc5cd1ef5331c54b19a59",
     "Project/무제 파일.canvas"
   ]
 }
