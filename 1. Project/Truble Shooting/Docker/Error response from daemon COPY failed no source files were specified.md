@@ -1,18 +1,4 @@
----
-title: Error response from daemon COPY failed no source files were specified
-date: 2023-12-26 23:19
-categories:
-  - Error
-  - DockerError
-tags:
-  - Docker
-  - Gradle
-  - Maven
-  - Error
-image: 
-path:
----
-#Docker #Gradle #Maven #Error 
+#Docker #Gradle #Maven #TrubleSooting 
 
 ## 에러 발생 상황
 스프링 프로젝트에서 build하기 위해 Dockerfile을 만든 후 다음과 같은 내용을 넣어주었다.

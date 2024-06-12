@@ -1,16 +1,4 @@
----
-title: equals와 hashcode 재정의
-date: 2024-01-07 01:43
-categories:
-  - Error
-  - Java&SpringError
-tags:
-  - Java
-  - Error
-image: 
-path:
----
-#Spring #Error 
+#Spring #TrubleSooting 
 
 ## key값이 다르게 인식될 때
 키오스크 프로그램을 리팩토링하는 중이었다. 장바구니를 다음과 같이 HashMap으로 구현하고, 상품을 받아 저장하는 코드를 구현 중에 있었다.

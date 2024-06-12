@@ -1,4 +1,4 @@
-#Error #AWS #ElasticBeanstalk 
+#TrubleSooting  #AWS #ElasticBeanstalk 
 
 ## 문제 상황
 AWS에서 [[Elastic Beanstalk]] 환경을 구성하여 Spring Boot 프로젝트를 배포했는데, API call을 해보니 502 Bad Gateway 오류가 나타나는 문제가 발생했다. 무슨 오류인가 싶어 로그를 확인해보았더니, 다음과 같은 에러가 있었다.

@@ -1,16 +1,4 @@
----
-title: RequestParam 매개변수 인식 오류
-date: 2024-01-18 16:24
-categories:
-  - Error
-  - Java&SpringError
-tags:
-  - Spring
-  - Error
-image: 
-path:
----
-#Spring #Error 
+#Spring #TrubleSooting 
 
 ## RequestParam 매개변수 인식 오류
 흔한 코딩을 하던 도중, 흔하지 않은 오류가 생겨버렸다.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/이선좌/개발/5. 모니터링.md",
+                "file": "3. Resource/Openrun/Setting/스프링 프로젝트 생성하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/이선좌/개발/5. 모니터링.md",
+                "file": "3. Resource/Openrun/Setting/스프링 프로젝트 생성하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/이선좌/개발/5. 모니터링.md"
+                "file": "3. Resource/Openrun/Setting/스프링 프로젝트 생성하기.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/이선좌/개발/5. 모니터링.md",
+                "file": "3. Resource/Openrun/Setting/스프링 프로젝트 생성하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,43 +202,44 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
-    "1. Project/이선좌/개발/reservation_table.png",
-    "1. Project/이선좌/개발/Pasted image 20240613011303.png",
-    "1. Project/이선좌/개발/post_2.png",
-    "1. Project/이선좌/개발/5. 모니터링.md",
-    "1. Project/이선좌/개발/Load_Average_2.png",
-    "1. Project/이선좌/개발/io_overview_2.png",
-    "1. Project/이선좌/개발/CPU_usage_2.png",
-    "1. Project/이선좌/개발/시연영상.md",
-    "1. Project/이선좌/개발/4. 대기열.md",
-    "1. Project/이선좌/개발/5. 대기열 구현.md",
-    "1. Project/이선좌/개발/1.mp4",
-    "1. Project/이선좌/개발/2. ELK.md",
-    "1. Project/이선좌/개발/3. Custom Analyzer.md",
-    "1. Project/이선좌/개발/Pasted image 20240613001115.png",
-    "1. Project/이선좌/개발/Pasted image 20240613000100.png",
-    "1. Project/이선좌/개발/Pasted image 20240613000050.png",
-    "1. Project/이선좌/개발/Pasted image 20240612235301.png",
-    "1. Project/이선좌/개발/Pasted image 20240612235246.png",
-    "1. Project/이선좌/개발/1. Gradle Multi-Module.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/캐릭터 필터.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토크나이저.md",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/QueryDSL.md",
-    "1. Project/프로그래머스/문법/String 활용 메서드.md",
-    "1. Project/프로그래머스/문법/Math 활용 메서드.md",
-    "1. Project/프로그래머스/문법/형변환 꿀팁.md",
-    "1. Project/프로그래머스/문법/Collections 활용 메서드.md",
-    "1. Project/프로그래머스/문법/List 활용 메서드.md",
-    "1. Project/프로그래머스/문법/Character 활용 메서드.md",
-    "1. Project/프로그래머스/문법/배열을 List로 변환하기.md",
-    "3. Resource/대용량트래픽/대용량 트래픽.md",
-    "2. Area/Java API/java.lang/StringBuffer & StringBuilder.md",
+    "3. Resource/Openrun/Setting/스프링 프로젝트 Docker Build 하기.md",
+    "1. Project/이선좌/트러블 슈팅/1. 대기열 아키텍쳐 설계.md",
+    "1. Project/이선좌/이선좌 프로젝트.md",
+    "1. Project/이선좌/트러블 슈팅/5. ElasticSearch 배포시 메모리 부족 현상.md",
+    "1. Project/이선좌/개발/5. 유저테스트 모니터링.md",
+    "4. Archive/img/이선좌/Pasted image 20240613023243.png",
+    "4. Archive/img/이선좌/Pasted image 20240613023257.png",
+    "0. Inbox/Pasted image 20240604151803.png",
+    "4. Archive/img/이선좌/Pasted image 20240613023437.png",
+    "1. Project/이선좌/트러블 슈팅/2. Counter metric을 Gauge metric으로 변환했을 때 그래프 해석 문제.md",
+    "1. Project/이선좌/트러블 슈팅/3. Instance Mapping 문제.md",
+    "1. Project/이선좌/트러블 슈팅/4. ELK Security.md",
+    "1. Project/Truble Shooting/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md",
+    "1. Project/Truble Shooting/Java&Spring/빌드 방식에 따른 RequestParam 매개변수 인식 오류.md",
+    "1. Project/Truble Shooting/Git/LF will be replaced by CRLF in pom.xml.md",
+    "1. Project/Truble Shooting/Git/이미 push한 commit 변경하기.md",
+    "1. Project/Truble Shooting/Docker/Error response from daemon When using COPY with more than one source file.md",
+    "1. Project/Truble Shooting/Docker/Error response from daemon COPY failed no source files were specified.md",
+    "1. Project/Truble Shooting/AWS/Elastic Beanstalk 502 Bad Gateway.md",
+    "1. Project/이선좌/기획&설계/4. 기획.md",
+    "1. Project/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
+    "1. Project/이선좌/트러블 슈팅",
+    "0. Inbox/이선좌 전체기능.md",
+    "0. Inbox/무제 파일 1.md",
+    "0. Inbox/모니터링.md",
     "0. Inbox/면접.md",
-    "1. Project/Database/RDB/SQL/TCL/Transaction.md",
-    "1. Project/Database/RDB/TABLE.md",
-    "1. Project/Database/RDB/RDB.md",
-    "1. Project/Database/RDB/데이터 유형.md",
-    "1. Project/Database/DataBase.md",
+    "0. Inbox/dynamicscheduler.md",
+    "0. Inbox/ddd.md",
+    "0. Inbox/트랜잭션 정리.md",
+    "0. Inbox/나중에 정리할 것.md",
+    "0. Inbox/동시성 제어.md",
+    "4. Archive/img/이선좌/CPU_usage_2.png",
+    "4. Archive/img/이선좌/1.mp4",
+    "4. Archive/img/이선좌/reservation_table.png",
+    "4. Archive/img/이선좌/Pasted image 20240613011303.png",
+    "1. Project/이선좌/개발/post_2.png",
+    "4. Archive/img/이선좌/Load_Average_2.png",
+    "4. Archive/img/이선좌/io_overview_2.png",
     "1. Project/이선좌/개발",
     "4. Archive/img/이선좌",
     "SecondBrain.git-objects-24-37480faa75cc1766e9a0a60b401c201c98def7",
@@ -247,7 +248,6 @@
     "SecondBrain.git-objects-db-6e82e0f388f42bf16690ef4aad9aeff64ac2ff",
     "SecondBrain.git-objects-a7-9d406644bd45846d6b718a45d023483e230a6b",
     "SecondBrain.git-objects-d4-da8bbbda49e30cc5e64ae5d76cf3a5418be9e9",
-    "SecondBrain.git-objects-a3-74db9807d67350916fb8b5f3f1ec718e3645da",
     "Project/무제 파일.canvas"
   ]
 }

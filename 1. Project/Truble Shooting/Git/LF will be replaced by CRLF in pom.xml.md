@@ -1,16 +1,4 @@
----
-title: LF will be replaced by CRLF in pom.xml
-date: 2023-12-21 14:30
-categories:
-  - Error
-  - GitError
-tags:
-  - Error
-  - Git
-image: 
-path:
----
-#Git #Error 
+#Git #TrubleSooting 
 
 ## 오류
 

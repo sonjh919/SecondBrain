@@ -1,16 +1,4 @@
----
-title: 이미 push한 commit 변경하기
-date: 2024-01-03 17:32
-categories:
-  - Error
-  - GitError
-tags:
-  - Git
-  - Error
-image: 
-path:
----
-#Git #Error 
+#Git #TrubleSooting 
 
 ## 발생 상황
 인텔리제이로 작업을 하던 도중, commit 메시지를 잘못 쓴 것을 발견했다. 하지만 commit and push를 했기 때문에 이미 올라가버린 commit.. 다시 복구할 순 없을까?
