@@ -50,6 +50,18 @@ String str;
 for(char x : str.toCharArray()){
 }
 ```
+
+### 숫자를 배열처럼
+숫자를 문자열로 만든 후, 그대로 사용하려면 `-'0'`을 추가하자.
+```java
+int B;  
+String s;
+
+s = B + "";  
+for(int i=s.length()-1;i>=0;i--){  
+    bw.write(A*(s.charAt(i)-'0')+"\n");  
+}
+```
 ### 문자열 덧셈
 문자열에서 뒤에 문자열을 추가하고 싶다면 + 연산자를 쓸 수 있다.
 ```java
