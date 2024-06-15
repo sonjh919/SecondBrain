@@ -13,7 +13,7 @@ Spring AOP(Aspect-Oriented Programming)는 관점 지향 프로그래밍의 한 
 ![[before2.png]]
 
 ### AOP 사용 후
-+ 중간에 프록시 객체를 만들어 넣는다. [[1. Project/JPA/트랜잭션/트랜잭션|트랜잭션]]도 같은 방식이다.
++ 중간에 프록시 객체를 만들어 넣는다. [[2. Area/JPA/트랜잭션/트랜잭션|트랜잭션]]도 같은 방식이다.
 
 ![[after.png]]
 
