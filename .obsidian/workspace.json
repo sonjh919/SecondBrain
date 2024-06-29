@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/CS/Network/HATEOAS.md",
+                "file": "2. Area/Algorithm & Data Structure/시간 복잡도.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "하이",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/CS/Network/HATEOAS.md",
+                "file": "2. Area/Algorithm & Data Structure/시간 복잡도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/CS/Network/HATEOAS.md"
+                "file": "2. Area/Algorithm & Data Structure/시간 복잡도.md"
               }
             }
           },
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/CS/Network/HATEOAS.md",
+                "file": "2. Area/Algorithm & Data Structure/시간 복잡도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,6 +202,8 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
+    "0. Inbox/코테.md",
+    "2. Area/CS/Network/HATEOAS.md",
     "2. Area/Java API/java.lang/record.md",
     "2. Area/Algorithm & Data Structure/시간 복잡도.md",
     "2. Area/Algorithm & Data Structure/공간 복잡도.md",
@@ -227,8 +228,6 @@
     "1. Project/이선좌/이선좌 프로젝트.md",
     "1. Project/이선좌/트러블 슈팅/3. ELK Security.md",
     "1. Project/이선좌/트러블 슈팅/4. ElasticSearch 배포시 메모리 부족 현상.md",
-    "1. Project/이선좌/개발/2. ELK.md",
-    "1. Project/Architecture/Data Projection.md",
     "1. Project/이선좌/트러블 슈팅/대기열1.png",
     "1. Project/이선좌/트러블 슈팅/대기열6.png",
     "1. Project/이선좌/트러블 슈팅/대기열5.png",
