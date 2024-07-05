@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Algorithm & Data Structure/시간 복잡도.md",
+                "file": "0. Inbox/나중에 정리할 것.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/Algorithm & Data Structure/시간 복잡도.md",
+                "file": "0. Inbox/나중에 정리할 것.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/Algorithm & Data Structure/시간 복잡도.md"
+                "file": "0. Inbox/나중에 정리할 것.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/Algorithm & Data Structure/시간 복잡도.md",
+                "file": "0. Inbox/나중에 정리할 것.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,14 +202,18 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
+    "0. Inbox/회사보는곳.md",
+    "0. Inbox/나중에 정리할 것.md",
+    "0. Inbox/이선좌 전체기능.md",
+    "0. Inbox/모니터링.md",
+    "0. Inbox/동시성 제어.md",
     "0. Inbox/코테.md",
+    "2. Area/Algorithm & Data Structure/시간 복잡도.md",
     "2. Area/CS/Network/HATEOAS.md",
     "2. Area/Java API/java.lang/record.md",
-    "2. Area/Algorithm & Data Structure/시간 복잡도.md",
     "2. Area/Algorithm & Data Structure/공간 복잡도.md",
     "2. Area/Algorithm & Data Structure/이진 탐색.md",
     "0. Inbox/회사.md",
-    "0. Inbox/회사보는곳.md",
     "0. Inbox/끄적끄적.md",
     "2. Area/JAVA/기본 문법/배열.md",
     "1. Project/프로그래머스/문법/배열을 List로 변환하기.md",
@@ -224,10 +228,6 @@
     "2. Area/Java API/java.util/Collection/List.md",
     "2. Area/Java API/java.util/Collection/Collection.md",
     "2. Area/Java API/java.util/Collection/Queue.md",
-    "1. Project/이선좌/트러블 슈팅/5. 대기열 아키텍쳐 설계.md",
-    "1. Project/이선좌/이선좌 프로젝트.md",
-    "1. Project/이선좌/트러블 슈팅/3. ELK Security.md",
-    "1. Project/이선좌/트러블 슈팅/4. ElasticSearch 배포시 메모리 부족 현상.md",
     "1. Project/이선좌/트러블 슈팅/대기열1.png",
     "1. Project/이선좌/트러블 슈팅/대기열6.png",
     "1. Project/이선좌/트러블 슈팅/대기열5.png",
