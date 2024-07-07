@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5628b5df52d1ad2e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "4. Archive/img/이선좌/Pasted image 20240612191749.png"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/이선좌/개발/2. ELK.md",
+                "file": "4. Archive/img/이선좌/Pasted image 20240612191749.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/이선좌/개발/2. ELK.md"
+                "file": "4. Archive/img/이선좌/Pasted image 20240612191749.png"
               }
             }
           },
@@ -155,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/이선좌/개발/2. ELK.md",
+                "file": "4. Archive/img/이선좌/Pasted image 20240612191749.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,8 +224,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "da1dafe329d1e86a",
+  "active": "5628b5df52d1ad2e",
   "lastOpenFiles": [
+    "1. Project/이선좌/개발/2. ELK.md",
     "4. Archive/img/이선좌/Pasted image 20240610231552.png",
     "1. Project/이선좌/개발/1. Gradle Multi-Module.md",
     "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
@@ -251,7 +262,6 @@
     "4. Archive/img/이선좌/Pasted image 20240613023243.png",
     "4. Archive/img/이선좌/Pasted image 20240613023257.png",
     "0. Inbox/Pasted image 20240604151803.png",
-    "4. Archive/img/이선좌/Pasted image 20240613023437.png",
     "1. Project/이선좌/트러블 슈팅",
     "4. Archive/img/이선좌/1.mp4",
     "1. Project/이선좌/개발",
