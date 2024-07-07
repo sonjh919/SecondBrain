@@ -24,9 +24,12 @@
             "id": "da1dafe329d1e86a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "4. Archive/img/이선좌/Pasted image 20240610231552.png"
+                "file": "1. Project/이선좌/개발/2. ELK.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -98,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archive/img/이선좌/Pasted image 20240610231552.png",
+                "file": "1. Project/이선좌/개발/2. ELK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Archive/img/이선좌/Pasted image 20240610231552.png"
+                "file": "1. Project/이선좌/개발/2. ELK.md"
               }
             }
           },
@@ -152,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Archive/img/이선좌/Pasted image 20240610231552.png",
+                "file": "1. Project/이선좌/개발/2. ELK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,6 +216,7 @@
   },
   "active": "da1dafe329d1e86a",
   "lastOpenFiles": [
+    "4. Archive/img/이선좌/Pasted image 20240610231552.png",
     "1. Project/이선좌/개발/1. Gradle Multi-Module.md",
     "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
     "0. Inbox/나중에 정리할 것.md",
@@ -238,7 +242,6 @@
     "1. Project/프로그래머스/문법/StringBuilder 활용 메서드.md",
     "1. Project/프로그래머스/문법/List 활용 메서드.md",
     "2. Area/Java API/java.lang/StringBuffer & StringBuilder.md",
-    "2. Area/Java API/java.util/Collection/List.md",
     "1. Project/이선좌/트러블 슈팅/대기열1.png",
     "1. Project/이선좌/트러블 슈팅/대기열6.png",
     "1. Project/이선좌/트러블 슈팅/대기열5.png",
