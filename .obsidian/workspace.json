@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,7 +201,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a983fc1a9a82f592",
+  "active": "e6d2440fd7f079b9",
   "lastOpenFiles": [
     "0. Inbox/회사보는곳.md",
     "0. Inbox/나중에 정리할 것.md",
