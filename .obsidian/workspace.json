@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/이선좌/개발/1. Gradle Multi-Module.md",
+                "file": "1. Project/이선좌 프로젝트/개발/1. Gradle Multi-Module.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/이선좌/개발/3. Custom Analyzer.md",
+                "file": "1. Project/이선좌 프로젝트/개발/3. Custom Analyzer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/이선좌/개발/시연영상.md",
+                "file": "1. Project/이선좌 프로젝트/개발/시연영상.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/이선좌/기획&설계/4. 기획.md",
+                "file": "3. Resource/Second brain 이론 정리, 적용/PARA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/이선좌/기획&설계/4. 기획.md",
+                "file": "3. Resource/Second brain 이론 정리, 적용/PARA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/이선좌/기획&설계/4. 기획.md"
+                "file": "3. Resource/Second brain 이론 정리, 적용/PARA.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/이선좌/기획&설계/4. 기획.md",
+                "file": "3. Resource/Second brain 이론 정리, 적용/PARA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,45 +252,45 @@
   },
   "active": "6ef6234807823bf6",
   "lastOpenFiles": [
-    "1. Project/이선좌/기획&설계/1. 프로젝트의 목적.md",
-    "1. Project/이선좌/기획&설계/2. 주제 확정짓기.md",
-    "1. Project/이선좌/기획&설계/3. 도메인 분석.md",
-    "1. Project/이선좌/기획&설계/4. 기획.md",
-    "1. Project/이선좌/개발/5. 유저테스트 모니터링.md",
+    "Welcome to JH SecondBrain.md",
+    "3. Resource/대용량트래픽/대용량 트래픽.md",
+    "2. Area/Test/Mockito.md",
+    "2. Area/Test/TDD.md",
+    "2. Area/Test/MOC.md",
+    "2. Area/Test/given when then 패턴.md",
+    "2. Area/Software Pattern/Design Pattern/Singleton Pattern.md",
+    "2. Area/Software Pattern/Design Pattern/Strategy Pattern.md",
+    "2. Area/Software Pattern/Design Pattern/Template Callback Pattern.md",
+    "2. Area/Software Pattern/Design Pattern/Template Method Pattern.md",
+    "2. Area/Software Pattern/Design Pattern/Adapter Pattern.md",
+    "2. Area/Software Pattern/Design Pattern/Builder Pattern.md",
+    "2. Area/Software Pattern/Design Pattern/Composite Pattern.md",
+    "2. Area/Software Pattern/Design Pattern/Decorator Pattern.md",
+    "2. Area/Software Pattern/Design Pattern/Design Pattern.md",
+    "2. Area/Software Pattern/Design Pattern/Facade Pattern.md",
+    "2. Area/Software Pattern/Design Pattern/Factory Method Pattern.md",
+    "2. Area/Software Pattern/Architecture Pattern/Port Adapter Pattern.md",
+    "2. Area/Software Pattern/Architecture Pattern/MVC Pattern.md",
+    "2. Area/Software Pattern/Architecture Pattern/Layered Pattern.md",
+    "2. Area/Software Pattern/Architecture Pattern/Front Controller Pattern.md",
+    "2. Area/Software Pattern/Architecture Pattern/Architecture Pattern.md",
+    "1. Project/이선좌 프로젝트/트러블 슈팅/1. Counter metric을 Gauge metric으로 변환했을 때 그래프 해석 문제.md",
+    "1. Project/이선좌 프로젝트/트러블 슈팅/2. Instance Mapping 문제.md",
+    "1. Project/이선좌 프로젝트/트러블 슈팅/5. 대기열 아키텍쳐 설계.md",
+    "1. Project/이선좌 프로젝트/트러블 슈팅/4. ElasticSearch 배포시 메모리 부족 현상.md",
     "4. Archive/img/이선좌/reservation_table.png",
     "4. Archive/img/이선좌/Pasted image 20240613011303.png",
     "4. Archive/img/이선좌/io_overview_2.png",
     "4. Archive/img/이선좌/CPU_usage_2.png",
-    "1. Project/이선좌/개발/4. 대기열.md",
     "4. Archive/img/이선좌/Pasted image 20240613001115.png",
-    "1. Project/이선좌/개발/3. Custom Analyzer.md",
     "4. Archive/img/이선좌/1.mp4",
-    "1. Project/이선좌/개발/시연영상.md",
     "4. Archive/img/이선좌/Pasted image 20240612235301.png",
     "4. Archive/img/이선좌/Pasted image 20240610231552.png",
-    "1. Project/이선좌/개발/2. ELK.md",
     "4. Archive/img/이선좌/Pasted image 20240612191749.png",
-    "1. Project/이선좌/개발/1. Gradle Multi-Module.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
-    "0. Inbox/나중에 정리할 것.md",
-    "0. Inbox/회사보는곳.md",
-    "0. Inbox/이선좌 전체기능.md",
-    "0. Inbox/모니터링.md",
-    "0. Inbox/동시성 제어.md",
-    "0. Inbox/코테.md",
-    "2. Area/Algorithm & Data Structure/시간 복잡도.md",
-    "2. Area/CS/Network/HATEOAS.md",
-    "2. Area/Java API/java.lang/record.md",
-    "2. Area/Algorithm & Data Structure/공간 복잡도.md",
-    "2. Area/Algorithm & Data Structure/이진 탐색.md",
-    "0. Inbox/회사.md",
-    "0. Inbox/끄적끄적.md",
-    "2. Area/JAVA/기본 문법/배열.md",
-    "1. Project/프로그래머스/문법/배열을 List로 변환하기.md",
     "1. Project/이선좌/트러블 슈팅/대기열1.png",
     "1. Project/이선좌/트러블 슈팅/대기열6.png",
-    "1. Project/이선좌/트러블 슈팅",
-    "1. Project/이선좌/개발",
+    "1. Project/이선좌 프로젝트/트러블 슈팅",
+    "1. Project/이선좌 프로젝트/개발",
     "4. Archive/img/이선좌",
     "SecondBrain.git-objects-24-37480faa75cc1766e9a0a60b401c201c98def7",
     "SecondBrain.git-objects-df-d5b6516f7548bdf224c99542e8e64e5e3eeed7",

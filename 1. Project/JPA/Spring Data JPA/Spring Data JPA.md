@@ -28,4 +28,4 @@ select m from Member m where username =: username
 ## Spring Data JPA의 인터페이스 및 클래스
 + [[Page]]
 + [[Pageable]]
-+ [[2. Area/JPA/Spring Data JPA/QueryMethod/Sort|Sort]]
++ [[1. Project/JPA/Spring Data JPA/QueryMethod/Sort|Sort]]
