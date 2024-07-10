@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/이선좌 프로젝트/트러블 슈팅/4. ElasticSearch 배포시 메모리 부족 현상.md",
+                "file": "1. Project/이선좌 프로젝트/트러블 슈팅/2. Instance Mapping 문제.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/이선좌 프로젝트/트러블 슈팅/4. ElasticSearch 배포시 메모리 부족 현상.md",
+                "file": "1. Project/이선좌 프로젝트/트러블 슈팅/2. Instance Mapping 문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/이선좌 프로젝트/트러블 슈팅/4. ElasticSearch 배포시 메모리 부족 현상.md"
+                "file": "1. Project/이선좌 프로젝트/트러블 슈팅/2. Instance Mapping 문제.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/이선좌 프로젝트/트러블 슈팅/4. ElasticSearch 배포시 메모리 부족 현상.md",
+                "file": "1. Project/이선좌 프로젝트/트러블 슈팅/2. Instance Mapping 문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,6 +252,7 @@
   },
   "active": "6ef6234807823bf6",
   "lastOpenFiles": [
+    "1. Project/이선좌 프로젝트/트러블 슈팅/4. ElasticSearch 배포시 메모리 부족 현상.md",
     "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/03 자바와 객체 지향.md",
     "2. Area/Java API/java.util/Collection/List.md",
     "3. Resource/Second brain 이론 정리, 적용/PARA.md",
@@ -277,7 +278,6 @@
     "2. Area/Software Pattern/Architecture Pattern/Layered Pattern.md",
     "2. Area/Software Pattern/Architecture Pattern/Front Controller Pattern.md",
     "2. Area/Software Pattern/Architecture Pattern/Architecture Pattern.md",
-    "1. Project/이선좌 프로젝트/트러블 슈팅/1. Counter metric을 Gauge metric으로 변환했을 때 그래프 해석 문제.md",
     "4. Archive/img/이선좌/reservation_table.png",
     "4. Archive/img/이선좌/Pasted image 20240613011303.png",
     "4. Archive/img/이선좌/io_overview_2.png",
