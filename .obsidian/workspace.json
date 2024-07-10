@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/이선좌 프로젝트/트러블 슈팅/2. Instance Mapping 문제.md",
+                "file": "1. Project/이선좌 프로젝트/트러블 슈팅/4. ElasticSearch 배포시 메모리 부족 현상.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,17 +60,40 @@
             }
           },
           {
-            "id": "9f3fd312c9676af2",
+            "id": "66757b7af66580ba",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "4. Archive/img/이선좌/Pasted image 20240613001115.png"
+                "file": "4. Archive/img/이선좌/Pasted image 20240613023437.png"
+              }
+            }
+          },
+          {
+            "id": "12cebaf8f147d560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Project/이선좌 프로젝트/트러블 슈팅/1. Counter metric을 Gauge metric으로 변환했을 때 그래프 해석 문제.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "173957a2f783238b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "4. Archive/img/이선좌/Pasted image 20240613023257.png"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -137,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/이선좌 프로젝트/트러블 슈팅/2. Instance Mapping 문제.md",
+                "file": "1. Project/이선좌 프로젝트/트러블 슈팅/1. Counter metric을 Gauge metric으로 변환했을 때 그래프 해석 문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/이선좌 프로젝트/트러블 슈팅/2. Instance Mapping 문제.md"
+                "file": "1. Project/이선좌 프로젝트/트러블 슈팅/1. Counter metric을 Gauge metric으로 변환했을 때 그래프 해석 문제.md"
               }
             }
           },
@@ -191,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/이선좌 프로젝트/트러블 슈팅/2. Instance Mapping 문제.md",
+                "file": "1. Project/이선좌 프로젝트/트러블 슈팅/1. Counter metric을 Gauge metric으로 변환했을 때 그래프 해석 문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,9 +273,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6ef6234807823bf6",
+  "active": "12cebaf8f147d560",
   "lastOpenFiles": [
+    "4. Archive/img/이선좌/Pasted image 20240613023257.png",
+    "1. Project/이선좌 프로젝트/트러블 슈팅/1. Counter metric을 Gauge metric으로 변환했을 때 그래프 해석 문제.md",
+    "4. Archive/img/이선좌/Pasted image 20240613001115.png",
+    "4. Archive/img/이선좌/Pasted image 20240613023243.png",
+    "1. Project/이선좌 프로젝트/트러블 슈팅/5. 대기열 아키텍쳐 설계.md",
     "1. Project/이선좌 프로젝트/트러블 슈팅/4. ElasticSearch 배포시 메모리 부족 현상.md",
+    "1. Project/이선좌 프로젝트/트러블 슈팅/2. Instance Mapping 문제.md",
+    "4. Archive/img/이선좌/Pasted image 20240613023437.png",
+    "1. Project/이선좌 프로젝트/트러블 슈팅/3. ELK Security.md",
     "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/03 자바와 객체 지향.md",
     "2. Area/Java API/java.util/Collection/List.md",
     "3. Resource/Second brain 이론 정리, 적용/PARA.md",
@@ -273,22 +304,14 @@
     "2. Area/Software Pattern/Design Pattern/Design Pattern.md",
     "2. Area/Software Pattern/Design Pattern/Facade Pattern.md",
     "2. Area/Software Pattern/Design Pattern/Factory Method Pattern.md",
-    "2. Area/Software Pattern/Architecture Pattern/Port Adapter Pattern.md",
-    "2. Area/Software Pattern/Architecture Pattern/MVC Pattern.md",
-    "2. Area/Software Pattern/Architecture Pattern/Layered Pattern.md",
-    "2. Area/Software Pattern/Architecture Pattern/Front Controller Pattern.md",
-    "2. Area/Software Pattern/Architecture Pattern/Architecture Pattern.md",
     "4. Archive/img/이선좌/reservation_table.png",
     "4. Archive/img/이선좌/Pasted image 20240613011303.png",
     "4. Archive/img/이선좌/io_overview_2.png",
     "4. Archive/img/이선좌/CPU_usage_2.png",
-    "4. Archive/img/이선좌/Pasted image 20240613001115.png",
     "4. Archive/img/이선좌/1.mp4",
     "4. Archive/img/이선좌/Pasted image 20240612235301.png",
     "4. Archive/img/이선좌/Pasted image 20240610231552.png",
     "4. Archive/img/이선좌/Pasted image 20240612191749.png",
-    "1. Project/이선좌/트러블 슈팅/대기열1.png",
-    "1. Project/이선좌/트러블 슈팅/대기열6.png",
     "1. Project/이선좌 프로젝트/트러블 슈팅",
     "1. Project/이선좌 프로젝트/개발",
     "4. Archive/img/이선좌",
