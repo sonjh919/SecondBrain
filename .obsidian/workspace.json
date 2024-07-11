@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/이선좌 프로젝트/트러블 슈팅/1. Counter metric을 Gauge metric으로 변환했을 때 그래프 해석 문제.md",
+                "file": "0. Inbox/무제 파일.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/이선좌 프로젝트/트러블 슈팅/1. Counter metric을 Gauge metric으로 변환했을 때 그래프 해석 문제.md",
+                "file": "0. Inbox/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/이선좌 프로젝트/트러블 슈팅/1. Counter metric을 Gauge metric으로 변환했을 때 그래프 해석 문제.md"
+                "file": "0. Inbox/무제 파일.md"
               }
             }
           },
@@ -214,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/이선좌 프로젝트/트러블 슈팅/1. Counter metric을 Gauge metric으로 변환했을 때 그래프 해석 문제.md",
+                "file": "0. Inbox/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,8 +275,11 @@
   },
   "active": "12cebaf8f147d560",
   "lastOpenFiles": [
-    "4. Archive/img/이선좌/Pasted image 20240613023257.png",
+    "0. Inbox/나중에 정리할 것.md",
+    "0. Inbox/무제 파일.md",
+    "0. Inbox/동시성 제어.md",
     "1. Project/이선좌 프로젝트/트러블 슈팅/1. Counter metric을 Gauge metric으로 변환했을 때 그래프 해석 문제.md",
+    "4. Archive/img/이선좌/Pasted image 20240613023257.png",
     "4. Archive/img/이선좌/Pasted image 20240613001115.png",
     "4. Archive/img/이선좌/Pasted image 20240613023243.png",
     "1. Project/이선좌 프로젝트/트러블 슈팅/5. 대기열 아키텍쳐 설계.md",
@@ -302,8 +305,6 @@
     "2. Area/Software Pattern/Design Pattern/Composite Pattern.md",
     "2. Area/Software Pattern/Design Pattern/Decorator Pattern.md",
     "2. Area/Software Pattern/Design Pattern/Design Pattern.md",
-    "2. Area/Software Pattern/Design Pattern/Facade Pattern.md",
-    "2. Area/Software Pattern/Design Pattern/Factory Method Pattern.md",
     "4. Archive/img/이선좌/reservation_table.png",
     "4. Archive/img/이선좌/Pasted image 20240613011303.png",
     "4. Archive/img/이선좌/io_overview_2.png",
@@ -311,7 +312,6 @@
     "4. Archive/img/이선좌/1.mp4",
     "4. Archive/img/이선좌/Pasted image 20240612235301.png",
     "4. Archive/img/이선좌/Pasted image 20240610231552.png",
-    "4. Archive/img/이선좌/Pasted image 20240612191749.png",
     "1. Project/이선좌 프로젝트/트러블 슈팅",
     "1. Project/이선좌 프로젝트/개발",
     "4. Archive/img/이선좌",
