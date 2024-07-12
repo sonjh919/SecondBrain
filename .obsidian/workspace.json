@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "blocking",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -242,12 +243,14 @@
   },
   "active": "6ef6234807823bf6",
   "lastOpenFiles": [
+    "2. Area/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
+    "0. Inbox/면접/이력서.md",
+    "3. Resource/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/내장 애널라이저.md",
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/노멀라이저.md",
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/캐릭터 필터.md",
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토크나이저.md",
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md",
-    "0. Inbox/면접/이력서.md",
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/애널라이저.md",
     "1. Project/ELK/색인.md",
     "0. Inbox/모니터링.md",
@@ -272,8 +275,6 @@
     "1. Project/이선좌 프로젝트/트러블 슈팅/5. 대기열 아키텍쳐 설계.md",
     "1. Project/이선좌 프로젝트/트러블 슈팅/2. Instance Mapping 문제.md",
     "1. Project/이선좌 프로젝트/트러블 슈팅/3. ELK Security.md",
-    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/03 자바와 객체 지향.md",
-    "2. Area/Java API/java.util/Collection/List.md",
     "4. Archive/img/이선좌/reservation_table.png",
     "4. Archive/img/이선좌/Pasted image 20240613011303.png",
     "4. Archive/img/이선좌/io_overview_2.png",
