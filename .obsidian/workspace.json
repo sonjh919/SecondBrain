@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/무제 파일 1.md",
+                "file": "0. Inbox/면접/이력서.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/무제 파일 1.md",
+                "file": "0. Inbox/면접/이력서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/무제 파일 1.md"
+                "file": "0. Inbox/면접/이력서.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/무제 파일 1.md",
+                "file": "0. Inbox/면접/이력서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,12 +242,29 @@
   },
   "active": "6ef6234807823bf6",
   "lastOpenFiles": [
-    "0. Inbox/무제 파일.md",
+    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/내장 애널라이저.md",
+    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/노멀라이저.md",
+    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/캐릭터 필터.md",
+    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토크나이저.md",
+    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md",
+    "0. Inbox/면접/이력서.md",
+    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/애널라이저.md",
+    "1. Project/ELK/색인.md",
+    "0. Inbox/모니터링.md",
+    "0. Inbox/동시성 제어.md",
+    "0. Inbox/락,es.md",
+    "0. Inbox/면접.md",
+    "1. Project/ELK/Pasted image 20240712161858.png",
+    "1. Project/ELK/역색인.md",
+    "1. Project/ELK/03 인덱스 설계/1. 인덱스 설정/인덱스 설정.md",
+    "0. Inbox/나중에 정리할 것.md",
+    "0. Inbox/면접",
+    "0. Inbox/끄적끄적.md",
+    "0. Inbox/책/책.md",
     "0. Inbox/무제 파일 1.md",
+    "0. Inbox/무제 파일.md",
     "1. Project/이선좌 프로젝트/트러블 슈팅/4. ElasticSearch 배포시 메모리 부족 현상.md",
     "4. Archive/img/이선좌/Pasted image 20240613023437.png",
-    "0. Inbox/나중에 정리할 것.md",
-    "0. Inbox/동시성 제어.md",
     "1. Project/이선좌 프로젝트/트러블 슈팅/1. Counter metric을 Gauge metric으로 변환했을 때 그래프 해석 문제.md",
     "4. Archive/img/이선좌/Pasted image 20240613023257.png",
     "4. Archive/img/이선좌/Pasted image 20240613001115.png",
@@ -257,28 +274,12 @@
     "1. Project/이선좌 프로젝트/트러블 슈팅/3. ELK Security.md",
     "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/03 자바와 객체 지향.md",
     "2. Area/Java API/java.util/Collection/List.md",
-    "3. Resource/Second brain 이론 정리, 적용/PARA.md",
-    "Welcome to JH SecondBrain.md",
-    "3. Resource/대용량트래픽/대용량 트래픽.md",
-    "2. Area/Test/Mockito.md",
-    "2. Area/Test/TDD.md",
-    "2. Area/Test/MOC.md",
-    "2. Area/Test/given when then 패턴.md",
-    "2. Area/Software Pattern/Design Pattern/Singleton Pattern.md",
-    "2. Area/Software Pattern/Design Pattern/Strategy Pattern.md",
-    "2. Area/Software Pattern/Design Pattern/Template Callback Pattern.md",
-    "2. Area/Software Pattern/Design Pattern/Template Method Pattern.md",
-    "2. Area/Software Pattern/Design Pattern/Adapter Pattern.md",
-    "2. Area/Software Pattern/Design Pattern/Builder Pattern.md",
-    "2. Area/Software Pattern/Design Pattern/Composite Pattern.md",
-    "2. Area/Software Pattern/Design Pattern/Decorator Pattern.md",
     "4. Archive/img/이선좌/reservation_table.png",
     "4. Archive/img/이선좌/Pasted image 20240613011303.png",
     "4. Archive/img/이선좌/io_overview_2.png",
     "4. Archive/img/이선좌/CPU_usage_2.png",
     "4. Archive/img/이선좌/1.mp4",
     "4. Archive/img/이선좌/Pasted image 20240612235301.png",
-    "4. Archive/img/이선좌/Pasted image 20240610231552.png",
     "1. Project/이선좌 프로젝트/트러블 슈팅",
     "1. Project/이선좌 프로젝트/개발",
     "4. Archive/img/이선좌",
@@ -287,7 +288,6 @@
     "SecondBrain.git-objects-ac-c270def22e3de6a1216729f4e5299de41b028b",
     "SecondBrain.git-objects-db-6e82e0f388f42bf16690ef4aad9aeff64ac2ff",
     "SecondBrain.git-objects-a7-9d406644bd45846d6b718a45d023483e230a6b",
-    "SecondBrain.git-objects-d4-da8bbbda49e30cc5e64ae5d76cf3a5418be9e9",
     "Project/무제 파일.canvas"
   ]
 }
