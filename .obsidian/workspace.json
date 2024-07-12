@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blocking",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -241,7 +241,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6ef6234807823bf6",
+  "active": "e6d2440fd7f079b9",
   "lastOpenFiles": [
     "2. Area/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
     "0. Inbox/면접/이력서.md",
