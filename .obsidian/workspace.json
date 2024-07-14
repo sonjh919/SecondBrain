@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/면접/이력서.md",
+                "file": "2. Area/Algorithm & Data Structure/Data Structure/Graph/이진 트리(Binary Tree).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/면접/이력서.md",
+                "file": "2. Area/Algorithm & Data Structure/Data Structure/Graph/이진 트리(Binary Tree).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/면접/이력서.md"
+                "file": "2. Area/Algorithm & Data Structure/Data Structure/Graph/이진 트리(Binary Tree).md"
               }
             }
           },
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/면접/이력서.md",
+                "file": "2. Area/Algorithm & Data Structure/Data Structure/Graph/이진 트리(Binary Tree).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,8 +255,23 @@
   },
   "active": "6ef6234807823bf6",
   "lastOpenFiles": [
-    "1. Project/이선좌 프로젝트/트러블 슈팅/5. 대기열 아키텍쳐 설계.md",
+    "2. Area/Algorithm & Data Structure/Data Structure/Graph/binarytree2.png",
+    "2. Area/Algorithm & Data Structure/Data Structure/Graph/이진 트리(Binary Tree).md",
+    "2. Area/Algorithm & Data Structure/Data Structure/Graph/binarytree.png",
+    "2. Area/Algorithm & Data Structure/Data Structure/Graph/Tree.md",
+    "2. Area/Algorithm & Data Structure/Data Structure/Graph",
+    "2. Area/Algorithm & Data Structure/Data Structure/tree.png",
+    "2. Area/Algorithm & Data Structure/Data Structure/Stack.md",
+    "2. Area/Algorithm & Data Structure/Data Structure/Queue.md",
+    "2. Area/Algorithm & Data Structure/Data Structure/List.md",
+    "2. Area/Algorithm & Data Structure/Data Structure/list.png",
+    "2. Area/Algorithm & Data Structure/Data Structure/덱 (Deque).md",
+    "2. Area/Algorithm & Data Structure/Data Structure/계층 자료구조",
+    "2. Area/Algorithm & Data Structure/Data Structure/선형 자료구조",
+    "2. Area/Algorithm & Data Structure/Data Structure",
+    "2. Area/Algorithm & Data Structure/이진 탐색.md",
     "0. Inbox/면접/이력서.md",
+    "1. Project/이선좌 프로젝트/트러블 슈팅/5. 대기열 아키텍쳐 설계.md",
     "1. Project/Redis/데이터타입/Sorted Sets.md",
     "3. Resource/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
     "0. Inbox/모니터링.md",
@@ -274,33 +289,17 @@
     "0. Inbox/락,es.md",
     "0. Inbox/면접.md",
     "1. Project/ELK/Pasted image 20240712161858.png",
-    "1. Project/ELK/역색인.md",
-    "1. Project/ELK/03 인덱스 설계/1. 인덱스 설정/인덱스 설정.md",
-    "0. Inbox/나중에 정리할 것.md",
     "0. Inbox/면접",
-    "0. Inbox/끄적끄적.md",
-    "0. Inbox/책/책.md",
-    "0. Inbox/무제 파일 1.md",
-    "0. Inbox/무제 파일.md",
-    "1. Project/이선좌 프로젝트/트러블 슈팅/4. ElasticSearch 배포시 메모리 부족 현상.md",
     "4. Archive/img/이선좌/Pasted image 20240613023437.png",
     "4. Archive/img/이선좌/Pasted image 20240613023257.png",
     "4. Archive/img/이선좌/Pasted image 20240613001115.png",
     "4. Archive/img/이선좌/Pasted image 20240613023243.png",
     "4. Archive/img/이선좌/reservation_table.png",
-    "4. Archive/img/이선좌/Pasted image 20240613011303.png",
-    "4. Archive/img/이선좌/io_overview_2.png",
-    "4. Archive/img/이선좌/CPU_usage_2.png",
     "4. Archive/img/이선좌/1.mp4",
-    "4. Archive/img/이선좌/Pasted image 20240612235301.png",
     "1. Project/이선좌 프로젝트/트러블 슈팅",
     "1. Project/이선좌 프로젝트/개발",
     "4. Archive/img/이선좌",
     "SecondBrain.git-objects-24-37480faa75cc1766e9a0a60b401c201c98def7",
-    "SecondBrain.git-objects-df-d5b6516f7548bdf224c99542e8e64e5e3eeed7",
-    "SecondBrain.git-objects-ac-c270def22e3de6a1216729f4e5299de41b028b",
-    "SecondBrain.git-objects-db-6e82e0f388f42bf16690ef4aad9aeff64ac2ff",
-    "SecondBrain.git-objects-a7-9d406644bd45846d6b718a45d023483e230a6b",
     "Project/무제 파일.canvas"
   ]
 }

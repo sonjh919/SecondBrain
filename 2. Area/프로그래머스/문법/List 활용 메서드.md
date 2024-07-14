@@ -1,6 +1,6 @@
 #코딩테스트  #Java 
 
-[[List]]를 이용하는 메서드 모음집이다.
+[[2. Area/Java API/java.util/Collection/List]]를 이용하는 메서드 모음집이다.
 
 ```java
 import java.util.ArrayList;  
