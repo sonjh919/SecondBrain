@@ -39,19 +39,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/이선좌 프로젝트/개발/시연영상.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ef6234807823bf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "2. Area/Algorithm & Data Structure/Data Structure/Graph/이진 트리(Binary Tree).md",
                 "mode": "source",
                 "backlinks": true,
@@ -73,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,18 +240,29 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6ef6234807823bf6",
+  "active": "718693ee4bbe1f99",
   "lastOpenFiles": [
-    "2. Area/Algorithm & Data Structure/Data Structure/Graph/binarytree2.png",
-    "2. Area/Algorithm & Data Structure/Data Structure/Graph/이진 트리(Binary Tree).md",
-    "2. Area/Algorithm & Data Structure/Data Structure/Graph/binarytree.png",
+    "2. Area/Algorithm & Data Structure/Data Structure/Graph/우선순위 큐(Priority Queue); 힙(Heap).md",
+    "2. Area/Algorithm & Data Structure/Data Structure/Graph/순회(Traversal); 탐색(Search).md",
+    "2. Area/Algorithm & Data Structure/Data Structure/Graph/그래프(Graph).md",
     "2. Area/Algorithm & Data Structure/Data Structure/Graph/Tree.md",
+    "1. Project/이선좌 프로젝트/개발/1. Gradle Multi-Module.md",
+    "4. Archive/img/Algorithm & Data Structure/tree.png",
+    "4. Archive/img/Algorithm & Data Structure/list.png",
+    "4. Archive/img/Algorithm & Data Structure/BFS.png",
+    "4. Archive/img/Algorithm & Data Structure/dfs.png",
+    "4. Archive/img/Algorithm & Data Structure/graph.png",
+    "4. Archive/img/Algorithm & Data Structure/minheap.png",
+    "4. Archive/img/Algorithm & Data Structure/maxheap.png",
+    "2. Area/Algorithm & Data Structure/Data Structure/Graph/이진 트리(Binary Tree).md",
+    "2. Area/Java API/java.util/Collection/Queue.md",
+    "4. Archive/img/Algorithm & Data Structure/taversal.png",
+    "4. Archive/img/Algorithm & Data Structure/binarytree.png",
+    "4. Archive/img/Algorithm & Data Structure/binarytree2.png",
     "2. Area/Algorithm & Data Structure/Data Structure/Graph",
-    "2. Area/Algorithm & Data Structure/Data Structure/tree.png",
     "2. Area/Algorithm & Data Structure/Data Structure/Stack.md",
     "2. Area/Algorithm & Data Structure/Data Structure/Queue.md",
     "2. Area/Algorithm & Data Structure/Data Structure/List.md",
-    "2. Area/Algorithm & Data Structure/Data Structure/list.png",
     "2. Area/Algorithm & Data Structure/Data Structure/덱 (Deque).md",
     "2. Area/Algorithm & Data Structure/Data Structure/계층 자료구조",
     "2. Area/Algorithm & Data Structure/Data Structure/선형 자료구조",
@@ -284,17 +282,7 @@
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/캐릭터 필터.md",
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토크나이저.md",
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/애널라이저.md",
-    "1. Project/ELK/색인.md",
-    "0. Inbox/락,es.md",
-    "0. Inbox/면접.md",
-    "1. Project/ELK/Pasted image 20240712161858.png",
     "0. Inbox/면접",
-    "4. Archive/img/이선좌/Pasted image 20240613023437.png",
-    "4. Archive/img/이선좌/Pasted image 20240613023257.png",
-    "4. Archive/img/이선좌/Pasted image 20240613001115.png",
-    "4. Archive/img/이선좌/Pasted image 20240613023243.png",
-    "4. Archive/img/이선좌/reservation_table.png",
     "4. Archive/img/이선좌/1.mp4",
     "1. Project/이선좌 프로젝트/트러블 슈팅",
     "1. Project/이선좌 프로젝트/개발",
