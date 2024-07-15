@@ -32,35 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "718693ee4bbe1f99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Area/Algorithm & Data Structure/Data Structure/Graph/이진 트리(Binary Tree).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "423ed05aa7339e20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Project/Redis/데이터타입/Sorted Sets.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/Algorithm & Data Structure/Data Structure/Graph/이진 트리(Binary Tree).md",
+                "file": "1. Project/이선좌 프로젝트/개발/3. Custom Analyzer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/Algorithm & Data Structure/Data Structure/Graph/이진 트리(Binary Tree).md"
+                "file": "1. Project/이선좌 프로젝트/개발/3. Custom Analyzer.md"
               }
             }
           },
@@ -181,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/Algorithm & Data Structure/Data Structure/Graph/이진 트리(Binary Tree).md",
+                "file": "1. Project/이선좌 프로젝트/개발/3. Custom Analyzer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,9 +214,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "718693ee4bbe1f99",
+  "active": "da1dafe329d1e86a",
   "lastOpenFiles": [
+    "1. Project/ELK/색인.md",
+    "4. Archive/img/ELK/index.png",
+    "1. Project/Redis/데이터타입/Sorted Sets.md",
+    "1. Project/ELK/역색인.md",
     "2. Area/Algorithm & Data Structure/Data Structure/Graph/우선순위 큐(Priority Queue); 힙(Heap).md",
+    "2. Area/Algorithm & Data Structure/Data Structure/Graph/이진 트리(Binary Tree).md",
     "2. Area/Algorithm & Data Structure/Data Structure/Graph/순회(Traversal); 탐색(Search).md",
     "2. Area/Algorithm & Data Structure/Data Structure/Graph/그래프(Graph).md",
     "2. Area/Algorithm & Data Structure/Data Structure/Graph/Tree.md",
@@ -254,11 +233,9 @@
     "4. Archive/img/Algorithm & Data Structure/graph.png",
     "4. Archive/img/Algorithm & Data Structure/minheap.png",
     "4. Archive/img/Algorithm & Data Structure/maxheap.png",
-    "2. Area/Algorithm & Data Structure/Data Structure/Graph/이진 트리(Binary Tree).md",
     "2. Area/Java API/java.util/Collection/Queue.md",
     "4. Archive/img/Algorithm & Data Structure/taversal.png",
     "4. Archive/img/Algorithm & Data Structure/binarytree.png",
-    "4. Archive/img/Algorithm & Data Structure/binarytree2.png",
     "2. Area/Algorithm & Data Structure/Data Structure/Graph",
     "2. Area/Algorithm & Data Structure/Data Structure/Stack.md",
     "2. Area/Algorithm & Data Structure/Data Structure/Queue.md",
@@ -270,7 +247,6 @@
     "2. Area/Algorithm & Data Structure/이진 탐색.md",
     "0. Inbox/면접/이력서.md",
     "1. Project/이선좌 프로젝트/트러블 슈팅/5. 대기열 아키텍쳐 설계.md",
-    "1. Project/Redis/데이터타입/Sorted Sets.md",
     "3. Resource/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
     "0. Inbox/모니터링.md",
     "0. Inbox/동시성 제어.md",
@@ -279,9 +255,6 @@
     "2. Area/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/내장 애널라이저.md",
     "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/노멀라이저.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/캐릭터 필터.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토크나이저.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/토큰 필터.md",
     "0. Inbox/면접",
     "4. Archive/img/이선좌/1.mp4",
     "1. Project/이선좌 프로젝트/트러블 슈팅",
