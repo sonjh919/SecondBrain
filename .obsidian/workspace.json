@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/이선좌 프로젝트/개발/3. Custom Analyzer.md",
+                "file": "2. Area/Algorithm & Data Structure/Data Structure/Graph/순회(Traversal); 탐색(Search).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/이선좌 프로젝트/개발/3. Custom Analyzer.md",
+                "file": "2. Area/Algorithm & Data Structure/Data Structure/Graph/순회(Traversal); 탐색(Search).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/이선좌 프로젝트/개발/3. Custom Analyzer.md"
+                "file": "2. Area/Algorithm & Data Structure/Data Structure/Graph/순회(Traversal); 탐색(Search).md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/이선좌 프로젝트/개발/3. Custom Analyzer.md",
+                "file": "2. Area/Algorithm & Data Structure/Data Structure/Graph/순회(Traversal); 탐색(Search).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,6 +216,10 @@
   },
   "active": "da1dafe329d1e86a",
   "lastOpenFiles": [
+    "2. Area/Algorithm & Data Structure/시간 복잡도.md",
+    "2. Area/Algorithm & Data Structure/공간 복잡도.md",
+    "2. Area/Algorithm & Data Structure/이진 탐색.md",
+    "1. Project/이선좌 프로젝트/개발/3. Custom Analyzer.md",
     "1. Project/ELK/색인.md",
     "4. Archive/img/ELK/index.png",
     "1. Project/Redis/데이터타입/Sorted Sets.md",
@@ -244,7 +248,6 @@
     "2. Area/Algorithm & Data Structure/Data Structure/계층 자료구조",
     "2. Area/Algorithm & Data Structure/Data Structure/선형 자료구조",
     "2. Area/Algorithm & Data Structure/Data Structure",
-    "2. Area/Algorithm & Data Structure/이진 탐색.md",
     "0. Inbox/면접/이력서.md",
     "1. Project/이선좌 프로젝트/트러블 슈팅/5. 대기열 아키텍쳐 설계.md",
     "3. Resource/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
@@ -253,8 +256,6 @@
     "1. Project/이선좌 프로젝트/개발/4. 대기열.md",
     "1. Project/Redis/데이터타입/Redis 데이터 타입.md",
     "2. Area/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/내장 애널라이저.md",
-    "1. Project/ELK/03 인덱스 설계/3. 애널라이저와 토크나이저/노멀라이저.md",
     "0. Inbox/면접",
     "4. Archive/img/이선좌/1.mp4",
     "1. Project/이선좌 프로젝트/트러블 슈팅",
