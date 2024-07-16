@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Algorithm & Data Structure/Data Structure/Graph/순회(Traversal); 탐색(Search).md",
+                "file": "0. Inbox/면접/이력서.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/Algorithm & Data Structure/Data Structure/Graph/순회(Traversal); 탐색(Search).md",
+                "file": "0. Inbox/면접/이력서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/Algorithm & Data Structure/Data Structure/Graph/순회(Traversal); 탐색(Search).md"
+                "file": "0. Inbox/면접/이력서.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/Algorithm & Data Structure/Data Structure/Graph/순회(Traversal); 탐색(Search).md",
+                "file": "0. Inbox/면접/이력서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,6 +216,7 @@
   },
   "active": "da1dafe329d1e86a",
   "lastOpenFiles": [
+    "2. Area/Algorithm & Data Structure/Data Structure/Graph/순회(Traversal); 탐색(Search).md",
     "2. Area/Algorithm & Data Structure/시간 복잡도.md",
     "2. Area/Algorithm & Data Structure/공간 복잡도.md",
     "2. Area/Algorithm & Data Structure/이진 탐색.md",
@@ -226,7 +227,6 @@
     "1. Project/ELK/역색인.md",
     "2. Area/Algorithm & Data Structure/Data Structure/Graph/우선순위 큐(Priority Queue); 힙(Heap).md",
     "2. Area/Algorithm & Data Structure/Data Structure/Graph/이진 트리(Binary Tree).md",
-    "2. Area/Algorithm & Data Structure/Data Structure/Graph/순회(Traversal); 탐색(Search).md",
     "2. Area/Algorithm & Data Structure/Data Structure/Graph/그래프(Graph).md",
     "2. Area/Algorithm & Data Structure/Data Structure/Graph/Tree.md",
     "1. Project/이선좌 프로젝트/개발/1. Gradle Multi-Module.md",
