@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/면접/이력서.md",
+                "file": "0. Inbox/면접/객체지향.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/면접/이력서.md",
+                "file": "0. Inbox/면접/객체지향.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/면접/이력서.md"
+                "file": "0. Inbox/면접/객체지향.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/면접/이력서.md",
+                "file": "0. Inbox/면접/객체지향.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,8 +216,10 @@
   },
   "active": "da1dafe329d1e86a",
   "lastOpenFiles": [
-    "2. Area/Algorithm & Data Structure/Data Structure/Graph/순회(Traversal); 탐색(Search).md",
     "0. Inbox/면접/이력서.md",
+    "0. Inbox/면접/객체지향.md",
+    "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+    "2. Area/Algorithm & Data Structure/Data Structure/Graph/순회(Traversal); 탐색(Search).md",
     "2. Area/Algorithm & Data Structure/시간 복잡도.md",
     "2. Area/Algorithm & Data Structure/공간 복잡도.md",
     "2. Area/Algorithm & Data Structure/이진 탐색.md",
@@ -254,8 +256,6 @@
     "0. Inbox/모니터링.md",
     "0. Inbox/동시성 제어.md",
     "1. Project/이선좌 프로젝트/개발/4. 대기열.md",
-    "1. Project/Redis/데이터타입/Redis 데이터 타입.md",
-    "2. Area/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
     "0. Inbox/면접",
     "4. Archive/img/이선좌/1.mp4",
     "1. Project/이선좌 프로젝트/트러블 슈팅",
