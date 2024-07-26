@@ -32,19 +32,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "335939182c99f270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Project/Book/오브젝트/01 객체, 설계.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/면접/객체지향.md",
+                "file": "1. Project/Book/오브젝트/05 책임 할당하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/면접/객체지향.md"
+                "file": "1. Project/Book/오브젝트/05 책임 할당하기.md"
               }
             }
           },
@@ -168,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/면접/객체지향.md",
+                "file": "1. Project/Book/오브젝트/05 책임 할당하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,32 +219,59 @@
     "type": "floating",
     "children": [
       {
-        "id": "5b3edcde9cd938af",
+        "id": "c999b1e4d62cddaa",
         "type": "window",
         "children": [
           {
-            "id": "0b91e83439be095c",
+            "id": "c6ffef05485c113b",
             "type": "tabs",
             "children": [
               {
-                "id": "2d387e8d387f7ff0",
+                "id": "1c89a9c8156980bb",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1. Project/Book/오브젝트/03 역할, 책임, 협력.md",
+                    "file": "1. Project/Book/오브젝트/04 설계 품질과 트레이드오프.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "bc3bbb08524334ef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1. Project/Book/오브젝트/05 책임 할당하기.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "908d7c2706dacbc5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1. Project/Book/오브젝트/06 메시지와 인터페이스.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": -1266,
-        "y": 34,
+        "x": -1273,
+        "y": 6,
         "width": 1255,
         "height": 1000,
         "maximize": false,
@@ -265,10 +279,13 @@
       }
     ]
   },
-  "active": "da1dafe329d1e86a",
+  "active": "bc3bbb08524334ef",
   "lastOpenFiles": [
-    "1. Project/Book/오브젝트/03 역할, 책임, 협력.md",
     "0. Inbox/면접/객체지향.md",
+    "1. Project/Book/오브젝트/05 책임 할당하기.md",
+    "1. Project/Book/오브젝트/06 메시지와 인터페이스.md",
+    "1. Project/Book/오브젝트/04 설계 품질과 트레이드오프.md",
+    "1. Project/Book/오브젝트/03 역할, 책임, 협력.md",
     "1. Project/Book/오브젝트/02 객체지향 프로그래밍.md",
     "1. Project/Book/오브젝트/01 객체, 설계.md",
     "1. Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
@@ -301,9 +318,6 @@
     "4. Archive/img/Algorithm & Data Structure/binarytree.png",
     "2. Area/Algorithm & Data Structure/Data Structure/Graph",
     "2. Area/Algorithm & Data Structure/Data Structure/Stack.md",
-    "2. Area/Algorithm & Data Structure/Data Structure/Queue.md",
-    "2. Area/Algorithm & Data Structure/Data Structure/List.md",
-    "2. Area/Algorithm & Data Structure/Data Structure/덱 (Deque).md",
     "2. Area/Algorithm & Data Structure/Data Structure/계층 자료구조",
     "2. Area/Algorithm & Data Structure/Data Structure/선형 자료구조",
     "2. Area/Algorithm & Data Structure/Data Structure",
