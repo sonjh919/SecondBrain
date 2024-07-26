@@ -13,19 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/이선좌 프로젝트/개발/1. Gradle Multi-Module.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da1dafe329d1e86a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "0. Inbox/면접/객체지향.md",
                 "mode": "source",
                 "backlinks": true,
@@ -33,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Book/오브젝트/05 책임 할당하기.md",
+                "file": "1. Project/Book/오브젝트/07 객체 분해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Book/오브젝트/05 책임 할당하기.md"
+                "file": "1. Project/Book/오브젝트/07 객체 분해.md"
               }
             }
           },
@@ -155,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Book/오브젝트/05 책임 할당하기.md",
+                "file": "1. Project/Book/오브젝트/07 객체 분해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,9 +250,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "da1dafe329d1e86a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1. Project/Book/오브젝트/07 객체 분해.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
@@ -279,11 +278,13 @@
       }
     ]
   },
-  "active": "bc3bbb08524334ef",
+  "active": "da1dafe329d1e86a",
   "lastOpenFiles": [
     "0. Inbox/면접/객체지향.md",
-    "1. Project/Book/오브젝트/05 책임 할당하기.md",
+    "1. Project/이선좌 프로젝트/개발/1. Gradle Multi-Module.md",
+    "1. Project/Book/오브젝트/07 객체 분해.md",
     "1. Project/Book/오브젝트/06 메시지와 인터페이스.md",
+    "1. Project/Book/오브젝트/05 책임 할당하기.md",
     "1. Project/Book/오브젝트/04 설계 품질과 트레이드오프.md",
     "1. Project/Book/오브젝트/03 역할, 책임, 협력.md",
     "1. Project/Book/오브젝트/02 객체지향 프로그래밍.md",
@@ -305,7 +306,6 @@
     "2. Area/Algorithm & Data Structure/Data Structure/Graph/이진 트리(Binary Tree).md",
     "2. Area/Algorithm & Data Structure/Data Structure/Graph/그래프(Graph).md",
     "2. Area/Algorithm & Data Structure/Data Structure/Graph/Tree.md",
-    "1. Project/이선좌 프로젝트/개발/1. Gradle Multi-Module.md",
     "4. Archive/img/Algorithm & Data Structure/tree.png",
     "4. Archive/img/Algorithm & Data Structure/list.png",
     "4. Archive/img/Algorithm & Data Structure/BFS.png",
@@ -317,7 +317,6 @@
     "4. Archive/img/Algorithm & Data Structure/taversal.png",
     "4. Archive/img/Algorithm & Data Structure/binarytree.png",
     "2. Area/Algorithm & Data Structure/Data Structure/Graph",
-    "2. Area/Algorithm & Data Structure/Data Structure/Stack.md",
     "2. Area/Algorithm & Data Structure/Data Structure/계층 자료구조",
     "2. Area/Algorithm & Data Structure/Data Structure/선형 자료구조",
     "2. Area/Algorithm & Data Structure/Data Structure",
