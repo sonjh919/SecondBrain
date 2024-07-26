@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+                "file": "0. Inbox/면접/객체지향.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/면접/객체지향.md",
+                "file": "1. Project/Book/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/면접/객체지향.md",
+                "file": "1. Project/Book/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/면접/객체지향.md"
+                "file": "1. Project/Book/객체지향의 사실과 오해/02 이상한 나라의 객체.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/면접/객체지향.md",
+                "file": "1. Project/Book/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,18 +295,19 @@
   "active": "478f1412e74e3daa",
   "lastOpenFiles": [
     "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+    "0. Inbox/면접/객체지향.md",
     "1. Project/Book/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
+    "1. Project/Book/객체지향의 사실과 오해/05 책임과 메시지.md",
+    "1. Project/Book/객체지향의 사실과 오해/07 함께 모으기.md",
+    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/01 사람을 사랑한 기술.md",
+    "1. Project/Book/오브젝트/01 객체, 설계.md",
+    "1. Project/Book/오브젝트/07 객체 분해.md",
     "1. Project/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
     "1. Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
-    "0. Inbox/면접/객체지향.md",
     "0. Inbox/면접/이력서.md",
-    "1. Project/Book/객체지향의 사실과 오해/05 책임과 메시지.md",
-    "1. Project/Book/오브젝트/07 객체 분해.md",
-    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/01 사람을 사랑한 기술.md",
     "1. Project/Book/오브젝트/06 메시지와 인터페이스.md",
     "1. Project/Book/오브젝트/05 책임 할당하기.md",
     "1. Project/Book/오브젝트/04 설계 품질과 트레이드오프.md",
-    "1. Project/Book/오브젝트/01 객체, 설계.md",
     "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
     "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/MOC.md",
     "1. Project/이선좌 프로젝트/개발/1. Gradle Multi-Module.md",
@@ -320,7 +321,6 @@
     "1. Project/ELK/색인.md",
     "4. Archive/img/ELK/index.png",
     "1. Project/Redis/데이터타입/Sorted Sets.md",
-    "1. Project/ELK/역색인.md",
     "4. Archive/img/Algorithm & Data Structure/tree.png",
     "4. Archive/img/Algorithm & Data Structure/list.png",
     "4. Archive/img/Algorithm & Data Structure/BFS.png",
