@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/면접/객체지향.md",
+                "file": "1. Project/Book/오브젝트/01 객체, 설계.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,10 +227,51 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "335939182c99f270",
+  "floating": {
+    "id": "999928c988d0e5bd",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5b3edcde9cd938af",
+        "type": "window",
+        "children": [
+          {
+            "id": "0b91e83439be095c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2d387e8d387f7ff0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1. Project/Book/오브젝트/03 역할, 책임, 협력.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1266,
+        "y": 34,
+        "width": 1255,
+        "height": 1000,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "da1dafe329d1e86a",
   "lastOpenFiles": [
-    "1. Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
+    "1. Project/Book/오브젝트/03 역할, 책임, 협력.md",
     "0. Inbox/면접/객체지향.md",
+    "1. Project/Book/오브젝트/02 객체지향 프로그래밍.md",
+    "1. Project/Book/오브젝트/01 객체, 설계.md",
+    "1. Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
     "1. Project/Book/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
     "0. Inbox/면접/이력서.md",
     "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
@@ -266,9 +307,6 @@
     "2. Area/Algorithm & Data Structure/Data Structure/계층 자료구조",
     "2. Area/Algorithm & Data Structure/Data Structure/선형 자료구조",
     "2. Area/Algorithm & Data Structure/Data Structure",
-    "1. Project/이선좌 프로젝트/트러블 슈팅/5. 대기열 아키텍쳐 설계.md",
-    "3. Resource/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
-    "0. Inbox/모니터링.md",
     "0. Inbox/면접",
     "4. Archive/img/이선좌/1.mp4",
     "1. Project/이선좌 프로젝트/트러블 슈팅",
