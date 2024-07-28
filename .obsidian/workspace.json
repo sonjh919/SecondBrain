@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/면접/객체지향.md",
+                "file": "1. Project/Book/오브젝트/12 다형성.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/면접/객체지향.md",
+                "file": "1. Project/Book/오브젝트/12 다형성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/면접/객체지향.md"
+                "file": "1. Project/Book/오브젝트/12 다형성.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/면접/객체지향.md",
+                "file": "1. Project/Book/오브젝트/12 다형성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,96 +213,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "999928c988d0e5bd",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c999b1e4d62cddaa",
-        "type": "window",
-        "children": [
-          {
-            "id": "c6ffef05485c113b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1c89a9c8156980bb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1. Project/Book/오브젝트/04 설계 품질과 트레이드오프.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "bc3bbb08524334ef",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1. Project/Book/오브젝트/05 책임 할당하기.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "908d7c2706dacbc5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1. Project/Book/오브젝트/06 메시지와 인터페이스.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "da1dafe329d1e86a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1. Project/Book/오브젝트/07 객체 분해.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1273,
-        "y": 6,
-        "width": 1255,
-        "height": 1000,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
+    "1. Project/Book/오브젝트/11 합성과 유연한 설계.md",
+    "1. Project/Book/오브젝트/12 다형성.md",
+    "1. Project/Book/오브젝트/10 상속과 코드 재사용.md",
+    "1. Project/Book/오브젝트/07 객체 분해.md",
+    "0. Inbox/면접/객체지향.md",
     "1. Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
     "1. Project/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
     "1. Project/Book/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
-    "0. Inbox/면접/객체지향.md",
     "1. Project/Book/오브젝트/04 설계 품질과 트레이드오프.md",
     "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
     "1. Project/Book/객체지향의 사실과 오해/05 책임과 메시지.md",
     "1. Project/Book/객체지향의 사실과 오해/07 함께 모으기.md",
     "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/01 사람을 사랑한 기술.md",
     "1. Project/Book/오브젝트/01 객체, 설계.md",
-    "1. Project/Book/오브젝트/07 객체 분해.md",
     "0. Inbox/면접/이력서.md",
     "1. Project/Book/오브젝트/06 메시지와 인터페이스.md",
     "1. Project/Book/오브젝트/05 책임 할당하기.md",
@@ -315,10 +241,7 @@
     "2. Area/Algorithm & Data Structure/시간 복잡도.md",
     "2. Area/Algorithm & Data Structure/공간 복잡도.md",
     "2. Area/Algorithm & Data Structure/이진 탐색.md",
-    "1. Project/이선좌 프로젝트/개발/3. Custom Analyzer.md",
-    "1. Project/ELK/색인.md",
     "4. Archive/img/ELK/index.png",
-    "1. Project/Redis/데이터타입/Sorted Sets.md",
     "4. Archive/img/Algorithm & Data Structure/tree.png",
     "4. Archive/img/Algorithm & Data Structure/list.png",
     "4. Archive/img/Algorithm & Data Structure/BFS.png",
