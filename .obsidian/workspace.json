@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Book/객체지향의 사실과 오해/07 함께 모으기.md",
+                "file": "1. Project/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "메시지와 협력",
+                "query": "역할",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Book/객체지향의 사실과 오해/07 함께 모으기.md",
+                "file": "1. Project/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Book/객체지향의 사실과 오해/07 함께 모으기.md"
+                "file": "1. Project/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Book/객체지향의 사실과 오해/07 함께 모으기.md",
+                "file": "1. Project/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,17 +214,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e6d2440fd7f079b9",
+  "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
-    "1. Project/Book/객체지향의 사실과 오해/06 객체 지도.md",
+    "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
     "1. Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
     "1. Project/Book/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
-    "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+    "1. Project/Book/오브젝트/06 메시지와 인터페이스.md",
+    "0. Inbox/면접/객체지향.md",
+    "1. Project/JPA/Persistence Context/1차 캐시.md",
+    "1. Project/JPA/Persistence Context/영속성 컨텍스트.md",
+    "1. Project/JPA/Persistence Context/쓰기 지연 저장소.md",
+    "1. Project/JPA/Persistence Context/변경 감지.md",
+    "1. Project/JPA/Entity/Entity생명주기/flush.md",
+    "1. Project/JPA/Entity/Entity.md",
+    "1. Project/JPA/Entity/EntityManager.md",
+    "1. Project/JPA/Entity/Entity생명주기/Entity 생명주기.md",
+    "1. Project/Book/객체지향의 사실과 오해/07 함께 모으기.md",
+    "1. Project/Book/객체지향의 사실과 오해/06 객체 지도.md",
     "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/01 사람을 사랑한 기술.md",
     "1. Project/Book/오브젝트/02 객체지향 프로그래밍.md",
     "1. Project/Book/오브젝트/03 역할, 책임, 협력.md",
     "1. Project/Book/오브젝트/01 객체, 설계.md",
-    "1. Project/Book/오브젝트/06 메시지와 인터페이스.md",
     "1. Project/Book/오브젝트/11 합성과 유연한 설계.md",
     "1. Project/Book/오브젝트/10 상속과 코드 재사용.md",
     "1. Project/Book/오브젝트/12 다형성.md",
@@ -232,17 +242,7 @@
     "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
     "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/04 자바가 확장한 객체 지향.md",
     "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/03 자바와 객체 지향.md",
-    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/02 자바와 절차적, 구조적 프로그래밍.md",
-    "1. Project/Book/오브젝트/04 설계 품질과 트레이드오프.md",
-    "1. Project/Book/오브젝트/15 디자인 패턴과 프레임워크.md",
     "1. Project/Book/오브젝트/Pasted image 20240728150145.png",
-    "1. Project/Book/오브젝트/07 객체 분해.md",
-    "0. Inbox/면접/객체지향.md",
-    "1. Project/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
-    "1. Project/Book/객체지향의 사실과 오해/05 책임과 메시지.md",
-    "1. Project/Book/객체지향의 사실과 오해/07 함께 모으기.md",
-    "0. Inbox/면접/이력서.md",
-    "1. Project/Book/오브젝트/05 책임 할당하기.md",
     "4. Archive/img/ELK/index.png",
     "4. Archive/img/Algorithm & Data Structure/tree.png",
     "4. Archive/img/Algorithm & Data Structure/list.png",
