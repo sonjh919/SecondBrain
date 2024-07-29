@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "내부 요소 ",
+                "query": "응집도",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
+                "file": "1. Project/Book/오브젝트/04 설계 품질과 트레이드오프.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md"
+                "file": "1. Project/Book/오브젝트/04 설계 품질과 트레이드오프.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
+                "file": "1. Project/Book/오브젝트/04 설계 품질과 트레이드오프.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,10 +215,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e6d2440fd7f079b9",
+  "active": "478f1412e74e3daa",
   "lastOpenFiles": [
-    "1. Project/JPA/Annotation/Column/@Embedded.md",
     "1. Project/Book/오브젝트/01 객체, 설계.md",
+    "1. Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
+    "1. Project/JPA/Annotation/Column/@Embedded.md",
     "1. Project/Book/객체지향의 사실과 오해/05 책임과 메시지.md",
     "1. Project/Spring/Spring과 객체지향/IoC (Inversion of Controller).md",
     "1. Project/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/응용 서비스의 역할.md",
@@ -229,7 +230,6 @@
     "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
     "1. Project/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
     "1. Project/Book/오브젝트/04 설계 품질과 트레이드오프.md",
-    "1. Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
     "1. Project/Book/오브젝트/02 객체지향 프로그래밍.md",
     "1. Project/Book/오브젝트/07 객체 분해.md",
     "1. Project/Book/오브젝트/10 상속과 코드 재사용.md",
