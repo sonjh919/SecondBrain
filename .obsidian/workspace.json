@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Book/오브젝트/12 다형성.md",
+                "file": "1. Project/Book/오브젝트/13 서브클래싱과 서브타이핑.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Book/오브젝트/12 다형성.md",
+                "file": "1. Project/Book/오브젝트/13 서브클래싱과 서브타이핑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Book/오브젝트/12 다형성.md"
+                "file": "1. Project/Book/오브젝트/13 서브클래싱과 서브타이핑.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Book/오브젝트/12 다형성.md",
+                "file": "1. Project/Book/오브젝트/13 서브클래싱과 서브타이핑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,9 +216,9 @@
   },
   "active": "478f1412e74e3daa",
   "lastOpenFiles": [
+    "1. Project/Book/오브젝트/12 다형성.md",
     "1. Project/Book/오브젝트/15 디자인 패턴과 프레임워크.md",
     "1. Project/Book/오브젝트/13 서브클래싱과 서브타이핑.md",
-    "1. Project/Book/오브젝트/12 다형성.md",
     "1. Project/Book/오브젝트/11 합성과 유연한 설계.md",
     "1. Project/Book/오브젝트/10 상속과 코드 재사용.md",
     "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
