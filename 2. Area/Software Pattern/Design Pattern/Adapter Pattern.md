@@ -6,4 +6,3 @@
 > 참고 : [[05 객체 지향 설계 5원칙 - SOLID]]
 
 ## 어댑터 패턴(Adapter Pattern)
-         
