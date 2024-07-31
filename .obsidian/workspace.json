@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+                "file": "0. Inbox/면접/이력서.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "행동 호환성",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+                "file": "0. Inbox/면접/이력서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md"
+                "file": "0. Inbox/면접/이력서.md"
               }
             }
           },
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+                "file": "0. Inbox/면접/이력서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +215,10 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
+    "0. Inbox/면접/Pasted image 20240731143917.png",
     "0. Inbox/면접/이력서.md",
+    "0. Inbox/면접/면접.md",
+    "1. Project/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
     "3. Resource/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
     "3. Resource/대용량트래픽/대용량 트래픽.md",
     "1. Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
@@ -239,11 +241,7 @@
     "1. Project/Spring/OAuth/카카오 로그인.md",
     "1. Project/Spring/Library/Validation.md",
     "1. Project/Spring/Library/URLEncoder.md",
-    "1. Project/Spring/Library/PasswordEncoder.md",
-    "1. Project/Spring/Library/Lombok.md",
-    "1. Project/Spring/Library/Jackson.md",
     "1. Project/Spring/예외처리/exception.png",
-    "0. Inbox/면접/Pasted image 20240731143917.png",
     "1. Project/Book/오브젝트/Pasted image 20240728150145.png",
     "4. Archive/img/ELK/index.png",
     "4. Archive/img/Algorithm & Data Structure/tree.png",
