@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/면접/이력서.md",
+                "file": "0. Inbox/트랜잭션 정리.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/면접/이력서.md",
+                "file": "0. Inbox/트랜잭션 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/면접/이력서.md"
+                "file": "0. Inbox/트랜잭션 정리.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/면접/이력서.md",
+                "file": "0. Inbox/트랜잭션 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,8 +215,14 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
-    "0. Inbox/면접/면접.md",
+    "0. Inbox/dynamicscheduler.md",
+    "0. Inbox/회사.md",
+    "0. Inbox/나중에 정리할 것.md",
+    "0. Inbox/동시성 제어.md",
+    "0. Inbox/락,es.md",
+    "0. Inbox/면접.md",
     "0. Inbox/면접/이력서.md",
+    "0. Inbox/면접/면접.md",
     "0. Inbox/면접/객체지향.md",
     "0. Inbox/면접/Pasted image 20240731143917.png",
     "1. Project/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
@@ -236,12 +242,6 @@
     "1. Project/Spring/Servlet/배포서술자.md",
     "1. Project/Spring/Security/쿠키.md",
     "1. Project/Spring/Security/접근 불가 페이지.md",
-    "1. Project/Spring/Security/인증과 인가.md",
-    "1. Project/Spring/RestTemplate/RestTemplate.md",
-    "1. Project/Spring/OAuth/OAuth.md",
-    "1. Project/Spring/OAuth/카카오 로그인.md",
-    "1. Project/Spring/Library/Validation.md",
-    "1. Project/Spring/Library/URLEncoder.md",
     "1. Project/Spring/예외처리/exception.png",
     "1. Project/Book/오브젝트/Pasted image 20240728150145.png",
     "4. Archive/img/ELK/index.png",
