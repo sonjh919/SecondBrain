@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/트랜잭션 정리.md",
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "DDD",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/트랜잭션 정리.md",
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/트랜잭션 정리.md"
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md"
               }
             }
           },
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/트랜잭션 정리.md",
+                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,6 +216,11 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
+    "1. Project/Book/도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/표현 영역과 응용 영역.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/간접 통합.md",
+    "0. Inbox/ddd.md",
+    "0. Inbox/트랜잭션 정리.md",
     "0. Inbox/dynamicscheduler.md",
     "0. Inbox/회사.md",
     "0. Inbox/나중에 정리할 것.md",
@@ -237,11 +243,6 @@
     "1. Project/Spring/Servlet/Servlet Life Cycle.md",
     "1. Project/Spring/Servlet/Servlet Container.md",
     "1. Project/Spring/Servlet/Servlet.md",
-    "1. Project/Spring/Servlet/MOC.md",
-    "1. Project/Spring/Servlet/DispatcherServlet.md",
-    "1. Project/Spring/Servlet/배포서술자.md",
-    "1. Project/Spring/Security/쿠키.md",
-    "1. Project/Spring/Security/접근 불가 페이지.md",
     "1. Project/Spring/예외처리/exception.png",
     "1. Project/Book/오브젝트/Pasted image 20240728150145.png",
     "4. Archive/img/ELK/index.png",
