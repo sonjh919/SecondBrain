@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Spring/문법/PathVariable vs RequestParam.md",
+                "file": "0. Inbox/이선좌 전체기능.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "requestparam",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Spring/문법/PathVariable vs RequestParam.md",
+                "file": "0. Inbox/이선좌 전체기능.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Spring/문법/PathVariable vs RequestParam.md"
+                "file": "0. Inbox/이선좌 전체기능.md"
               }
             }
           },
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Spring/문법/PathVariable vs RequestParam.md",
+                "file": "0. Inbox/이선좌 전체기능.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,6 +215,9 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
+    "0. Inbox/코테.md",
+    "0. Inbox/이선좌 전체기능.md",
+    "1. Project/Spring/문법/PathVariable vs RequestParam.md",
     "0. Inbox/나중에 정리할 것.md",
     "0. Inbox/동시성 제어.md",
     "0. Inbox/락,es.md",
@@ -241,9 +243,6 @@
     "1. Project/Spring/Spring과 객체지향/IoC Container와 Bean.md",
     "1. Project/Spring/Spring과 객체지향/IoC (Inversion of Controller).md",
     "1. Project/Spring/Spring과 객체지향/Interceptor.md",
-    "1. Project/Spring/Spring과 객체지향/DI (Dependency Injection).md",
-    "1. Project/Spring/Spring과 객체지향/ApplicationContext.md",
-    "1. Project/Spring/Spring과 객체지향/AOP.md",
     "1. Project/Spring/예외처리/exception.png",
     "1. Project/Book/오브젝트/Pasted image 20240728150145.png",
     "4. Archive/img/ELK/index.png",
