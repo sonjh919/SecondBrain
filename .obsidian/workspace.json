@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/이선좌 전체기능.md",
+                "file": "2. Area/CS/Network/HTTP 상태 코드.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -79,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/이선좌 전체기능.md",
+                "file": "2. Area/CS/Network/HTTP 상태 코드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/이선좌 전체기능.md"
+                "file": "2. Area/CS/Network/HTTP 상태 코드.md"
               }
             }
           },
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/이선좌 전체기능.md",
+                "file": "2. Area/CS/Network/HTTP 상태 코드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,10 +214,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a983fc1a9a82f592",
+  "active": "e6d2440fd7f079b9",
   "lastOpenFiles": [
-    "0. Inbox/코테.md",
     "0. Inbox/이선좌 전체기능.md",
+    "0. Inbox/코테.md",
     "1. Project/Spring/문법/PathVariable vs RequestParam.md",
     "0. Inbox/나중에 정리할 것.md",
     "0. Inbox/동시성 제어.md",
