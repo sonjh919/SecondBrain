@@ -19,7 +19,6 @@
 **클라이언트의 요청을 서버가 정상적으로 처리했고 새로운 리소스가 생겼다**는 뜻이다. `201` 상태 코드는 `POST`, `PUT` 요청에 대한 응답에 주로 사용된다. 클라이언트의 요청이 성공적으로 이뤄졌다는 의미까지는 `200`과 동일하지만, 성공과 동시에 새로운 리소스가 생성되었다는 의미를 포함한다.
 
 > HTTP 헤더의 [Content-Location](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Location)를 이용하여 만들어진 리소스 생성된 위치를 알려주면 더욱 좋다.
-{: .prompt-tip }
 
 ```http
 POST /users HTTP/1.1
