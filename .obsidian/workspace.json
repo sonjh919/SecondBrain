@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/CS/Network/JSON.md",
+                "file": "0. Inbox/면접/이력서.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ELK",
+                "query": "Restful",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/CS/Network/JSON.md",
+                "file": "0. Inbox/면접/이력서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/CS/Network/JSON.md"
+                "file": "0. Inbox/면접/이력서.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/CS/Network/JSON.md",
+                "file": "0. Inbox/면접/이력서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,6 +215,19 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
+    "0. Inbox/면접/객체지향.md",
+    "0. Inbox/면접/Pasted image 20240731143917.png",
+    "0. Inbox/면접/이력서.md",
+    "1. Project/이선좌 프로젝트/개발/1. Gradle Multi-Module.md",
+    "1. Project/이선좌 프로젝트/개발/5. 유저테스트 모니터링.md",
+    "1. Project/이선좌 프로젝트/개발/4. 대기열.md",
+    "2. Area/CS/Network/REST API.md",
+    "2. Area/CS/Network/REST.md",
+    "0. Inbox/나중에 정리할 것.md",
+    "2. Area/CS/Network/Server.md",
+    "2. Area/CS/Network/URI vs URL.md",
+    "2. Area/CS/Network/Server의 분리.md",
+    "2. Area/CS/Network/JSON.md",
     "2. Area/CS/Network/HTTP 상태 코드.md",
     "2. Area/CS/Network/HTTP Headers.md",
     "2. Area/CS/Network/HTTP.md",
@@ -228,21 +241,7 @@
     "1. Project/ELK/Beats.md",
     "1. Project/ELK/Logstash.md",
     "1. Project/ELK/역색인.md",
-    "1. Project/ELK/색인.md",
-    "0. Inbox/면접/이력서.md",
-    "0. Inbox/면접/객체지향.md",
-    "0. Inbox/끄적끄적.md",
-    "0. Inbox/이선좌 전체기능.md",
-    "0. Inbox/코테.md",
-    "1. Project/Spring/문법/PathVariable vs RequestParam.md",
-    "0. Inbox/나중에 정리할 것.md",
-    "0. Inbox/동시성 제어.md",
-    "0. Inbox/락,es.md",
-    "0. Inbox/모니터링.md",
-    "0. Inbox/무제 파일 1.md",
     "4. Archive/img/109019081.jpg",
-    "3. Resource/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
-    "0. Inbox/면접/Pasted image 20240731143917.png",
     "1. Project/Spring/예외처리/exception.png",
     "1. Project/Book/오브젝트/Pasted image 20240728150145.png",
     "4. Archive/img/ELK/index.png",
