@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Docker/컨테이너.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "478f1412e74e3daa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Project/이선좌 프로젝트/기획&설계/4. 기획.md",
+                "file": "3. Resource/대용량트래픽/대용량 트래픽.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Restful",
+                "query": "대용량 ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/Docker/컨테이너.md",
+                "file": "3. Resource/대용량트래픽/대용량 트래픽.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/Docker/컨테이너.md"
+                "file": "3. Resource/대용량트래픽/대용량 트래픽.md"
               }
             }
           },
@@ -154,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/Docker/컨테이너.md",
+                "file": "3. Resource/대용량트래픽/대용량 트래픽.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,32 +203,33 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
-    "0. Inbox/면접/이력서.md",
-    "0. Inbox/면접/객체지향.md",
-    "0. Inbox/면접/Pasted image 20240731143917.png",
-    "1. Project/이선좌 프로젝트/개발/1. Gradle Multi-Module.md",
-    "1. Project/이선좌 프로젝트/개발/5. 유저테스트 모니터링.md",
-    "1. Project/이선좌 프로젝트/개발/4. 대기열.md",
-    "2. Area/CS/Network/REST API.md",
-    "2. Area/CS/Network/REST.md",
-    "0. Inbox/나중에 정리할 것.md",
-    "2. Area/CS/Network/Server.md",
-    "2. Area/CS/Network/URI vs URL.md",
-    "2. Area/CS/Network/Server의 분리.md",
-    "2. Area/CS/Network/JSON.md",
-    "2. Area/CS/Network/HTTP 상태 코드.md",
-    "2. Area/CS/Network/HTTP Headers.md",
-    "2. Area/CS/Network/HTTP.md",
-    "2. Area/CS/Network/HAL JSON.md",
-    "2. Area/CS/Network/Forward와 Redirect.md",
-    "2. Area/CS/Network/CSRF.md",
-    "2. Area/CS/Network/CORS.md",
-    "2. Area/CS/Network/API.md",
-    "2. Area/CS/Network/3 Tier Architecture.md",
-    "1. Project/ELK/ELK Stack.md",
+    "1. Project/Redis/Redis의 특징.md",
+    "2. Area/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
+    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조 개괄.md",
+    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
+    "1. Project/ELK/03 인덱스 설계/1. 인덱스 설정/인덱스 설정.md",
+    "1. Project/ELK/03 인덱스 설계/5. 라우팅/라우팅.md",
+    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 내부 구조와 루씬.md",
     "1. Project/ELK/Beats.md",
-    "1. Project/ELK/Logstash.md",
+    "1. Project/ELK/Setting/Elasticsearch + Kibana + Cerebro (Docker).md",
+    "1. Project/ELK/Setting/토큰 발급.md",
+    "1. Project/ELK/색인.md",
     "1. Project/ELK/역색인.md",
+    "1. Project/ELK/Logstash.md",
+    "1. Project/ELK/Kibana.md",
+    "1. Project/ELK/ELK Stack.md",
+    "1. Project/ELK/ElasticSearch.md",
+    "1. Project/Redis/Redis.md",
+    "1. Project/Redis/데이터타입/Redis 데이터 타입.md",
+    "1. Project/Redis/Redis의 주의사항.md",
+    "2. Area/Docker/프로세스 격리.md",
+    "2. Area/Docker/컨테이너.md",
+    "2. Area/Docker/레이어 저장방식.md",
+    "2. Area/Docker/도커 허브.md",
+    "2. Area/Docker/이미지.md",
+    "2. Area/Docker/DSL.md",
+    "2. Area/Docker/Docker.md",
+    "0. Inbox/면접/Pasted image 20240731143917.png",
     "4. Archive/img/109019081.jpg",
     "1. Project/Spring/예외처리/exception.png",
     "1. Project/Book/오브젝트/Pasted image 20240728150145.png",

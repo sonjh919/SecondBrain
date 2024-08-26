@@ -2,7 +2,7 @@
 
 > [!important]+ 
 > 동기 방식과 비동기 방식의 차이는 **시간의 이슈**이다.
-> Blocking 방식과 Non-Blocking 방식의 차이는 **IO의 이슈**이다.
+> Blocking 방식과 Non-Blocking 방식의 차이는 **IO의 이슈**이다. (제어권을 누가 가지고 있는지)
 > 
 > 동기이면서 Blocking인 경우(MySQL), 비동기이면서 Non-Blocking인 경우(이벤트 처리)가 많다.
 

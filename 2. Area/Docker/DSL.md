@@ -1,14 +1,3 @@
----
-title: DSL
-date: 2023-12-27 11:54
-categories:
-  - Docker
-tags:
-  - Docker
-  - DSL
-image: 
-path:
----
 #Docker #DSL 
 
 ## DSL(domain specific lanuage)
