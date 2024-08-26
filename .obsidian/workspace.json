@@ -19,8 +19,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91a70347941cf824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조 개괄.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80881155b443ef39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Project/Redis/Redis.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7232758e8b5a2186",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resource/대용량트래픽/대용량 트래픽.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -49,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "대용량 ",
+                "query": "jvm",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,12 +240,59 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a983fc1a9a82f592",
+  "floating": {
+    "id": "a22baffa2fe2bb59",
+    "type": "floating",
+    "children": [
+      {
+        "id": "765b7e3ca3e71272",
+        "type": "window",
+        "children": [
+          {
+            "id": "f01d140a3634f618",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ead1386fd200b8a2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Area/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 316,
+        "y": 52,
+        "width": 1255,
+        "height": 1000,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7232758e8b5a2186",
   "lastOpenFiles": [
-    "1. Project/Redis/Redis의 특징.md",
-    "2. Area/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
+    "2. Area/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
+    "2. Area/JAVA/개발 환경/JAR.md",
+    "2. Area/JAVA/개발 환경/JVM/Class Loader.md",
+    "2. Area/JAVA/개발 환경/JVM/Runtime Data Area.md",
+    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/04 자바가 확장한 객체 지향.md",
+    "0. Inbox/면접/이력서.md",
+    "3. Resource/대용량트래픽/대용량 트래픽.md",
+    "2. Area/Docker/이미지.md",
+    "1. Project/Redis/Redis.md",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조 개괄.md",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
+    "1. Project/Redis/Redis의 특징.md",
+    "2. Area/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
     "1. Project/ELK/03 인덱스 설계/1. 인덱스 설정/인덱스 설정.md",
     "1. Project/ELK/03 인덱스 설계/5. 라우팅/라우팅.md",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 내부 구조와 루씬.md",
@@ -219,16 +305,7 @@
     "1. Project/ELK/Kibana.md",
     "1. Project/ELK/ELK Stack.md",
     "1. Project/ELK/ElasticSearch.md",
-    "1. Project/Redis/Redis.md",
     "1. Project/Redis/데이터타입/Redis 데이터 타입.md",
-    "1. Project/Redis/Redis의 주의사항.md",
-    "2. Area/Docker/프로세스 격리.md",
-    "2. Area/Docker/컨테이너.md",
-    "2. Area/Docker/레이어 저장방식.md",
-    "2. Area/Docker/도커 허브.md",
-    "2. Area/Docker/이미지.md",
-    "2. Area/Docker/DSL.md",
-    "2. Area/Docker/Docker.md",
     "0. Inbox/면접/Pasted image 20240731143917.png",
     "4. Archive/img/109019081.jpg",
     "1. Project/Spring/예외처리/exception.png",
