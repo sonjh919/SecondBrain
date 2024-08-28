@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/대용량트래픽/대용량 트래픽.md",
+                "file": "2. Area/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/대용량트래픽/대용량 트래픽.md"
+                "file": "2. Area/JAVA/개발 환경/Java 개발 환경과 실행 과정.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/대용량트래픽/대용량 트래픽.md",
+                "file": "2. Area/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,15 +278,15 @@
       }
     ]
   },
-  "active": "7232758e8b5a2186",
+  "active": "ead1386fd200b8a2",
   "lastOpenFiles": [
+    "3. Resource/대용량트래픽/대용량 트래픽.md",
     "2. Area/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
     "2. Area/JAVA/개발 환경/JAR.md",
     "2. Area/JAVA/개발 환경/JVM/Class Loader.md",
     "2. Area/JAVA/개발 환경/JVM/Runtime Data Area.md",
     "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/04 자바가 확장한 객체 지향.md",
     "0. Inbox/면접/이력서.md",
-    "3. Resource/대용량트래픽/대용량 트래픽.md",
     "2. Area/Docker/이미지.md",
     "1. Project/Redis/Redis.md",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조 개괄.md",
