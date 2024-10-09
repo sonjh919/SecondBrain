@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/JAVA/기본 문법/enum.md",
+                "file": "1. Project/우테코7기/입학설명회.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/JAVA/기본 문법/enum.md",
+                "file": "1. Project/우테코7기/입학설명회.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/JAVA/기본 문법/enum.md"
+                "file": "1. Project/우테코7기/입학설명회.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/JAVA/기본 문법/enum.md",
+                "file": "1. Project/우테코7기/입학설명회.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,8 +241,21 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
-    "2. Area/JAVA/기본 문법/Literal.md",
+    "1. Project/우테코7기/Pasted image 20241009215235.png",
+    "1. Project/우테코7기/Pasted image 20241009214221.png",
+    "1. Project/우테코7기/Pasted image 20241009211512.png",
+    "1. Project/우테코7기/Pasted image 20241009211319.png",
+    "1. Project/우테코7기/Pasted image 20241009211240.png",
+    "1. Project/우테코7기/Pasted image 20241009211111.png",
+    "1. Project/우테코7기/Pasted image 20241009210715.png",
+    "1. Project/우테코7기/Pasted image 20241009210612.png",
+    "1. Project/우테코7기/Pasted image 20241009210531.png",
+    "1. Project/우테코7기/Pasted image 20241009210508.png",
+    "1. Project/우테코7기/Pasted image 20241009210437.png",
+    "1. Project/우테코7기/입학설명회.md",
+    "1. Project/우테코7기",
     "2. Area/JAVA/기본 문법/enum.md",
+    "2. Area/JAVA/기본 문법/Literal.md",
     "2. Area/JAVA/기본 문법/ASCII.md",
     "2. Area/JAVA/기본 문법/패키지.md",
     "2. Area/JAVA/기본 문법/형 변환.md",
@@ -265,18 +278,6 @@
     "2. Area/JAVA/클래스&객체/추상 클래스.md",
     "2. Area/JAVA/클래스&객체/클래스와 객체.md",
     "2. Area/JAVA/클래스&객체/가변 클래스.md",
-    "2. Area/JAVA/모던 자바/람다.md",
-    "2. Area/JAVA/개발 환경/JVM/Thread.md",
-    "0. Inbox/면접/Pasted image 20240731143917.png",
-    "4. Archive/img/109019081.jpg",
-    "1. Project/Spring/예외처리/exception.png",
-    "1. Project/Book/오브젝트/Pasted image 20240728150145.png",
-    "4. Archive/img/ELK/index.png",
-    "4. Archive/img/Algorithm & Data Structure/tree.png",
-    "4. Archive/img/Algorithm & Data Structure/list.png",
-    "4. Archive/img/Algorithm & Data Structure/BFS.png",
-    "4. Archive/img/Algorithm & Data Structure/dfs.png",
-    "4. Archive/img/Algorithm & Data Structure/graph.png",
     "2. Area/Algorithm & Data Structure/Data Structure/Graph",
     "2. Area/Algorithm & Data Structure/Data Structure/계층 자료구조",
     "2. Area/Algorithm & Data Structure/Data Structure/선형 자료구조",
@@ -286,7 +287,6 @@
     "1. Project/이선좌 프로젝트/트러블 슈팅",
     "1. Project/이선좌 프로젝트/개발",
     "4. Archive/img/이선좌",
-    "SecondBrain.git-objects-24-37480faa75cc1766e9a0a60b401c201c98def7",
     "Project/무제 파일.canvas"
   ]
 }
