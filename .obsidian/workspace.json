@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/면접/이력서.md",
+                "file": "2. Area/JAVA/기본 문법/enum.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/면접/이력서.md",
+                "file": "2. Area/JAVA/기본 문법/enum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/면접/이력서.md"
+                "file": "2. Area/JAVA/기본 문법/enum.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/면접/이력서.md",
+                "file": "2. Area/JAVA/기본 문법/enum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,32 +241,32 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
-    "0. Inbox/면접/객체지향.md",
-    "0. Inbox/면접/이력서.md",
-    "2. Area/Java API/java.util/Collection/List.md",
-    "2. Area/Java API/java.util/Collection/Collection.md",
-    "3. Resource/대용량트래픽/대용량 트래픽.md",
-    "2. Area/JAVA/개발 환경/Java 개발 환경과 실행 과정.md",
-    "2. Area/JAVA/개발 환경/JAR.md",
-    "2. Area/JAVA/개발 환경/JVM/Class Loader.md",
-    "2. Area/JAVA/개발 환경/JVM/Runtime Data Area.md",
-    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/04 자바가 확장한 객체 지향.md",
-    "2. Area/Docker/이미지.md",
-    "1. Project/Redis/Redis.md",
-    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조 개괄.md",
-    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/기본 동작.md",
-    "1. Project/Redis/Redis의 특징.md",
-    "2. Area/Architecture/동기&비동기 vs Blocking&Non-Blocking.md",
-    "1. Project/ELK/03 인덱스 설계/1. 인덱스 설정/인덱스 설정.md",
-    "1. Project/ELK/03 인덱스 설계/5. 라우팅/라우팅.md",
-    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 내부 구조와 루씬.md",
-    "1. Project/ELK/Beats.md",
-    "1. Project/ELK/Setting/Elasticsearch + Kibana + Cerebro (Docker).md",
-    "1. Project/ELK/Setting/토큰 발급.md",
-    "1. Project/ELK/색인.md",
-    "1. Project/ELK/역색인.md",
-    "1. Project/ELK/Logstash.md",
-    "1. Project/ELK/Kibana.md",
+    "2. Area/JAVA/기본 문법/Literal.md",
+    "2. Area/JAVA/기본 문법/enum.md",
+    "2. Area/JAVA/기본 문법/ASCII.md",
+    "2. Area/JAVA/기본 문법/패키지.md",
+    "2. Area/JAVA/기본 문법/형 변환.md",
+    "2. Area/JAVA/기본 문법/제어문.md",
+    "2. Area/JAVA/기본 문법/자료형.md",
+    "2. Area/JAVA/기본 문법/연산자.md",
+    "2. Area/JAVA/기본 문법/상수.md",
+    "2. Area/JAVA/기본 문법/변수.md",
+    "2. Area/JAVA/모던 자바/함수형 프로그래밍.md",
+    "2. Area/JAVA/모던 자바/함수형 인터페이스.md",
+    "2. Area/JAVA/모던 자바/모던 자바.md",
+    "2. Area/JAVA/클래스&객체/Has-A와 IS-A.md",
+    "2. Area/JAVA/클래스&객체/상속.md",
+    "2. Area/JAVA/클래스&객체/생성자.md",
+    "2. Area/JAVA/클래스&객체/업캐스팅 & 다운캐스팅.md",
+    "2. Area/JAVA/클래스&객체/오버라이딩과 오버로딩.md",
+    "2. Area/JAVA/클래스&객체/인터페이스.md",
+    "2. Area/JAVA/클래스&객체/접근 지정자.md",
+    "2. Area/JAVA/클래스&객체/제네릭.md",
+    "2. Area/JAVA/클래스&객체/추상 클래스.md",
+    "2. Area/JAVA/클래스&객체/클래스와 객체.md",
+    "2. Area/JAVA/클래스&객체/가변 클래스.md",
+    "2. Area/JAVA/모던 자바/람다.md",
+    "2. Area/JAVA/개발 환경/JVM/Thread.md",
     "0. Inbox/면접/Pasted image 20240731143917.png",
     "4. Archive/img/109019081.jpg",
     "1. Project/Spring/예외처리/exception.png",
