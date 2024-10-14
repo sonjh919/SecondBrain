@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/우테코7기/자소서.md",
+                "file": "1. Project/Book/오브젝트/오브젝트 총정리/오브젝트 리마인드.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/우테코7기/자소서.md",
+                "file": "1. Project/Book/오브젝트/오브젝트 총정리/오브젝트 리마인드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/우테코7기/자소서.md"
+                "file": "1. Project/Book/오브젝트/오브젝트 총정리/오브젝트 리마인드.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/우테코7기/자소서.md",
+                "file": "1. Project/Book/오브젝트/오브젝트 총정리/오브젝트 리마인드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,43 +202,44 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
-    "1. Project/Book/오브젝트/13 서브클래싱과 서브타이핑.md",
+    "1. Project/Book/오브젝트/오브젝트 총정리/1. 역할, 책임, 협력.png",
+    "1. Project/Book/오브젝트/오브젝트 총정리/오브젝트 리마인드.md",
+    "1. Project/Book/오브젝트/오브젝트 총정리/2. 상태와 행동.png",
+    "1. Project/Book/오브젝트/오브젝트 총정리",
     "1. Project/Book/오브젝트/15 디자인 패턴과 프레임워크.md",
+    "0. Inbox/끄적끄적.md",
+    "0. Inbox/나중에 정리할 것.md",
+    "0. Inbox/동시성 제어.md",
+    "0. Inbox/락,es.md",
+    "0. Inbox/이선좌 전체기능.md",
+    "0. Inbox/면접.md",
+    "0. Inbox/면접/객체지향.md",
+    "0. Inbox/면접/이력서.md",
+    "1. Project/Book/헤드퍼스트 디자인패턴/무제 파일.md",
+    "2. Area/Software Pattern/Design Pattern/Adapter Pattern.md",
+    "1. Project/Book/헤드퍼스트 디자인패턴",
+    "2. Area/Software Pattern/Design Pattern/Builder Pattern.md",
+    "2. Area/Software Pattern/Design Pattern/Design Pattern.md",
+    "2. Area/Software Pattern/Design Pattern/Factory Method Pattern.md",
+    "2. Area/Software Pattern/Design Pattern/Facade Pattern.md",
+    "2. Area/Software Pattern/Design Pattern/Proxy Pattern.md",
+    "2. Area/Software Pattern/Design Pattern/Strategy Pattern.md",
+    "2. Area/Software Pattern/Design Pattern/Singleton Pattern.md",
+    "1. Project/Book/오브젝트/11 합성과 유연한 설계.md",
+    "1. Project/Book/오브젝트/12 다형성.md",
+    "0. Inbox/우테코7기/자소서.md",
+    "1. Project/Book/오브젝트/13 서브클래싱과 서브타이핑.md",
     "3. Resource/Second brain 이론 정리, 적용/PARA.md",
-    "1. Project/우테코7기/자소서.md",
     "2. Area/JAVA/모던 자바/모던 자바.md",
-    "1. Project/우테코7기/Pasted image 20241009210508.png",
-    "1. Project/우테코7기/입학설명회.md",
-    "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조 개괄.md",
-    "3. Resource/대용량트래픽/대용량 트래픽.md",
-    "1. Project/우테코7기/Pasted image 20241009215235.png",
-    "1. Project/우테코7기/Pasted image 20241009214221.png",
-    "1. Project/우테코7기/Pasted image 20241009211512.png",
-    "1. Project/우테코7기/Pasted image 20241009211319.png",
-    "1. Project/우테코7기/Pasted image 20241009211240.png",
-    "1. Project/우테코7기/Pasted image 20241009211111.png",
-    "1. Project/우테코7기/Pasted image 20241009210715.png",
-    "1. Project/우테코7기/Pasted image 20241009210612.png",
-    "1. Project/우테코7기/Pasted image 20241009210531.png",
-    "1. Project/우테코7기",
-    "2. Area/JAVA/기본 문법/enum.md",
-    "2. Area/JAVA/기본 문법/Literal.md",
-    "2. Area/JAVA/기본 문법/ASCII.md",
-    "2. Area/JAVA/기본 문법/패키지.md",
-    "2. Area/JAVA/기본 문법/형 변환.md",
-    "2. Area/JAVA/기본 문법/제어문.md",
-    "2. Area/JAVA/기본 문법/자료형.md",
-    "2. Area/JAVA/기본 문법/연산자.md",
-    "2. Area/JAVA/기본 문법/상수.md",
-    "2. Area/JAVA/기본 문법/변수.md",
-    "2. Area/JAVA/모던 자바/함수형 프로그래밍.md",
-    "2. Area/JAVA/모던 자바/함수형 인터페이스.md",
-    "2. Area/JAVA/클래스&객체/Has-A와 IS-A.md",
-    "2. Area/JAVA/클래스&객체/상속.md",
-    "2. Area/JAVA/클래스&객체/생성자.md",
-    "2. Area/JAVA/클래스&객체/업캐스팅 & 다운캐스팅.md",
-    "2. Area/JAVA/클래스&객체/오버라이딩과 오버로딩.md",
-    "2. Area/JAVA/클래스&객체/인터페이스.md",
+    "0. Inbox/우테코7기/Pasted image 20241009210508.png",
+    "0. Inbox/우테코7기/Pasted image 20241009215235.png",
+    "0. Inbox/우테코7기/Pasted image 20241009214221.png",
+    "0. Inbox/우테코7기/Pasted image 20241009211512.png",
+    "0. Inbox/우테코7기/Pasted image 20241009211319.png",
+    "0. Inbox/우테코7기/Pasted image 20241009211240.png",
+    "0. Inbox/우테코7기/Pasted image 20241009211111.png",
+    "0. Inbox/우테코7기/Pasted image 20241009210715.png",
+    "0. Inbox/우테코7기",
     "2. Area/Algorithm & Data Structure/Data Structure/Graph",
     "2. Area/Algorithm & Data Structure/Data Structure/계층 자료구조",
     "2. Area/Algorithm & Data Structure/Data Structure/선형 자료구조",
@@ -246,8 +247,6 @@
     "0. Inbox/면접",
     "4. Archive/img/이선좌/1.mp4",
     "1. Project/이선좌 프로젝트/트러블 슈팅",
-    "1. Project/이선좌 프로젝트/개발",
-    "4. Archive/img/이선좌",
     "Project/무제 파일.canvas"
   ]
 }
