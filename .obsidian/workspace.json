@@ -49,8 +49,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "모던 자바",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,8 +202,11 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
-    "2. Area/JAVA/모던 자바/모던 자바.md",
+    "1. Project/Book/오브젝트/13 서브클래싱과 서브타이핑.md",
+    "1. Project/Book/오브젝트/15 디자인 패턴과 프레임워크.md",
+    "3. Resource/Second brain 이론 정리, 적용/PARA.md",
     "1. Project/우테코7기/자소서.md",
+    "2. Area/JAVA/모던 자바/모던 자바.md",
     "1. Project/우테코7기/Pasted image 20241009210508.png",
     "1. Project/우테코7기/입학설명회.md",
     "1. Project/ELK/02 엘라스틱서치 기본 동작과 구조/ES 구조 개괄.md",
@@ -237,8 +239,6 @@
     "2. Area/JAVA/클래스&객체/업캐스팅 & 다운캐스팅.md",
     "2. Area/JAVA/클래스&객체/오버라이딩과 오버로딩.md",
     "2. Area/JAVA/클래스&객체/인터페이스.md",
-    "2. Area/JAVA/클래스&객체/접근 지정자.md",
-    "2. Area/JAVA/클래스&객체/제네릭.md",
     "2. Area/Algorithm & Data Structure/Data Structure/Graph",
     "2. Area/Algorithm & Data Structure/Data Structure/계층 자료구조",
     "2. Area/Algorithm & Data Structure/Data Structure/선형 자료구조",
