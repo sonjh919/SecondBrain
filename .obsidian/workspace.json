@@ -13,10 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Book/오브젝트/오브젝트 총정리/오브젝트 리마인드.md",
+                "file": "1. Project/Software Pattern/Design Pattern/Observer Pattern.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "05bbb00ad549ad00",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "1. Project/Software Pattern/Design Pattern/Observer Pattern.png"
+              }
+            }
+          },
+          {
+            "id": "d649e7105e31d0ae",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "1. Project/Software Pattern/Design Pattern/strategypattern.png"
               }
             }
           }
@@ -87,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Book/오브젝트/오브젝트 총정리/오브젝트 리마인드.md",
+                "file": "1. Project/Software Pattern/Design Pattern/Observer Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Book/오브젝트/오브젝트 총정리/오브젝트 리마인드.md"
+                "file": "1. Project/Software Pattern/Design Pattern/Observer Pattern.md"
               }
             }
           },
@@ -141,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Book/오브젝트/오브젝트 총정리/오브젝트 리마인드.md",
+                "file": "1. Project/Software Pattern/Design Pattern/Observer Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,51 +222,51 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
-    "1. Project/Book/오브젝트/오브젝트 총정리/1. 역할, 책임, 협력.png",
-    "1. Project/Book/오브젝트/오브젝트 총정리/오브젝트 리마인드.md",
-    "1. Project/Book/오브젝트/오브젝트 총정리/2. 상태와 행동.png",
+    "1. Project/Software Pattern/Design Pattern/디자인 패턴이란.md",
+    "1. Project/Software Pattern/Design Pattern/factorymethod.png",
+    "1. Project/Software Pattern/Design Pattern/Observer Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Observer Pattern.png",
+    "1. Project/Software Pattern/Design Pattern/strategypattern.png",
+    "1. Project/Software Pattern/Design Pattern/행동 패턴/Proxy Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/행동 패턴/Strategy Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/Design Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/생성 패턴/Factory Method Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/생성 패턴",
+    "1. Project/Software Pattern/Design Pattern/행동 패턴",
+    "1. Project/Software Pattern/Design Pattern/정리필요/Template Method Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/정리필요/Template Callback Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/정리필요/Singleton Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/정리필요/Facade Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/정리필요/Decorator Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/정리필요/Composite Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/정리필요/Builder Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/정리필요/Adapter Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/정리필요",
+    "1. Project/Software Pattern/Software Pattern.md",
+    "1. Project/Software Pattern/Architecture Pattern/Port Adapter Pattern.md",
+    "1. Project/Software Pattern/Architecture Pattern/MVC Pattern.md",
+    "1. Project/Software Pattern/Architecture Pattern/Layered Pattern.md",
+    "1. Project/Software Pattern/Architecture Pattern/Front Controller Pattern.md",
+    "1. Project/Software Pattern/Architecture Pattern/Architecture Pattern.md",
+    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
+    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/04 자바가 확장한 객체 지향.md",
+    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/03 자바와 객체 지향.md",
+    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/02 자바와 절차적, 구조적 프로그래밍.md",
+    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/01 사람을 사랑한 기술.md",
+    "1. Project/우아한테크코스 7기",
+    "1. Project/Book/오브젝트/오브젝트 총정리/9. 디자인패턴&프레임워크.png",
+    "1. Project/Book/오브젝트/오브젝트 총정리/8. SOLID원칙.png",
+    "1. Project/Book/오브젝트/오브젝트 총정리/7. 상속6.png",
+    "1. Project/Book/오브젝트/오브젝트 총정리/7. 상속5.png",
+    "1. Project/Book/오브젝트/오브젝트 총정리/7. 상속4.png",
+    "1. Project/Book/오브젝트/오브젝트 총정리/7. 상속3.png",
+    "1. Project/Book/오브젝트/오브젝트 총정리/7. 상속2.png",
     "1. Project/Book/오브젝트/오브젝트 총정리",
-    "1. Project/Book/오브젝트/15 디자인 패턴과 프레임워크.md",
-    "0. Inbox/끄적끄적.md",
-    "0. Inbox/나중에 정리할 것.md",
-    "0. Inbox/동시성 제어.md",
-    "0. Inbox/락,es.md",
-    "0. Inbox/이선좌 전체기능.md",
-    "0. Inbox/면접.md",
-    "0. Inbox/면접/객체지향.md",
-    "0. Inbox/면접/이력서.md",
-    "1. Project/Book/헤드퍼스트 디자인패턴/무제 파일.md",
-    "2. Area/Software Pattern/Design Pattern/Adapter Pattern.md",
     "1. Project/Book/헤드퍼스트 디자인패턴",
-    "2. Area/Software Pattern/Design Pattern/Builder Pattern.md",
-    "2. Area/Software Pattern/Design Pattern/Design Pattern.md",
-    "2. Area/Software Pattern/Design Pattern/Factory Method Pattern.md",
-    "2. Area/Software Pattern/Design Pattern/Facade Pattern.md",
-    "2. Area/Software Pattern/Design Pattern/Proxy Pattern.md",
-    "2. Area/Software Pattern/Design Pattern/Strategy Pattern.md",
-    "2. Area/Software Pattern/Design Pattern/Singleton Pattern.md",
-    "1. Project/Book/오브젝트/11 합성과 유연한 설계.md",
-    "1. Project/Book/오브젝트/12 다형성.md",
-    "0. Inbox/우테코7기/자소서.md",
-    "1. Project/Book/오브젝트/13 서브클래싱과 서브타이핑.md",
-    "3. Resource/Second brain 이론 정리, 적용/PARA.md",
-    "2. Area/JAVA/모던 자바/모던 자바.md",
-    "0. Inbox/우테코7기/Pasted image 20241009210508.png",
-    "0. Inbox/우테코7기/Pasted image 20241009215235.png",
-    "0. Inbox/우테코7기/Pasted image 20241009214221.png",
-    "0. Inbox/우테코7기/Pasted image 20241009211512.png",
-    "0. Inbox/우테코7기/Pasted image 20241009211319.png",
-    "0. Inbox/우테코7기/Pasted image 20241009211240.png",
-    "0. Inbox/우테코7기/Pasted image 20241009211111.png",
-    "0. Inbox/우테코7기/Pasted image 20241009210715.png",
     "0. Inbox/우테코7기",
     "2. Area/Algorithm & Data Structure/Data Structure/Graph",
     "2. Area/Algorithm & Data Structure/Data Structure/계층 자료구조",
     "2. Area/Algorithm & Data Structure/Data Structure/선형 자료구조",
-    "2. Area/Algorithm & Data Structure/Data Structure",
-    "0. Inbox/면접",
-    "4. Archive/img/이선좌/1.mp4",
-    "1. Project/이선좌 프로젝트/트러블 슈팅",
     "Project/무제 파일.canvas"
   ]
 }

@@ -12,6 +12,7 @@
 + [[Composite Pattern]]
 + [[Decorator Pattern]]
 + [[Factory Method Pattern]]
++ [[Observer Pattern]]
 + [[Proxy Pattern]]
 + [[Singleton Pattern]]
 + [[Strategy Pattern]]
