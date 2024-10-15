@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/리드미모음/1주차-계산기.md",
+                "file": "1. Project/Software Pattern/Design Pattern/생성 패턴/Singleton Pattern.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/리드미모음/1주차-계산기.md",
+                "file": "1. Project/Software Pattern/Design Pattern/생성 패턴/Singleton Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/리드미모음/1주차-계산기.md"
+                "file": "1. Project/Software Pattern/Design Pattern/생성 패턴/Singleton Pattern.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/리드미모음/1주차-계산기.md",
+                "file": "1. Project/Software Pattern/Design Pattern/생성 패턴/Singleton Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +202,12 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
-    "0. Inbox/리드미모음/4주차-크리스마스프로모션.md",
+    "1. Project/Software Pattern/Design Pattern/생성 패턴/Abstract Factory Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/생성 패턴/Factory Method Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/디자인 패턴이란.md",
+    "1. Project/Software Pattern/Design Pattern/생성 패턴/Factory Pattern.md",
     "0. Inbox/리드미모음/1주차-계산기.md",
+    "0. Inbox/리드미모음/4주차-크리스마스프로모션.md",
     "1. Project/Software Pattern/Design Pattern/Observer Pattern.png",
     "0. Inbox/리드미모음/3주차-로또.md",
     "0. Inbox/리드미모음/1주차-숫자 야구.md",
@@ -215,8 +219,6 @@
     "1. Project/Software Pattern/Design Pattern/행동 패턴/Observer Pattern.md",
     "1. Project/Software Pattern/Design Pattern/정리필요/Facade Pattern.md",
     "1. Project/Software Pattern/Design Pattern/정리필요/Adapter Pattern.md",
-    "1. Project/Software Pattern/Design Pattern/디자인 패턴이란.md",
-    "1. Project/Software Pattern/Design Pattern/생성 패턴/Factory Method Pattern.md",
     "1. Project/Software Pattern/Design Pattern/구조 패턴",
     "1. Project/Software Pattern/Design Pattern/행동 패턴/Strategy Pattern.md",
     "1. Project/Software Pattern/Design Pattern/factorymethod.png",
@@ -227,7 +229,7 @@
     "1. Project/Software Pattern/Design Pattern/행동 패턴",
     "1. Project/Software Pattern/Design Pattern/정리필요/Template Method Pattern.md",
     "1. Project/Software Pattern/Design Pattern/정리필요/Template Callback Pattern.md",
-    "1. Project/Software Pattern/Design Pattern/정리필요/Singleton Pattern.md",
+    "1. Project/Software Pattern/Design Pattern/생성 패턴/Singleton Pattern.md",
     "1. Project/Software Pattern/Design Pattern/정리필요/Composite Pattern.md",
     "1. Project/Software Pattern/Design Pattern/정리필요/Builder Pattern.md",
     "1. Project/Software Pattern/Design Pattern/정리필요",
@@ -235,7 +237,6 @@
     "1. Project/Software Pattern/Architecture Pattern/Port Adapter Pattern.md",
     "1. Project/Software Pattern/Architecture Pattern/MVC Pattern.md",
     "1. Project/Software Pattern/Architecture Pattern/Layered Pattern.md",
-    "1. Project/Software Pattern/Architecture Pattern/Front Controller Pattern.md",
     "1. Project/우아한테크코스 7기",
     "1. Project/Book/오브젝트/오브젝트 총정리/9. 디자인패턴&프레임워크.png",
     "1. Project/Book/오브젝트/오브젝트 총정리/8. SOLID원칙.png",
