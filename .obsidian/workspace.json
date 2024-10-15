@@ -13,30 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Software Pattern/Design Pattern/구조 패턴/Decorator Pattern.md",
+                "file": "0. Inbox/리드미모음/1주차-계산기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "05bbb00ad549ad00",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "1. Project/Software Pattern/Design Pattern/Observer Pattern.png"
-              }
-            }
-          },
-          {
-            "id": "d649e7105e31d0ae",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "1. Project/Software Pattern/Design Pattern/strategypattern.png"
               }
             }
           }
@@ -107,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Software Pattern/Design Pattern/구조 패턴/Decorator Pattern.md",
+                "file": "0. Inbox/리드미모음/1주차-계산기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Software Pattern/Design Pattern/구조 패턴/Decorator Pattern.md"
+                "file": "0. Inbox/리드미모음/1주차-계산기.md"
               }
             }
           },
@@ -161,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Software Pattern/Design Pattern/구조 패턴/Decorator Pattern.md",
+                "file": "0. Inbox/리드미모음/1주차-계산기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,8 +202,16 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
-    "1. Project/Software Pattern/Design Pattern/구조 패턴/DecoratorPattern.png",
+    "0. Inbox/리드미모음/4주차-크리스마스프로모션.md",
+    "0. Inbox/리드미모음/1주차-계산기.md",
+    "1. Project/Software Pattern/Design Pattern/Observer Pattern.png",
+    "0. Inbox/리드미모음/3주차-로또.md",
+    "0. Inbox/리드미모음/1주차-숫자 야구.md",
+    "0. Inbox/리드미모음/2주차-자동차 경주.md",
+    "1. Project/Book/오브젝트/오브젝트 총정리/오브젝트 리마인드.md",
     "1. Project/Software Pattern/Design Pattern/구조 패턴/Decorator Pattern.md",
+    "0. Inbox/리드미모음",
+    "1. Project/Software Pattern/Design Pattern/구조 패턴/DecoratorPattern.png",
     "1. Project/Software Pattern/Design Pattern/행동 패턴/Observer Pattern.md",
     "1. Project/Software Pattern/Design Pattern/정리필요/Facade Pattern.md",
     "1. Project/Software Pattern/Design Pattern/정리필요/Adapter Pattern.md",
@@ -232,7 +220,6 @@
     "1. Project/Software Pattern/Design Pattern/구조 패턴",
     "1. Project/Software Pattern/Design Pattern/행동 패턴/Strategy Pattern.md",
     "1. Project/Software Pattern/Design Pattern/factorymethod.png",
-    "1. Project/Software Pattern/Design Pattern/Observer Pattern.png",
     "1. Project/Software Pattern/Design Pattern/strategypattern.png",
     "1. Project/Software Pattern/Design Pattern/행동 패턴/Proxy Pattern.md",
     "1. Project/Software Pattern/Design Pattern/Design Pattern.md",
@@ -249,12 +236,6 @@
     "1. Project/Software Pattern/Architecture Pattern/MVC Pattern.md",
     "1. Project/Software Pattern/Architecture Pattern/Layered Pattern.md",
     "1. Project/Software Pattern/Architecture Pattern/Front Controller Pattern.md",
-    "1. Project/Software Pattern/Architecture Pattern/Architecture Pattern.md",
-    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
-    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/04 자바가 확장한 객체 지향.md",
-    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/03 자바와 객체 지향.md",
-    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/02 자바와 절차적, 구조적 프로그래밍.md",
-    "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/01 사람을 사랑한 기술.md",
     "1. Project/우아한테크코스 7기",
     "1. Project/Book/오브젝트/오브젝트 총정리/9. 디자인패턴&프레임워크.png",
     "1. Project/Book/오브젝트/오브젝트 총정리/8. SOLID원칙.png",
@@ -266,7 +247,6 @@
     "1. Project/Book/헤드퍼스트 디자인패턴",
     "0. Inbox/우테코7기",
     "2. Area/Algorithm & Data Structure/Data Structure/Graph",
-    "2. Area/Algorithm & Data Structure/Data Structure/계층 자료구조",
     "Project/무제 파일.canvas"
   ]
 }
