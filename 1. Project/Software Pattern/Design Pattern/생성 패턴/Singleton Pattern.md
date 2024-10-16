@@ -15,4 +15,23 @@
 3. 인스턴스가 필요할 때는 생성하지 말고 처음부터 만든다.
 4. DCL을 이용하여 getInstance()에서 동기화되는 부분을 줄인다.
 
+> [!caution]+ 
+> 싱글턴은 느슨한 결합 원칙에 위배된다. 결합도가 높아지니 조심하여 사용하자.
 
+
+## enum과 싱글턴
+동기화, 클래스 로딩, 리플렉션, 직렬화와 역직렬화 문제 등은 enum으로 싱글턴을 생성하여 해결할 수 있다.
+
+```java
+public enum Singleton{
+	UNIQUE_INSTANCE;
+	//기타 필요한 필드
+}
+
+public class SingletonClient{
+	public static void main(String[] args){
+		Singleton singleton = Singleton.UNIQUE_INSTANCE;
+		// 여기서 싱글턴 사용
+	}
+}
+```

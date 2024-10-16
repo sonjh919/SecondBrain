@@ -9,7 +9,7 @@
 ## Design Pattern의 종류
 + [[Adapter Pattern]]
 + [[Builder Pattern]]
-+ [[Composite Pattern]]
++ [[1. Project/Software Pattern/Design Pattern/정리필요/Composite Pattern]]
 + [[Decorator Pattern]]
 + [[Factory Method Pattern]]
 + [[Observer Pattern]]
