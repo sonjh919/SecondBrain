@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Software Pattern/Design Pattern/행동 패턴/State Pattern.md",
+                "file": "0. Inbox/리드미모음/1주차-계산기.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1202f899e03e8b5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Project/Book/오브젝트/오브젝트 총정리/오브젝트 리마인드.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Software Pattern/Design Pattern/행동 패턴/State Pattern.md",
+                "file": "1. Project/Book/오브젝트/오브젝트 총정리/오브젝트 리마인드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Software Pattern/Design Pattern/행동 패턴/State Pattern.md"
+                "file": "1. Project/Book/오브젝트/오브젝트 총정리/오브젝트 리마인드.md"
               }
             }
           },
@@ -141,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Software Pattern/Design Pattern/행동 패턴/State Pattern.md",
+                "file": "1. Project/Book/오브젝트/오브젝트 총정리/오브젝트 리마인드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,14 +214,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a983fc1a9a82f592",
+  "active": "1202f899e03e8b5a",
   "lastOpenFiles": [
+    "0. Inbox/리드미모음/1주차-계산기.md",
+    "1. Project/Software Pattern/Design Pattern/행동 패턴/State Pattern.md",
     "1. Project/Software Pattern/Design Pattern/정리필요/Facade Pattern.md",
     "1. Project/Software Pattern/Design Pattern/정리필요/Adapter Pattern.md",
     "1. Project/Software Pattern/Design Pattern/정리필요/Builder Pattern.md",
     "1. Project/Software Pattern/Design Pattern/정리필요/Template Callback Pattern.md",
     "1. Project/Software Pattern/Design Pattern/정리필요/Template Method Pattern.md",
-    "1. Project/Software Pattern/Design Pattern/행동 패턴/State Pattern.md",
     "1. Project/Software Pattern/Design Pattern/정리필요/Composite Pattern.md",
     "1. Project/Software Pattern/Design Pattern/행동 패턴/Strategy Pattern.md",
     "1. Project/Software Pattern/Design Pattern/행동 패턴/Observer Pattern.md",
@@ -222,7 +237,6 @@
     "1. Project/Software Pattern/Design Pattern/생성 패턴/Abstract Factory Pattern.md",
     "1. Project/Software Pattern/Design Pattern/생성 패턴/Factory Method Pattern.md",
     "1. Project/Software Pattern/Design Pattern/생성 패턴/Factory Pattern.md",
-    "0. Inbox/리드미모음/1주차-계산기.md",
     "0. Inbox/리드미모음/4주차-크리스마스프로모션.md",
     "1. Project/Software Pattern/Design Pattern/Observer Pattern.png",
     "0. Inbox/리드미모음/3주차-로또.md",
