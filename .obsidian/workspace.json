@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+                "file": "0. Inbox/우테코7기/1016.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+                "file": "0. Inbox/우테코7기/1016.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md"
+                "file": "0. Inbox/우테코7기/1016.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+                "file": "0. Inbox/우테코7기/1016.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,6 +216,8 @@
   },
   "active": "1202f899e03e8b5a",
   "lastOpenFiles": [
+    "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+    "0. Inbox/우테코7기/1016.md",
     "1. Project/Software Pattern/Design Pattern/정리필요/Template Method Pattern.md",
     "1. Project/Software Pattern/Design Pattern/정리필요/Template Callback Pattern.md",
     "1. Project/Software Pattern/Design Pattern/행동 패턴/Command Pattern.md",
@@ -242,13 +244,11 @@
     "1. Project/Software Pattern/Design Pattern/Observer Pattern.png",
     "0. Inbox/리드미모음/3주차-로또.md",
     "0. Inbox/리드미모음/1주차-숫자 야구.md",
-    "0. Inbox/리드미모음/2주차-자동차 경주.md",
     "0. Inbox/리드미모음",
     "1. Project/Software Pattern/Design Pattern/구조 패턴/DecoratorPattern.png",
     "1. Project/Software Pattern/Design Pattern/구조 패턴",
     "1. Project/Software Pattern/Design Pattern/factorymethod.png",
     "1. Project/Software Pattern/Design Pattern/strategypattern.png",
-    "1. Project/Software Pattern/Design Pattern/행동 패턴/Proxy Pattern.md",
     "1. Project/Software Pattern/Design Pattern/생성 패턴",
     "1. Project/Software Pattern/Design Pattern/행동 패턴",
     "1. Project/Software Pattern/Design Pattern/정리필요",
