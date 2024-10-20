@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/우테코7기/1016.md",
+                "file": "0. Inbox/우테코7기/커밋컨벤션.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/우테코7기/1016.md",
+                "file": "0. Inbox/우테코7기/커밋컨벤션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/우테코7기/1016.md"
+                "file": "0. Inbox/우테코7기/커밋컨벤션.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/우테코7기/1016.md",
+                "file": "0. Inbox/우테코7기/커밋컨벤션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
