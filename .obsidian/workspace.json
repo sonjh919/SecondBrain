@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Book/오브젝트/06 메시지와 인터페이스.md",
+                "file": "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "디미터 ",
+                "query": "ocp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Book/오브젝트/06 메시지와 인터페이스.md",
+                "file": "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Book/오브젝트/06 메시지와 인터페이스.md"
+                "file": "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Book/오브젝트/06 메시지와 인터페이스.md",
+                "file": "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,6 +217,7 @@
   },
   "active": "8894393b7cb6f7bc",
   "lastOpenFiles": [
+    "1. Project/Book/오브젝트/06 메시지와 인터페이스.md",
     "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
     "0. Inbox/면접/객체지향.md",
     "0. Inbox/우테코7기/1016.md",
@@ -248,7 +249,6 @@
     "1. Project/Software Pattern/Design Pattern/행동 패턴/Observer Pattern.md",
     "1. Project/Software Pattern/Design Pattern/행동 패턴/State Pattern.md",
     "1. Project/Book/오브젝트/오브젝트 총정리/오브젝트 리마인드.md",
-    "1. Project/Software Pattern/Design Pattern/정리필요/Facade Pattern.md",
     "1. Project/Software Pattern/Design Pattern/구조 패턴/Pasted image 20241016013606.png",
     "1. Project/Software Pattern/Design Pattern/Observer Pattern.png",
     "0. Inbox/리드미모음",
