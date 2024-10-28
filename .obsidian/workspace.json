@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "8894393b7cb6f7bc",
+            "id": "49ac0cb1ea534821",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/우테코7기/커밋컨벤션.md",
+                "file": "0. Inbox/우테코7기/회고 2주차.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/우테코7기/커밋컨벤션.md",
+                "file": "0. Inbox/우테코7기/회고 2주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/우테코7기/커밋컨벤션.md"
+                "file": "0. Inbox/우테코7기/회고 2주차.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/우테코7기/커밋컨벤션.md",
+                "file": "0. Inbox/우테코7기/회고 2주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,13 +214,53 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8894393b7cb6f7bc",
+  "floating": {
+    "id": "d4661777759b9f31",
+    "type": "floating",
+    "children": [
+      {
+        "id": "da3a1b62904d0761",
+        "type": "window",
+        "children": [
+          {
+            "id": "733e2ad7b2439d47",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8894393b7cb6f7bc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0. Inbox/우테코7기/자소서.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1289,
+        "y": 29,
+        "width": 1255,
+        "height": 1000,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "49ac0cb1ea534821",
   "lastOpenFiles": [
-    "0. Inbox/우테코7기/입학설명회.md",
-    "0. Inbox/우테코7기/1016.md",
     "0. Inbox/우테코7기/자소서.md",
-    "0. Inbox/면접/이력서.md",
+    "0. Inbox/우테코7기/회고 2주차.md",
+    "0. Inbox/우테코7기/1016.md",
+    "0. Inbox/우테코7기/커밋컨벤션.md",
     "0. Inbox/면접/객체지향.md",
+    "0. Inbox/우테코7기/입학설명회.md",
+    "0. Inbox/면접/이력서.md",
     "1. Project/Spring/OAuth/카카오 로그인.md",
     "1. Project/Spring/OAuth/OAuth.md",
     "1. Project/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/선점 잠금.md",
@@ -241,13 +281,11 @@
     "2. Area/JAVA/클래스&객체/제네릭.md",
     "1. Project/Book/오브젝트/12 다형성.md",
     "0. Inbox/우테코7기/Pasted image 20241020171612.png",
-    "0. Inbox/우테코7기/커밋컨벤션.md",
     "0. Inbox/우테코7기/Pasted image 20241016220112.png",
     "0. Inbox/우테코7기/Pasted image 20241016211350.png",
     "0. Inbox/우테코7기/Pasted image 20241016211053.png",
     "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
     "1. Project/Software Pattern/Design Pattern/정리필요/Template Method Pattern.md",
-    "1. Project/Software Pattern/Design Pattern/정리필요/Template Callback Pattern.md",
     "1. Project/Software Pattern/Design Pattern/구조 패턴/Pasted image 20241016013606.png",
     "1. Project/Software Pattern/Design Pattern/Observer Pattern.png",
     "0. Inbox/리드미모음",
