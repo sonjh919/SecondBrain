@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
+                "file": "0. Inbox/우테코7기/커밋컨벤션.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "presen",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
+                "file": "0. Inbox/우테코7기/커밋컨벤션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md"
+                "file": "0. Inbox/우테코7기/커밋컨벤션.md"
               }
             }
           },
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
+                "file": "0. Inbox/우테코7기/커밋컨벤션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,6 +216,7 @@
   },
   "active": "49ac0cb1ea534821",
   "lastOpenFiles": [
+    "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
     "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/03 자바와 객체 지향.md",
     "0. Inbox/우테코7기/회고 2주차.md",
     "0. Inbox/우테코7기/자소서.md",
@@ -248,7 +248,6 @@
     "0. Inbox/우테코7기/Pasted image 20241016220112.png",
     "0. Inbox/우테코7기/Pasted image 20241016211350.png",
     "0. Inbox/우테코7기/Pasted image 20241016211053.png",
-    "1. Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
     "1. Project/Software Pattern/Design Pattern/구조 패턴/Pasted image 20241016013606.png",
     "1. Project/Software Pattern/Design Pattern/Observer Pattern.png",
     "0. Inbox/리드미모음",
