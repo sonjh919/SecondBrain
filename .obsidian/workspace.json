@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/우테코7기/3주차.md",
+                "file": "1. Project/JPA/Spring Data JPA/QueryMethod/Query Method.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/우테코7기/3주차.md",
+                "file": "1. Project/JPA/Spring Data JPA/QueryMethod/Query Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/우테코7기/3주차.md"
+                "file": "1. Project/JPA/Spring Data JPA/QueryMethod/Query Method.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/우테코7기/3주차.md",
+                "file": "1. Project/JPA/Spring Data JPA/QueryMethod/Query Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,19 +216,19 @@
   },
   "active": "49ac0cb1ea534821",
   "lastOpenFiles": [
+    "0. Inbox/우테코7기/커밋컨벤션.md",
     "0. Inbox/면접/파트리지시스템즈.md",
+    "0. Inbox/면접/객체지향.md",
+    "0. Inbox/면접/이력서.md",
     "0. Inbox/우테코7기/3주차.md",
     "0. Inbox/우테코7기/1016.md",
     "0. Inbox/우테코7기/회고 2주차.md",
-    "0. Inbox/우테코7기/커밋컨벤션.md",
     "0. Inbox/우테코7기/입학설명회.md",
     "2. Area/Java API/java.util/function.md",
     "2. Area/JAVA/모던 자바/함수형 인터페이스.md",
     "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
     "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/03 자바와 객체 지향.md",
     "0. Inbox/우테코7기/자소서.md",
-    "0. Inbox/면접/객체지향.md",
-    "0. Inbox/면접/이력서.md",
     "1. Project/Spring/OAuth/카카오 로그인.md",
     "1. Project/Spring/OAuth/OAuth.md",
     "1. Project/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/선점 잠금.md",
