@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/Spring Data JPA/QueryMethod/Query Method.md",
+                "file": "2. Area/Java API/java.time/java.time.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/Spring Data JPA/QueryMethod/Query Method.md",
+                "file": "2. Area/Java API/java.time/java.time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/Spring Data JPA/QueryMethod/Query Method.md"
+                "file": "2. Area/Java API/java.time/java.time.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/Spring Data JPA/QueryMethod/Query Method.md",
+                "file": "2. Area/Java API/java.time/java.time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,6 +216,7 @@
   },
   "active": "49ac0cb1ea534821",
   "lastOpenFiles": [
+    "1. Project/JPA/Spring Data JPA/QueryMethod/Query Method.md",
     "0. Inbox/우테코7기/커밋컨벤션.md",
     "0. Inbox/면접/파트리지시스템즈.md",
     "0. Inbox/면접/객체지향.md",
@@ -241,7 +242,6 @@
     "1. Project/Redis/데이터타입/Sorted Sets.md",
     "3. Resource/이선좌 프로젝트/트러블 슈팅/5. 대기열 아키텍쳐 설계.md",
     "1. Project/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/05 객체 지향 설계 5원칙 - SOLID.md",
-    "1. Project/Book/오브젝트/06 메시지와 인터페이스.md",
     "0. Inbox/우테코7기/Pasted image 20241021182837.png",
     "0. Inbox/리드미모음/Pasted image 20241021182828.png",
     "0. Inbox/우테코7기/Pasted image 20241020171612.png",
