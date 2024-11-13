@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/우테코7기/커밋컨벤션.md",
+                "file": "0. Inbox/우테코7기/4주차.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/우테코7기/커밋컨벤션.md",
+                "file": "0. Inbox/우테코7기/4주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/우테코7기/커밋컨벤션.md"
+                "file": "0. Inbox/우테코7기/4주차.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/우테코7기/커밋컨벤션.md",
+                "file": "0. Inbox/우테코7기/4주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,18 +216,19 @@
   },
   "active": "49ac0cb1ea534821",
   "lastOpenFiles": [
+    "0. Inbox/우테코7기/회고 2주차.md",
+    "0. Inbox/우테코7기/4주차.md",
+    "0. Inbox/우테코7기/3주차.md",
+    "0. Inbox/우테코7기/커밋컨벤션.md",
     "0. Inbox/우테코7기/자소서.md",
     "0. Inbox/우테코7기/입학설명회.md",
     "0. Inbox/우테코7기/1016.md",
     "0. Inbox/우테코7기/1015.md",
-    "0. Inbox/우테코7기/3주차.md",
     "0. Inbox/면접/객체지향.md",
     "0. Inbox/면접/이력서.md",
     "2. Area/Java API/java.time/java.time.md",
     "1. Project/JPA/Spring Data JPA/QueryMethod/Query Method.md",
-    "0. Inbox/우테코7기/커밋컨벤션.md",
     "0. Inbox/면접/파트리지시스템즈.md",
-    "0. Inbox/우테코7기/회고 2주차.md",
     "2. Area/Java API/java.util/function.md",
     "2. Area/JAVA/모던 자바/함수형 인터페이스.md",
     "1. Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md",
@@ -241,7 +242,6 @@
     "1. Project/Redis/Redis의 특징.md",
     "1. Project/Redis/Redis.md",
     "1. Project/Redis/데이터타입/Redis 데이터 타입.md",
-    "1. Project/Redis/데이터타입/Sorted Sets.md",
     "0. Inbox/우테코7기/Pasted image 20241021182837.png",
     "0. Inbox/리드미모음/Pasted image 20241021182828.png",
     "0. Inbox/우테코7기/Pasted image 20241020171612.png",
