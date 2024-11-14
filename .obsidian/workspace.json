@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/면접/이력서.md",
+                "file": "0. Inbox/면접/파트리지시스템즈.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/면접/이력서.md",
+                "file": "0. Inbox/면접/파트리지시스템즈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/면접/이력서.md"
+                "file": "0. Inbox/면접/파트리지시스템즈.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/면접/이력서.md",
+                "file": "0. Inbox/면접/파트리지시스템즈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +202,8 @@
   },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
-    "0. Inbox/면접/파트리지시스템즈.md",
     "0. Inbox/면접/이력서.md",
+    "0. Inbox/면접/파트리지시스템즈.md",
     "1. Project/Docker/컨테이너.md",
     "0. Inbox/tmp/면접.md",
     "1. Project/JPA/Entity/Entity생명주기/Entity 생명주기.md",
