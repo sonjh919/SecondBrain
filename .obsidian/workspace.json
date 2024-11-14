@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/면접/파트리지시스템즈.md",
+                "file": "0. Inbox/면접/이력서.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Restful",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/면접/파트리지시스템즈.md",
+                "file": "0. Inbox/면접/이력서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/면접/파트리지시스템즈.md"
+                "file": "0. Inbox/면접/이력서.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/면접/파트리지시스템즈.md",
+                "file": "0. Inbox/면접/이력서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,73 +200,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "e151b4f636bae7d0",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e340cc3d02a65592",
-        "type": "window",
-        "children": [
-          {
-            "id": "460b539385b7c37c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "49ac0cb1ea534821",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1. Project/대용량트래픽/대용량 트래픽.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -765,
-        "y": 74,
-        "width": 759,
-        "height": 1000,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "a983fc1a9a82f592",
   "lastOpenFiles": [
-    "0. Inbox/면접/cicd.md",
+    "0. Inbox/면접/파트리지시스템즈.md",
+    "0. Inbox/면접/이력서.md",
+    "1. Project/Docker/컨테이너.md",
+    "0. Inbox/tmp/면접.md",
+    "1. Project/JPA/Entity/Entity생명주기/Entity 생명주기.md",
+    "2. Area/Database/RDB/SQL/정규화/정규화.md",
+    "1. Project/JPA/JPA 기초/SQL을 직접 다룰 때 발생하는 문제점.md",
+    "2. Area/Database/RDB/SQL/TCL/Transaction.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/비선점 잠금.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/선점 잠금.md",
+    "1. Project/Monitoring/Monitoring.md",
+    "1. Project/Monitoring/Grafana.md",
+    "1. Project/Monitoring/Prometheus.md",
+    "1. Project/Monitoring/Metric.md",
+    "1. Project/Monitoring/Actuator/Actuator.md",
     "0. Inbox/tmp/모니터링.md",
+    "0. Inbox/면접/cicd.md",
     "0. Inbox/tmp/무제 파일 1.md",
     "0. Inbox/tmp/이선좌 전체기능.md",
     "0. Inbox/tmp/트랜잭션 정리.md",
     "0. Inbox/tmp/ddd.md",
-    "0. Inbox/면접/파트리지시스템즈.md",
-    "0. Inbox/면접/이력서.md",
     "1. Project/Docker/프로세스 격리.md",
-    "1. Project/Docker/컨테이너.md",
     "1. Project/Docker/Docker.md",
     "1. Project/Docker/도커 허브.md",
     "1. Project/Docker/레이어 저장방식.md",
     "1. Project/Docker/이미지.md",
-    "0. Inbox/tmp/dynamicscheduler.md",
-    "2. Area/CS/Network/REST API.md",
-    "1. Project/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
-    "1. Project/대용량트래픽/대용량 트래픽.md",
-    "0. Inbox/tmp/면접.md",
-    "0. Inbox/tmp/동시성 제어.md",
-    "0. Inbox/tmp/끄적끄적.md",
     "0. Inbox/tmp",
-    "0. Inbox/면접/객체지향.md",
-    "0. Inbox/우테코7기/4주차.md",
-    "0. Inbox/우테코7기/회고 2주차.md",
-    "0. Inbox/우테코7기/3주차.md",
-    "0. Inbox/우테코7기/커밋컨벤션.md",
     "0. Inbox/우테코7기/Pasted image 20241021182837.png",
     "0. Inbox/리드미모음/Pasted image 20241021182828.png",
     "0. Inbox/우테코7기/Pasted image 20241020171612.png",
