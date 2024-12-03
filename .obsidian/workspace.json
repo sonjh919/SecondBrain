@@ -24,8 +24,13 @@
             "id": "50f82947c277d033",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Project/JPA/Annotation/Column/@Access.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -58,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jpa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Project/JPA/Annotation/Column/@Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Project/JPA/Annotation/Column/@Access.md"
+              }
             }
           },
           {
@@ -148,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Project/JPA/Annotation/Column/@Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,6 +217,8 @@
   },
   "active": "50f82947c277d033",
   "lastOpenFiles": [
+    "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
+    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
     "Todo/TIL/2024-01/2024-01-24 TIL.md",
     "0. Inbox/면접/파트리지시스템즈.md",
     "SecondBrain.zip",
@@ -233,8 +244,6 @@
     "0. Inbox/tmp/ddd.md",
     "1. Project/Docker/프로세스 격리.md",
     "1. Project/Docker/Docker.md",
-    "1. Project/Docker/도커 허브.md",
-    "1. Project/Docker/레이어 저장방식.md",
     "0. Inbox/tmp",
     "0. Inbox/우테코7기/Pasted image 20241021182837.png",
     "0. Inbox/리드미모음/Pasted image 20241021182828.png",
