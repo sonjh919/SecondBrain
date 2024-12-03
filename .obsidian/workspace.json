@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "50f82947c277d033",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "requestparam",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/2024-01/2024-01-24 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo/TIL/2024-01/2024-01-24 TIL.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,7 +148,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/2024-01/2024-01-24 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,8 +206,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e6d2440fd7f079b9",
+  "active": "50f82947c277d033",
   "lastOpenFiles": [
+    "Todo/TIL/2024-01/2024-01-24 TIL.md",
     "0. Inbox/면접/파트리지시스템즈.md",
     "SecondBrain.zip",
     "0. Inbox/면접/이력서.md",
