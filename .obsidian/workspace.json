@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/JPA/Annotation/Column/@Access.md",
+                "file": "0. Inbox/우테코7기/자소서.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jpa",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Project/JPA/Annotation/Column/@Access.md",
+                "file": "0. Inbox/우테코7기/자소서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Project/JPA/Annotation/Column/@Access.md"
+                "file": "0. Inbox/우테코7기/자소서.md"
               }
             }
           },
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Project/JPA/Annotation/Column/@Access.md",
+                "file": "0. Inbox/우테코7기/자소서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,6 +216,8 @@
   },
   "active": "50f82947c277d033",
   "lastOpenFiles": [
+    "0. Inbox/면접/객체지향.md",
+    "1. Project/JPA/Annotation/Column/@Access.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
     "Todo/TIL/2024-01/2024-01-24 TIL.md",
@@ -242,8 +243,6 @@
     "0. Inbox/tmp/이선좌 전체기능.md",
     "0. Inbox/tmp/트랜잭션 정리.md",
     "0. Inbox/tmp/ddd.md",
-    "1. Project/Docker/프로세스 격리.md",
-    "1. Project/Docker/Docker.md",
     "0. Inbox/tmp",
     "0. Inbox/우테코7기/Pasted image 20241021182837.png",
     "0. Inbox/리드미모음/Pasted image 20241021182828.png",
