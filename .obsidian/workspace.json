@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "97345dcd760b8773",
+        "id": "8e10294b86afa13b",
         "type": "tabs",
         "children": [
           {
-            "id": "a983fc1a9a82f592",
+            "id": "ef932ccaae6a4c3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/TIL/2024-01/2024-01-24 TIL.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50f82947c277d033",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/우테코7기/자소서.md",
+                "file": "0. Inbox/리드미모음/tmp.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/우테코7기/자소서.md",
+                "file": "0. Inbox/리드미모음/tmp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/우테코7기/자소서.md"
+                "file": "0. Inbox/리드미모음/tmp.md"
               }
             }
           },
@@ -155,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/우테코7기/자소서.md",
+                "file": "0. Inbox/리드미모음/tmp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,13 +200,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "50f82947c277d033",
+  "active": "ef932ccaae6a4c3e",
   "lastOpenFiles": [
+    "0. Inbox/리드미모음/4주차-크리스마스프로모션.md",
+    "0. Inbox/리드미모음/tmp.md",
+    "0. Inbox/리드미모음/3주차-로또.md",
+    "0. Inbox/무제 파일.md",
+    "Todo/TIL/2024-01/2024-01-24 TIL.md",
+    "0. Inbox/우테코7기/자소서.md",
     "0. Inbox/면접/객체지향.md",
     "1. Project/JPA/Annotation/Column/@Access.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
-    "Todo/TIL/2024-01/2024-01-24 TIL.md",
     "0. Inbox/면접/파트리지시스템즈.md",
     "SecondBrain.zip",
     "0. Inbox/면접/이력서.md",
@@ -238,11 +229,6 @@
     "1. Project/Monitoring/Metric.md",
     "1. Project/Monitoring/Actuator/Actuator.md",
     "0. Inbox/tmp/모니터링.md",
-    "0. Inbox/면접/cicd.md",
-    "0. Inbox/tmp/무제 파일 1.md",
-    "0. Inbox/tmp/이선좌 전체기능.md",
-    "0. Inbox/tmp/트랜잭션 정리.md",
-    "0. Inbox/tmp/ddd.md",
     "0. Inbox/tmp",
     "0. Inbox/우테코7기/Pasted image 20241021182837.png",
     "0. Inbox/리드미모음/Pasted image 20241021182828.png",
