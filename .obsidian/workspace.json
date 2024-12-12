@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/리드미모음/최종소감문.md",
+                "file": "2. Area/프로그래머스/문법/Collections 활용 메서드.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Collections",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/리드미모음/최종소감문.md",
+                "file": "2. Area/프로그래머스/문법/Collections 활용 메서드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/리드미모음/최종소감문.md"
+                "file": "2. Area/프로그래머스/문법/Collections 활용 메서드.md"
               }
             }
           },
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/리드미모음/최종소감문.md",
+                "file": "2. Area/프로그래머스/문법/Collections 활용 메서드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,48 +201,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "5c052ea5fc7073fa",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0118807ea2d455cf",
-        "type": "window",
-        "children": [
-          {
-            "id": "828e43ab63d711b6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ef932ccaae6a4c3e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "0. Inbox/우테코7기/4주차.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1308,
-        "y": 47,
-        "width": 1255,
-        "height": 1000,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "65dd0bdd6b026619",
   "lastOpenFiles": [
-    "0. Inbox/우테코7기/4주차.md",
+    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/컬렉션 매핑/한 개 칼럼 매핑(컬렉션).md",
+    "3. Resource/Python/라이브러리/collections.md",
     "0. Inbox/리드미모음/최종소감문.md",
+    "0. Inbox/우테코7기/커밋컨벤션.md",
+    "0. Inbox/우테코7기/4주차.md",
     "0. Inbox/리드미모음/KakaoTalk_20241212_162919071.png",
     "2. Area/Java API/java.util/Map.md",
     "2. Area/Java API/java.util/Collection/Collection.md",
@@ -264,10 +230,7 @@
     "1. Project/JPA/Annotation/Column/@Access.md",
     "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
     "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
-    "0. Inbox/면접/파트리지시스템즈.md",
     "SecondBrain.zip",
-    "0. Inbox/면접/이력서.md",
-    "1. Project/Docker/컨테이너.md",
     "0. Inbox/tmp",
     "0. Inbox/우테코7기/Pasted image 20241021182837.png",
     "0. Inbox/리드미모음/Pasted image 20241021182828.png",
