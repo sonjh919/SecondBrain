@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/프로그래머스/문법/Collections 활용 메서드.md",
+                "file": "0. Inbox/우테코7기/자소서.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Collections",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Area/프로그래머스/문법/Collections 활용 메서드.md",
+                "file": "0. Inbox/우테코7기/자소서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Area/프로그래머스/문법/Collections 활용 메서드.md"
+                "file": "0. Inbox/우테코7기/자소서.md"
               }
             }
           },
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Area/프로그래머스/문법/Collections 활용 메서드.md",
+                "file": "0. Inbox/우테코7기/자소서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,12 +202,16 @@
   },
   "active": "65dd0bdd6b026619",
   "lastOpenFiles": [
+    "0. Inbox/리드미모음/최종소감문.md",
+    "0. Inbox/리드미모음/KakaoTalk_20241212_162919071.png",
+    "0. Inbox/리드미모음/tmp.md",
+    "0. Inbox/리드미모음/Pasted image 20241021182828.png",
+    "2. Area/프로그래머스/문법/Collections 활용 메서드.md",
+    "0. Inbox/리드미모음/4주차-크리스마스프로모션.md",
     "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/컬렉션 매핑/한 개 칼럼 매핑(컬렉션).md",
     "3. Resource/Python/라이브러리/collections.md",
-    "0. Inbox/리드미모음/최종소감문.md",
     "0. Inbox/우테코7기/커밋컨벤션.md",
     "0. Inbox/우테코7기/4주차.md",
-    "0. Inbox/리드미모음/KakaoTalk_20241212_162919071.png",
     "2. Area/Java API/java.util/Map.md",
     "2. Area/Java API/java.util/Collection/Collection.md",
     "2. Area/Java API/java.io/java.io.md",
@@ -220,20 +223,15 @@
     "2. Area/Java API/java.lang/record.md",
     "2. Area/Java API/java.lang/Math.md",
     "2. Area/Java API/java.time/java.time.md",
-    "0. Inbox/리드미모음/tmp.md",
-    "0. Inbox/리드미모음/4주차-크리스마스프로모션.md",
     "0. Inbox/리드미모음/3주차-로또.md",
     "0. Inbox/무제 파일.md",
     "Todo/TIL/2024-01/2024-01-24 TIL.md",
     "0. Inbox/우테코7기/자소서.md",
     "0. Inbox/면접/객체지향.md",
     "1. Project/JPA/Annotation/Column/@Access.md",
-    "1. Project/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
-    "1. Project/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건/조인.md",
     "SecondBrain.zip",
     "0. Inbox/tmp",
     "0. Inbox/우테코7기/Pasted image 20241021182837.png",
-    "0. Inbox/리드미모음/Pasted image 20241021182828.png",
     "0. Inbox/우테코7기/Pasted image 20241020171612.png",
     "0. Inbox/우테코7기/Pasted image 20241016220112.png",
     "0. Inbox/우테코7기/Pasted image 20241016211350.png",
