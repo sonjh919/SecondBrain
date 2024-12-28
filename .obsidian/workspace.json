@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
+                "file": "🟠 Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/JAVA/클래스&객체/인터페이스.md",
+                "file": "🟡 Area/JAVA/클래스&객체/인터페이스.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -227,22 +227,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "d5d1f8d9cf508705",
   "lastOpenFiles": [
-    "woo.webp",
-    "🙌 Welcome!!.md",
-    "우아한테크코스/woo.webp",
     "20241228.png",
+    "🙌 Welcome!!.md",
+    "woo.webp",
+    "우아한테크코스/woo.webp",
     "4. Archive/img/109019081.jpg",
-    "Area/JAVA/클래스&객체/인터페이스.md",
-    "📚Project/JPA/Entity/EntityManager.md",
-    "📚Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
-    "Area/Java API/java.lang/Throwable/Error.md",
-    "Resource/Second brain 이론 정리, 적용/PARA.md",
-    "Area/프로그래머스/문법/Collections 활용 메서드.md",
-    "Area/프로그래머스/문법/StringBuilder 활용 메서드.md",
-    "Area/프로그래머스/문법/List 활용 메서드.md",
-    "Area/프로그래머스/문법/Math 활용 메서드.md",
+    "🟡 Area/JAVA/클래스&객체/인터페이스.md",
+    "🟠 Project/JPA/Entity/EntityManager.md",
+    "🟠 Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
+    "🟡 Area/Java API/java.lang/Throwable/Error.md",
+    "🟢 Resource/Second brain 이론 정리, 적용/PARA.md",
+    "🟡 Area/프로그래머스/문법/Collections 활용 메서드.md",
+    "🟡 Area/프로그래머스/문법/StringBuilder 활용 메서드.md",
+    "🟡 Area/프로그래머스/문법/List 활용 메서드.md",
+    "🟡 Area/프로그래머스/문법/Math 활용 메서드.md",
     "Excalidraw/Drawing 2024-04-11 14.05.07.excalidraw.md",
     "Excalidraw/Drawing 2024-03-20 22.40.00.excalidraw.md",
     "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md",
@@ -268,12 +268,12 @@
     "SecondBrain.zip",
     "0. Inbox/tmp",
     "0. Inbox/리드미모음",
-    "📚Project/Software Pattern/Design Pattern/구조 패턴",
-    "📚Project/Software Pattern/Design Pattern/생성 패턴",
-    "📚Project/Software Pattern/Design Pattern/행동 패턴",
-    "📚Project/Software Pattern/Design Pattern/정리필요",
+    "🟠 Project/Software Pattern/Design Pattern/구조 패턴",
+    "🟠 Project/Software Pattern/Design Pattern/생성 패턴",
+    "🟠 Project/Software Pattern/Design Pattern/행동 패턴",
+    "🟠 Project/Software Pattern/Design Pattern/정리필요",
     "1. Project/우아한테크코스 7기",
-    "📚Project/Book/오브젝트/오브젝트 총정리",
+    "🟠 Project/Book/오브젝트/오브젝트 총정리",
     "Project/무제 파일.canvas"
   ]
 }
