@@ -20,7 +20,10 @@
   }
   .theme-light {
     /* --background-primary: #ebf2ff; */
-    --h1-color: #000000;
+    --h1-color: #353638;
+    --accent-h: 18.14;
+    --accent-s: 84.98%;
+    --accent-l: 49.61%;
     
     /* ... CSS color variables for when light mode is enabled */
   }
@@ -33,11 +36,11 @@
 
   /* custom : sidebar */
   .theme-light .site-body-left-column{
-    background-color: #F1F8FF;
+    background-color: #F8F8F8;
   }
 
   .theme-light .site-body-left-column-site-name{
-    color: #7895CB;
+    color: #1E1F21;
     
   }
 
@@ -47,3 +50,13 @@
   .external-link{
     text-decoration-line: none !important;
   }
+
+.site-body-left-column-site-logo {
+    margin-bottom: 10px;
+    text-align: center;
+    margin-right: 18px;
+}
+
+.site-body-left-column-site-name {
+  text-align: center;
+}

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
+                "file": "📚Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -37,8 +37,13 @@
             "id": "d5d1f8d9cf508705",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🙌 Welcome!!.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -109,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🙌 Welcome!!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🙌 Welcome!!.md"
+              }
             }
           },
           {
@@ -160,6 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🙌 Welcome!!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,11 +227,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d5d1f8d9cf508705",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
+    "woo.webp",
+    "🙌 Welcome!!.md",
+    "우아한테크코스/woo.webp",
+    "20241228.png",
+    "4. Archive/img/109019081.jpg",
     "Area/JAVA/클래스&객체/인터페이스.md",
-    "Project/JPA/Entity/EntityManager.md",
-    "Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
+    "📚Project/JPA/Entity/EntityManager.md",
+    "📚Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
     "Area/Java API/java.lang/Throwable/Error.md",
     "Resource/Second brain 이론 정리, 적용/PARA.md",
     "Area/프로그래머스/문법/Collections 활용 메서드.md",
@@ -247,25 +261,19 @@
     "Todo/TIL/TIL.md",
     "Todo/KPT회고/KPT회고 - 수강생 관리 프로그램.md",
     "4. Archive/img/TIL/20231227.png",
-    "4. Archive/img/TIL/20240109.png",
-    "4. Archive/img/TIL/20240121.png",
-    "4. Archive/img/TIL/20240131.png",
-    "4. Archive/img/109019081.jpg",
-    "우아한테크코스/후기.md",
+    "🪐 우아한테크코스/후기.md",
     "0. Inbox/우테코7기/자소서.md",
-    "우아한테크코스",
+    "🪐 우아한테크코스",
     "0. Inbox/우테코7기/커밋컨벤션.md",
-    "0. Inbox/우테코7기/회고 2주차.md",
-    "0. Inbox/면접/파트리지시스템즈.md",
     "SecondBrain.zip",
     "0. Inbox/tmp",
     "0. Inbox/리드미모음",
-    "Project/Software Pattern/Design Pattern/구조 패턴",
-    "Project/Software Pattern/Design Pattern/생성 패턴",
-    "Project/Software Pattern/Design Pattern/행동 패턴",
-    "Project/Software Pattern/Design Pattern/정리필요",
+    "📚Project/Software Pattern/Design Pattern/구조 패턴",
+    "📚Project/Software Pattern/Design Pattern/생성 패턴",
+    "📚Project/Software Pattern/Design Pattern/행동 패턴",
+    "📚Project/Software Pattern/Design Pattern/정리필요",
     "1. Project/우아한테크코스 7기",
-    "Project/Book/오브젝트/오브젝트 총정리",
+    "📚Project/Book/오브젝트/오브젝트 총정리",
     "Project/무제 파일.canvas"
   ]
 }
