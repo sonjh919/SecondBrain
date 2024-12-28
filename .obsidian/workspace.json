@@ -13,14 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/우테코7기/자소서.md",
+                "file": "Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "51c181023b06f2ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Area/JAVA/클래스&객체/인터페이스.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5d1f8d9cf508705",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -39,7 +61,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -49,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:Excalidraw file:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/우테코7기/자소서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. Inbox/우테코7기/자소서.md"
-              }
+              "state": {}
             }
           },
           {
@@ -141,7 +160,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/우테코7기/자소서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,54 +218,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "65dd0bdd6b026619",
+  "active": "d5d1f8d9cf508705",
   "lastOpenFiles": [
+    "Area/JAVA/클래스&객체/인터페이스.md",
+    "Project/JPA/Entity/EntityManager.md",
+    "Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
+    "Area/Java API/java.lang/Throwable/Error.md",
+    "Resource/Second brain 이론 정리, 적용/PARA.md",
+    "Area/프로그래머스/문법/Collections 활용 메서드.md",
+    "Area/프로그래머스/문법/StringBuilder 활용 메서드.md",
+    "Area/프로그래머스/문법/List 활용 메서드.md",
+    "Area/프로그래머스/문법/Math 활용 메서드.md",
+    "Excalidraw/Drawing 2024-04-11 14.05.07.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-20 22.40.00.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md",
+    "Excalidraw/Pasted Image 20240206103748_207.png",
+    "Excalidraw/Pasted Image 20240206104438_741.png",
+    "Excalidraw/Pasted Image 20240206105124_525.png",
+    "Excalidraw/Pasted Image 20240206105442_576.png",
+    "Excalidraw/Pasted Image 20240206110343_379.png",
+    "Templates/blog_Callout.md",
+    "Templates/gitblog templete.md",
+    "Templates/Insert_Callout.md",
+    "Templates/TIL Templete.md",
+    "Todo/TIL/2024-05/2024-05-07 TIL.md",
+    "Todo/TIL/2024-05/2024-05-06 TIL.md",
+    "Todo/TIL/2024-05/2024-05-08 TIL.md",
+    "Todo/TIL/TIL.md",
+    "Todo/KPT회고/KPT회고 - 수강생 관리 프로그램.md",
+    "4. Archive/img/TIL/20231227.png",
+    "4. Archive/img/TIL/20240109.png",
+    "4. Archive/img/TIL/20240121.png",
+    "4. Archive/img/TIL/20240131.png",
+    "4. Archive/img/109019081.jpg",
+    "우아한테크코스/후기.md",
+    "0. Inbox/우테코7기/자소서.md",
+    "우아한테크코스",
     "0. Inbox/우테코7기/커밋컨벤션.md",
     "0. Inbox/우테코7기/회고 2주차.md",
-    "0. Inbox/우테코7기/Pasted image 20241020171612.png",
-    "0. Inbox/우테코7기/Pasted image 20241021182837.png",
-    "0. Inbox/우테코7기/Pasted image 20241016220112.png",
-    "0. Inbox/우테코7기/Pasted image 20241016211053.png",
-    "0. Inbox/우테코7기/Pasted image 20241009214221.png",
-    "0. Inbox/우테코7기/Pasted image 20241009210531.png",
-    "0. Inbox/우테코7기/Pasted image 20241009210508.png",
     "0. Inbox/면접/파트리지시스템즈.md",
-    "0. Inbox/책/책.md",
-    "0. Inbox/우테코7기/1016.md",
-    "0. Inbox/우테코7기/1015.md",
-    "0. Inbox/우테코7기/자소서.md",
-    "0. Inbox/리드미모음/최종소감문.md",
-    "0. Inbox/리드미모음/KakaoTalk_20241212_162919071.png",
-    "0. Inbox/리드미모음/tmp.md",
-    "0. Inbox/리드미모음/Pasted image 20241021182828.png",
-    "2. Area/프로그래머스/문법/Collections 활용 메서드.md",
-    "0. Inbox/리드미모음/4주차-크리스마스프로모션.md",
-    "1. Project/Book/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/컬렉션 매핑/한 개 칼럼 매핑(컬렉션).md",
-    "3. Resource/Python/라이브러리/collections.md",
-    "0. Inbox/우테코7기/4주차.md",
-    "2. Area/Java API/java.util/Map.md",
-    "2. Area/Java API/java.util/Collection/Collection.md",
-    "2. Area/Java API/java.io/java.io.md",
-    "2. Area/Java API/java.lang/Wrapper.md",
-    "2. Area/Java API/java.lang/StringBuffer & StringBuilder.md",
-    "2. Area/Java API/java.lang/String.md",
-    "2. Area/Java API/java.lang/Stream.md",
-    "2. Area/Java API/java.lang/Object.md",
-    "2. Area/Java API/java.lang/record.md",
-    "2. Area/Java API/java.lang/Math.md",
-    "2. Area/Java API/java.time/java.time.md",
-    "0. Inbox/리드미모음/3주차-로또.md",
     "SecondBrain.zip",
     "0. Inbox/tmp",
-    "0. Inbox/우테코7기/Pasted image 20241016211350.png",
     "0. Inbox/리드미모음",
-    "1. Project/Software Pattern/Design Pattern/구조 패턴",
-    "1. Project/Software Pattern/Design Pattern/생성 패턴",
-    "1. Project/Software Pattern/Design Pattern/행동 패턴",
-    "1. Project/Software Pattern/Design Pattern/정리필요",
+    "Project/Software Pattern/Design Pattern/구조 패턴",
+    "Project/Software Pattern/Design Pattern/생성 패턴",
+    "Project/Software Pattern/Design Pattern/행동 패턴",
+    "Project/Software Pattern/Design Pattern/정리필요",
     "1. Project/우아한테크코스 7기",
-    "1. Project/Book/오브젝트/오브젝트 총정리",
-    "1. Project/Book/헤드퍼스트 디자인패턴",
+    "Project/Book/오브젝트/오브젝트 총정리",
     "Project/무제 파일.canvas"
   ]
 }

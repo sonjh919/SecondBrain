@@ -1,6 +1,6 @@
 {
-  "accentColor": "",
-  "cssTheme": "AnuPpuccin",
+  "accentColor": "#6e6e6e",
+  "cssTheme": "Things",
   "enabledCssSnippets": [
     "color-extend",
     "extended-colorschemes",
