@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/우테코7기/자소서.md",
+                "file": "0. Inbox/책/책.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/우테코7기/자소서.md",
+                "file": "0. Inbox/책/책.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/우테코7기/자소서.md"
+                "file": "0. Inbox/책/책.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/우테코7기/자소서.md",
+                "file": "0. Inbox/책/책.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,6 +202,9 @@
   },
   "active": "65dd0bdd6b026619",
   "lastOpenFiles": [
+    "0. Inbox/우테코7기/1016.md",
+    "0. Inbox/우테코7기/1015.md",
+    "0. Inbox/우테코7기/자소서.md",
     "0. Inbox/리드미모음/최종소감문.md",
     "0. Inbox/리드미모음/KakaoTalk_20241212_162919071.png",
     "0. Inbox/리드미모음/tmp.md",
@@ -226,9 +229,7 @@
     "0. Inbox/리드미모음/3주차-로또.md",
     "0. Inbox/무제 파일.md",
     "Todo/TIL/2024-01/2024-01-24 TIL.md",
-    "0. Inbox/우테코7기/자소서.md",
     "0. Inbox/면접/객체지향.md",
-    "1. Project/JPA/Annotation/Column/@Access.md",
     "SecondBrain.zip",
     "0. Inbox/tmp",
     "0. Inbox/우테코7기/Pasted image 20241021182837.png",
