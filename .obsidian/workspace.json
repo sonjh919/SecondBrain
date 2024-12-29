@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟠 Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51c181023b06f2ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🟡 Area/JAVA/클래스&객체/인터페이스.md",
+                "file": "🙌 Welcome!!.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/책/책.md",
+                "file": "🙌 Welcome!!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/책/책.md"
+                "file": "🙌 Welcome!!.md"
               }
             }
           },
@@ -168,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/책/책.md",
+                "file": "🙌 Welcome!!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,44 +213,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d5d1f8d9cf508705",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
-    "🙌 Welcome!!.md",
     "20241228.png",
+    "Templates/blog_Callout.md",
+    "Templates/gitblog templete.md",
+    "Templates/TIL Templete.md",
+    "Templates/Insert_Callout.md",
+    "🟡 Area/대용량트래픽/대용량 트래픽.md",
+    "🟡 Area/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
+    "4. Archive/img/대용량트래픽/Pasted image 20240208202330.png",
+    "🟠 Project/Truble Shooting/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md",
+    "4. Archive/img/대용량트래픽",
+    "4. Archive/img/무제 파일.md",
+    "🟠 Project/Truble Shooting/Java&Spring/빌드 방식에 따른 RequestParam 매개변수 인식 오류.md",
+    "🟡 Area/Test/given when then 패턴.md",
+    "🟡 Area/Test/JUnit.md",
+    "🟡 Area/Test/AssertJ.md",
+    "🟡 Area/Test/버그 잡기.md",
+    "🟠 Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
+    "0. Inbox/책/책.md",
+    "🟠 Project/JAVA/클래스&객체/인터페이스.md",
+    "🙌 Welcome!!.md",
     "woo.webp",
     "우아한테크코스/woo.webp",
     "4. Archive/img/109019081.jpg",
-    "🟡 Area/JAVA/클래스&객체/인터페이스.md",
     "🟠 Project/JPA/Entity/EntityManager.md",
-    "🟠 Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
-    "🟡 Area/Java API/java.lang/Throwable/Error.md",
+    "🟠 Project/Java API/java.lang/Throwable/Error.md",
     "🟢 Resource/Second brain 이론 정리, 적용/PARA.md",
     "🟡 Area/프로그래머스/문법/Collections 활용 메서드.md",
     "🟡 Area/프로그래머스/문법/StringBuilder 활용 메서드.md",
     "🟡 Area/프로그래머스/문법/List 활용 메서드.md",
     "🟡 Area/프로그래머스/문법/Math 활용 메서드.md",
     "Excalidraw/Drawing 2024-04-11 14.05.07.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-20 22.40.00.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-06 10.37.33.excalidraw.md",
     "Excalidraw/Pasted Image 20240206103748_207.png",
     "Excalidraw/Pasted Image 20240206104438_741.png",
     "Excalidraw/Pasted Image 20240206105124_525.png",
     "Excalidraw/Pasted Image 20240206105442_576.png",
     "Excalidraw/Pasted Image 20240206110343_379.png",
-    "Templates/blog_Callout.md",
-    "Templates/gitblog templete.md",
-    "Templates/Insert_Callout.md",
-    "Templates/TIL Templete.md",
-    "Todo/TIL/2024-05/2024-05-07 TIL.md",
-    "Todo/TIL/2024-05/2024-05-06 TIL.md",
-    "Todo/TIL/2024-05/2024-05-08 TIL.md",
-    "Todo/TIL/TIL.md",
-    "Todo/KPT회고/KPT회고 - 수강생 관리 프로그램.md",
-    "4. Archive/img/TIL/20231227.png",
-    "🪐 우아한테크코스/후기.md",
-    "0. Inbox/우테코7기/자소서.md",
     "🪐 우아한테크코스",
-    "0. Inbox/우테코7기/커밋컨벤션.md",
     "SecondBrain.zip",
     "0. Inbox/tmp",
     "0. Inbox/리드미모음",
@@ -273,7 +260,6 @@
     "🟠 Project/Software Pattern/Design Pattern/행동 패턴",
     "🟠 Project/Software Pattern/Design Pattern/정리필요",
     "1. Project/우아한테크코스 7기",
-    "🟠 Project/Book/오브젝트/오브젝트 총정리",
     "Project/무제 파일.canvas"
   ]
 }
