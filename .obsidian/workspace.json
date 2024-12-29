@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🙌 Welcome!!.md",
+                "file": "0. Inbox/책/책.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🙌 Welcome!!.md",
+                "file": "0. Inbox/책/책.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🙌 Welcome!!.md"
+                "file": "0. Inbox/책/책.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🙌 Welcome!!.md",
+                "file": "0. Inbox/책/책.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,8 +229,8 @@
   },
   "active": "d5d1f8d9cf508705",
   "lastOpenFiles": [
-    "20241228.png",
     "🙌 Welcome!!.md",
+    "20241228.png",
     "woo.webp",
     "우아한테크코스/woo.webp",
     "4. Archive/img/109019081.jpg",
