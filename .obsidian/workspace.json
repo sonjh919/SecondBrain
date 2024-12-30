@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🙌 Welcome!!.md",
+                "file": "4. Archive/Blog/github 블로그를 시작하며.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🙌 Welcome!!.md",
+                "file": "4. Archive/Blog/github 블로그를 시작하며.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🙌 Welcome!!.md"
+                "file": "4. Archive/Blog/github 블로그를 시작하며.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🙌 Welcome!!.md",
+                "file": "4. Archive/Blog/github 블로그를 시작하며.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,8 +213,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "65dd0bdd6b026619",
   "lastOpenFiles": [
+    "🙌 Welcome!!.md",
     "20241228.png",
     "Templates/blog_Callout.md",
     "Templates/gitblog templete.md",
@@ -234,7 +235,6 @@
     "🟠 Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
     "0. Inbox/책/책.md",
     "🟠 Project/JAVA/클래스&객체/인터페이스.md",
-    "🙌 Welcome!!.md",
     "woo.webp",
     "우아한테크코스/woo.webp",
     "4. Archive/img/109019081.jpg",
