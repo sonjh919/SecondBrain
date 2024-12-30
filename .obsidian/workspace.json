@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65dd0bdd6b026619",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Archive/Blog/github 블로그를 시작하며.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d5d1f8d9cf508705",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/책/책.md",
+                "file": "🪐 우아한테크코스/프리코스 회고/지원서(⭐⭐⭐⭐⭐); 우테코의 인재상을 곁들인...md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archive/Blog/github 블로그를 시작하며.md",
+                "file": "🪐 우아한테크코스/프리코스 회고/지원서(⭐⭐⭐⭐⭐); 우테코의 인재상을 곁들인...md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Archive/Blog/github 블로그를 시작하며.md"
+                "file": "🪐 우아한테크코스/프리코스 회고/지원서(⭐⭐⭐⭐⭐); 우테코의 인재상을 곁들인...md"
               }
             }
           },
@@ -154,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Archive/Blog/github 블로그를 시작하며.md",
+                "file": "🪐 우아한테크코스/프리코스 회고/지원서(⭐⭐⭐⭐⭐); 우테코의 인재상을 곁들인...md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,8 +200,64 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "65dd0bdd6b026619",
+  "floating": {
+    "id": "7001c216ef3145ed",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7222ef7b0689ae45",
+        "type": "window",
+        "children": [
+          {
+            "id": "8fcdcd879a2e707a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "65dd0bdd6b026619",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0. Inbox/우테코7기/자소서.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1378,
+        "y": 39,
+        "width": 1275,
+        "height": 1000,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d5d1f8d9cf508705",
   "lastOpenFiles": [
+    "🪐 우아한테크코스/프리코스 회고/우아한테크코스 7기 백엔드 최종 합격 회고.md",
+    "4. Archive/img/우아한테크코스/obsidiangraph.png",
+    "🪐 우아한테크코스/프리코스 회고/지원서(⭐⭐⭐⭐⭐); 우테코의 인재상을 곁들인...md",
+    "🪐 우아한테크코스/프리코스 회고",
+    "0. Inbox/우테코7기/자소서.md",
+    "🟠 Project/Java API/Java API.md",
+    "🟠 Project/Java API/모듈.md",
+    "🟠 Project/Java API/java.util/Scanner.md",
+    "🟠 Project/Java API/java.lang/Math.md",
+    "🟠 Project/JAVA/클래스&객체/불변 클래스.md",
+    "🟠 Project/Java API/java.lang/StringBuffer & StringBuilder.md",
+    "🟠 Project/Java API/java.lang/java.lang.md",
+    "🟠 Project/Java API/java.io/java.io.md",
+    "4. Archive/img/우아한테크코스/최종합격.png",
+    "4. Archive/img/우아한테크코스",
+    "0. Inbox/책/책.md",
+    "🪐 우아한테크코스/Pasted image 20241230134729.png",
+    "4. Archive/Blog/github 블로그를 시작하며.md",
     "🙌 Welcome!!.md",
     "20241228.png",
     "Templates/blog_Callout.md",
@@ -230,27 +273,11 @@
     "🟠 Project/Truble Shooting/Java&Spring/빌드 방식에 따른 RequestParam 매개변수 인식 오류.md",
     "🟡 Area/Test/given when then 패턴.md",
     "🟡 Area/Test/JUnit.md",
-    "🟡 Area/Test/AssertJ.md",
-    "🟡 Area/Test/버그 잡기.md",
-    "🟠 Project/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
-    "0. Inbox/책/책.md",
-    "🟠 Project/JAVA/클래스&객체/인터페이스.md",
     "woo.webp",
     "우아한테크코스/woo.webp",
     "4. Archive/img/109019081.jpg",
-    "🟠 Project/JPA/Entity/EntityManager.md",
-    "🟠 Project/Java API/java.lang/Throwable/Error.md",
-    "🟢 Resource/Second brain 이론 정리, 적용/PARA.md",
-    "🟡 Area/프로그래머스/문법/Collections 활용 메서드.md",
-    "🟡 Area/프로그래머스/문법/StringBuilder 활용 메서드.md",
-    "🟡 Area/프로그래머스/문법/List 활용 메서드.md",
-    "🟡 Area/프로그래머스/문법/Math 활용 메서드.md",
-    "Excalidraw/Drawing 2024-04-11 14.05.07.excalidraw.md",
     "Excalidraw/Pasted Image 20240206103748_207.png",
     "Excalidraw/Pasted Image 20240206104438_741.png",
-    "Excalidraw/Pasted Image 20240206105124_525.png",
-    "Excalidraw/Pasted Image 20240206105442_576.png",
-    "Excalidraw/Pasted Image 20240206110343_379.png",
     "🪐 우아한테크코스",
     "SecondBrain.zip",
     "0. Inbox/tmp",
@@ -258,8 +285,6 @@
     "🟠 Project/Software Pattern/Design Pattern/구조 패턴",
     "🟠 Project/Software Pattern/Design Pattern/생성 패턴",
     "🟠 Project/Software Pattern/Design Pattern/행동 패턴",
-    "🟠 Project/Software Pattern/Design Pattern/정리필요",
-    "1. Project/우아한테크코스 7기",
     "Project/무제 파일.canvas"
   ]
 }
