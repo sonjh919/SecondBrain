@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟠 Project/JAVA/기본 문법/변수.md",
+                "file": "🪐 우아한테크코스/프리코스 회고/🎉 우아한테크코스 7기 백엔드 최종 합격 회고.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟠 Project/JAVA/기본 문법/변수.md",
+                "file": "🪐 우아한테크코스/프리코스 회고/🎉 우아한테크코스 7기 백엔드 최종 합격 회고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟠 Project/JAVA/기본 문법/변수.md"
+                "file": "🪐 우아한테크코스/프리코스 회고/🎉 우아한테크코스 7기 백엔드 최종 합격 회고.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟠 Project/JAVA/기본 문법/변수.md",
+                "file": "🪐 우아한테크코스/프리코스 회고/🎉 우아한테크코스 7기 백엔드 최종 합격 회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,11 +202,15 @@
   },
   "active": "bae863afc0607255",
   "lastOpenFiles": [
-    "0. Inbox/우테코7기/자소서.md",
+    "🪐 우아한테크코스/프리코스 회고/프리코스 회고.md",
+    "Todo/TIL/2025-01-01 TIL.md",
+    "Todo/TIL/2024-05/2024-05-08 TIL.md",
+    "Todo/TIL/2024-05/2024-05-06 TIL.md",
+    "Todo/TIL/TIL.md",
     "🟠 Project/JAVA/기본 문법/변수.md",
+    "0. Inbox/우테코7기/자소서.md",
     "🟠 Project/JAVA/기본 문법/자료형.md",
     "🟠 Project/JAVA/기본 문법/메서드.md",
-    "🪐 우아한테크코스/프리코스 회고/프리코스 회고.md",
     "🪐 우아한테크코스/프리코스 회고/🎉 우아한테크코스 7기 백엔드 최종 합격 회고.md",
     "0. Inbox/우테코7기/회고 2주차.md",
     "🪐 우아한테크코스/프리코스 회고/프리코스(⭐⭐⭐⭐); 성장, 또 성장.md",
@@ -226,10 +230,6 @@
     "4. Archive/img/우아한테크코스/obsidiangraph.png",
     "🪐 우아한테크코스/프리코스 회고",
     "🟠 Project/Java API/Java API.md",
-    "🟠 Project/Java API/모듈.md",
-    "🟠 Project/Java API/java.util/Scanner.md",
-    "🟠 Project/Java API/java.lang/Math.md",
-    "🟠 Project/JAVA/클래스&객체/불변 클래스.md",
     "4. Archive/img/우아한테크코스/최종합격.png",
     "4. Archive/img/우아한테크코스",
     "🪐 우아한테크코스/Pasted image 20241230134729.png",
