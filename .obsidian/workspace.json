@@ -200,46 +200,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "7001c216ef3145ed",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7222ef7b0689ae45",
-        "type": "window",
-        "children": [
-          {
-            "id": "8fcdcd879a2e707a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "65dd0bdd6b026619",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "0. Inbox/우테코7기/자소서.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "bae863afc0607255",
   "lastOpenFiles": [
+    "0. Inbox/우테코7기/자소서.md",
+    "🟠 Project/JAVA/기본 문법/변수.md",
     "🟠 Project/JAVA/기본 문법/자료형.md",
     "🟠 Project/JAVA/기본 문법/메서드.md",
     "🪐 우아한테크코스/프리코스 회고/프리코스 회고.md",
@@ -252,7 +216,6 @@
     "🪐 우아한테크코스/프리코스 회고/우아한테크코스 7기 백엔드 최종 합격 회고.md",
     "0. Inbox/우테코7기/4주차.md",
     "0. Inbox/우테코7기/3주차.md",
-    "0. Inbox/우테코7기/자소서.md",
     "0. Inbox/우테코7기/커밋컨벤션.md",
     "🟠 Project/Book/오브젝트/MOC.md",
     "🟠 Project/Book/오브젝트/12 다형성.md",
@@ -267,7 +230,6 @@
     "🟠 Project/Java API/java.util/Scanner.md",
     "🟠 Project/Java API/java.lang/Math.md",
     "🟠 Project/JAVA/클래스&객체/불변 클래스.md",
-    "🟠 Project/Java API/java.lang/StringBuffer & StringBuilder.md",
     "4. Archive/img/우아한테크코스/최종합격.png",
     "4. Archive/img/우아한테크코스",
     "🪐 우아한테크코스/Pasted image 20241230134729.png",
