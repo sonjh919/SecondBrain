@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🪐 우아한테크코스/프리코스 회고/프리코스 회고.md",
+                "file": "🟠 Project/JAVA/기본 문법/변수.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🪐 우아한테크코스/프리코스 회고/프리코스 회고.md",
+                "file": "🟠 Project/JAVA/기본 문법/변수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🪐 우아한테크코스/프리코스 회고/프리코스 회고.md"
+                "file": "🟠 Project/JAVA/기본 문법/변수.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🪐 우아한테크코스/프리코스 회고/프리코스 회고.md",
+                "file": "🟠 Project/JAVA/기본 문법/변수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,12 +228,21 @@
             ]
           }
         ],
-        "direction": "vertical"
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
   "active": "bae863afc0607255",
   "lastOpenFiles": [
+    "🟠 Project/JAVA/기본 문법/자료형.md",
+    "🟠 Project/JAVA/기본 문법/메서드.md",
+    "🪐 우아한테크코스/프리코스 회고/프리코스 회고.md",
     "🪐 우아한테크코스/프리코스 회고/🎉 우아한테크코스 7기 백엔드 최종 합격 회고.md",
     "0. Inbox/우테코7기/회고 2주차.md",
     "🪐 우아한테크코스/프리코스 회고/프리코스(⭐⭐⭐⭐); 성장, 또 성장.md",
@@ -259,11 +268,8 @@
     "🟠 Project/Java API/java.lang/Math.md",
     "🟠 Project/JAVA/클래스&객체/불변 클래스.md",
     "🟠 Project/Java API/java.lang/StringBuffer & StringBuilder.md",
-    "🟠 Project/Java API/java.lang/java.lang.md",
-    "🟠 Project/Java API/java.io/java.io.md",
     "4. Archive/img/우아한테크코스/최종합격.png",
     "4. Archive/img/우아한테크코스",
-    "0. Inbox/책/책.md",
     "🪐 우아한테크코스/Pasted image 20241230134729.png",
     "20241228.png",
     "4. Archive/img/대용량트래픽/Pasted image 20240208202330.png",
