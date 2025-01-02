@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/2025년도 계획.md",
+                "file": "🪐 우아한테크코스/level 0/지원서 작성.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "buffered",
+                "query": "20240728150145",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/2025년도 계획.md",
+                "file": "🪐 우아한테크코스/level 0/지원서 작성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/2025년도 계획.md"
+                "file": "🪐 우아한테크코스/level 0/지원서 작성.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/2025년도 계획.md",
+                "file": "🪐 우아한테크코스/level 0/지원서 작성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,33 +202,37 @@
   },
   "active": "bae863afc0607255",
   "lastOpenFiles": [
-    "20241228.png",
+    "🪐 우아한테크코스/level 0/프리코스 회고.md",
+    "🪐 우아한테크코스/level 0/최종 코딩테스트 회고.md",
+    "🪐 우아한테크코스/level 0/지원서 작성.md",
+    "🪐 우아한테크코스/level 0/🎉 우아한테크코스 7기 백엔드 최종 합격 회고.md",
+    "🟠 Project/Book/오브젝트/오브젝트 총정리/오브젝트 리마인드.md",
+    "🟠 Project/Book/오브젝트/15 디자인 패턴과 프레임워크.md",
+    "🟠 Project/Book/오브젝트/11 합성과 유연한 설계.md",
+    "🟠 Project/Book/오브젝트/10 상속과 코드 재사용.md",
+    "🟠 Project/Book/오브젝트/08 의존성 관리하기.md",
+    "🟠 Project/Book/오브젝트/07 객체 분해.md",
+    "🟠 Project/Book/오브젝트/06 메시지와 인터페이스.md",
+    "🟠 Project/Book/오브젝트/05 책임 할당하기.md",
+    "🟠 Project/Book/오브젝트/04 설계 품질과 트레이드오프.md",
+    "🟠 Project/Book/오브젝트/03 역할, 책임, 협력.md",
+    "🟠 Project/Book/오브젝트/02 객체지향 프로그래밍.md",
+    "🟠 Project/Book/오브젝트/01 객체, 설계.md",
+    "🟠 Project/Book/오브젝트/12 다형성.md",
+    "🟠 Project/Book/오브젝트/13 서브클래싱과 서브타이핑.md",
+    "4. Archive/img/Book/오브젝트/9. 디자인패턴&프레임워크.png",
+    "4. Archive/img/Book/오브젝트/Pasted image 20240728150145.png",
+    "4. Archive/Blog/github 블로그를 시작하며.md",
+    "4. Archive/img/Book/오브젝트",
     "Todo/2025년도 계획.md",
+    "20241228.png",
     "0. Inbox/책/책.md",
     "0. Inbox/우테코7기/회고 2주차.md",
     "0. Inbox/우테코7기/회고 1주차.md",
     "0. Inbox/우테코7기/Pasted image 20241021182837.png",
     "🟠 Project/Java API/java.io/java.io.md",
-    "🪐 우아한테크코스/level 0/프리코스 회고.md",
-    "🪐 우아한테크코스/level 0/🎉 우아한테크코스 7기 백엔드 최종 합격 회고.md",
     "Todo/TIL/2025-01-01 TIL.md",
     "Todo/TIL/2024-05/2024-05-08 TIL.md",
-    "Todo/TIL/2024-05/2024-05-06 TIL.md",
-    "Todo/TIL/TIL.md",
-    "🟠 Project/JAVA/기본 문법/변수.md",
-    "0. Inbox/우테코7기/자소서.md",
-    "🟠 Project/JAVA/기본 문법/자료형.md",
-    "🟠 Project/JAVA/기본 문법/메서드.md",
-    "🪐 우아한테크코스/프리코스 회고/프리코스(⭐⭐⭐⭐); 성장, 또 성장.md",
-    "🪐 우아한테크코스/프리코스 회고/지원서(⭐⭐⭐⭐⭐); 우테코의 인재상을 곁들인...md",
-    "0. Inbox/우테코7기/입학설명회.md",
-    "🪐 우아한테크코스/프리코스 회고/우아한테크코스 7기 백엔드 최종 합격 회고.md",
-    "0. Inbox/우테코7기/4주차.md",
-    "0. Inbox/우테코7기/3주차.md",
-    "0. Inbox/우테코7기/커밋컨벤션.md",
-    "🟠 Project/Book/오브젝트/MOC.md",
-    "🟠 Project/Book/오브젝트/12 다형성.md",
-    "🟠 Project/Book/오브젝트/13 서브클래싱과 서브타이핑.md",
     "4. Archive/img/우아한테크코스/obsidiangraph.png",
     "🪐 우아한테크코스/level 0",
     "4. Archive/img/우아한테크코스/최종합격.png",
@@ -238,15 +242,12 @@
     "4. Archive/img/대용량트래픽",
     "woo.webp",
     "우아한테크코스/woo.webp",
-    "4. Archive/img/109019081.jpg",
-    "Excalidraw/Pasted Image 20240206103748_207.png",
     "🪐 우아한테크코스",
     "SecondBrain.zip",
     "0. Inbox/tmp",
     "0. Inbox/리드미모음",
     "🟠 Project/Software Pattern/Design Pattern/구조 패턴",
     "🟠 Project/Software Pattern/Design Pattern/생성 패턴",
-    "🟠 Project/Software Pattern/Design Pattern/행동 패턴",
     "Project/무제 파일.canvas"
   ]
 }
