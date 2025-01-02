@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟠 Project/Java API/java.io/java.io.md",
+                "file": "0. Inbox/책/책.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟠 Project/Java API/java.io/java.io.md",
+                "file": "0. Inbox/책/책.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟠 Project/Java API/java.io/java.io.md"
+                "file": "0. Inbox/책/책.md"
               }
             }
           },
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟠 Project/Java API/java.io/java.io.md",
+                "file": "0. Inbox/책/책.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,9 +202,13 @@
   },
   "active": "bae863afc0607255",
   "lastOpenFiles": [
+    "0. Inbox/우테코7기/회고 2주차.md",
+    "0. Inbox/우테코7기/회고 1주차.md",
+    "0. Inbox/우테코7기/Pasted image 20241021182837.png",
     "Todo/2025년도 계획.md",
-    "🪐 우아한테크코스/프리코스 회고/프리코스 회고.md",
-    "🪐 우아한테크코스/프리코스 회고/🎉 우아한테크코스 7기 백엔드 최종 합격 회고.md",
+    "🟠 Project/Java API/java.io/java.io.md",
+    "🪐 우아한테크코스/level 0/프리코스 회고.md",
+    "🪐 우아한테크코스/level 0/🎉 우아한테크코스 7기 백엔드 최종 합격 회고.md",
     "Todo/TIL/2025-01-01 TIL.md",
     "Todo/TIL/2024-05/2024-05-08 TIL.md",
     "Todo/TIL/2024-05/2024-05-06 TIL.md",
@@ -214,9 +217,7 @@
     "0. Inbox/우테코7기/자소서.md",
     "🟠 Project/JAVA/기본 문법/자료형.md",
     "🟠 Project/JAVA/기본 문법/메서드.md",
-    "0. Inbox/우테코7기/회고 2주차.md",
     "🪐 우아한테크코스/프리코스 회고/프리코스(⭐⭐⭐⭐); 성장, 또 성장.md",
-    "0. Inbox/우테코7기/회고 1주차.md",
     "🪐 우아한테크코스/프리코스 회고/지원서(⭐⭐⭐⭐⭐); 우테코의 인재상을 곁들인...md",
     "0. Inbox/우테코7기/입학설명회.md",
     "🪐 우아한테크코스/프리코스 회고/우아한테크코스 7기 백엔드 최종 합격 회고.md",
@@ -227,10 +228,8 @@
     "🟠 Project/Book/오브젝트/12 다형성.md",
     "🟠 Project/Book/오브젝트/13 서브클래싱과 서브타이핑.md",
     "🟠 Project/Book/오브젝트/오브젝트 총정리/오브젝트 리마인드.md",
-    "🟠 Project/Book/오브젝트/08 의존성 관리하기.md",
-    "🟠 Project/Book/객체지향의 사실과 오해/MOC.md",
     "4. Archive/img/우아한테크코스/obsidiangraph.png",
-    "🪐 우아한테크코스/프리코스 회고",
+    "🪐 우아한테크코스/level 0",
     "4. Archive/img/우아한테크코스/최종합격.png",
     "4. Archive/img/우아한테크코스",
     "🪐 우아한테크코스/Pasted image 20241230134729.png",
@@ -241,7 +240,6 @@
     "우아한테크코스/woo.webp",
     "4. Archive/img/109019081.jpg",
     "Excalidraw/Pasted Image 20240206103748_207.png",
-    "Excalidraw/Pasted Image 20240206104438_741.png",
     "🪐 우아한테크코스",
     "SecondBrain.zip",
     "0. Inbox/tmp",
