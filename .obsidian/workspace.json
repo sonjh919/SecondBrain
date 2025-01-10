@@ -26,9 +26,12 @@
             "id": "79e1efae0699b58c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-10 17.37.49.excalidraw.md"
+                "file": "🟢 Resource/Second brain 이론 정리, 적용/GTD.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -100,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-10 17.37.49.excalidraw.md",
+                "file": "🟢 Resource/Second brain 이론 정리, 적용/GTD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-10 17.37.49.excalidraw.md"
+                "file": "🟢 Resource/Second brain 이론 정리, 적용/GTD.md"
               }
             }
           },
@@ -154,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-10 17.37.49.excalidraw.md",
+                "file": "🟢 Resource/Second brain 이론 정리, 적용/GTD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,15 +218,24 @@
   },
   "active": "79e1efae0699b58c",
   "lastOpenFiles": [
-    "무제 파일.canvas",
-    "Excalidraw/Drawing 2025-01-10 17.37.49.excalidraw.md",
-    "Excalidraw",
+    "🟢 Resource/Second brain 이론 정리, 적용/gtd.png",
     "🟢 Resource/Second brain 이론 정리, 적용/GTD.md",
-    "🟢 Resource/Second brain 이론 정리, 적용/메모 승격 시스템.md",
     "🟢 Resource/Second brain 이론 정리, 적용/PARA.md",
-    "Todo/2025년도 계획.md",
-    "0. Inbox/무제 폴더",
+    "Excalidraw/Drawing 2025-01-10 17.37.49.excalidraw.md",
+    "🟢 Resource/Second brain 이론 정리, 적용/메모 승격 시스템.md",
     "0. Inbox/기록법, 공부법 inbox.md",
+    "Font/나눔손글씨 다행체.ttf",
+    "Font/나눔손글씨 규리의 일기.ttf",
+    "Font/나눔손글씨 곰신체.ttf",
+    "Font/나눔손글씨 갈맷글.ttf",
+    "Font/GmarketSansTTFMedium.ttf",
+    "Font/GmarketSansTTFLight.ttf",
+    "Font/GmarketSansTTFBold.ttf",
+    "Font/나눔손글씨 성실체.ttf",
+    "Font/나눔손글씨 딸에게 엄마가.ttf",
+    "Font",
+    "무제 파일.canvas",
+    "Todo/2025년도 계획.md",
     "🙌 Welcome!!.md",
     "0. Inbox/무제 파일.md",
     "0. Inbox/면접/이력서.md",
@@ -246,21 +258,11 @@
     "🟠 Project/Book/오브젝트/05 책임 할당하기.md",
     "4. Archive/img/Book/오브젝트/9. 디자인패턴&프레임워크.png",
     "4. Archive/img/Book/오브젝트/Pasted image 20240728150145.png",
-    "4. Archive/img/Book/오브젝트",
     "20241228.png",
     "0. Inbox/우테코7기/Pasted image 20241021182837.png",
     "4. Archive/img/우아한테크코스/obsidiangraph.png",
-    "🪐 우아한테크코스/level 0",
     "4. Archive/img/우아한테크코스/최종합격.png",
-    "4. Archive/img/우아한테크코스",
     "🪐 우아한테크코스/Pasted image 20241230134729.png",
-    "4. Archive/img/대용량트래픽/Pasted image 20240208202330.png",
-    "4. Archive/img/대용량트래픽",
-    "woo.webp",
-    "🪐 우아한테크코스",
-    "SecondBrain.zip",
-    "0. Inbox/tmp",
-    "0. Inbox/리드미모음",
     "Project/무제 파일.canvas"
   ]
 }
