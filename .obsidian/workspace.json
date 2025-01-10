@@ -11,16 +11,29 @@
             "id": "bae863afc0607255",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Todo/2025년도 계획.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "무제 파일.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "79e1efae0699b58c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-10 17.37.49.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "20240728150145",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/2025년도 계획.md",
+                "file": "Excalidraw/Drawing 2025-01-10 17.37.49.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/2025년도 계획.md"
+                "file": "Excalidraw/Drawing 2025-01-10 17.37.49.excalidraw.md"
               }
             }
           },
@@ -141,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/2025년도 계획.md",
+                "file": "Excalidraw/Drawing 2025-01-10 17.37.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,11 +213,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bae863afc0607255",
+  "active": "79e1efae0699b58c",
   "lastOpenFiles": [
     "무제 파일.canvas",
+    "Excalidraw/Drawing 2025-01-10 17.37.49.excalidraw.md",
+    "Excalidraw",
+    "🟢 Resource/Second brain 이론 정리, 적용/GTD.md",
+    "🟢 Resource/Second brain 이론 정리, 적용/메모 승격 시스템.md",
+    "🟢 Resource/Second brain 이론 정리, 적용/PARA.md",
     "Todo/2025년도 계획.md",
+    "0. Inbox/무제 폴더",
     "0. Inbox/기록법, 공부법 inbox.md",
+    "🙌 Welcome!!.md",
     "0. Inbox/무제 파일.md",
     "0. Inbox/면접/이력서.md",
     "0. Inbox/면접/객체지향.md",
@@ -224,11 +244,6 @@
     "🟠 Project/Book/오브젝트/07 객체 분해.md",
     "🟠 Project/Book/오브젝트/06 메시지와 인터페이스.md",
     "🟠 Project/Book/오브젝트/05 책임 할당하기.md",
-    "🟠 Project/Book/오브젝트/04 설계 품질과 트레이드오프.md",
-    "🟠 Project/Book/오브젝트/03 역할, 책임, 협력.md",
-    "🟠 Project/Book/오브젝트/02 객체지향 프로그래밍.md",
-    "🟠 Project/Book/오브젝트/01 객체, 설계.md",
-    "🟠 Project/Book/오브젝트/12 다형성.md",
     "4. Archive/img/Book/오브젝트/9. 디자인패턴&프레임워크.png",
     "4. Archive/img/Book/오브젝트/Pasted image 20240728150145.png",
     "4. Archive/img/Book/오브젝트",
@@ -246,8 +261,6 @@
     "SecondBrain.zip",
     "0. Inbox/tmp",
     "0. Inbox/리드미모음",
-    "🟠 Project/Software Pattern/Design Pattern/구조 패턴",
-    "🟠 Project/Software Pattern/Design Pattern/생성 패턴",
     "Project/무제 파일.canvas"
   ]
 }
