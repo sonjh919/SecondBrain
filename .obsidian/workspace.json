@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟢 Resource/Second brain 이론 정리, 적용/GTD.md",
+                "file": "🟢 Resource/Second brain 이론 정리, 적용/CODE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟢 Resource/Second brain 이론 정리, 적용/GTD.md",
+                "file": "🟢 Resource/Second brain 이론 정리, 적용/CODE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟢 Resource/Second brain 이론 정리, 적용/GTD.md"
+                "file": "🟢 Resource/Second brain 이론 정리, 적용/CODE.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟢 Resource/Second brain 이론 정리, 적용/GTD.md",
+                "file": "🟢 Resource/Second brain 이론 정리, 적용/CODE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,8 +218,9 @@
   },
   "active": "79e1efae0699b58c",
   "lastOpenFiles": [
-    "🟢 Resource/Second brain 이론 정리, 적용/gtd.png",
     "🟢 Resource/Second brain 이론 정리, 적용/GTD.md",
+    "🟢 Resource/Second brain 이론 정리, 적용/CODE.md",
+    "🟢 Resource/Second brain 이론 정리, 적용/gtd.png",
     "🟢 Resource/Second brain 이론 정리, 적용/PARA.md",
     "Excalidraw/Drawing 2025-01-10 17.37.49.excalidraw.md",
     "🟢 Resource/Second brain 이론 정리, 적용/메모 승격 시스템.md",
