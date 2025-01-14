@@ -4,7 +4,7 @@
 ## Component
 Event Storming을 진행하기 전에 먼저 Component의 종류에 대해서 알아야 한다. Component는 시스템 내에서 역할을 수행하는 요소로, 비즈니스 프로세스에서 발생하는 이벤트들과 상호 작용하며 시스템의 동작을 결정하는 요소이다.
 
-![[4. Archive/img/Architecture/Component.png]]
+![[🟣 Archive/img/Architecture/Component.png]]
 
 > [!caution]+ 
 > 순서는 달라질 수 있다!
@@ -56,7 +56,7 @@ Event Storming을 진행하기 전에 먼저 Component의 종류에 대해서 �
  + 유저 인터페이스를 통해 데이터를 소비하고 명령을 실행하여 시스템과 상호 작용한다.
  + 한 Aggregate가 하나의 git repository가 되고, 여러 개의 git reopsitory가 통신하여 하나의 MSA 아키텍쳐를 구성할 것이다.
 
-![[4. Archive/img/Architecture/Aggregate.png]]
+![[🟣 Archive/img/Architecture/Aggregate.png]]
 
 ### 7. [[Bounded Context]] Deduction
 + 같은 Aggregate끼리 묶는다.

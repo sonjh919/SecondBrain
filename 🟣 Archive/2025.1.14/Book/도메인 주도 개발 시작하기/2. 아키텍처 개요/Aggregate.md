@@ -9,7 +9,7 @@
 > [!tip]+ 
 > 좀 더 구현의 관점에서 보기 : [[🟠 Project/Book/도메인 주도 개발 시작하기/3. 애그리거트/Aggregate|Aggregate]]
 
-![[4. Archive/img/Book/도메인 주도 개발 시작하기/aggregate.png]]
+![[🟣 Archive/img/Book/도메인 주도 개발 시작하기/aggregate.png]]
 
 애그리거트는 **관련 객체를 하나로 묶은 군집**이다.
 

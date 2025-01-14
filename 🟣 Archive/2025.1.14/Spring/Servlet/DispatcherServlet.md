@@ -44,7 +44,7 @@ public class UserController {
 
 ## DispatcherServlet의 동작과정
 + Front Controller Pattern 방식으로 동작한다.
-![[4. Archive/img/Spring/frontController.png]]
+![[🟣 Archive/img/Spring/frontController.png]]
 
 1. **Client(브라우저)** 에서 **HTTP 요청**이 들어오면 **DispatcherServlet** 객체가 요청을 분석한다.
 2. **DispatcherServlet** 객체는 분석한 데이터를 토대로 **Handler mapping**을 통해 **Controller**를 찾아 요청을 전달해 준다.
