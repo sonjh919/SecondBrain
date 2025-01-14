@@ -11,21 +11,6 @@
             "id": "bae863afc0607255",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "무제 파일.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "79e1efae0699b58c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "🟢 Resource/Second brain 이론 정리, 적용/CODE.md",
@@ -35,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,54 +200,55 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "79e1efae0699b58c",
+  "active": "bae863afc0607255",
   "lastOpenFiles": [
-    "🟢 Resource/Second brain 이론 정리, 적용/GTD.md",
-    "🟢 Resource/Second brain 이론 정리, 적용/CODE.md",
-    "🟢 Resource/Second brain 이론 정리, 적용/gtd.png",
     "🟢 Resource/Second brain 이론 정리, 적용/PARA.md",
-    "Excalidraw/Drawing 2025-01-10 17.37.49.excalidraw.md",
-    "🟢 Resource/Second brain 이론 정리, 적용/메모 승격 시스템.md",
     "0. Inbox/기록법, 공부법 inbox.md",
+    "0. Inbox/책/책.md",
+    "0. Inbox/우테코7기/회고 1주차.md",
+    "0. Inbox/우테코7기/Pasted image 20241021182837.png",
+    "0. Inbox/우테코7기/Pasted image 20241020171612.png",
+    "0. Inbox/우테코7기/Pasted image 20241016220112.png",
+    "0. Inbox/우테코7기/Pasted image 20241016211350.png",
+    "0. Inbox/우테코7기/Pasted image 20241016211053.png",
+    "0. Inbox/우테코7기/자소서.md",
+    "0. Inbox/우테코7기/회고 4주차.md",
+    "0. Inbox/우테코7기/회고 3주차.md",
+    "0. Inbox/우테코7기/회고 2주차.md",
+    "0. Inbox/우테코7기/Pasted image 20241009215235.png",
+    "0. Inbox/우테코7기/Pasted image 20241009211512.png",
+    "0. Inbox/우테코7기/Pasted image 20241009214221.png",
+    "0. Inbox/우테코7기/Pasted image 20241009211319.png",
+    "0. Inbox/우테코7기/Pasted image 20241009211240.png",
+    "0. Inbox/우테코7기/입학설명회.md",
+    "0. Inbox/우테코7기/커밋컨벤션.md",
+    "Excalidraw/Drawing 2025-01-10 17.37.49.excalidraw.md",
+    "나눔손글씨 다행체.ttf",
+    "4. Archive/Blog/github 블로그를 시작하며.md",
+    "0. Inbox/면접/이력서.md",
+    "0. Inbox/면접/객체지향.md",
+    "0. Inbox/면접/cicd.md",
+    "0. Inbox/tmp/ddd.md",
+    "0. Inbox/tmp/dynamicscheduler.md",
+    "0. Inbox/tmp/무제 파일 1.md",
+    "0. Inbox/tmp/동시성 제어.md",
+    "0. Inbox/tmp/락,es.md",
+    "무제 파일.canvas",
+    "0. Inbox/tmp/모니터링.md",
+    "0. Inbox/tmp/트랜잭션 정리.md",
+    "0. Inbox/tmp/이선좌 전체기능.md",
+    "0. Inbox/tmp/면접.md",
+    "0. Inbox/tmp/나중에 정리할 것.md",
+    "0. Inbox/tmp/끄적끄적.md",
+    "GTD/4. 끝난계획",
+    "GTD/1. 단기계획",
+    "GTD/2. 중기계획",
+    "GTD/2. 장기계획",
+    "GTD",
     "Font/나눔손글씨 다행체.ttf",
     "Font/나눔손글씨 규리의 일기.ttf",
     "Font/나눔손글씨 곰신체.ttf",
     "Font/나눔손글씨 갈맷글.ttf",
-    "Font/GmarketSansTTFMedium.ttf",
-    "Font/GmarketSansTTFLight.ttf",
-    "Font/GmarketSansTTFBold.ttf",
-    "Font/나눔손글씨 성실체.ttf",
-    "Font/나눔손글씨 딸에게 엄마가.ttf",
-    "Font",
-    "무제 파일.canvas",
-    "Todo/2025년도 계획.md",
-    "🙌 Welcome!!.md",
-    "0. Inbox/무제 파일.md",
-    "0. Inbox/면접/이력서.md",
-    "0. Inbox/면접/객체지향.md",
-    "0. Inbox/면접/cicd.md",
-    "0. Inbox/면접/Pasted image 20240731143917.png",
-    "0. Inbox/면접/파트리지시스템즈.md",
-    "0. Inbox/책/책.md",
-    "🪐 우아한테크코스/level 0/지원서 작성.md",
-    "🪐 우아한테크코스/level 0/프리코스 회고.md",
-    "🪐 우아한테크코스/level 0/최종 코딩테스트 회고.md",
-    "🪐 우아한테크코스/level 0/🎉 우아한테크코스 7기 백엔드 최종 합격 회고.md",
-    "🟠 Project/Book/오브젝트/오브젝트 총정리/오브젝트 리마인드.md",
-    "🟠 Project/Book/오브젝트/15 디자인 패턴과 프레임워크.md",
-    "🟠 Project/Book/오브젝트/11 합성과 유연한 설계.md",
-    "🟠 Project/Book/오브젝트/10 상속과 코드 재사용.md",
-    "🟠 Project/Book/오브젝트/08 의존성 관리하기.md",
-    "🟠 Project/Book/오브젝트/07 객체 분해.md",
-    "🟠 Project/Book/오브젝트/06 메시지와 인터페이스.md",
-    "🟠 Project/Book/오브젝트/05 책임 할당하기.md",
-    "4. Archive/img/Book/오브젝트/9. 디자인패턴&프레임워크.png",
-    "4. Archive/img/Book/오브젝트/Pasted image 20240728150145.png",
-    "20241228.png",
-    "0. Inbox/우테코7기/Pasted image 20241021182837.png",
-    "4. Archive/img/우아한테크코스/obsidiangraph.png",
-    "4. Archive/img/우아한테크코스/최종합격.png",
-    "🪐 우아한테크코스/Pasted image 20241230134729.png",
     "Project/무제 파일.canvas"
   ]
 }
