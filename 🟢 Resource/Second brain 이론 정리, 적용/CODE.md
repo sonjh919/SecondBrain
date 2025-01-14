@@ -15,6 +15,9 @@
 
 행동메모 , 정보메모
 
+divergence 발산
+convergence 수렴
+
 ![[code.png]]
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟢 Resource/Second brain 이론 정리, 적용/CODE.md",
+                "file": "0. Inbox/세컨드브레인/세컨드브레인.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟢 Resource/Second brain 이론 정리, 적용/CODE.md",
+                "file": "0. Inbox/세컨드브레인/세컨드브레인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟢 Resource/Second brain 이론 정리, 적용/CODE.md"
+                "file": "0. Inbox/세컨드브레인/세컨드브레인.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟢 Resource/Second brain 이론 정리, 적용/CODE.md",
+                "file": "0. Inbox/세컨드브레인/세컨드브레인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,9 +202,15 @@
   },
   "active": "bae863afc0607255",
   "lastOpenFiles": [
-    "🟢 Resource/Second brain 이론 정리, 적용/PARA.md",
     "0. Inbox/기록법, 공부법 inbox.md",
+    "0. Inbox/세컨드브레인/세컨드브레인.md",
+    "0. Inbox/세컨드브레인",
     "0. Inbox/책/책.md",
+    "🙌 Welcome!!.md",
+    "🟠 Project/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+    "🟢 Resource/Second brain 이론 정리, 적용/CODE.md",
+    "🟢 Resource/Second brain 이론 정리, 적용/아이젠하워 매트릭스.md",
+    "🟢 Resource/Second brain 이론 정리, 적용/PARA.md",
     "0. Inbox/우테코7기/회고 1주차.md",
     "0. Inbox/우테코7기/Pasted image 20241021182837.png",
     "0. Inbox/우테코7기/Pasted image 20241020171612.png",
@@ -235,11 +241,6 @@
     "0. Inbox/tmp/락,es.md",
     "무제 파일.canvas",
     "0. Inbox/tmp/모니터링.md",
-    "0. Inbox/tmp/트랜잭션 정리.md",
-    "0. Inbox/tmp/이선좌 전체기능.md",
-    "0. Inbox/tmp/면접.md",
-    "0. Inbox/tmp/나중에 정리할 것.md",
-    "0. Inbox/tmp/끄적끄적.md",
     "GTD/4. 끝난계획",
     "GTD/1. 단기계획",
     "GTD/2. 중기계획",
@@ -248,7 +249,6 @@
     "Font/나눔손글씨 다행체.ttf",
     "Font/나눔손글씨 규리의 일기.ttf",
     "Font/나눔손글씨 곰신체.ttf",
-    "Font/나눔손글씨 갈맷글.ttf",
     "Project/무제 파일.canvas"
   ]
 }
