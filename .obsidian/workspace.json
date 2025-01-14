@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46eeae5be07193fc",
+        "id": "faa75fa7d758aa73",
         "type": "tabs",
         "children": [
           {
-            "id": "bae863afc0607255",
+            "id": "68bc371e33310fdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/세컨드브레인/세컨드브레인.md",
+                "file": "0. Inbox/세컨드브레인/세컨드브레인 부스트.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0. Inbox/세컨드브레인/세컨드브레인 부스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0. Inbox/세컨드브레인/세컨드브레인 부스트.md"
+              }
             }
           },
           {
@@ -138,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0. Inbox/세컨드브레인/세컨드브레인 부스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,9 +200,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fff0c6353c28b71c",
+  "active": "68bc371e33310fdf",
   "lastOpenFiles": [
     "0. Inbox/세컨드브레인/세컨드브레인.md",
+    "0. Inbox/세컨드브레인/세컨드브레인 부스트.md",
     "🟢 Resource/Second brain 이론 정리, 적용/PARA.md",
     "0. Inbox/기록법, 공부법 inbox.md",
     "🟢 Resource/Second brain 이론 정리, 적용/CODE.md",
@@ -236,7 +241,6 @@
     "0. Inbox/tmp/동시성 제어.md",
     "0. Inbox/tmp/락,es.md",
     "무제 파일.canvas",
-    "0. Inbox/tmp/모니터링.md",
     "GTD/4. 끝난계획",
     "GTD/1. 단기계획",
     "GTD/2. 중기계획",
