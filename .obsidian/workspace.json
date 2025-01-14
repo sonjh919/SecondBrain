@@ -87,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/세컨드브레인/세컨드브레인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. Inbox/세컨드브레인/세컨드브레인.md"
-              }
+              "state": {}
             }
           },
           {
@@ -141,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/세컨드브레인/세컨드브레인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,10 +196,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bae863afc0607255",
+  "active": "fff0c6353c28b71c",
   "lastOpenFiles": [
-    "🟢 Resource/Second brain 이론 정리, 적용/PARA.md",
     "0. Inbox/세컨드브레인/세컨드브레인.md",
+    "🟢 Resource/Second brain 이론 정리, 적용/PARA.md",
     "0. Inbox/기록법, 공부법 inbox.md",
     "🟢 Resource/Second brain 이론 정리, 적용/CODE.md",
     "0. Inbox/세컨드브레인",
