@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/세컨드브레인/세컨드브레인.md",
+                "file": "0. Inbox/세컨드브레인/세컨드브레인 부스트.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#개발서적/세컨드브레인",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/세컨드브레인/세컨드브레인.md",
+                "file": "0. Inbox/세컨드브레인/세컨드브레인 부스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/세컨드브레인/세컨드브레인.md"
+                "file": "0. Inbox/세컨드브레인/세컨드브레인 부스트.md"
               }
             }
           },
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/세컨드브레인/세컨드브레인.md",
+                "file": "0. Inbox/세컨드브레인/세컨드브레인 부스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,14 +208,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e6d2440fd7f079b9",
+  "active": "68bc371e33310fdf",
   "lastOpenFiles": [
     "0. Inbox/세컨드브레인/세컨드브레인.md",
-    "0. Inbox/세컨드브레인/요즘 우아한 개발.md",
+    "Excalidraw/Drawing 2025-01-10 17.37.49.excalidraw.md",
+    "무제 파일.canvas",
+    "20241228.png",
     "0. Inbox/세컨드브레인/세컨드브레인 부스트.md",
+    "0. Inbox/세컨드브레인/요즘 우아한 개발.md",
     "0. Inbox/기록법, 공부법 inbox.md",
     "🟠 Project/지하철에서 할만한거 찾아보기",
-    "무제 파일.canvas",
     "🙌 Welcome!!.md",
     "🟠 Project/옵시디언 개선하기/무제 파일.md",
     "🟣 Archive/2025.1.14/BlockChain/합의 프로토콜.md",
@@ -256,7 +257,6 @@
     "🟣 Archive/2025.1.14/ELK/NHN/Pasted image 20240402190349.png",
     "🟣 Archive/2025.1.14/ELK/NHN/Pasted image 20240402190152.png",
     "🟣 Archive/2025.1.14/ELK/NHN/Pasted image 20240402190140.png",
-    "🟣 Archive/2025.1.14/ELK/NHN/Pasted image 20240402190109.png",
     "Project/무제 파일.canvas"
   ]
 }
