@@ -1,6 +1,92 @@
 {
-	"nodes":[
-		{"id":"2dea9d997ab5050c","type":"text","text":"","x":-120,"y":-280,"width":250,"height":200}
-	],
-	"edges":[]
+  "nodes": [
+    {
+      "id": "2dea9d997ab5050c",
+      "type": "text",
+      "text": "예시",
+      "styleAttributes": {},
+      "x": -120,
+      "y": -280,
+      "width": 250,
+      "height": 200,
+      "color": "2"
+    },
+    {
+      "id": "b7c1922519ba06b6",
+      "type": "text",
+      "text": "예시",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "predefined-process",
+        "border": null
+      },
+      "x": -300,
+      "y": -487,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "e8685c86a599ef5f",
+      "type": "file",
+      "file": "🙌 Welcome!!.md",
+      "styleAttributes": {},
+      "x": -105,
+      "y": -700,
+      "width": 400,
+      "height": 182
+    },
+    {
+      "id": "012f9d49ffe0315d",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": -480,
+      "y": -580,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c5b13ccfafccb002",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": -580,
+      "y": -500,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "6db8a934bf95e3ff",
+      "fromNode": "2dea9d997ab5050c",
+      "fromSide": "top",
+      "toNode": "b7c1922519ba06b6",
+      "toSide": "bottom"
+    },
+    {
+      "id": "ce4de2b4a12904a6",
+      "fromNode": "b7c1922519ba06b6",
+      "fromSide": "top",
+      "toNode": "e8685c86a599ef5f",
+      "toSide": "bottom"
+    },
+    {
+      "id": "90c25eec9280b827",
+      "styleAttributes": {},
+      "fromNode": "b7c1922519ba06b6",
+      "fromSide": "top",
+      "toNode": "012f9d49ffe0315d",
+      "toSide": "bottom"
+    },
+    {
+      "id": "2e84980181ae772a",
+      "styleAttributes": {},
+      "fromNode": "b7c1922519ba06b6",
+      "fromSide": "top",
+      "toNode": "c5b13ccfafccb002",
+      "toSide": "bottom"
+    }
+  ],
+  "metadata": {}
 }

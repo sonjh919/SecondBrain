@@ -11,12 +11,14 @@
             "id": "68bc371e33310fdf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "0. Inbox/세컨드브레인/세컨드브레인 부스트.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "무제 파일.canvas",
+                "viewState": {
+                  "x": -2.5,
+                  "y": -762,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -87,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/세컨드브레인/세컨드브레인 부스트.md",
+                "file": "무제 파일.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/세컨드브레인/세컨드브레인 부스트.md"
+                "file": "무제 파일.canvas"
               }
             }
           },
@@ -141,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/세컨드브레인/세컨드브레인 부스트.md",
+                "file": "무제 파일.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,8 +202,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "68bc371e33310fdf",
   "lastOpenFiles": [
+    "🙌 Welcome!!.md",
+    "0. Inbox/세컨드브레인/세컨드브레인.md",
+    "0. Inbox/세컨드브레인/세컨드브레인 부스트.md",
+    "무제 파일.canvas",
+    "0. Inbox/기록법, 공부법 inbox.md",
+    "🟠 Project/옵시디언 개선하기/무제 파일.md",
+    "🟣 Archive/2025.1.14/BlockChain/합의 프로토콜.md",
+    "🟠 Project/옵시디언 개선하기",
     "🟠 Project/TDD 책 읽기",
     "🟠 Project/교통카드 발급 알아보기",
     "🟠 Project/우테코 사전준비하기",
@@ -233,14 +243,7 @@
     "🟣 Archive/2025.1.14/Second brain 이론 정리, 적용/메모 승격 시스템.md",
     "🟣 Archive/2025.1.14/Second brain 이론 정리, 적용/PARA.md",
     "🟣 Archive/2025.1.14/Second brain 이론 정리, 적용/eisenhower-matrix.png",
-    "🟣 Archive/2025.1.14/Second brain 이론 정리, 적용/GTD.md",
     "🟣 Archive/2025.1.14/Second brain 이론 정리, 적용/code.png",
-    "🟣 Archive/2025.1.14/Second brain 이론 정리, 적용/CODE.md",
-    "🟣 Archive/2025.1.14/Second brain 이론 정리, 적용",
-    "🟣 Archive/2025.1.14/Python/문법/함수/함수.md",
-    "🟣 Archive/2025.1.14/Python/문법/함수/lambda.md",
-    "🟣 Archive/2025.1.14/Python/문법/제어문/제어문.md",
-    "🟣 Archive/2025.1.14/Python/문법/함수",
     "🟣 Archive/2025.1.14/Redis/분산락.png",
     "🟣 Archive/2025.1.14/Monitoring/prometheus.png",
     "🟣 Archive/2025.1.14/Monitoring/grafana.png",
@@ -248,7 +251,6 @@
     "🟣 Archive/2025.1.14/ELK/NHN/Pasted image 20240402190152.png",
     "🟣 Archive/2025.1.14/ELK/NHN/Pasted image 20240402190140.png",
     "🟣 Archive/2025.1.14/ELK/NHN/Pasted image 20240402190109.png",
-    "무제 파일.canvas",
     "Project/무제 파일.canvas"
   ]
 }
