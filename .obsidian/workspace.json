@@ -11,15 +11,21 @@
             "id": "68bc371e33310fdf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "무제 파일.canvas",
-                "viewState": {
-                  "x": -2.5,
-                  "y": -762,
-                  "zoom": 0
-                }
+                "file": "0. Inbox/세컨드브레인/세컨드브레인.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
+            }
+          },
+          {
+            "id": "a561a10ac183e8b8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -51,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#개발서적/세컨드브레인",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "0. Inbox/세컨드브레인/세컨드브레인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.canvas"
+                "file": "0. Inbox/세컨드브레인/세컨드브레인.md"
               }
             }
           },
@@ -143,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "0. Inbox/세컨드브레인/세컨드브레인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,13 +209,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "68bc371e33310fdf",
+  "active": "e6d2440fd7f079b9",
   "lastOpenFiles": [
-    "🙌 Welcome!!.md",
     "0. Inbox/세컨드브레인/세컨드브레인.md",
+    "0. Inbox/세컨드브레인/요즘 우아한 개발.md",
     "0. Inbox/세컨드브레인/세컨드브레인 부스트.md",
-    "무제 파일.canvas",
     "0. Inbox/기록법, 공부법 inbox.md",
+    "🟠 Project/지하철에서 할만한거 찾아보기",
+    "무제 파일.canvas",
+    "🙌 Welcome!!.md",
     "🟠 Project/옵시디언 개선하기/무제 파일.md",
     "🟣 Archive/2025.1.14/BlockChain/합의 프로토콜.md",
     "🟠 Project/옵시디언 개선하기",
@@ -237,11 +246,8 @@
     "🟣 Archive/2025.1.14/이선좌 프로젝트/기획&설계",
     "🟣 Archive/2025.1.14/이선좌 프로젝트",
     "🟣 Archive/2025.1.14/기획/프로젝트 기획.md",
-    "🟣 Archive/2025.1.14/기획",
     "🟣 Archive/2025.1.14/Second brain 이론 정리, 적용/아이젠하워 매트릭스.md",
     "🟣 Archive/2025.1.14/Second brain 이론 정리, 적용/gtd.png",
-    "🟣 Archive/2025.1.14/Second brain 이론 정리, 적용/메모 승격 시스템.md",
-    "🟣 Archive/2025.1.14/Second brain 이론 정리, 적용/PARA.md",
     "🟣 Archive/2025.1.14/Second brain 이론 정리, 적용/eisenhower-matrix.png",
     "🟣 Archive/2025.1.14/Second brain 이론 정리, 적용/code.png",
     "🟣 Archive/2025.1.14/Redis/분산락.png",
