@@ -12,4 +12,4 @@
 > 정점 u,v를 연결하는 경로 중 가중치 합이 최소가 되는 **최단경로(shortest path)**
 
 
-![[🟣 Archive/img/Algorithm & Data Structure/graph.png]]
+![[2. Organize 영구노트/🟣 Archive 보관소/img/Algorithm & Data Structure/graph.png]]

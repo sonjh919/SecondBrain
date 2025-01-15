@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/세컨드브레인/세컨드브레인 부스트.md",
+                "file": "🪐 우아한테크코스/level 0/지원서 작성.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -28,7 +28,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/세컨드브레인/세컨드브레인 부스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. Inbox/세컨드브레인/세컨드브레인 부스트.md"
-              }
+              "state": {}
             }
           },
           {
@@ -149,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/세컨드브레인/세컨드브레인 부스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,55 +205,56 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "68bc371e33310fdf",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
-    "0. Inbox/세컨드브레인/세컨드브레인.md",
+    "2. Organize 영구노트",
+    "🪐 우아한테크코스/level 0/지원서 작성.md",
+    "🙌 Welcome!!.md",
+    "🪐 우아한테크코스/level 0/프리코스 회고.md",
+    "🪐 우아한테크코스/level 0/🎉 우아한테크코스 7기 백엔드 최종 합격 회고.md",
+    "🪐 우아한테크코스/level 0/최종 코딩테스트 회고.md",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/JAVA/모던 자바/함수형 프로그래밍.md",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Java API/java.lang/Stream.md",
+    "1. Capture 임시메모(inbox)/세컨드브레인/세컨드브레인 부스트.md",
+    "2. Organize 영구노트/🟡 Area 장기적인 책임/객체지향",
+    "🟡 Area 장기적인 책임/무제 파일.md",
+    "2. Organize 영구노트/🟡 Area 장기적인 책임/Java 이론",
+    "🟡 Area 장기적인 책임/무제 파일.canvas",
+    "1. Capture 임시메모(inbox)/세컨드브레인/세컨드브레인.md",
     "Excalidraw/Drawing 2025-01-10 17.37.49.excalidraw.md",
     "무제 파일.canvas",
     "20241228.png",
-    "0. Inbox/세컨드브레인/세컨드브레인 부스트.md",
-    "0. Inbox/세컨드브레인/요즘 우아한 개발.md",
-    "0. Inbox/기록법, 공부법 inbox.md",
-    "🟠 Project/지하철에서 할만한거 찾아보기",
-    "🙌 Welcome!!.md",
-    "🟠 Project/옵시디언 개선하기/무제 파일.md",
-    "🟣 Archive/2025.1.14/BlockChain/합의 프로토콜.md",
-    "🟠 Project/옵시디언 개선하기",
-    "🟠 Project/TDD 책 읽기",
-    "🟠 Project/교통카드 발급 알아보기",
+    "1. Capture 임시메모(inbox)/세컨드브레인/요즘 우아한 개발.md",
+    "1. Capture 임시메모(inbox)/기록법, 공부법 inbox.md",
+    "2. Organize 영구노트/🟠 Project 프로젝트/지하철에서 할만한거 찾아보기",
+    "2. Organize 영구노트/🟠 Project 프로젝트/옵시디언 개선하기/무제 파일.md",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/BlockChain/합의 프로토콜.md",
+    "2. Organize 영구노트/🟠 Project 프로젝트/옵시디언 개선하기",
+    "2. Organize 영구노트/🟠 Project 프로젝트/TDD 책 읽기",
+    "2. Organize 영구노트/🟠 Project 프로젝트/교통카드 발급 알아보기",
     "🟠 Project/우테코 사전준비하기",
-    "🟠 Project/노트정리방법 재설계하기",
-    "🟣 Archive/2025.1.14/이선좌 프로젝트/트러블 슈팅/5. 대기열 아키텍쳐 설계.md",
-    "🟣 Archive/2025.1.14/이선좌 프로젝트/트러블 슈팅/4. ElasticSearch 배포시 메모리 부족 현상.md",
-    "🟣 Archive/2025.1.14/이선좌 프로젝트/트러블 슈팅/3. ELK Security.md",
-    "🟣 Archive/2025.1.14/이선좌 프로젝트/트러블 슈팅/2. Instance Mapping 문제.md",
-    "🟣 Archive/2025.1.14/이선좌 프로젝트/트러블 슈팅/1. Counter metric을 Gauge metric으로 변환했을 때 그래프 해석 문제.md",
-    "🟣 Archive/2025.1.14/이선좌 프로젝트/개발/시연영상.md",
-    "🟣 Archive/2025.1.14/이선좌 프로젝트/개발/5. 유저테스트 모니터링.md",
-    "🟣 Archive/2025.1.14/이선좌 프로젝트/개발/4. 대기열.md",
-    "🟣 Archive/2025.1.14/이선좌 프로젝트/개발/2. ELK.md",
-    "🟣 Archive/2025.1.14/이선좌 프로젝트/개발/3. Custom Analyzer.md",
-    "🟣 Archive/2025.1.14/이선좌 프로젝트/기획&설계/4. 기획.md",
-    "🟣 Archive/2025.1.14/이선좌 프로젝트/개발/1. Gradle Multi-Module.md",
-    "🟣 Archive/2025.1.14/이선좌 프로젝트/기획&설계/3. 도메인 분석.md",
-    "🟣 Archive/2025.1.14/이선좌 프로젝트/기획&설계/2. 주제 확정짓기.md",
-    "🟣 Archive/2025.1.14/이선좌 프로젝트/기획&설계/1. 프로젝트의 목적.md",
-    "🟣 Archive/2025.1.14/이선좌 프로젝트/트러블 슈팅",
-    "🟣 Archive/2025.1.14/이선좌 프로젝트/이선좌 프로젝트.md",
-    "🟣 Archive/2025.1.14/이선좌 프로젝트/개발",
-    "🟣 Archive/2025.1.14/이선좌 프로젝트/기획&설계",
-    "🟣 Archive/2025.1.14/이선좌 프로젝트",
-    "🟣 Archive/2025.1.14/기획/프로젝트 기획.md",
-    "🟣 Archive/2025.1.14/Second brain 이론 정리, 적용/아이젠하워 매트릭스.md",
-    "🟣 Archive/2025.1.14/Second brain 이론 정리, 적용/gtd.png",
-    "🟣 Archive/2025.1.14/Second brain 이론 정리, 적용/eisenhower-matrix.png",
-    "🟣 Archive/2025.1.14/Second brain 이론 정리, 적용/code.png",
-    "🟣 Archive/2025.1.14/Redis/분산락.png",
-    "🟣 Archive/2025.1.14/Monitoring/prometheus.png",
-    "🟣 Archive/2025.1.14/Monitoring/grafana.png",
-    "🟣 Archive/2025.1.14/ELK/NHN/Pasted image 20240402190349.png",
-    "🟣 Archive/2025.1.14/ELK/NHN/Pasted image 20240402190152.png",
-    "🟣 Archive/2025.1.14/ELK/NHN/Pasted image 20240402190140.png",
+    "2. Organize 영구노트/🟠 Project 프로젝트/노트정리방법 재설계하기",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/이선좌 프로젝트/트러블 슈팅/5. 대기열 아키텍쳐 설계.md",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/이선좌 프로젝트/트러블 슈팅/4. ElasticSearch 배포시 메모리 부족 현상.md",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/이선좌 프로젝트/트러블 슈팅/3. ELK Security.md",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/이선좌 프로젝트/트러블 슈팅/2. Instance Mapping 문제.md",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/이선좌 프로젝트/트러블 슈팅/1. Counter metric을 Gauge metric으로 변환했을 때 그래프 해석 문제.md",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/이선좌 프로젝트/개발/시연영상.md",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/이선좌 프로젝트/개발/5. 유저테스트 모니터링.md",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/이선좌 프로젝트/개발/4. 대기열.md",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/이선좌 프로젝트/개발/2. ELK.md",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/이선좌 프로젝트/개발/3. Custom Analyzer.md",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/이선좌 프로젝트/트러블 슈팅",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/이선좌 프로젝트/개발",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Second brain 이론 정리, 적용/gtd.png",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Second brain 이론 정리, 적용/eisenhower-matrix.png",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Second brain 이론 정리, 적용/code.png",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Redis/분산락.png",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Monitoring/prometheus.png",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Monitoring/grafana.png",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/ELK/NHN/Pasted image 20240402190349.png",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/ELK/NHN/Pasted image 20240402190152.png",
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/ELK/NHN/Pasted image 20240402190140.png",
     "Project/무제 파일.canvas"
   ]
 }
