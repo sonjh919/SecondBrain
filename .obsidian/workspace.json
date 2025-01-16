@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Capture 임시메모(inbox)/설계 OOP.md",
+                "file": "1. Capture 임시메모(inbox)/인프콘 2022.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Capture 임시메모(inbox)/설계 OOP.md",
+                "file": "1. Capture 임시메모(inbox)/인프콘 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Capture 임시메모(inbox)/설계 OOP.md"
+                "file": "1. Capture 임시메모(inbox)/인프콘 2022.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Capture 임시메모(inbox)/설계 OOP.md",
+                "file": "1. Capture 임시메모(inbox)/인프콘 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,9 +216,10 @@
   },
   "active": "a561a10ac183e8b8",
   "lastOpenFiles": [
-    "1. Capture 임시메모(inbox)/세컨드브레인/기록법, 공부법 inbox.md",
-    "1. Capture 임시메모(inbox)/설계 OOP.md",
     "1. Capture 임시메모(inbox)/세컨드브레인/요즘 우아한 개발.md",
+    "1. Capture 임시메모(inbox)/인프콘 2022.md",
+    "1. Capture 임시메모(inbox)/설계 OOP.md",
+    "1. Capture 임시메모(inbox)/세컨드브레인/기록법, 공부법 inbox.md",
     "1. Capture 임시메모(inbox)/세컨드브레인/세컨드브레인.md",
     "1. Capture 임시메모(inbox)/책/책.md",
     "1. Capture 임시메모(inbox)/세컨드브레인/세컨드브레인 부스트.md",
@@ -254,7 +255,6 @@
     "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/이선좌 프로젝트/트러블 슈팅/5. 대기열 아키텍쳐 설계.md",
     "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/이선좌 프로젝트/트러블 슈팅/4. ElasticSearch 배포시 메모리 부족 현상.md",
     "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/이선좌 프로젝트/트러블 슈팅/3. ELK Security.md",
-    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/이선좌 프로젝트/트러블 슈팅/2. Instance Mapping 문제.md",
     "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Second brain 이론 정리, 적용/gtd.png",
     "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Second brain 이론 정리, 적용/eisenhower-matrix.png",
     "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Second brain 이론 정리, 적용/code.png",
