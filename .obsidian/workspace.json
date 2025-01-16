@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Capture 임시메모(inbox)/인프콘 2022.md",
+                "file": "Todo/TIL/2025-01-17 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Capture 임시메모(inbox)/인프콘 2022.md",
+                "file": "Todo/TIL/2025-01-17 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Capture 임시메모(inbox)/인프콘 2022.md"
+                "file": "Todo/TIL/2025-01-17 TIL.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Capture 임시메모(inbox)/인프콘 2022.md",
+                "file": "Todo/TIL/2025-01-17 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,21 +216,28 @@
   },
   "active": "a561a10ac183e8b8",
   "lastOpenFiles": [
-    "1. Capture 임시메모(inbox)/세컨드브레인/요즘 우아한 개발.md",
-    "1. Capture 임시메모(inbox)/인프콘 2022.md",
+    "Templates/TIL Templete.md",
+    "Todo/TIL/2025-01-01 TIL.md",
+    "Todo/TIL/TIL.md",
+    "Todo/TIL/2025-01-17 TIL.md",
+    "1. Capture 임시메모(inbox)/책/글쓰기.md",
+    "1. Capture 임시메모(inbox)/책/책.md",
+    "2. Organize 영구노트/🟡 Area 장기적인 책임/글쓰기/초고 쓰기.md",
+    "2. Organize 영구노트/🟠 Project 프로젝트/나만의 학습 시스템 만들기/1. 학습 시스템 만들기 프로젝트.md",
+    "2. Organize 영구노트/🟡 Area 장기적인 책임/글쓰기",
     "1. Capture 임시메모(inbox)/설계 OOP.md",
+    "1. Capture 임시메모(inbox)/인프콘 2022.md",
     "1. Capture 임시메모(inbox)/세컨드브레인/기록법, 공부법 inbox.md",
     "1. Capture 임시메모(inbox)/세컨드브레인/세컨드브레인.md",
-    "1. Capture 임시메모(inbox)/책/책.md",
     "1. Capture 임시메모(inbox)/세컨드브레인/세컨드브레인 부스트.md",
-    "2. Organize 영구노트/🟠 Project 프로젝트/옵시디언 개선하기/무제 파일.md",
+    "1. Capture 임시메모(inbox)/세컨드브레인/요즘 우아한 개발.md",
+    "Todo/2025년도 계획.md",
     "Todo/TIL/2023-12/2023-12-27 TIL.md",
     "4. Express 공유",
     "3. Distill 지식&아이디어 추출",
     "Todo/TIL/2023-12/2023-12-25 TIL.md",
     "Todo/TIL/2023-12/2023-12-23 TIL.md",
     "Todo/TIL/2023-12/2023-12-21-TIL.md",
-    "Todo/2025년도 계획.md",
     "무제 파일.canvas",
     "20241228.png",
     "2. Organize 영구노트",
@@ -242,19 +249,12 @@
     "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/JAVA/모던 자바/함수형 프로그래밍.md",
     "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Java API/java.lang/Stream.md",
     "2. Organize 영구노트/🟡 Area 장기적인 책임/객체지향",
-    "🟡 Area 장기적인 책임/무제 파일.md",
     "2. Organize 영구노트/🟡 Area 장기적인 책임/Java 이론",
     "🟡 Area 장기적인 책임/무제 파일.canvas",
-    "Excalidraw/Drawing 2025-01-10 17.37.49.excalidraw.md",
     "2. Organize 영구노트/🟠 Project 프로젝트/지하철에서 할만한거 찾아보기",
-    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/BlockChain/합의 프로토콜.md",
-    "2. Organize 영구노트/🟠 Project 프로젝트/옵시디언 개선하기",
+    "2. Organize 영구노트/🟠 Project 프로젝트/나만의 학습 시스템 만들기",
     "2. Organize 영구노트/🟠 Project 프로젝트/TDD 책 읽기",
     "2. Organize 영구노트/🟠 Project 프로젝트/교통카드 발급 알아보기",
-    "🟠 Project/우테코 사전준비하기",
-    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/이선좌 프로젝트/트러블 슈팅/5. 대기열 아키텍쳐 설계.md",
-    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/이선좌 프로젝트/트러블 슈팅/4. ElasticSearch 배포시 메모리 부족 현상.md",
-    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/이선좌 프로젝트/트러블 슈팅/3. ELK Security.md",
     "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Second brain 이론 정리, 적용/gtd.png",
     "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Second brain 이론 정리, 적용/eisenhower-matrix.png",
     "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Second brain 이론 정리, 적용/code.png",
