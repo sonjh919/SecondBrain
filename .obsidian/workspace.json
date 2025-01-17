@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🪐 우아한테크코스/level 0/지원서 작성.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a561a10ac183e8b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Todo/TIL/2025-01-17 TIL.md",
+                "file": "Todo/TIL/2025-01-17 회고 ⁚.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/TIL/2025-01-17 TIL.md",
+                "file": "Todo/TIL/2025-01-17 회고 ⁚.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/TIL/2025-01-17 TIL.md"
+                "file": "Todo/TIL/2025-01-17 회고 ⁚.md"
               }
             }
           },
@@ -155,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/TIL/2025-01-17 TIL.md",
+                "file": "Todo/TIL/2025-01-17 회고 ⁚.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,40 +200,40 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a561a10ac183e8b8",
+  "active": "68bc371e33310fdf",
   "lastOpenFiles": [
-    "Templates/TIL Templete.md",
-    "Todo/TIL/2025-01-01 TIL.md",
-    "Todo/TIL/TIL.md",
-    "Todo/TIL/2025-01-17 TIL.md",
-    "1. Capture 임시메모(inbox)/책/글쓰기.md",
-    "1. Capture 임시메모(inbox)/책/책.md",
-    "2. Organize 영구노트/🟡 Area 장기적인 책임/글쓰기/초고 쓰기.md",
-    "2. Organize 영구노트/🟠 Project 프로젝트/나만의 학습 시스템 만들기/1. 학습 시스템 만들기 프로젝트.md",
-    "2. Organize 영구노트/🟡 Area 장기적인 책임/글쓰기",
-    "1. Capture 임시메모(inbox)/설계 OOP.md",
-    "1. Capture 임시메모(inbox)/인프콘 2022.md",
+    "Todo/TIL/2024-02/2024-02-01 TIL.md",
+    "Todo/TIL/2024-02/2024-02-03 TIL.md",
+    "Todo/TIL/2024-02/2024-02-02 TIL.md",
+    "🪐 우아한테크코스/level 0/지원서 작성.md",
+    "Todo/TIL/2024-05/2024-05-06 TIL.md",
+    "Todo/TIL/2024-05/2024-05-07 TIL.md",
+    "Todo/TIL/2024-05/2024-05-08 TIL.md",
+    "Todo/TIL/2025-01-17 회고 ⁚.md",
     "1. Capture 임시메모(inbox)/세컨드브레인/기록법, 공부법 inbox.md",
-    "1. Capture 임시메모(inbox)/세컨드브레인/세컨드브레인.md",
+    "1. Capture 임시메모(inbox)/인프콘 2022.md",
+    "Todo/TIL/TIL.md",
+    "Todo/TIL/2024-01/2024-01-25 TIL.md",
+    "Todo/TIL/2024-01/2024-01-14 TIL.md",
+    "Todo/TIL/2024-01/2024-01-02 TIL.md",
+    "Todo/TIL/2024-01/2024-01-20 TIL.md",
+    "Todo/TIL/2024-01/2024-01-23 TIL.md",
+    "Todo/TIL/2024-01/2024-01-18 TIL.md",
+    "Todo/TIL/2024-01/2024-01-15 TIL.md",
+    "Todo/TIL/2024-01/2024-01-31 TIL.md",
+    "Todo/TIL/2024-02/2024-02-04 TIL.md",
+    "Todo/TIL/2024-02/2024-02-07 TIL.md",
     "1. Capture 임시메모(inbox)/세컨드브레인/세컨드브레인 부스트.md",
+    "1. Capture 임시메모(inbox)/세컨드브레인/세컨드브레인.md",
     "1. Capture 임시메모(inbox)/세컨드브레인/요즘 우아한 개발.md",
-    "Todo/2025년도 계획.md",
-    "Todo/TIL/2023-12/2023-12-27 TIL.md",
+    "1. Capture 임시메모(inbox)/책/책.md",
+    "1. Capture 임시메모(inbox)/책/글쓰기.md",
+    "2. Organize 영구노트/🟡 Area 장기적인 책임/글쓰기",
     "4. Express 공유",
     "3. Distill 지식&아이디어 추출",
-    "Todo/TIL/2023-12/2023-12-25 TIL.md",
-    "Todo/TIL/2023-12/2023-12-23 TIL.md",
-    "Todo/TIL/2023-12/2023-12-21-TIL.md",
     "무제 파일.canvas",
     "20241228.png",
     "2. Organize 영구노트",
-    "🪐 우아한테크코스/level 0/지원서 작성.md",
-    "🙌 Welcome!!.md",
-    "🪐 우아한테크코스/level 0/프리코스 회고.md",
-    "🪐 우아한테크코스/level 0/🎉 우아한테크코스 7기 백엔드 최종 합격 회고.md",
-    "🪐 우아한테크코스/level 0/최종 코딩테스트 회고.md",
-    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/JAVA/모던 자바/함수형 프로그래밍.md",
-    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Java API/java.lang/Stream.md",
     "2. Organize 영구노트/🟡 Area 장기적인 책임/객체지향",
     "2. Organize 영구노트/🟡 Area 장기적인 책임/Java 이론",
     "🟡 Area 장기적인 책임/무제 파일.canvas",
