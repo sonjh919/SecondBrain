@@ -44,3 +44,7 @@ https://youtu.be/QHlyr8soUDM?si=mZpqhZOnbFvOWhKP
 출처: [https://wbluke.tistory.com/52](https://wbluke.tistory.com/52) [함께 자라기:티스토리]
 
 암묵지 형식지
+
+쓰인 지식과 쓰이지 않은 지식을 분리하자.
+정리만 해놓은 지식 : 아직 인박스
+정리하고, 활용하여 내 것으로 만든 후 -> 내 경험을 녹여 재정리한 후 영구노트에 편입
