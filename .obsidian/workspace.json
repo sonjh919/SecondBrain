@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Algorithm & Data Structure/공간 복잡도.md",
+                "file": "1. Capture 임시메모(inbox)/책/책.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Algorithm & Data Structure/공간 복잡도.md",
+                "file": "1. Capture 임시메모(inbox)/책/책.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Algorithm & Data Structure/공간 복잡도.md"
+                "file": "1. Capture 임시메모(inbox)/책/책.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Algorithm & Data Structure/공간 복잡도.md",
+                "file": "1. Capture 임시메모(inbox)/책/책.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,6 +202,9 @@
   },
   "active": "68bc371e33310fdf",
   "lastOpenFiles": [
+    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Algorithm & Data Structure/공간 복잡도.md",
+    "1. Capture 임시메모(inbox)/알고리즘/자바 알고리즘.md",
+    "1. Capture 임시메모(inbox)/알고리즘",
     "3. Distill 지식&아이디어 추출/내가 학습법을 정리하는 이유.md",
     "TIL/2025년도 계획.md",
     "TIL/2025-01-17 회고 ⁚.md",
@@ -230,8 +233,6 @@
     "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/프로그래머스/문법/List 활용 메서드.md",
     "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/프로그래머스/문법/Math 활용 메서드.md",
     "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/프로그래머스/문법/형변환 꿀팁.md",
-    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/프로그래머스/문법/배열을 List로 변환하기.md",
-    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/프로그래머스/문법/String 활용 메서드.md",
     "1. Capture 체득되지 않은 지식/알고리즘",
     "1. Capture 체득되지 않은 지식",
     "무제 파일.canvas",
@@ -240,7 +241,6 @@
     "3. Distill 지식&아이디어 추출",
     "20241228.png",
     "2. Organize 영구노트",
-    "2. Organize 영구노트/🟡 Area 장기적인 책임/객체지향",
     "🟡 Area 장기적인 책임/무제 파일.canvas",
     "1. Capture 체득되지 않은 지식/학습법/gtd.png",
     "1. Capture 체득되지 않은 지식/학습법/eisenhower-matrix.png",
