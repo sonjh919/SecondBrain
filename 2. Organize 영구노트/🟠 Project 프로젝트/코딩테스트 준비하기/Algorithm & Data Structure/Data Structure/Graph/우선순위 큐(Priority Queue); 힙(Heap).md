@@ -2,7 +2,7 @@
 
 
 ## 우선순위 큐(Priority Queue)
-**큐([[🟠 Project/Java API/java.util/Collection/Queue]])** 는 먼저 들어오는 데이터가 먼저 나가는 **FIFO(First In First Out)** 형식의 자료구조이다.
+**큐([[2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Queue|Queue]]) 는 먼저 들어오는 데이터가 먼저 나가는 **FIFO(First In First Out)** 형식의 자료구조이다.
 
 **우선순위 큐(Priority Queue)** 는 먼저 들어오는 데이터가 아니라, **우선순위가 높은 데이터**가 먼저 나가는 형태의 자료구조이다.
 
