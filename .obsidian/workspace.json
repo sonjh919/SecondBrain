@@ -11,13 +11,8 @@
             "id": "68bc371e33310fdf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Capture 임시메모(inbox)/세컨드브레인/기록법, 공부법 inbox.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "collection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Capture 임시메모(inbox)/세컨드브레인/기록법, 공부법 inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. Capture 임시메모(inbox)/세컨드브레인/기록법, 공부법 inbox.md"
-              }
+              "state": {}
             }
           },
           {
@@ -141,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Capture 임시메모(inbox)/세컨드브레인/기록법, 공부법 inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,56 +191,56 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "68bc371e33310fdf",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
-    "1. Capture 임시메모(inbox)/세컨드브레인/세컨드브레인.md",
-    "1. Capture 체득되지 않은 지식/알고리즘/시간 복잡도.md",
-    "1. Capture 체득되지 않은 지식/알고리즘/O(logN).md",
-    "1. Capture 임시메모(inbox)/책/책.md",
+    "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/프로그래머스/문법/StringBuilder 활용 메서드.md",
+    "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/프로그래머스/문법/배열을 List로 변환하기.md",
+    "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/프로그래머스/문법/형변환 꿀팁.md",
+    "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/프로그래머스/문법/String 활용 메서드.md",
+    "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/프로그래머스/문법/Math 활용 메서드.md",
+    "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/프로그래머스/문법/Character 활용 메서드.md",
+    "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/프로그래머스/문법/Collections 활용 메서드.md",
+    "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/프로그래머스/문법/List 활용 메서드.md",
     "1. Capture 임시메모(inbox)/알고리즘/무제 파일.md",
-    "1. Capture 임시메모(inbox)/알고리즘",
-    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Algorithm & Data Structure/공간 복잡도.md",
-    "1. Capture 임시메모(inbox)/알고리즘/자바 알고리즘.md",
-    "1. Capture 임시메모(inbox)/알고리즘",
-    "3. Distill 지식&아이디어 추출/내가 학습법을 정리하는 이유.md",
-    "TIL/2025년도 계획.md",
-    "TIL/2025-01-17 회고 ⁚.md",
-    "TIL",
-    "Todo/TIL/2025년도 계획.md",
-    "TIL - 바로 가기.lnk",
-    "Todo/TIL/TIL.md",
-    "1. Capture 체득되지 않은 지식/학습법/PARAz.md",
-    "1. Capture 체득되지 않은 지식/학습법/Para.md",
+    "2. Organize 영구노트/🟡 Area 장기적인 책임/개발 관련 서적 읽기/책 목록/개발.md",
+    "2. Organize 영구노트/🟡 Area 장기적인 책임/개발 관련 서적 읽기/책 목록/글쓰기.md",
+    "1. Capture 임시메모(inbox)/세컨드브레인/세컨드브레인.md",
     "1. Capture 임시메모(inbox)/세컨드브레인/세컨드브레인 부스트.md",
     "1. Capture 임시메모(inbox)/세컨드브레인/기록법, 공부법 inbox.md",
-    "1. Capture 체득되지 않은 지식/학습법/code.png",
-    "1. Capture 체득되지 않은 지식/학습법/아이젠하워 매트릭스.md",
-    "1. Capture 체득되지 않은 지식/학습법/메모 승격 시스템.md",
-    "1. Capture 체득되지 않은 지식/학습법/GTD.md",
     "1. Capture 체득되지 않은 지식/학습법/CODE.md",
-    "1. Capture 체득되지 않은 지식/학습법",
-    "1. Capture 임시메모(inbox)/책/글쓰기.md",
-    "Todo/TIL/2025-01-17 회고 ⁚.md",
-    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/프로그래머스/문법/Collections 활용 메서드.md",
-    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/프로그래머스/문법/Character 활용 메서드.md",
-    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/프로그래머스/문법/List 활용 메서드.md",
-    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/프로그래머스/문법/Math 활용 메서드.md",
-    "1. Capture 체득되지 않은 지식/알고리즘",
-    "1. Capture 체득되지 않은 지식",
+    "1. Capture 체득되지 않은 지식/학습법/PARA.md",
+    "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/시간 복잡도.md",
+    "TIL/2025-01-17 회고 ⁚.md",
+    "TIL/2025년도 계획.md",
+    "Excalidraw/Drawing 2025-01-10 17.37.49.excalidraw.md",
+    "1. Capture 체득되지 않은 지식/학습법/gtd.png",
+    "1. Capture 체득되지 않은 지식/학습법/GTD.md",
+    "1. Capture 체득되지 않은 지식/학습법/메모 승격 시스템.md",
+    "1. Capture 체득되지 않은 지식/학습법/eisenhower-matrix.png",
+    "1. Capture 체득되지 않은 지식/학습법/아이젠하워 매트릭스.md",
+    "1. Capture 체득되지 않은 지식/학습법/Para.md",
+    "2. Organize 영구노트/🟣 Archive 보관소/Openrun/Setting/스프링 프로젝트 Docker Build 하기.md",
+    "3. Distill 지식&아이디어 추출/내가 학습법을 정리하는 이유.md",
+    "2. Organize 영구노트/🟡 Area 장기적인 책임/cs 공부하기",
+    "2. Organize 영구노트/🟡 Area 장기적인 책임/개발 관련 서적 읽기",
+    "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기",
+    "🟠 Project/Java API/java.util/Collection",
+    "🟠 Project/Java API/java.util",
+    "🟠 Project/Java API",
+    "🟠 Project",
+    "1. Capture 임시메모(inbox)/알고리즘",
+    "1. Capture 임시메모(inbox)/알고리즘",
+    "TIL",
+    "1. Capture 체득되지 않은 지식/학습법/code.png",
     "무제 파일.canvas",
-    "2. Organize 영구노트/🟡 Area 장기적인 책임/글쓰기",
-    "4. Express 공유",
-    "3. Distill 지식&아이디어 추출",
     "20241228.png",
     "🟡 Area 장기적인 책임/무제 파일.canvas",
-    "1. Capture 체득되지 않은 지식/학습법/gtd.png",
-    "1. Capture 체득되지 않은 지식/학습법/eisenhower-matrix.png",
-    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Redis/분산락.png",
-    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Monitoring/prometheus.png",
-    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/Monitoring/grafana.png",
-    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/ELK/NHN/Pasted image 20240402190349.png",
-    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/ELK/NHN/Pasted image 20240402190152.png",
-    "2. Organize 영구노트/🟣 Archive 보관소/2025.1.14/ELK/NHN/Pasted image 20240402190140.png",
+    "2. Organize 영구노트/🟣 Archive 보관소/Redis/분산락.png",
+    "2. Organize 영구노트/🟢 Resource 관심분야/Monitoring/prometheus.png",
+    "2. Organize 영구노트/🟢 Resource 관심분야/Monitoring/grafana.png",
+    "2. Organize 영구노트/🟣 Archive 보관소/ELK/NHN/Pasted image 20240402190349.png",
+    "2. Organize 영구노트/🟣 Archive 보관소/ELK/NHN/Pasted image 20240402190152.png",
+    "2. Organize 영구노트/🟣 Archive 보관소/ELK/NHN/Pasted image 20240402190140.png",
     "Project/무제 파일.canvas"
   ]
 }

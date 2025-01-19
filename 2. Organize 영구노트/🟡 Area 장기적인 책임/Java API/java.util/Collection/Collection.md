@@ -1,17 +1,3 @@
----
-title: Collection
-date: 2023-12-30 11:22
-categories:
-  - JavaAPI
-  - java.util
-tags:
-  - JavaAPI
-  - Java
-  - javautil
-  - Collection
-image: 
-path:
----
 #Java #JavaAPI #javautil #Collection
 
 ## Java.util.Collection
@@ -23,7 +9,7 @@ path:
 ## Collection의 구조
 + Collection 위에는 Iterable(순회가능)이라는 속성을 상속받고 있다.
 
-+ [[🟠 Project/Java API/java.util/Collection/List]]
-+ [[🟠 Project/Java API/java.util/Collection/Queue|Queue]]
++ [[2. Organize 영구노트/🟡 Area 장기적인 책임/Java API/java.util/Collection/List|List]]
++ [[2. Organize 영구노트/🟡 Area 장기적인 책임/Java API/java.util/Collection/Queue|Queue]]
 + [[Set]]
 ![[collection.png]]
