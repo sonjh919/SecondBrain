@@ -23,3 +23,12 @@ int max = list.stream()
 	.max(Integer::compareTo)
 	.get();
 ```
+
+## 정렬
+### Map Value 정렬
+```java
+int[] answer = fail.entrySet().stream()
+                .sorted(((o1, o2) -> Double.compare(o2.getValue(), o1.getValue())))
+                .mapToInt(Map.Entry::getKey)
+                .toArray();
+```
