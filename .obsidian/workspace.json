@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Graph/우선순위 큐(Priority Queue); 힙(Heap).md",
+                "file": "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/시간 복잡도.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Graph/우선순위 큐(Priority Queue); 힙(Heap).md",
+                "file": "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/시간 복잡도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Graph/우선순위 큐(Priority Queue); 힙(Heap).md"
+                "file": "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/시간 복잡도.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Graph/우선순위 큐(Priority Queue); 힙(Heap).md",
+                "file": "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/시간 복잡도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,16 +202,19 @@
   },
   "active": "68bc371e33310fdf",
   "lastOpenFiles": [
-    "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Queue.md",
+    "2. Organize 영구노트/🟠 Project 프로젝트/나만의 학습 시스템 만들기/1. 학습 시스템 만들기 프로젝트.md",
+    "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/시간 복잡도.md",
+    "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/코테 Tip 모음.md",
+    "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/자료구조 시간복잡도.md",
+    "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/공간 복잡도.md",
     "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Graph/우선순위 큐(Priority Queue); 힙(Heap).md",
+    "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Queue.md",
     "🟠 Project/Java API/java.util/Collection/Queue.md",
     "🟠 Project/Java API/java.util/Collection",
     "🟠 Project/Java API/java.util",
     "🟠 Project/Java API",
     "🟠 Project",
     "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Graph/그래프(Graph).md",
-    "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/시간 복잡도.md",
-    "2. Organize 영구노트/🟠 Project 프로젝트/나만의 학습 시스템 만들기/1. 학습 시스템 만들기 프로젝트.md",
     "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/프로그래머스/문법/StringBuilder 활용 메서드.md",
     "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/프로그래머스/문법/배열을 List로 변환하기.md",
     "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/프로그래머스/문법/형변환 꿀팁.md",
@@ -229,10 +232,7 @@
     "1. Capture 체득되지 않은 지식/학습법/CODE.md",
     "1. Capture 체득되지 않은 지식/학습법/PARA.md",
     "TIL/2025-01-17 회고 ⁚.md",
-    "TIL/2025년도 계획.md",
-    "Excalidraw/Drawing 2025-01-10 17.37.49.excalidraw.md",
     "1. Capture 체득되지 않은 지식/학습법/gtd.png",
-    "1. Capture 체득되지 않은 지식/학습법/GTD.md",
     "1. Capture 체득되지 않은 지식/학습법/eisenhower-matrix.png",
     "2. Organize 영구노트/🟡 Area 장기적인 책임/cs 공부하기",
     "2. Organize 영구노트/🟡 Area 장기적인 책임/개발 관련 서적 읽기",
