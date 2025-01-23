@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Capture 임시메모(inbox)/우테코 시작 전.md",
+                "file": "2. Organize 영구노트/🟠 Project 프로젝트/오브젝트/01 객체, 설계.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Capture 임시메모(inbox)/우테코 시작 전.md",
+                "file": "2. Organize 영구노트/🟠 Project 프로젝트/오브젝트/01 객체, 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Capture 임시메모(inbox)/우테코 시작 전.md"
+                "file": "2. Organize 영구노트/🟠 Project 프로젝트/오브젝트/01 객체, 설계.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Capture 임시메모(inbox)/우테코 시작 전.md",
+                "file": "2. Organize 영구노트/🟠 Project 프로젝트/오브젝트/01 객체, 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,6 +229,8 @@
   },
   "active": "586abeb79e5d51f2",
   "lastOpenFiles": [
+    "2. Organize 영구노트/🟠 Project 프로젝트/오브젝트/오브젝트 총정리/오브젝트 리마인드.md",
+    "1. Capture 임시메모(inbox)/우테코 시작 전.md",
     "1. Capture 임시메모(inbox)/inbox.md",
     "1. Capture 임시메모(inbox)/코테/프로그래머스/81303.md",
     "1. Capture 임시메모(inbox)/코테/코테 다시 풀어볼 문제.md",
@@ -237,7 +239,6 @@
     "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/코테 Tip 모음.md",
     "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Hash Table(Hash Map).md",
     "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Hash Set.md",
-    "1. Capture 임시메모(inbox)/우테코 시작 전.md",
     "2. Organize 영구노트/🟡 Area 장기적인 책임/Java API/java.util/Iterator",
     "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Tree set.md",
     "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/MOC.md",
@@ -256,7 +257,6 @@
     "2. Organize 영구노트/🟡 Area 장기적인 책임/Java API/java.io/java.io.md",
     "2. Organize 영구노트/🟡 Area 장기적인 책임/Java API/java.sql/JdbcTemplate.md",
     "2. Organize 영구노트/🟡 Area 장기적인 책임/Java API/java.sql/java.sql.md",
-    "2. Organize 영구노트/🟡 Area 장기적인 책임/Java API/java.time/java.time.md",
     "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/addressing.png",
     "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/chaining.png",
     "1. Capture 임시메모(inbox)/코테",
