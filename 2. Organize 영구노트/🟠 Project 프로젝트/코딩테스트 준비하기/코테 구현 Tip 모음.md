@@ -29,11 +29,34 @@ int max = list.stream()
 	.get();
 ```
 
-## 정렬
 ### Map Value 정렬
 ```java
 int[] answer = fail.entrySet().stream()
                 .sorted(((o1, o2) -> Double.compare(o2.getValue(), o1.getValue())))
                 .mapToInt(Map.Entry::getKey)
                 .toArray();
+```
+
+### Map 채우기
+```java
+for(String s : completion){
+	map.put(s, map.getOrDefault(string, 0)+1);
+}
+
+Map<String, Long> participantMap = Arrays.asList(participant).stream()  
+        .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
+
+```
+
+### Map value 수정
+```java
+// hashmap.compute(K key, BiFunction remappingFunction)
+
+HashMap<String, Integer> prices = new HashMap<>();
+prices.put("Shoes", 200);
+
+// 10% 할인된 가격으로 업데이트
+prices.compute("Shoes", (key, value) -> value - value * 10/100);
+// 결과: Shoes의 값이 180으로 변경됨
+
 ```
