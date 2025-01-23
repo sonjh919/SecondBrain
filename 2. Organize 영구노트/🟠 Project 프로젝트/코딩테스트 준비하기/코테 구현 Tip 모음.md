@@ -11,6 +11,11 @@ private static int[] solution(int[] arr) {
 }
 ```
 
+### 배열 -> queue
+```java
+ArrayDeque<String> card1 = new ArrayDeque<>(Arrays.asList(cards1));
+```
+
 ### 배열 내 최대값
 ```java
 // 배열
