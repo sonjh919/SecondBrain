@@ -12,4 +12,8 @@
 + [[2. Organize 영구노트/🟡 Area 장기적인 책임/Java API/java.util/Collection/List|List]]
 + [[2. Organize 영구노트/🟡 Area 장기적인 책임/Java API/java.util/Collection/Queue|Queue]]
 + [[Set]]
+
+> [!tip]+ 
+> [[Map]]은 Collection에 들어가지 않는다.
+
 ![[collection.png]]
