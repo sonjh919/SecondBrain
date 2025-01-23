@@ -31,6 +31,8 @@ int max = list.stream()
 
 ### Map Value 정렬
 ```java
+Map<Integer, Double> fail = new HashMap<>();
+
 int[] answer = fail.entrySet().stream()
                 .sorted(((o1, o2) -> Double.compare(o2.getValue(), o1.getValue())))
                 .mapToInt(Map.Entry::getKey)

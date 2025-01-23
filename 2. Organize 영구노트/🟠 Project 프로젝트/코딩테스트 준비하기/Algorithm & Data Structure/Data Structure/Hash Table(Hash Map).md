@@ -37,4 +37,19 @@ HashMap<String, Integer> hashMap = new HashMap<>();
 hashMap.put("a",1);  
 hashMap.get("a");
 hashMap.remove("a");
+
+
+for (String s : hashMap.keySet()) {  
+    System.out.println("s = " + s);  
+}  
+  
+for (Entry<String, Integer> map : hashMap.entrySet()) {  
+    map.getKey();  
+    map.getValue();
+    map.setValue(1);
+}
+
+for (Integer value : map.values()) {  
+    System.out.println(value);  
+}
 ```
