@@ -21,3 +21,15 @@ Stack에서 정의되는 연산은 다음과 같다.
 > 3. isFull
 > 4. isEmpty
 > 5. top : 최근 push한 데이터 위치 기록
+
+### Java Stack
+```java
+import java.uitl.Stack;
+
+Stack<Integer> stack = new Stack<>();
+stack.push(1);
+stack.isEmpty();
+stack.pop();
+stack.peek();
+stack.size();
+```
