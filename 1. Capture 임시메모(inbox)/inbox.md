@@ -9,3 +9,6 @@ https://www.coupang.com/vp/products/7802086250?itemId=21132982331&vendorItemId=8
 
 무선마우스 사기
 
+함께 자라기 읽기
+
+stream, 람다에 대한 공부가 더 필요할듯..?
