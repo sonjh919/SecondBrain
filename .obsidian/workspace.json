@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/함께 자라기.md",
+                "file": "1. Capture 임시메모(inbox)/우테코 시작 전.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/함께 자라기.md",
+                "file": "1. Capture 임시메모(inbox)/우테코 시작 전.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/함께 자라기.md"
+                "file": "1. Capture 임시메모(inbox)/우테코 시작 전.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/함께 자라기.md",
+                "file": "1. Capture 임시메모(inbox)/우테코 시작 전.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,10 +229,10 @@
   },
   "active": "586abeb79e5d51f2",
   "lastOpenFiles": [
+    "2. Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/함께 자라기.md",
     "1. Capture 임시메모(inbox)/우테코 시작 전.md",
     "1. Capture 임시메모(inbox)/코테/프로그래머스/81303.md",
     "1. Capture 임시메모(inbox)/코테/코테 다시 풀어볼 문제.md",
-    "2. Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/함께 자라기.md",
     "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Hash Table(Hash Map).md",
     "2. Organize 영구노트/🟠 Project 프로젝트/코딩테스트 준비하기/코테 구현 Tip 모음.md",
     "1. Capture 임시메모(inbox)/inbox.md",
