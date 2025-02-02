@@ -28,7 +28,7 @@ path:
 + [[Wrapper]]
 + [[Class]]
 + [[🟠 Project/Java API/java.lang/Math|Math]]
-+ [[Stream]]
++ [[2. Organize 영구노트/🟡 Area 장기적인 책임/Java API/java.lang/Stream]]
 + [[record]]
 
 ## 시스템 레벨의 클래스
