@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Organize 영구노트/🟣 Archive 보관소/Redis/데이터타입/Sorted Sets.md",
+                "file": "2. Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/개발.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Organize 영구노트/🟣 Archive 보관소/Redis/데이터타입/Sorted Sets.md",
+                "file": "2. Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/개발.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Organize 영구노트/🟣 Archive 보관소/Redis/데이터타입/Sorted Sets.md"
+                "file": "2. Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/개발.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Organize 영구노트/🟣 Archive 보관소/Redis/데이터타입/Sorted Sets.md",
+                "file": "2. Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/개발.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,6 +229,7 @@
   },
   "active": "586abeb79e5d51f2",
   "lastOpenFiles": [
+    "2. Organize 영구노트/🟣 Archive 보관소/Redis/데이터타입/Sorted Sets.md",
     "2. Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/개발.md",
     "2. Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/함께 자라기.md",
     "2. Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/자바 8.md",
@@ -255,7 +256,6 @@
     "2. Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 4 - 좀비 전투 시스템/Lesson 4 - 좀비 전투 시스템.md",
     "2. Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 4 - 좀비 전투 시스템/payable 제어자.md",
     "2. Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기/함수.md",
-    "2. Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기/변수와 정수.md",
     "2. Organize 영구노트/🟣 Archive 보관소/img/Java API/java.sql/jdbcTemplate.png",
     "2. Organize 영구노트/🟣 Archive 보관소/img/Java API/java.sql/jdbc3.png",
     "2. Organize 영구노트/🟣 Archive 보관소/img/Java API/java.sql/jdbc2.png",
