@@ -37,14 +37,12 @@
             "id": "586abeb79e5d51f2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "무제 파일.canvas",
-                "viewState": {
-                  "x": -142.5,
-                  "y": -390,
-                  "zoom": 0
-                }
+                "file": "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/함께 자라기.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -116,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/함께 자라기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.canvas"
+                "file": "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/함께 자라기.md"
               }
             }
           },
@@ -170,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/함께 자라기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,13 +229,16 @@
   },
   "active": "586abeb79e5d51f2",
   "lastOpenFiles": [
-    "🟥 Capture 임시메모(inbox)/우테코 시작 전.md",
+    "🙌 Welcome!!.md",
+    "무제 파일.canvas",
+    "20241228.png",
     "🟥 Capture 임시메모(inbox)/inbox.md",
+    "🟥 Capture 임시메모(inbox)/우테코 시작 전.md",
+    "🟥 Capture 임시메모(inbox)/코테/프로그래머스/81303.md",
+    "🟥 Capture 임시메모(inbox)/코테/코테 다시 풀어볼 문제.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/함수형 프로그래밍.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/자바 8.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/stream.md",
-    "🟥 Capture 임시메모(inbox)/코테/프로그래머스/81303.md",
-    "🟥 Capture 임시메모(inbox)/코테/코테 다시 풀어볼 문제.md",
     "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/개발.md",
     "🟧 Organize 영구노트/🟣 Archive 보관소/Redis/데이터타입/Sorted Sets.md",
     "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/함께 자라기.md",
@@ -256,8 +257,6 @@
     "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품/SafeMath.md",
     "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품/Lesson 5 - ERC721 & 크립토 수집품.md",
     "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품/ERC-721.md",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/ELK/03 인덱스 설계/2. 매핑과 필드 타입/기타 설정/_source.md",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/ELK/03 인덱스 설계/2. 매핑과 필드 타입/기타 설정/index.md",
     "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.sql/jdbcTemplate.png",
     "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.sql/jdbc3.png",
     "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.sql/jdbc2.png",
@@ -267,7 +266,6 @@
     "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.lang/throwable.png",
     "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.lang/javalang.png",
     "🟧 Organize 영구노트/🟣 Archive 보관소/img/Docker/Error/Error response from daemon When using COPY with more than one source file.png",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/img/Docker/Error/Error response from daemon COPY failed no source files were specified.png",
     "🟧 Organize 영구노트/🟣 Archive 보관소/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입",
     "🟧 Organize 영구노트/🟣 Archive 보관소/ELK/03 인덱스 설계/2. 매핑과 필드 타입/캐시",
     "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품",
@@ -277,7 +275,6 @@
     "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념",
     "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 2 - 좀비가 희생물을 공격하다",
     "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기",
-    "무제 파일.canvas",
     "🟡 Area 장기적인 책임/무제 파일.canvas",
     "Project/무제 파일.canvas"
   ]
