@@ -37,12 +37,14 @@
             "id": "586abeb79e5d51f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/우테코 시작 전.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "무제 파일.canvas",
+                "viewState": {
+                  "x": -142.5,
+                  "y": -390,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -114,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/우테코 시작 전.md",
+                "file": "무제 파일.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/우테코 시작 전.md"
+                "file": "무제 파일.canvas"
               }
             }
           },
@@ -168,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/우테코 시작 전.md",
+                "file": "무제 파일.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,11 +231,11 @@
   },
   "active": "586abeb79e5d51f2",
   "lastOpenFiles": [
+    "🟥 Capture 임시메모(inbox)/우테코 시작 전.md",
     "🟥 Capture 임시메모(inbox)/inbox.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/함수형 프로그래밍.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/자바 8.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/stream.md",
-    "🟥 Capture 임시메모(inbox)/우테코 시작 전.md",
     "🟥 Capture 임시메모(inbox)/코테/프로그래머스/81303.md",
     "🟥 Capture 임시메모(inbox)/코테/코테 다시 풀어볼 문제.md",
     "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/개발.md",
