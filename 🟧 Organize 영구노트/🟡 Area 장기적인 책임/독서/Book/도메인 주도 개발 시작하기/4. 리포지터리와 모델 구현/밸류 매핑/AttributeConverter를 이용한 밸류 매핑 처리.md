@@ -1,4 +1,4 @@
-#Architecture #DDD #개발서적 #jpa 
+#Architecture #DDD #Book #jpa 
 ## AttributeConverter를 이용한 밸류 매핑 처리
 구현방식에 따라 밸류 타입의 프로퍼티를 한 개 칼럼에 매핑해야 할 때도 있다.
 

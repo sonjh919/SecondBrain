@@ -1,4 +1,4 @@
-#Architecture #DDD #개발서적 
+#Architecture #DDD #Book
 
 ### LockManager 인터페이스
 ```java

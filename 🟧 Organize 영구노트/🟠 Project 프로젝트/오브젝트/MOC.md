@@ -1,17 +1,4 @@
----
-title: MOC
-date: 2024-01-09 23:10
-categories:
-  - OOP
-  - 오브젝트
-tags:
-  - OOP
-  - 개발서적
-  - 객체지향
-image: 
-path:
----
-#OOP #개발서적 
+#OOP #Book
 
 오브젝트 총정리
 [[오브젝트 리마인드]]

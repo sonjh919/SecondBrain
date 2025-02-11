@@ -1,4 +1,4 @@
-#Architecture #DDD #개발서적 
+#Architecture #DDD #Book
 
 ## 이벤트 제공 API
 - API 방식과 [[이벤트 저장소와 이벤트 포워더|포워더]] 방식의 차이는 이벤트를 전달하는 방식에 그 차이가 있다.

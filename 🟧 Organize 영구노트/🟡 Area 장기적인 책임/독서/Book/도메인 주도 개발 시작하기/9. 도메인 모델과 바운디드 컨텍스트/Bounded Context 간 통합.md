@@ -1,4 +1,4 @@
-#Architecture #DDD #개발서적 
+#Architecture #DDD #Book
 
 ## Bounded Context 간 통합
 > [!example]+ 

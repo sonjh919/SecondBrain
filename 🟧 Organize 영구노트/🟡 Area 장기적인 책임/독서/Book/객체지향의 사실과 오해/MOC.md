@@ -1,17 +1,4 @@
----
-title: MOC
-date: 2024-01-01 20:04
-categories:
-  - OOP
-  - 객체지향의 사실과 오해
-tags:
-  - OOP
-  - 객체지향
-  - 개발서적
-image: 
-path:
----
-#OOP #개발서적 
+#OOP #Book
 
 [[01 협력하는 객체들의 공동체]]
 [[02 이상한 나라의 객체]]

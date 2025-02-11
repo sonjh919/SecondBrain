@@ -1,4 +1,4 @@
-#Architecture #DDD #개발서적 #jpa 
+#Architecture #DDD #Book #jpa 
 
 
 ## 도메인 구현과 DIP

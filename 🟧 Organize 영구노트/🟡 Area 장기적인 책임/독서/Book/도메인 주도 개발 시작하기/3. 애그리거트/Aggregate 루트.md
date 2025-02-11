@@ -1,4 +1,4 @@
-#Architecture #DDD #개발서적 
+#Architecture #DDD #Book
 
 ## Aggregate 루트
 애그리거트는 여러 객체로 구성되기 때문에 한 객체만 상태가 정상이어서는 안된다. 도메인 규칙을 지키려면 애그리거트에 속한 모든 객체가 정상 상태를 가져야 한다.

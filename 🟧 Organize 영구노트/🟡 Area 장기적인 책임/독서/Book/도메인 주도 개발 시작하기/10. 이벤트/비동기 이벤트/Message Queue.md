@@ -1,4 +1,4 @@
-#Architecture #DDD #개발서적 
+#Architecture #DDD #Book
 
 ## Message Queue
 비동기 이벤트 처리의 또 다른 방법은 카프카(Kafka)나 래빗MQ(RabbitMQ)와 같은 메시징 시스템을 사용하는 것이다.

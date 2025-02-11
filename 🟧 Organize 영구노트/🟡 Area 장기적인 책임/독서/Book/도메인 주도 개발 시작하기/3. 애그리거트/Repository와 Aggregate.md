@@ -1,4 +1,4 @@
-#Architecture #DDD #개발서적 
+#Architecture #DDD #Book
 
 ## Repository와 Aggregate
 애그리거트는 개념적으로 하나이므로 **리포지터리는 애그리거트 전체를 저장소에 영속화**해야 한다. 

@@ -1,5 +1,4 @@
-#Architecture #DDD #개발서적 
-
+#Architecture #DDD #Book
 ## 엔티티와 밸류
 도출할 모델은 크게 엔티티(Entity)와 벨류(Value)로 구분할 수 있다.
 엔티티와 벨류를 제대로 구분해야 도메인을 올바르게 설계하고 구현할 수 있다.

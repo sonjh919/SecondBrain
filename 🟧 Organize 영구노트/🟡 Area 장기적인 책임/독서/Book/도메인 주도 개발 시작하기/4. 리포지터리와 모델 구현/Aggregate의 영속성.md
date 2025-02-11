@@ -1,4 +1,4 @@
-#Architecture #DDD #개발서적 #jpa 
+#Architecture #DDD #Book #jpa 
 
 
 ## Aggregate 로딩 전략

@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/함께 자라기.md",
+                "file": "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/테스트 주도 개발 시작하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,7 +66,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/함께 자라기.md",
+                "file": "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/테스트 주도 개발 시작하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/함께 자라기.md"
+                "file": "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/테스트 주도 개발 시작하기.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/함께 자라기.md",
+                "file": "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/테스트 주도 개발 시작하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,34 +229,38 @@
   },
   "active": "586abeb79e5d51f2",
   "lastOpenFiles": [
-    "🙌 Welcome!!.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/오브젝트 총정리/오브젝트 리마인드.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/테스트 주도 개발 시작하기.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/08 의존성 관리하기.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/15 디자인 패턴과 프레임워크.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/13 서브클래싱과 서브타이핑.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/12 다형성.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/11 합성과 유연한 설계.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/10 상속과 코드 재사용.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/07 객체 분해.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/06 메시지와 인터페이스.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/05 책임 할당하기.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/04 설계 품질과 트레이드오프.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/03 역할, 책임, 협력.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/MOC.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/02 객체지향 프로그래밍.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/01 객체, 설계.md",
+    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/글쓰기.md",
+    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/개발.md",
+    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/객체지향의 사실과 오해/07 함께 모으기.md",
+    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/객체지향의 사실과 오해/06 객체 지도.md",
+    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/객체지향의 사실과 오해/05 책임과 메시지.md",
+    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/객체지향의 사실과 오해/MOC.md",
+    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
+    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
+    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/함께 자라기",
+    "1. Capture 임시메모(inbox)",
     "무제 파일.canvas",
     "20241228.png",
-    "🟥 Capture 임시메모(inbox)/inbox.md",
-    "🟥 Capture 임시메모(inbox)/우테코 시작 전.md",
-    "🟥 Capture 임시메모(inbox)/코테/프로그래머스/81303.md",
-    "🟥 Capture 임시메모(inbox)/코테/코테 다시 풀어볼 문제.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/함수형 프로그래밍.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/자바 8.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/stream.md",
-    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/개발.md",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/Redis/데이터타입/Sorted Sets.md",
-    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/함께 자라기.md",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/필드 타입.md",
     "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.util/Collection/collection.png",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/그 외 특수한 타입.md",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/심플 타입.md",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/계층 구조를 지원하는 타입.md",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/text와 keyword.md",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입/term.md",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품/주석.md",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/ELK/03 인덱스 설계/2. 매핑과 필드 타입/캐시/fielddata.md",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/ELK/03 인덱스 설계/2. 매핑과 필드 타입/캐시/doc_values.md",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품/전송 로직.md",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품/라이브러리.md",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품/SafeMath.md",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품/Lesson 5 - ERC721 & 크립토 수집품.md",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품/ERC-721.md",
     "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.sql/jdbcTemplate.png",
     "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.sql/jdbc3.png",
     "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.sql/jdbc2.png",
@@ -272,9 +276,6 @@
     "🟧 Organize 영구노트/🟣 Archive 보관소/ELK/03 인덱스 설계/2. 매핑과 필드 타입/기타 설정",
     "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 4 - 좀비 전투 시스템",
     "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 2 - 좀비가 희생물을 공격하다",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기",
     "🟡 Area 장기적인 책임/무제 파일.canvas",
     "Project/무제 파일.canvas"
   ]

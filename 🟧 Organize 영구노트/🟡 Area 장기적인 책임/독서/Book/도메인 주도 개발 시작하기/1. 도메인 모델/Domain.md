@@ -1,4 +1,4 @@
-#Architecture #DDD #개발서적 
+#Architecture #DDD #Book
 
 ## Domain
 + 역할과 책임이 있는 사건의 주체 영역 (Action, Data, Event)
