@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68bc371e33310fdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🟥 Capture 임시메모(inbox)/우테코 시작 전.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fc5cd2d647993749",
             "type": "leaf",
             "state": {
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,6 +216,7 @@
   },
   "active": "586abeb79e5d51f2",
   "lastOpenFiles": [
+    "🟥 Capture 임시메모(inbox)/0212.md",
     "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/글쓰기.md",
     "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/개발.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/02 TDD 시작.md",
@@ -255,7 +243,6 @@
     "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/객체지향의 사실과 오해/MOC.md",
     "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
     "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
-    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
     "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/함께 자라기",
     "1. Capture 임시메모(inbox)",
     "무제 파일.canvas",
