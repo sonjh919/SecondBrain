@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟨 Express 공유/🪐 우아한테크코스/level 1/1주차 회고.md",
+                "file": "🟨 Express 공유/🪐 우아한테크코스/level 1/레벨 1 - 우아한 테크코스 1주차 회고.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟨 Express 공유/🪐 우아한테크코스/level 1/1주차 회고.md",
+                "file": "🟨 Express 공유/🪐 우아한테크코스/level 1/레벨 1 - 우아한 테크코스 1주차 회고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟨 Express 공유/🪐 우아한테크코스/level 1/1주차 회고.md"
+                "file": "🟨 Express 공유/🪐 우아한테크코스/level 1/레벨 1 - 우아한 테크코스 1주차 회고.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟨 Express 공유/🪐 우아한테크코스/level 1/1주차 회고.md",
+                "file": "🟨 Express 공유/🪐 우아한테크코스/level 1/레벨 1 - 우아한 테크코스 1주차 회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,9 +216,13 @@
   },
   "active": "586abeb79e5d51f2",
   "lastOpenFiles": [
-    "🟨 Express 공유/🪐 우아한테크코스/level 0/프리코스 회고.md",
+    "🟧 Organize 영구노트/🟣 Archive 보관소/img/우아한테크코스/thor.jpg",
+    "🟨 Express 공유/🪐 우아한테크코스/level 1/레벨 1 - 우아한 테크코스 1주차 회고.md",
+    "🟨 Express 공유/🪐 우아한테크코스/level 0/지원서 작성.md",
+    "🟨 Express 공유/🪐 우아한테크코스/level 0/🎉 우아한테크코스 7기 백엔드 최종 합격 회고.md",
     "🟨 Express 공유/🪐 우아한테크코스/level 0/최종 코딩테스트 회고.md",
-    "🟨 Express 공유/🪐 우아한테크코스/level 1/1주차 회고.md",
+    "🟨 Express 공유/🪐 우아한테크코스/level 0/프리코스 회고.md",
+    "🟧 Organize 영구노트/🟣 Archive 보관소/img/우아한테크코스/mailerror.png",
     "무제 파일.canvas",
     "🟨 Express 공유/🪐 우아한테크코스/level 1",
     "🙌 Welcome!!.md",
@@ -242,9 +246,6 @@
     "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/15 디자인 패턴과 프레임워크.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/13 서브클래싱과 서브타이핑.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/12 다형성.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/11 합성과 유연한 설계.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/10 상속과 코드 재사용.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/07 객체 분해.md",
     "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/함께 자라기",
     "1. Capture 임시메모(inbox)",
     "20241228.png",
@@ -256,8 +257,6 @@
     "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.util/Collection",
     "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.lang/wrapper.png",
     "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.lang/throwable.png",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.lang/javalang.png",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/img/Docker/Error/Error response from daemon When using COPY with more than one source file.png",
     "🟧 Organize 영구노트/🟣 Archive 보관소/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입",
     "🟧 Organize 영구노트/🟣 Archive 보관소/ELK/03 인덱스 설계/2. 매핑과 필드 타입/캐시",
     "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품",
