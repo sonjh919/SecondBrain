@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/08 테스트 가능한 설계.md",
+                "file": "🟧 Organize 영구노트/🟡 Area 장기적인 책임/Truble Shooting/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/08 테스트 가능한 설계.md",
+                "file": "🟧 Organize 영구노트/🟡 Area 장기적인 책임/Truble Shooting/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/08 테스트 가능한 설계.md"
+                "file": "🟧 Organize 영구노트/🟡 Area 장기적인 책임/Truble Shooting/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/08 테스트 가능한 설계.md",
+                "file": "🟧 Organize 영구노트/🟡 Area 장기적인 책임/Truble Shooting/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,8 +216,8 @@
   },
   "active": "586abeb79e5d51f2",
   "lastOpenFiles": [
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/03 테스트 코드 작성 순서.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/08 테스트 가능한 설계.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/03 테스트 코드 작성 순서.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/02 TDD 시작.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/04 TDD 기능, 명세, 설계.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/06 테스트 코드의 구성.md",
