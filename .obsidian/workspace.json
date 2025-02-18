@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟧 Organize 영구노트/🟡 Area 장기적인 책임/Truble Shooting/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md",
+                "file": "🟨 Express 공유/🪐 우아한테크코스/level 1/1주차 회고.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291
+    "width": 284.5
   },
   "right": {
     "id": "0d2e3f6089f6430b",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟧 Organize 영구노트/🟡 Area 장기적인 책임/Truble Shooting/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md",
+                "file": "🟨 Express 공유/🪐 우아한테크코스/level 1/1주차 회고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟧 Organize 영구노트/🟡 Area 장기적인 책임/Truble Shooting/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md"
+                "file": "🟨 Express 공유/🪐 우아한테크코스/level 1/1주차 회고.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟧 Organize 영구노트/🟡 Area 장기적인 책임/Truble Shooting/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md",
+                "file": "🟨 Express 공유/🪐 우아한테크코스/level 1/1주차 회고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,13 +216,22 @@
   },
   "active": "586abeb79e5d51f2",
   "lastOpenFiles": [
+    "🟨 Express 공유/🪐 우아한테크코스/level 0/프리코스 회고.md",
+    "🟨 Express 공유/🪐 우아한테크코스/level 0/최종 코딩테스트 회고.md",
+    "🟨 Express 공유/🪐 우아한테크코스/level 1/1주차 회고.md",
+    "무제 파일.canvas",
+    "🟨 Express 공유/🪐 우아한테크코스/level 1",
+    "🙌 Welcome!!.md",
+    "PARA.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/10 테스트 코드와 유지보수.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/08 테스트 가능한 설계.md",
+    "🟥 Capture 임시메모(inbox)/0214.md",
+    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/Truble Shooting/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/03 테스트 코드 작성 순서.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/02 TDD 시작.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/04 TDD 기능, 명세, 설계.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/06 테스트 코드의 구성.md",
     "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/객체지향의 사실과 오해/07 함께 모으기.md",
-    "🟥 Capture 임시메모(inbox)/0214.md",
     "🟥 Capture 임시메모(inbox)/inbox.md",
     "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/개발.md",
     "🟥 Capture 임시메모(inbox)/0212.md",
@@ -236,15 +245,8 @@
     "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/11 합성과 유연한 설계.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/10 상속과 코드 재사용.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/07 객체 분해.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/06 메시지와 인터페이스.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/05 책임 할당하기.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/04 설계 품질과 트레이드오프.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/03 역할, 책임, 협력.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/MOC.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/02 객체지향 프로그래밍.md",
     "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/함께 자라기",
     "1. Capture 임시메모(inbox)",
-    "무제 파일.canvas",
     "20241228.png",
     "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.util/Collection/collection.png",
     "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.sql/jdbcTemplate.png",
@@ -261,7 +263,6 @@
     "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품",
     "🟧 Organize 영구노트/🟣 Archive 보관소/ELK/03 인덱스 설계/2. 매핑과 필드 타입/기타 설정",
     "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 4 - 좀비 전투 시스템",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기",
     "🟡 Area 장기적인 책임/무제 파일.canvas",
     "Project/무제 파일.canvas"
   ]
