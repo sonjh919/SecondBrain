@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b70b83d18d6f7559",
+        "id": "99f2112b8ae2c59f",
         "type": "tabs",
         "children": [
           {
-            "id": "d352c8f7ab812abe",
+            "id": "aefd53bcbb8c3da3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/inbox.md",
+                "file": "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/첫 번째 언어.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/inbox.md",
+                "file": "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/첫 번째 언어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/inbox.md"
+                "file": "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/첫 번째 언어.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/inbox.md",
+                "file": "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/첫 번째 언어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,8 +200,52 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d352c8f7ab812abe",
+  "floating": {
+    "id": "8d9d33526c2112e9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3aec347dfde7ac2e",
+        "type": "window",
+        "children": [
+          {
+            "id": "56f8661033c74a0c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d352c8f7ab812abe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/2. 잔을 비우다.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 321,
+        "y": 60,
+        "width": 1281,
+        "height": 1000,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "aefd53bcbb8c3da3",
   "lastOpenFiles": [
+    "🟥 Capture 임시메모(inbox)/장기/Drawing 2025-04-02 08.44.47.excalidraw.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/2. 잔을 비우다.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/첫 번째 언어.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다/책 사용법.md",
+    "🟥 Capture 임시메모(inbox)/inbox.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/함수형 인터페이스.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/자바 8.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/자바 8.canvas",
@@ -215,7 +259,6 @@
     "🟧 Organize 영구노트/🟠 Project 프로젝트/내부 메서드 뒤지기/무제 파일.canvas",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/내부 메서드 뒤지기",
     "🟧 Organize 영구노트/🟡 Area 장기적인 책임/JAVA/방어적 복사.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다/무제 파일.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/오브젝트 총정리/오브젝트.canvas",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/형변환 함수.md",
@@ -230,23 +273,18 @@
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/문자 함수.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/날짜 함수.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/OVER.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/NULL 처리 함수.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/정규화.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/3정규화후.png",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/3정규화전.png",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/2정규화전.png",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/2정규화후.png",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/1정규화후.png",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/1정규화전.png",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/문법/집합 연산자.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/문법/절차형 SQL.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/문법",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/TCL",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/SQL 실행 순서",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/Query",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/Join",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/Pasted image 20240327095613.png",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/Pasted image 20240327095530.png",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/Pasted image 20240327095507.png",

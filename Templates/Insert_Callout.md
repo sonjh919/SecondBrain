@@ -345,12 +345,13 @@ else {
 // Run Type: 2 - End #############################################
 
 // Array에서 String으로 바꿔줌.
+
 if(calloutType instanceof Array) {
   calloutType = calloutType[0];
 }
 
 if (calloutType != null) {
-  let content = '> [!' + calloutType + ']' + foldState + ' ' + title + '\n> ' + calloutContent.split("\n").map(line => line_prefix + line).join("\n") + tp.file.cursor();
+  let content = '> [!' + calloutType + ']' + foldState + ' ' + title + '\n> ' + calloutContent.split("\n").map(line => line_prefix + line).join("\n")
   return content;
 }
 
