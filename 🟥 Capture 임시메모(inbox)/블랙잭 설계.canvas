@@ -1,0 +1,1676 @@
+{
+  "edges": [
+    {
+      "fromNode": "c78c0885b59b0c77",
+      "fromSide": "right",
+      "id": "edb5528dab5e87a9",
+      "label": "블랙잭을 시작해라",
+      "styleAttributes": {
+      },
+      "toNode": "87c6a23d9bf4bfb4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0d7241e7f1f38456",
+      "fromSide": "right",
+      "id": "d8a5c9e99ed7774b",
+      "label": "카드를 받아라",
+      "styleAttributes": {
+      },
+      "toNode": "a463f4a3ef1ca234",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d384c3fdea21efd2",
+      "fromSide": "right",
+      "id": "73235eec14df1697",
+      "label": "카드를 받을지 정해라",
+      "styleAttributes": {
+      },
+      "toNode": "25e9a41c41cd0564",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0724af9caadcc56a",
+      "fromSide": "right",
+      "id": "59c6f557863839f3",
+      "label": "카드를 세팅해라",
+      "styleAttributes": {
+      },
+      "toNode": "49b81086f40fe514",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "36e5429a7d0ef94e",
+      "fromSide": "right",
+      "id": "99495571effa9250",
+      "label": "카드를 뽑아라",
+      "styleAttributes": {
+      },
+      "toNode": "a5f2111a7401c27b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e2f6ed8dee1fd587",
+      "fromSide": "right",
+      "id": "910de3759b1e5360",
+      "label": "내가 가지고 있는 카드의 합을 계산해라",
+      "styleAttributes": {
+      },
+      "toNode": "e08a74184c5b9674",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a1bc01082c0f89a9",
+      "fromSide": "right",
+      "id": "f27554b93a0c9ea2",
+      "label": "내가 가지고 있는 카드의 합을 계산해라",
+      "styleAttributes": {
+      },
+      "toNode": "ed66c2bde1d9fb91",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4304652c4a29b8fe",
+      "fromSide": "right",
+      "id": "a554440d99d4eb99",
+      "label": "승패를 판별해라",
+      "styleAttributes": {
+      },
+      "toNode": "bae977437020c734",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "738e9bc4af58cdd9",
+      "fromSide": "right",
+      "id": "b8d144ccc7249e56",
+      "label": "배팅해라",
+      "styleAttributes": {
+      },
+      "toNode": "f28eec6eb5d75638",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "338ecf5000f6295b",
+      "fromSide": "right",
+      "id": "bab59de064b3f7d1",
+      "label": "수익을 계산해라",
+      "styleAttributes": {
+      },
+      "toNode": "e2d10a15d2edf515",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "02066b03a549a335",
+      "fromSide": "right",
+      "id": "d4dbd1ca1563ee2d",
+      "label": "버스트인지 확인해라",
+      "styleAttributes": {
+      },
+      "toNode": "ed71501311191321",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "7a2d845fbf4e4c92",
+      "fromSide": "right",
+      "id": "9724aac8e5647148",
+      "label": "버스트인지 확인해라",
+      "styleAttributes": {
+      },
+      "toNode": "93b995ea581221d7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1a8ae6f6443c0f0e",
+      "fromSide": "right",
+      "id": "2e4729f85263d7ba",
+      "label": "블랙잭인지 확인해라",
+      "styleAttributes": {
+      },
+      "toNode": "efea0cca75722ee0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ae670a434a3dcc95",
+      "fromSide": "right",
+      "id": "07779c2f05ac987d",
+      "label": "블랙잭인지 확인해라",
+      "styleAttributes": {
+      },
+      "toNode": "c8ecc7e74d83eaa0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "83a670f30378eb66",
+      "fromSide": "right",
+      "id": "54374601db97795e",
+      "label": "블랙잭을 시작해라",
+      "styleAttributes": {
+      },
+      "toNode": "72faecef7cd5e2d2",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "72faecef7cd5e2d2",
+      "fromSide": "right",
+      "id": "ca592ef2664f92bd",
+      "label": "카드를 받아라",
+      "styleAttributes": {
+      },
+      "toNode": "ffb4c36462cf09cf",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "72faecef7cd5e2d2",
+      "fromSide": "top",
+      "id": "856106ee2fbd0c49",
+      "label": "카드를 받을지 정해라",
+      "styleAttributes": {
+      },
+      "toNode": "ffb4c36462cf09cf",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "72faecef7cd5e2d2",
+      "fromSide": "bottom",
+      "id": "c0dc523189bce7bf",
+      "label": "카드를 세팅해라",
+      "styleAttributes": {
+      },
+      "toNode": "77bef1d614d400f8",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "72faecef7cd5e2d2",
+      "fromSide": "bottom",
+      "id": "4f1d130f081a95bd",
+      "label": "카드를 뽑아라",
+      "styleAttributes": {
+      },
+      "toNode": "77bef1d614d400f8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ffb4c36462cf09cf",
+      "fromSide": "bottom",
+      "id": "32ac5b3e754960cc",
+      "label": "내가 가지고 있는 카드의 합을 계산해라",
+      "styleAttributes": {
+      },
+      "toNode": "d3659386f875a958",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "72faecef7cd5e2d2",
+      "fromSide": "bottom",
+      "id": "2e93029fb8444a57",
+      "label": "내가 가지고 있는 카드의 합을 계산해라",
+      "styleAttributes": {
+      },
+      "toNode": "d3659386f875a958",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "72faecef7cd5e2d2",
+      "fromSide": "bottom",
+      "id": "a8641efb72401ce6",
+      "label": "승패를 판별해라",
+      "styleAttributes": {
+      },
+      "toNode": "75bf80e2c6380108",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "72faecef7cd5e2d2",
+      "fromSide": "top",
+      "id": "54ddbfdfd4d86c27",
+      "label": "배팅해라",
+      "styleAttributes": {
+      },
+      "toNode": "ffb4c36462cf09cf",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "72faecef7cd5e2d2",
+      "fromSide": "bottom",
+      "id": "37b74e10fe551db5",
+      "label": "수익을 계산해라",
+      "styleAttributes": {
+      },
+      "toNode": "0bf12d6d6efc9cf6",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "ffb4c36462cf09cf",
+      "fromSide": "bottom",
+      "id": "60c41365ea369bd2",
+      "label": "버스트인지 확인해라",
+      "styleAttributes": {
+      },
+      "toNode": "d3659386f875a958",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "72faecef7cd5e2d2",
+      "fromSide": "bottom",
+      "id": "bf433584902870fe",
+      "label": "버스트인지 확인해라",
+      "styleAttributes": {
+      },
+      "toNode": "d3659386f875a958",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ffb4c36462cf09cf",
+      "fromSide": "bottom",
+      "id": "7d5567b2da89ca59",
+      "label": "블랙잭인지 확인해라",
+      "styleAttributes": {
+      },
+      "toNode": "d3659386f875a958",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "72faecef7cd5e2d2",
+      "fromSide": "bottom",
+      "id": "8133c0fe29554d5a",
+      "label": "블랙잭인지 확인해라",
+      "styleAttributes": {
+      },
+      "toNode": "d3659386f875a958",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "8b82bb17cf8e3dbc",
+      "fromSide": "right",
+      "id": "13473017bbd2d05c",
+      "label": "블랙잭을 시작해라",
+      "styleAttributes": {
+      },
+      "toNode": "37fc61bf7be3cf1b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "37fc61bf7be3cf1b",
+      "fromSide": "right",
+      "id": "855d54c2f18193d9",
+      "label": "카드를 세팅해라",
+      "styleAttributes": {
+      },
+      "toNode": "920d554b8c195456",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "37fc61bf7be3cf1b",
+      "fromSide": "right",
+      "id": "472a497683a33603",
+      "label": "카드를 뽑아라",
+      "styleAttributes": {
+      },
+      "toNode": "920d554b8c195456",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "37fc61bf7be3cf1b",
+      "fromSide": "right",
+      "id": "40f39e170ba9e215",
+      "label": "카드를 받아라",
+      "styleAttributes": {
+      },
+      "toNode": "39ba80e613de8356",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "39ba80e613de8356",
+      "fromSide": "top",
+      "id": "4931b00784eedaa5",
+      "label": "카드를 받을지 정해라",
+      "styleAttributes": {
+      },
+      "toNode": "8b82bb17cf8e3dbc",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "37fc61bf7be3cf1b",
+      "fromSide": "bottom",
+      "id": "8ed328f7652643ca",
+      "label": "승패를 판별해라",
+      "styleAttributes": {
+      },
+      "toNode": "a9becaba80695774",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "37fc61bf7be3cf1b",
+      "fromSide": "bottom",
+      "id": "5465651281f8ae18",
+      "label": "배팅해라",
+      "styleAttributes": {
+      },
+      "toNode": "8b82bb17cf8e3dbc",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "a9becaba80695774",
+      "fromSide": "left",
+      "id": "3bc66e58482ba0ff",
+      "label": "수익을 계산해라",
+      "styleAttributes": {
+      },
+      "toNode": "84cd8d3251914d5a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "39ba80e613de8356",
+      "fromSide": "bottom",
+      "id": "22ab0c82fc9069df",
+      "label": "내가 가지고 있는 카드의 합을 계산해라",
+      "styleAttributes": {
+      },
+      "toNode": "62f487f9b26a1fad",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "39ba80e613de8356",
+      "fromSide": "bottom",
+      "id": "cfc77deef9046d31",
+      "label": "버스트인지 확인해라",
+      "styleAttributes": {
+      },
+      "toNode": "62f487f9b26a1fad",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "39ba80e613de8356",
+      "fromSide": "bottom",
+      "id": "0eda2d5d7b94ad1c",
+      "label": "블랙잭인지 확인해라",
+      "styleAttributes": {
+      },
+      "toNode": "62f487f9b26a1fad",
+      "toSide": "left"
+    },
+    {
+      "color": "1",
+      "fromNode": "a9becaba80695774",
+      "fromSide": "bottom",
+      "id": "b4670832c7b931a0",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "39ba80e613de8356",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "76b28e3b08eb06f2",
+      "fromSide": "bottom",
+      "id": "be4f478fd8d43838",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "39ba80e613de8356",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "37fc61bf7be3cf1b",
+      "fromSide": "top",
+      "id": "5cba935fe0fa54bf",
+      "label": "플레이어 이름을 입력해라",
+      "styleAttributes": {
+      },
+      "toNode": "8b82bb17cf8e3dbc",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "0d2094bc47d55e94",
+      "fromSide": "bottom",
+      "id": "2ec735e3c72d3271",
+      "label": "블랙잭인지 확인해라",
+      "styleAttributes": {
+      },
+      "toNode": "c4983208fb0d66fd",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0d2094bc47d55e94",
+      "fromSide": "bottom",
+      "id": "7a21cace707d5a7c",
+      "label": "버스트인지 확인해라",
+      "styleAttributes": {
+      },
+      "toNode": "c4983208fb0d66fd",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "0d2094bc47d55e94",
+      "fromSide": "bottom",
+      "id": "7d328d5156212e91",
+      "label": "내가 가지고 있는 카드의 합을 계산해라",
+      "styleAttributes": {
+      },
+      "toNode": "c4983208fb0d66fd",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f4fd2edab48a0185",
+      "fromSide": "right",
+      "id": "c46b4c82b2626a83",
+      "label": "카드를 받아라",
+      "styleAttributes": {
+      },
+      "toNode": "0d2094bc47d55e94",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f4fd2edab48a0185",
+      "fromSide": "right",
+      "id": "a2b80bacbefaa8ef",
+      "label": "카드를 세팅해라",
+      "styleAttributes": {
+      },
+      "toNode": "832a6c494ed30d23",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f4fd2edab48a0185",
+      "fromSide": "right",
+      "id": "3a2ffb564ee884d7",
+      "label": "카드를 뽑아라",
+      "styleAttributes": {
+      },
+      "toNode": "832a6c494ed30d23",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0d2094bc47d55e94",
+      "fromSide": "left",
+      "id": "a9e37dd8434e4eb5",
+      "label": "수익을 계산해라",
+      "styleAttributes": {
+      },
+      "toNode": "5fde9d1bb3c4acdd",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "f4fd2edab48a0185",
+      "fromSide": "bottom",
+      "id": "675edc6612954e6f",
+      "label": "승패를 판별해라",
+      "styleAttributes": {
+      },
+      "toNode": "0d2094bc47d55e94",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "f4fd2edab48a0185",
+      "fromSide": "bottom",
+      "id": "d73bab76c5d47c21",
+      "label": "배팅해라",
+      "styleAttributes": {
+      },
+      "toNode": "493de794237e613d",
+      "toSide": "bottom"
+    },
+    {
+      "color": "5",
+      "fromNode": "f4fd2edab48a0185",
+      "fromSide": "top",
+      "id": "6ef1de0d1b5bac82",
+      "label": "플레이어 이름을 입력해라",
+      "styleAttributes": {
+      },
+      "toNode": "493de794237e613d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "493de794237e613d",
+      "fromSide": "right",
+      "id": "f88a6e5802884776",
+      "label": "블랙잭을 시작해라",
+      "styleAttributes": {
+      },
+      "toNode": "f4fd2edab48a0185",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "832a6c494ed30d23",
+      "fromSide": "right",
+      "id": "d2394296486eebad",
+      "label": "vo",
+      "styleAttributes": {
+      },
+      "toNode": "b6e85dcfe6a27d4b",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "25400af765610c84",
+      "fromSide": "top",
+      "id": "63166323486a6c8b",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "87a1df55deff18a0",
+      "toSide": "bottom"
+    },
+    {
+      "color": "4",
+      "fromNode": "87a1df55deff18a0",
+      "fromSide": "bottom",
+      "id": "aa6f61f6f1e0501a",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "5ef31d889f1e561f",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "87a1df55deff18a0",
+      "fromSide": "left",
+      "id": "64319582c412da5e",
+      "label": "더뽑아도되는지",
+      "styleAttributes": {
+      },
+      "toNode": "8c6ca4c8fc67fe3c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "87a1df55deff18a0",
+      "fromSide": "left",
+      "id": "28d6ce6dadfed739",
+      "label": "더뽑아도되는지",
+      "styleAttributes": {
+      },
+      "toNode": "0d2094bc47d55e94",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "8c6ca4c8fc67fe3c",
+      "fromSide": "bottom",
+      "id": "60b8d7d32c3e2641",
+      "label": "내가 가지고 있는 카드의 합을 계산해라",
+      "styleAttributes": {
+      },
+      "toNode": "c4983208fb0d66fd",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "8c6ca4c8fc67fe3c",
+      "fromSide": "bottom",
+      "id": "b48404d27272da23",
+      "label": "블랙잭인지 확인해라",
+      "styleAttributes": {
+      },
+      "toNode": "c4983208fb0d66fd",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "8c6ca4c8fc67fe3c",
+      "fromSide": "bottom",
+      "id": "c92a07c94f4d8fae",
+      "label": "버스트인지 확인해라",
+      "styleAttributes": {
+      },
+      "toNode": "c4983208fb0d66fd",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f4fd2edab48a0185",
+      "fromSide": "right",
+      "id": "16fd6eafcc7fa8bd",
+      "label": "카드를 받아라",
+      "styleAttributes": {
+      },
+      "toNode": "8c6ca4c8fc67fe3c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "7bcfc19015399ad5",
+      "fromSide": "right",
+      "id": "17e274b3ac8cf65a",
+      "styleAttributes": {
+      },
+      "toNode": "fdb0924d05fe2df6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fdb0924d05fe2df6",
+      "fromSide": "right",
+      "id": "8d3010d63b1a6821",
+      "styleAttributes": {
+      },
+      "toNode": "80e320ed4c343fb5",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "80e320ed4c343fb5",
+      "fromSide": "right",
+      "id": "d3c2407b57ea3664",
+      "styleAttributes": {
+      },
+      "toNode": "694728a185c93eb0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "694728a185c93eb0",
+      "fromSide": "bottom",
+      "id": "cf04d672b7c2870e",
+      "styleAttributes": {
+      },
+      "toNode": "12571de24193449a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e7d079b54ee42a8a",
+      "fromSide": "bottom",
+      "id": "e5753da2b6a2b073",
+      "label": "블랙잭인지 확인해라",
+      "styleAttributes": {
+      },
+      "toNode": "89be7fb3a0963c0d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e7d079b54ee42a8a",
+      "fromSide": "bottom",
+      "id": "88f16efe881c3615",
+      "label": "버스트인지 확인해라",
+      "styleAttributes": {
+      },
+      "toNode": "89be7fb3a0963c0d",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "e7d079b54ee42a8a",
+      "fromSide": "bottom",
+      "id": "ddecd008d6515461",
+      "label": "내가 가지고 있는 카드의 합을 계산해라",
+      "styleAttributes": {
+      },
+      "toNode": "89be7fb3a0963c0d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9424f51906d45e48",
+      "fromSide": "bottom",
+      "id": "ada98f6f599a420b",
+      "label": "내가 가지고 있는 카드의 합을 계산해라",
+      "styleAttributes": {
+      },
+      "toNode": "89be7fb3a0963c0d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9424f51906d45e48",
+      "fromSide": "bottom",
+      "id": "606c74480d526630",
+      "label": "블랙잭인지 확인해라",
+      "styleAttributes": {
+      },
+      "toNode": "89be7fb3a0963c0d",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "9424f51906d45e48",
+      "fromSide": "bottom",
+      "id": "b12fbc0a3d4f91e8",
+      "label": "버스트인지 확인해라",
+      "styleAttributes": {
+      },
+      "toNode": "89be7fb3a0963c0d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e7d079b54ee42a8a",
+      "fromSide": "left",
+      "id": "3032cba9bb84316c",
+      "label": "수익을 계산해라",
+      "styleAttributes": {
+      },
+      "toNode": "bfebd90780d562d0",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "f498180b8701ee15",
+      "fromSide": "right",
+      "id": "3e3a740aec0120c0",
+      "label": "카드를 받아라",
+      "styleAttributes": {
+      },
+      "toNode": "e7d079b54ee42a8a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f498180b8701ee15",
+      "fromSide": "bottom",
+      "id": "18dd3a3f0d3b76a8",
+      "label": "승패를 판별해라",
+      "styleAttributes": {
+      },
+      "toNode": "e7d079b54ee42a8a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "42ec7059329ca7ab",
+      "fromSide": "left",
+      "id": "21ede77a3de002a2",
+      "label": "더뽑아도되는지",
+      "styleAttributes": {
+      },
+      "toNode": "e7d079b54ee42a8a",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "42ec7059329ca7ab",
+      "fromSide": "left",
+      "id": "94bf448ddf9b9e3e",
+      "label": "더뽑아도되는지",
+      "styleAttributes": {
+      },
+      "toNode": "9424f51906d45e48",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f498180b8701ee15",
+      "fromSide": "right",
+      "id": "f6a8cdd6b973fca7",
+      "label": "카드를 받아라",
+      "styleAttributes": {
+      },
+      "toNode": "9424f51906d45e48",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "48989dd03ee244c1",
+      "fromSide": "right",
+      "id": "4a587c6a855f5065",
+      "label": "vo",
+      "styleAttributes": {
+      },
+      "toNode": "47058eb69985c80a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f498180b8701ee15",
+      "fromSide": "right",
+      "id": "9b7eb2f6356a3449",
+      "label": "카드를 세팅해라",
+      "styleAttributes": {
+      },
+      "toNode": "48989dd03ee244c1",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f498180b8701ee15",
+      "fromSide": "right",
+      "id": "f625a0536b96240e",
+      "label": "카드를 뽑아라",
+      "styleAttributes": {
+      },
+      "toNode": "48989dd03ee244c1",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "f498180b8701ee15",
+      "fromSide": "bottom",
+      "id": "027399416581f3b3",
+      "label": "배팅해라",
+      "styleAttributes": {
+      },
+      "toNode": "48170b78d2d70bfc",
+      "toSide": "bottom"
+    },
+    {
+      "color": "5",
+      "fromNode": "f498180b8701ee15",
+      "fromSide": "top",
+      "id": "ff598454ed1810be",
+      "label": "플레이어 이름을 입력해라",
+      "styleAttributes": {
+      },
+      "toNode": "48170b78d2d70bfc",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "48170b78d2d70bfc",
+      "fromSide": "right",
+      "id": "e1a3f140f05640cf",
+      "label": "블랙잭을 시작해라",
+      "styleAttributes": {
+      },
+      "toNode": "f498180b8701ee15",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "32d033e6c5a0db15",
+      "fromSide": "top",
+      "id": "d9c71292b9d46fb0",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "42ec7059329ca7ab",
+      "toSide": "bottom"
+    },
+    {
+      "color": "4",
+      "fromNode": "42ec7059329ca7ab",
+      "fromSide": "bottom",
+      "id": "0d5909c073f0c17e",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "d3de3cf606db954c",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {
+  },
+  "nodes": [
+    {
+      "height": 1815,
+      "id": "12571de24193449a",
+      "label": "step5",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2610,
+      "x": 2665,
+      "y": 1800
+    },
+    {
+      "height": 1815,
+      "id": "9f2eca71841ba55a",
+      "label": "step5",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2610,
+      "x": 2665,
+      "y": 4080
+    },
+    {
+      "height": 880,
+      "id": "694728a185c93eb0",
+      "label": "step4",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 2140,
+      "x": 2900,
+      "y": 565
+    },
+    {
+      "height": 1360,
+      "id": "fdb0924d05fe2df6",
+      "label": "step2",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 950,
+      "x": -80,
+      "y": 600
+    },
+    {
+      "height": 810,
+      "id": "80e320ed4c343fb5",
+      "label": "step3",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1500,
+      "x": 1160,
+      "y": 600
+    },
+    {
+      "height": 60,
+      "id": "e2d10a15d2edf515",
+      "styleAttributes": {
+      },
+      "text": "수익계산기",
+      "type": "text",
+      "width": 260,
+      "x": 580,
+      "y": 1500
+    },
+    {
+      "height": 60,
+      "id": "ed71501311191321",
+      "styleAttributes": {
+      },
+      "text": "핸드",
+      "type": "text",
+      "width": 260,
+      "x": 580,
+      "y": 1620
+    },
+    {
+      "height": 60,
+      "id": "f28eec6eb5d75638",
+      "styleAttributes": {
+      },
+      "text": "플레이어",
+      "type": "text",
+      "width": 260,
+      "x": 580,
+      "y": 1400
+    },
+    {
+      "height": 60,
+      "id": "bae977437020c734",
+      "styleAttributes": {
+      },
+      "text": "승패판단기",
+      "type": "text",
+      "width": 260,
+      "x": 580,
+      "y": 1300
+    },
+    {
+      "height": 60,
+      "id": "ed66c2bde1d9fb91",
+      "styleAttributes": {
+      },
+      "text": "핸드(본인카드덱)",
+      "type": "text",
+      "width": 260,
+      "x": 580,
+      "y": 1195
+    },
+    {
+      "height": 60,
+      "id": "93b995ea581221d7",
+      "styleAttributes": {
+      },
+      "text": "핸드",
+      "type": "text",
+      "width": 260,
+      "x": 580,
+      "y": 1700
+    },
+    {
+      "height": 60,
+      "id": "c8ecc7e74d83eaa0",
+      "styleAttributes": {
+      },
+      "text": "핸드",
+      "type": "text",
+      "width": 260,
+      "x": 580,
+      "y": 1880
+    },
+    {
+      "height": 60,
+      "id": "efea0cca75722ee0",
+      "styleAttributes": {
+      },
+      "text": "핸드",
+      "type": "text",
+      "width": 260,
+      "x": 580,
+      "y": 1800
+    },
+    {
+      "height": 60,
+      "id": "49b81086f40fe514",
+      "styleAttributes": {
+      },
+      "text": "카드덱(52장)",
+      "type": "text",
+      "width": 260,
+      "x": 580,
+      "y": 920
+    },
+    {
+      "height": 60,
+      "id": "25e9a41c41cd0564",
+      "styleAttributes": {
+      },
+      "text": "플레이어",
+      "type": "text",
+      "width": 260,
+      "x": 580,
+      "y": 820
+    },
+    {
+      "height": 60,
+      "id": "e08a74184c5b9674",
+      "styleAttributes": {
+      },
+      "text": "핸드(본인카드덱)",
+      "type": "text",
+      "width": 260,
+      "x": 580,
+      "y": 1095
+    },
+    {
+      "height": 60,
+      "id": "02066b03a549a335",
+      "styleAttributes": {
+      },
+      "text": "플레이어",
+      "type": "text",
+      "width": 260,
+      "x": 60,
+      "y": 1620
+    },
+    {
+      "height": 60,
+      "id": "a5f2111a7401c27b",
+      "styleAttributes": {
+      },
+      "text": "카드덱(52장)",
+      "type": "text",
+      "width": 260,
+      "x": 580,
+      "y": 1015
+    },
+    {
+      "height": 60,
+      "id": "7a2d845fbf4e4c92",
+      "styleAttributes": {
+      },
+      "text": "딜러",
+      "type": "text",
+      "width": 260,
+      "x": 60,
+      "y": 1700
+    },
+    {
+      "height": 60,
+      "id": "87c6a23d9bf4bfb4",
+      "styleAttributes": {
+      },
+      "text": "딜러",
+      "type": "text",
+      "width": 260,
+      "x": 580,
+      "y": 620
+    },
+    {
+      "height": 60,
+      "id": "1a8ae6f6443c0f0e",
+      "styleAttributes": {
+      },
+      "text": "플레이어",
+      "type": "text",
+      "width": 260,
+      "x": 60,
+      "y": 1800
+    },
+    {
+      "height": 60,
+      "id": "c78c0885b59b0c77",
+      "styleAttributes": {
+      },
+      "text": "클라이언트",
+      "type": "text",
+      "width": 260,
+      "x": 60,
+      "y": 620
+    },
+    {
+      "height": 60,
+      "id": "ae670a434a3dcc95",
+      "styleAttributes": {
+      },
+      "text": "딜러",
+      "type": "text",
+      "width": 260,
+      "x": 60,
+      "y": 1880
+    },
+    {
+      "height": 60,
+      "id": "0d7241e7f1f38456",
+      "styleAttributes": {
+      },
+      "text": "딜러",
+      "type": "text",
+      "width": 260,
+      "x": 60,
+      "y": 720
+    },
+    {
+      "height": 60,
+      "id": "a463f4a3ef1ca234",
+      "styleAttributes": {
+      },
+      "text": "플레이어",
+      "type": "text",
+      "width": 260,
+      "x": 580,
+      "y": 720
+    },
+    {
+      "height": 60,
+      "id": "338ecf5000f6295b",
+      "styleAttributes": {
+      },
+      "text": "딜러",
+      "type": "text",
+      "width": 260,
+      "x": 60,
+      "y": 1500
+    },
+    {
+      "height": 60,
+      "id": "4304652c4a29b8fe",
+      "styleAttributes": {
+      },
+      "text": "딜러",
+      "type": "text",
+      "width": 260,
+      "x": 60,
+      "y": 1300
+    },
+    {
+      "height": 60,
+      "id": "36e5429a7d0ef94e",
+      "styleAttributes": {
+      },
+      "text": "딜러",
+      "type": "text",
+      "width": 260,
+      "x": 60,
+      "y": 1015
+    },
+    {
+      "height": 60,
+      "id": "738e9bc4af58cdd9",
+      "styleAttributes": {
+      },
+      "text": "딜러",
+      "type": "text",
+      "width": 260,
+      "x": 60,
+      "y": 1400
+    },
+    {
+      "height": 60,
+      "id": "d384c3fdea21efd2",
+      "styleAttributes": {
+      },
+      "text": "딜러",
+      "type": "text",
+      "width": 260,
+      "x": 60,
+      "y": 820
+    },
+    {
+      "height": 60,
+      "id": "0724af9caadcc56a",
+      "styleAttributes": {
+      },
+      "text": "딜러",
+      "type": "text",
+      "width": 260,
+      "x": 60,
+      "y": 920
+    },
+    {
+      "color": "1",
+      "height": 435,
+      "id": "7bcfc19015399ad5",
+      "styleAttributes": {
+      },
+      "text": "메세지 목록(도메인)\n+ 블랙잭을 시작해라\n+ 카드를 받아라\n+ 카드를 받을지 정해라\n+ 카드를 세팅해라\n+ 카드를 뽑아라\n+ 내가 가지고 있는 카드의 합을 계산해라\n+ 승패를 판별해라\n+ 배팅해라\n+ 수익을 계산해라\n+ 버스트인지 확인해라\n+ 블랙잭인지 확인해라",
+      "type": "text",
+      "width": 540,
+      "x": -1080,
+      "y": 1065
+    },
+    {
+      "height": 60,
+      "id": "e2f6ed8dee1fd587",
+      "styleAttributes": {
+      },
+      "text": "플레이어",
+      "type": "text",
+      "width": 260,
+      "x": -70,
+      "y": 1095
+    },
+    {
+      "height": 60,
+      "id": "a1bc01082c0f89a9",
+      "styleAttributes": {
+      },
+      "text": "딜러",
+      "type": "text",
+      "width": 260,
+      "x": -70,
+      "y": 1195
+    },
+    {
+      "height": 60,
+      "id": "8b82bb17cf8e3dbc",
+      "styleAttributes": {
+      },
+      "text": "클라이언트",
+      "type": "text",
+      "width": 260,
+      "x": 2920,
+      "y": 585
+    },
+    {
+      "height": 60,
+      "id": "84cd8d3251914d5a",
+      "styleAttributes": {
+      },
+      "text": "수익계산기",
+      "type": "text",
+      "width": 260,
+      "x": 3360,
+      "y": 1365
+    },
+    {
+      "height": 270,
+      "id": "832a6c494ed30d23",
+      "styleAttributes": {
+      },
+      "text": "카드덱(52장)\n`List<Card>`\n",
+      "type": "text",
+      "width": 260,
+      "x": 4455,
+      "y": 2290
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "32d033e6c5a0db15",
+      "styleAttributes": {
+      },
+      "text": "딜러 정책",
+      "type": "text",
+      "width": 260,
+      "x": 4515,
+      "y": 5340
+    },
+    {
+      "height": 220,
+      "id": "37fc61bf7be3cf1b",
+      "styleAttributes": {
+      },
+      "text": "blackjackGameController\nscanner",
+      "type": "text",
+      "width": 260,
+      "x": 3590,
+      "y": 585
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "a9becaba80695774",
+      "styleAttributes": {
+      },
+      "text": "딜러",
+      "type": "text",
+      "width": 260,
+      "x": 3720,
+      "y": 1115
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "25400af765610c84",
+      "styleAttributes": {
+      },
+      "text": "딜러 정책",
+      "type": "text",
+      "width": 260,
+      "x": 4515,
+      "y": 3060
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "5ef31d889f1e561f",
+      "styleAttributes": {
+      },
+      "text": "플레이어정책\nscanner",
+      "type": "text",
+      "width": 260,
+      "x": 4965,
+      "y": 3060
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "87a1df55deff18a0",
+      "styleAttributes": {
+      },
+      "text": "카드받기정책(Function<T, boolean>)",
+      "type": "text",
+      "width": 340,
+      "x": 4695,
+      "y": 2880
+    },
+    {
+      "height": 60,
+      "id": "62f487f9b26a1fad",
+      "styleAttributes": {
+      },
+      "text": "핸드(본인카드덱)",
+      "type": "text",
+      "width": 260,
+      "x": 4760,
+      "y": 1365
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "42ec7059329ca7ab",
+      "styleAttributes": {
+      },
+      "text": "카드받기정책(Function<T, boolean>)",
+      "type": "text",
+      "width": 340,
+      "x": 4695,
+      "y": 5160
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "d3de3cf606db954c",
+      "styleAttributes": {
+      },
+      "text": "플레이어정책\nscanner",
+      "type": "text",
+      "width": 260,
+      "x": 4965,
+      "y": 5340
+    },
+    {
+      "height": 160,
+      "id": "47058eb69985c80a",
+      "styleAttributes": {
+      },
+      "text": "\b카드\nshape\nnumber",
+      "type": "text",
+      "width": 260,
+      "x": 4985,
+      "y": 4625
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "39ba80e613de8356",
+      "styleAttributes": {
+      },
+      "text": "참가자\nscanner",
+      "type": "text",
+      "width": 260,
+      "x": 4040,
+      "y": 1225
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "76b28e3b08eb06f2",
+      "styleAttributes": {
+      },
+      "text": "플레이어",
+      "type": "text",
+      "width": 260,
+      "x": 4600,
+      "y": 1115
+    },
+    {
+      "height": 60,
+      "id": "920d554b8c195456",
+      "styleAttributes": {
+      },
+      "text": "카드덱(52장)",
+      "type": "text",
+      "width": 260,
+      "x": 4700,
+      "y": 635
+    },
+    {
+      "height": 140,
+      "id": "bfebd90780d562d0",
+      "styleAttributes": {
+      },
+      "text": "수익계산기\n상태없어",
+      "type": "text",
+      "width": 260,
+      "x": 2935,
+      "y": 5320
+    },
+    {
+      "color": "1",
+      "height": 100,
+      "id": "e7d079b54ee42a8a",
+      "styleAttributes": {
+      },
+      "text": "딜러",
+      "type": "text",
+      "width": 260,
+      "x": 3425,
+      "y": 5340
+    },
+    {
+      "height": 520,
+      "id": "f498180b8701ee15",
+      "styleAttributes": {
+      },
+      "text": "blackjackGameController\nscanner\n\n이름받기\n참가자등록하기\n배팅 금액 받기\n\n카드 2장 나눠주기\n카드 더받을래?\n\n",
+      "type": "text",
+      "width": 260,
+      "x": 3505,
+      "y": 4105
+    },
+    {
+      "height": 60,
+      "id": "c4983208fb0d66fd",
+      "styleAttributes": {
+      },
+      "text": "핸드(본인카드덱)\n`List<Card>`",
+      "type": "text",
+      "width": 260,
+      "x": 3795,
+      "y": 3540
+    },
+    {
+      "color": "1",
+      "height": 100,
+      "id": "9424f51906d45e48",
+      "styleAttributes": {
+      },
+      "text": "플레이어\n닉네임\n배팅금액",
+      "type": "text",
+      "width": 260,
+      "x": 4165,
+      "y": 5340
+    },
+    {
+      "height": 60,
+      "id": "89be7fb3a0963c0d",
+      "styleAttributes": {
+      },
+      "text": "핸드(본인카드덱)\n`List<Card>`",
+      "type": "text",
+      "width": 260,
+      "x": 3795,
+      "y": 5820
+    },
+    {
+      "height": 60,
+      "id": "48170b78d2d70bfc",
+      "styleAttributes": {
+      },
+      "text": "클라이언트",
+      "type": "text",
+      "width": 260,
+      "x": 2675,
+      "y": 4520
+    },
+    {
+      "height": 270,
+      "id": "48989dd03ee244c1",
+      "styleAttributes": {
+      },
+      "text": "카드덱(52장)\n`List<Card>`\n",
+      "type": "text",
+      "width": 260,
+      "x": 4455,
+      "y": 4570
+    },
+    {
+      "height": 520,
+      "id": "f4fd2edab48a0185",
+      "styleAttributes": {
+      },
+      "text": "blackjackGameController\nscanner\n\n이름받기\n참가자등록하기\n배팅 금액 받기\n\n카드 2장 나눠주기\n카드 더받을래?\n\n",
+      "type": "text",
+      "width": 260,
+      "x": 3505,
+      "y": 1825
+    },
+    {
+      "height": 140,
+      "id": "5fde9d1bb3c4acdd",
+      "styleAttributes": {
+      },
+      "text": "수익계산기\n상태없어",
+      "type": "text",
+      "width": 260,
+      "x": 2935,
+      "y": 3040
+    },
+    {
+      "height": 60,
+      "id": "493de794237e613d",
+      "styleAttributes": {
+      },
+      "text": "클라이언트",
+      "type": "text",
+      "width": 260,
+      "x": 2675,
+      "y": 2240
+    },
+    {
+      "color": "1",
+      "height": 100,
+      "id": "8c6ca4c8fc67fe3c",
+      "styleAttributes": {
+      },
+      "text": "플레이어\n닉네임\n배팅금액",
+      "type": "text",
+      "width": 260,
+      "x": 4165,
+      "y": 3060
+    },
+    {
+      "height": 60,
+      "id": "ffb4c36462cf09cf",
+      "styleAttributes": {
+      },
+      "text": "플레이어",
+      "type": "text",
+      "width": 260,
+      "x": 2280,
+      "y": 738
+    },
+    {
+      "color": "1",
+      "height": 100,
+      "id": "0d2094bc47d55e94",
+      "styleAttributes": {
+      },
+      "text": "딜러",
+      "type": "text",
+      "width": 260,
+      "x": 3425,
+      "y": 3060
+    },
+    {
+      "height": 160,
+      "id": "b6e85dcfe6a27d4b",
+      "styleAttributes": {
+      },
+      "text": "\b카드\nshape\nnumber",
+      "type": "text",
+      "width": 260,
+      "x": 4985,
+      "y": 2345
+    },
+    {
+      "height": 60,
+      "id": "72faecef7cd5e2d2",
+      "styleAttributes": {
+      },
+      "text": "딜러",
+      "type": "text",
+      "width": 260,
+      "x": 1800,
+      "y": 623
+    },
+    {
+      "height": 60,
+      "id": "75bf80e2c6380108",
+      "styleAttributes": {
+      },
+      "text": "승패판단기",
+      "type": "text",
+      "width": 260,
+      "x": 1880,
+      "y": 1303
+    },
+    {
+      "height": 60,
+      "id": "0bf12d6d6efc9cf6",
+      "styleAttributes": {
+      },
+      "text": "수익계산기",
+      "type": "text",
+      "width": 260,
+      "x": 1180,
+      "y": 938
+    },
+    {
+      "height": 60,
+      "id": "83a670f30378eb66",
+      "styleAttributes": {
+      },
+      "text": "클라이언트",
+      "type": "text",
+      "width": 260,
+      "x": 1280,
+      "y": 623
+    },
+    {
+      "height": 60,
+      "id": "77bef1d614d400f8",
+      "styleAttributes": {
+      },
+      "text": "카드덱(52장)",
+      "type": "text",
+      "width": 260,
+      "x": 1500,
+      "y": 1103
+    },
+    {
+      "height": 60,
+      "id": "d3659386f875a958",
+      "styleAttributes": {
+      },
+      "text": "핸드(본인카드덱)",
+      "type": "text",
+      "width": 260,
+      "x": 2380,
+      "y": 1333
+    }
+  ]
+}

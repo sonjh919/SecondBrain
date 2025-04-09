@@ -3,5 +3,5 @@
   "alwaysUpdateLinks": true,
   "spellcheck": false,
   "promptDelete": false,
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": true
 }

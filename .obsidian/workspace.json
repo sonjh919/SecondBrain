@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "faa75fa7d758aa73",
+        "id": "b70b83d18d6f7559",
         "type": "tabs",
         "children": [
           {
-            "id": "fc5cd2d647993749",
+            "id": "d352c8f7ab812abe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟧 Organize 영구노트/🟡 Area 장기적인 책임/Java API/java.io/java.io.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "586abeb79e5d51f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🟨 Express 공유/🪐 우아한테크코스/level 1/레벨 1 - 우아한 테크코스 1주차 회고.md",
+                "file": "🟥 Capture 임시메모(inbox)/inbox.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟨 Express 공유/🪐 우아한테크코스/level 1/레벨 1 - 우아한 테크코스 1주차 회고.md",
+                "file": "🟥 Capture 임시메모(inbox)/inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟨 Express 공유/🪐 우아한테크코스/level 1/레벨 1 - 우아한 테크코스 1주차 회고.md"
+                "file": "🟥 Capture 임시메모(inbox)/inbox.md"
               }
             }
           },
@@ -155,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟨 Express 공유/🪐 우아한테크코스/level 1/레벨 1 - 우아한 테크코스 1주차 회고.md",
+                "file": "🟥 Capture 임시메모(inbox)/inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,55 +200,63 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "586abeb79e5d51f2",
+  "active": "d352c8f7ab812abe",
   "lastOpenFiles": [
-    "🟧 Organize 영구노트/🟣 Archive 보관소/img/우아한테크코스/thor.jpg",
-    "🟨 Express 공유/🪐 우아한테크코스/level 1/레벨 1 - 우아한 테크코스 1주차 회고.md",
-    "🟨 Express 공유/🪐 우아한테크코스/level 0/지원서 작성.md",
-    "🟨 Express 공유/🪐 우아한테크코스/level 0/🎉 우아한테크코스 7기 백엔드 최종 합격 회고.md",
-    "🟨 Express 공유/🪐 우아한테크코스/level 0/최종 코딩테스트 회고.md",
-    "🟨 Express 공유/🪐 우아한테크코스/level 0/프리코스 회고.md",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/img/우아한테크코스/mailerror.png",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/함수형 인터페이스.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/자바 8.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/자바 8.canvas",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/익명 클래스.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/메서드 참조.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/람다 표현식.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/동작 파라미터화.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/stream.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/내부 메서드 뒤지기/알아두면 이해하기 편한 문법.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/내부 메서드 뒤지기/무제 파일.canvas",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/내부 메서드 뒤지기",
+    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/JAVA/방어적 복사.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다/무제 파일.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/오브젝트 총정리/오브젝트.canvas",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/형변환 함수.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/행 순서 함수.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/함수.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/집계 함수.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/윈도우 함수 옵션.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/숫자 함수.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/순위 함수.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/비율 함수.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/소계(총계) 함수.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/문자 함수.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/날짜 함수.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/OVER.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/NULL 처리 함수.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/정규화.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/3정규화후.png",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/3정규화전.png",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/2정규화전.png",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/2정규화후.png",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/1정규화후.png",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/1정규화전.png",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/문법/집합 연산자.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/문법/절차형 SQL.md",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/문법",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/TCL",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/SQL 실행 순서",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/Query",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/Join",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/Pasted image 20240327095613.png",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/Pasted image 20240327095530.png",
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/Pasted image 20240327095507.png",
+    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/Database/RDB/SQL/정규화/3정규화후.png",
     "무제 파일.canvas",
-    "🟨 Express 공유/🪐 우아한테크코스/level 1",
-    "🙌 Welcome!!.md",
-    "PARA.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/10 테스트 코드와 유지보수.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/08 테스트 가능한 설계.md",
-    "🟥 Capture 임시메모(inbox)/0214.md",
-    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/Truble Shooting/Java&Spring/equals와 hashcode 재정의로 같은 객체 판단하기.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/03 테스트 코드 작성 순서.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/02 TDD 시작.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/04 TDD 기능, 명세, 설계.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기/06 테스트 코드의 구성.md",
-    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/객체지향의 사실과 오해/07 함께 모으기.md",
-    "🟥 Capture 임시메모(inbox)/inbox.md",
-    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/개발.md",
-    "🟥 Capture 임시메모(inbox)/0212.md",
-    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/글쓰기.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/오브젝트 총정리/오브젝트 리마인드.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/테스트 주도 개발 시작하기",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/08 의존성 관리하기.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/15 디자인 패턴과 프레임워크.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/13 서브클래싱과 서브타이핑.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/12 다형성.md",
-    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/Book/함께 자라기",
-    "1. Capture 임시메모(inbox)",
-    "20241228.png",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.util/Collection/collection.png",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.sql/jdbcTemplate.png",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.sql/jdbc3.png",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.sql/jdbc2.png",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.sql/jdbc1.png",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.util/Collection",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.lang/wrapper.png",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/img/Java API/java.lang/throwable.png",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/ELK/03 인덱스 설계/2. 매핑과 필드 타입/필드 타입",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/ELK/03 인덱스 설계/2. 매핑과 필드 타입/캐시",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/ELK/03 인덱스 설계/2. 매핑과 필드 타입/기타 설정",
-    "🟧 Organize 영구노트/🟣 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 4 - 좀비 전투 시스템",
-    "🟡 Area 장기적인 책임/무제 파일.canvas",
-    "Project/무제 파일.canvas"
+    "🟥 Capture 임시메모(inbox)/레벨 인터뷰.canvas",
+    "🟥 Capture 임시메모(inbox)/레벨인터뷰/모루.canvas",
+    "🟥 Capture 임시메모(inbox)/레벨인터뷰/무제 파일 1.canvas",
+    "🟥 Capture 임시메모(inbox)/장기.canvas",
+    "🟥 Capture 임시메모(inbox)/체스.canvas",
+    "🟥 Capture 임시메모(inbox)/블랙잭 설계.canvas"
   ]
 }

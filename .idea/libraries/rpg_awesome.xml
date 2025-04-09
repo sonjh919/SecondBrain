@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rpg-awesome">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.obsidian/icons/rpg-awesome.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
