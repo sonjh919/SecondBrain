@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/첫 번째 언어.md",
+                "file": "Templates/Insert_Callout.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/첫 번째 언어.md",
+                "file": "Templates/Insert_Callout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/첫 번째 언어.md"
+                "file": "Templates/Insert_Callout.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/첫 번째 언어.md",
+                "file": "Templates/Insert_Callout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,8 +193,8 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "publish:변경사항 출판": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian42-brat:BRAT": false,
       "periodic-notes:Open today": false
@@ -218,7 +218,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/2. 잔을 비우다.md",
+                    "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/2. 잔을 비우다.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -240,12 +240,18 @@
   },
   "active": "aefd53bcbb8c3da3",
   "lastOpenFiles": [
-    "🟥 Capture 임시메모(inbox)/장기/Drawing 2025-04-02 08.44.47.excalidraw.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/2. 잔을 비우다.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/첫 번째 언어.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다/책 사용법.md",
+    "Todo/TIL/2025-04-09 TIL.md",
     "🟥 Capture 임시메모(inbox)/inbox.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/책 사용법.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/첫 번째 언어.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/흰 띠를 매라.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/구체적인 기술.md",
+    "🟥 Capture 임시메모(inbox)/테코톡.md",
+    "🟥 Capture 임시메모(inbox)/장기.canvas",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/열정을 드러내라.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/2. 잔을 비우다.md",
+    "🟥 Capture 임시메모(inbox)/장기/Drawing 2025-04-02 08.44.47.excalidraw.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/함수형 인터페이스.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/자바 8.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/자바 8.canvas",
@@ -259,7 +265,7 @@
     "🟧 Organize 영구노트/🟠 Project 프로젝트/내부 메서드 뒤지기/무제 파일.canvas",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/내부 메서드 뒤지기",
     "🟧 Organize 영구노트/🟡 Area 장기적인 책임/JAVA/방어적 복사.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/프로그래머의 길, 멘토에게 묻다",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/오브젝트 총정리/오브젝트.canvas",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/형변환 함수.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/행 순서 함수.md",
@@ -268,11 +274,6 @@
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/윈도우 함수 옵션.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/숫자 함수.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/순위 함수.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/비율 함수.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/소계(총계) 함수.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/문자 함수.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/날짜 함수.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/OVER.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/3정규화후.png",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/3정규화전.png",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/2정규화전.png",
@@ -293,7 +294,6 @@
     "🟥 Capture 임시메모(inbox)/레벨 인터뷰.canvas",
     "🟥 Capture 임시메모(inbox)/레벨인터뷰/모루.canvas",
     "🟥 Capture 임시메모(inbox)/레벨인터뷰/무제 파일 1.canvas",
-    "🟥 Capture 임시메모(inbox)/장기.canvas",
     "🟥 Capture 임시메모(inbox)/체스.canvas",
     "🟥 Capture 임시메모(inbox)/블랙잭 설계.canvas"
   ]
