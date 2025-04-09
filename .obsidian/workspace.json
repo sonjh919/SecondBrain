@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지를 드러내라.md",
+                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/자신만의 지도를 그려라.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지를 드러내라.md",
+                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/자신만의 지도를 그려라.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지를 드러내라.md"
+                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/자신만의 지도를 그려라.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지를 드러내라.md",
+                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/자신만의 지도를 그려라.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,40 +240,41 @@
   },
   "active": "aefd53bcbb8c3da3",
   "lastOpenFiles": [
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/열정을 키워라.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/자신만의 지도를 그려라.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/지속적인 동기 부여.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/첫 번째 언어.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/흰 띠를 매라.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/2. 잔을 비우다.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/열정을 드러내라.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/구체적인 기술.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/예술보다 기예.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/다이어그램.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/긴 여정.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/한발 물러서라.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/깊은 쪽.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지에 맞서라.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지를 드러내라.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/구체적인 기술.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/흰 띠를 매라.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/책 사용법.md",
+    "🟥 Capture 임시메모(inbox)/inbox.md",
+    "🟥 Capture 임시메모(inbox)/테코톡.md",
     "Templates/Insert_Callout.md",
     "Todo/TIL/2025-04-09 TIL.md",
     "Templates/TIL Templete.md",
     "Templates/gitblog templete.md",
     "Templates/blog_Callout.md",
-    "🟥 Capture 임시메모(inbox)/inbox.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/책 사용법.md",
-    "🟥 Capture 임시메모(inbox)/테코톡.md",
     "🟥 Capture 임시메모(inbox)/장기.canvas",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/2. 잔을 비우다.md",
     "🟥 Capture 임시메모(inbox)/장기/Drawing 2025-04-02 08.44.47.excalidraw.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/함수형 인터페이스.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/자바 8.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/자바 8.canvas",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/익명 클래스.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/메서드 참조.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/람다 표현식.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/동작 파라미터화.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/stream.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/내부 메서드 뒤지기/알아두면 이해하기 편한 문법.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/내부 메서드 뒤지기/무제 파일.canvas",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/내부 메서드 뒤지기",
-    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/JAVA/방어적 복사.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/오브젝트 총정리/오브젝트.canvas",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/형변환 함수.md",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수/행 순서 함수.md",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/3정규화후.png",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/3정규화전.png",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/2정규화전.png",
@@ -285,7 +286,6 @@
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/문법",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/TCL",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/SQL 실행 순서",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/Query",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/Pasted image 20240327095613.png",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/Pasted image 20240327095530.png",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/Pasted image 20240327095507.png",
