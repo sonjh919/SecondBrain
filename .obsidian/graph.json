@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Java ",
@@ -116,6 +116,6 @@
   "repelStrength": 8.75,
   "linkStrength": 1,
   "linkDistance": 260,
-  "scale": 0.11660891579457368,
+  "scale": 0.22920135941749423,
   "close": true
 }
