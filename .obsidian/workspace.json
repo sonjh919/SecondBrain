@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/2. 잔을 비우다.md",
+                "file": "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/개발.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/2. 잔을 비우다.md"
+                "file": "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/개발.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/2. 잔을 비우다.md",
+                "file": "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/개발.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,8 +238,9 @@
       }
     ]
   },
-  "active": "d352c8f7ab812abe",
+  "active": "aefd53bcbb8c3da3",
   "lastOpenFiles": [
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/2. 잔을 비우다.md",
     "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/개발.md",
     "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/글쓰기.md",
     "🟧 Organize 영구노트/🟡 Area 장기적인 책임/JAVA/방어적 복사.md",
@@ -248,7 +249,6 @@
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/가장 뒤떨어진 이가 되라.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/4. 정확한 자기 평가.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/긴 여정.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/2. 잔을 비우다.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/책 사용법.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/다이어그램.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/전장에 머물러라.md",
