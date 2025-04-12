@@ -1,1621 +1,1621 @@
 {
-  "edges": [
-    {
-      "id": "a266e3184a2a2304",
-      "styleAttributes": {},
-      "fromNode": "ce4c3e2915319b96",
-      "fromSide": "left",
-      "toNode": "a9a491c57f97a6eb",
-      "toSide": "right"
-    },
-    {
-      "id": "439805aeac4519d6",
-      "styleAttributes": {},
-      "fromNode": "ce4c3e2915319b96",
-      "fromSide": "right",
-      "toNode": "ebac9301aaa17298",
-      "toSide": "left"
-    },
-    {
-      "id": "ce84f5a117ae4843",
-      "styleAttributes": {},
-      "fromNode": "ce4c3e2915319b96",
-      "fromSide": "bottom",
-      "toNode": "28222a6e040f9b27",
-      "toSide": "top"
-    },
-    {
-      "id": "054a1bd920a5f57d",
-      "styleAttributes": {},
-      "fromNode": "ab5afddbd4e0f174",
-      "fromSide": "bottom",
-      "toNode": "d2428bc94e070c0b",
-      "toSide": "top"
-    },
-    {
-      "id": "d10c3749283be375",
-      "styleAttributes": {},
-      "fromNode": "d2428bc94e070c0b",
-      "fromSide": "right",
-      "toNode": "28222a6e040f9b27",
-      "toSide": "left"
-    },
-    {
-      "id": "79d7ce0fd089d519",
-      "styleAttributes": {},
-      "fromNode": "d2428bc94e070c0b",
-      "fromSide": "bottom",
-      "toNode": "dba643fef12f4749",
-      "toSide": "top"
-    },
-    {
-      "id": "1e0fa60ee04d7f78",
-      "styleAttributes": {},
-      "fromNode": "d2428bc94e070c0b",
-      "fromSide": "left",
-      "toNode": "f78b83af9357ba3d",
-      "toSide": "right"
-    },
-    {
-      "id": "67c44b0923d6b3e1",
-      "styleAttributes": {},
-      "fromNode": "d2428bc94e070c0b",
-      "fromSide": "right",
-      "toNode": "ba8be1beb68cfb8d",
-      "toSide": "left"
-    },
-    {
-      "id": "68f973aae3fa912d",
-      "styleAttributes": {},
-      "fromNode": "d2428bc94e070c0b",
-      "fromSide": "bottom",
-      "toNode": "7d267bb2b5c82dd3",
-      "toSide": "top"
-    },
-    {
-      "id": "3910568b8c3e1a67",
-      "styleAttributes": {},
-      "fromNode": "235e9a3159330d42",
-      "fromSide": "left",
-      "toNode": "ba8be1beb68cfb8d",
-      "toSide": "right"
-    },
-    {
-      "id": "4b8d49a6a6a406b4",
-      "styleAttributes": {},
-      "fromNode": "235e9a3159330d42",
-      "fromSide": "top",
-      "toNode": "da13892308ec16c3",
-      "toSide": "bottom"
-    },
-    {
-      "id": "91c143c9fd363b27",
-      "styleAttributes": {},
-      "fromNode": "235e9a3159330d42",
-      "fromSide": "bottom",
-      "toNode": "de3a7b2c2adab946",
-      "toSide": "top"
-    },
-    {
-      "id": "35b32abc48dc049b",
-      "styleAttributes": {},
-      "fromNode": "1b39c1751319eb00",
-      "fromSide": "top",
-      "toNode": "de3a7b2c2adab946",
-      "toSide": "bottom"
-    },
-    {
-      "id": "e6cf450b3d423e14",
-      "styleAttributes": {},
-      "fromNode": "1b39c1751319eb00",
-      "fromSide": "left",
-      "toNode": "7d267bb2b5c82dd3",
-      "toSide": "bottom"
-    },
-    {
-      "id": "b3773905dcffbca7",
-      "styleAttributes": {},
-      "fromNode": "1b39c1751319eb00",
-      "fromSide": "right",
-      "toNode": "0ee32f8810a13ad8",
-      "toSide": "left"
-    },
-    {
-      "id": "2daed0d6865beb53",
-      "styleAttributes": {},
-      "fromNode": "1b39c1751319eb00",
-      "fromSide": "right",
-      "toNode": "daa9adca07fdd0f4",
-      "toSide": "left"
-    },
-    {
-      "id": "4b9789a118617611",
-      "styleAttributes": {},
-      "fromNode": "daa9adca07fdd0f4",
-      "fromSide": "bottom",
-      "toNode": "0ee32f8810a13ad8",
-      "toSide": "top",
-      "fromEnd": "arrow"
-    },
-    {
-      "id": "fcf190bb8bfdb292",
-      "styleAttributes": {},
-      "fromNode": "daa9adca07fdd0f4",
-      "fromSide": "left",
-      "toNode": "de3a7b2c2adab946",
-      "toSide": "right"
-    },
-    {
-      "id": "0bed492aaba1a7a6",
-      "styleAttributes": {},
-      "fromNode": "daa9adca07fdd0f4",
-      "fromSide": "top",
-      "toNode": "28222a6e040f9b27",
-      "toSide": "right"
-    },
-    {
-      "id": "51d9baef758ba5aa",
-      "styleAttributes": {},
-      "fromNode": "df9e27e433c7b476",
-      "fromSide": "left",
-      "toNode": "0ee32f8810a13ad8",
-      "toSide": "top"
-    },
-    {
-      "id": "e29e16b5b926f1ab",
-      "styleAttributes": {},
-      "fromNode": "df9e27e433c7b476",
-      "fromSide": "bottom",
-      "toNode": "7dd930dc9fbce33c",
-      "toSide": "top"
-    },
-    {
-      "id": "14d84d47b57cf8c6",
-      "styleAttributes": {},
-      "fromNode": "1982ebb69bcc03e7",
-      "fromSide": "bottom",
-      "toNode": "adc37c2d7dacd603",
-      "toSide": "top"
-    },
-    {
-      "id": "b07b5a68b37213f9",
-      "styleAttributes": {},
-      "fromNode": "1982ebb69bcc03e7",
-      "fromSide": "left",
-      "toNode": "9037f8fab650626d",
-      "toSide": "top"
-    },
-    {
-      "id": "9e365b2286c73db1",
-      "styleAttributes": {},
-      "fromNode": "1982ebb69bcc03e7",
-      "fromSide": "left",
-      "toNode": "14d1340faa391647",
-      "toSide": "top"
-    },
-    {
-      "id": "e9950d5a51499f5c",
-      "styleAttributes": {},
-      "fromNode": "67c7c17078f92048",
-      "fromSide": "bottom",
-      "toNode": "14d1340faa391647",
-      "toSide": "left"
-    },
-    {
-      "id": "392d8a4c37934dae",
-      "styleAttributes": {},
-      "fromNode": "adc37c2d7dacd603",
-      "fromSide": "top",
-      "toNode": "338ab8b6467ee878",
-      "toSide": "right"
-    },
-    {
-      "id": "4603eccf35c20a0f",
-      "styleAttributes": {},
-      "fromNode": "adc37c2d7dacd603",
-      "fromSide": "top",
-      "toNode": "b10aa5e1d96d527a",
-      "toSide": "left"
-    },
-    {
-      "id": "a85eb8b235ed19f9",
-      "styleAttributes": {},
-      "fromNode": "14d1340faa391647",
-      "fromSide": "right",
-      "toNode": "adc37c2d7dacd603",
-      "toSide": "left",
-      "fromEnd": "arrow"
-    },
-    {
-      "id": "93902c380c5f8545",
-      "styleAttributes": {},
-      "fromNode": "14d1340faa391647",
-      "fromSide": "bottom",
-      "toNode": "8fcf44b833b29295",
-      "toSide": "top",
-      "fromEnd": "arrow"
-    },
-    {
-      "id": "516b2e654b3451b1",
-      "styleAttributes": {},
-      "fromNode": "9037f8fab650626d",
-      "fromSide": "right",
-      "toNode": "14d1340faa391647",
-      "toSide": "left"
-    },
-    {
-      "id": "a7a3b03f24ec8903",
-      "styleAttributes": {},
-      "fromNode": "dacf7c0aa6a871ce",
-      "fromSide": "left",
-      "toNode": "14d1340faa391647",
-      "toSide": "right"
-    },
-    {
-      "id": "42f8e444d0fb7471",
-      "styleAttributes": {},
-      "fromNode": "dacf7c0aa6a871ce",
-      "fromSide": "top",
-      "toNode": "adc37c2d7dacd603",
-      "toSide": "bottom"
-    },
-    {
-      "id": "b0cf9b2140389cc5",
-      "styleAttributes": {},
-      "fromNode": "adc37c2d7dacd603",
-      "fromSide": "left",
-      "toNode": "9037f8fab650626d",
-      "toSide": "right"
-    },
-    {
-      "id": "cc624615de0d8556",
-      "styleAttributes": {},
-      "fromNode": "9037f8fab650626d",
-      "fromSide": "bottom",
-      "toNode": "dacf7c0aa6a871ce",
-      "toSide": "left"
-    },
-    {
-      "id": "33d4f75828103968",
-      "styleAttributes": {},
-      "fromNode": "8fcf44b833b29295",
-      "fromSide": "right",
-      "toNode": "adc37c2d7dacd603",
-      "toSide": "left"
-    },
-    {
-      "id": "dec0c4a253a009f9",
-      "styleAttributes": {},
-      "fromNode": "dacf7c0aa6a871ce",
-      "fromSide": "right",
-      "toNode": "b691800c6bfb9985",
-      "toSide": "left"
-    },
-    {
-      "id": "46e977e713068e80",
-      "styleAttributes": {},
-      "fromNode": "adc37c2d7dacd603",
-      "fromSide": "right",
-      "toNode": "53dc95a2e2010d2d",
-      "toSide": "left"
-    },
-    {
-      "id": "82c755e4abb3ae5a",
-      "styleAttributes": {},
-      "fromNode": "1982ebb69bcc03e7",
-      "fromSide": "right",
-      "toNode": "53dc95a2e2010d2d",
-      "toSide": "left"
-    },
-    {
-      "id": "f1ffbfc47cb5c38b",
-      "styleAttributes": {},
-      "fromNode": "adc37c2d7dacd603",
-      "fromSide": "right",
-      "toNode": "e9c149a340d42dd6",
-      "toSide": "left"
-    },
-    {
-      "id": "f4a76e4d73bd0c83",
-      "styleAttributes": {},
-      "fromNode": "53dc95a2e2010d2d",
-      "fromSide": "bottom",
-      "toNode": "e9c149a340d42dd6",
-      "toSide": "top"
-    },
-    {
-      "id": "779d9ec091e59e19",
-      "styleAttributes": {},
-      "fromNode": "dacf7c0aa6a871ce",
-      "fromSide": "top",
-      "toNode": "e9c149a340d42dd6",
-      "toSide": "bottom"
-    },
-    {
-      "id": "8dd37ea41c87b625",
-      "styleAttributes": {},
-      "fromNode": "1982ebb69bcc03e7",
-      "fromSide": "right",
-      "toNode": "dacf7c0aa6a871ce",
-      "toSide": "right"
-    },
-    {
-      "id": "ea3e4321b6d61069",
-      "styleAttributes": {},
-      "fromNode": "9f2cb8113754220d",
-      "fromSide": "bottom",
-      "toNode": "c868fed9d8ce2540",
-      "toSide": "top"
-    },
-    {
-      "id": "5a791c85215ff482",
-      "styleAttributes": {},
-      "fromNode": "9f2cb8113754220d",
-      "fromSide": "bottom",
-      "toNode": "1115f67115717a1f",
-      "toSide": "top"
-    },
-    {
-      "id": "546ec6f637549c78",
-      "styleAttributes": {},
-      "fromNode": "9f2cb8113754220d",
-      "fromSide": "left",
-      "toNode": "731c8f1e5b623378",
-      "toSide": "right"
-    },
-    {
-      "id": "4570b055e9ab6f3a",
-      "styleAttributes": {},
-      "fromNode": "9f2cb8113754220d",
-      "fromSide": "left",
-      "toNode": "58b9358232de1db8",
-      "toSide": "right"
-    },
-    {
-      "id": "266bb02f892964b3",
-      "styleAttributes": {},
-      "fromNode": "9f2cb8113754220d",
-      "fromSide": "top",
-      "toNode": "f3495c7d0d5234d6",
-      "toSide": "bottom"
-    },
-    {
-      "id": "801fe09d579c3e29",
-      "styleAttributes": {},
-      "fromNode": "9f2cb8113754220d",
-      "fromSide": "top",
-      "toNode": "f440dfacddba5c68",
-      "toSide": "bottom"
-    },
-    {
-      "id": "68295640d164fecc",
-      "styleAttributes": {},
-      "fromNode": "9f2cb8113754220d",
-      "fromSide": "top",
-      "toNode": "a74c10815235dbbe",
-      "toSide": "bottom"
-    },
-    {
-      "id": "0c51cc5bc0ecf803",
-      "styleAttributes": {},
-      "fromNode": "9f2cb8113754220d",
-      "fromSide": "right",
-      "toNode": "0a97da8d8020c6d2",
-      "toSide": "left"
-    },
-    {
-      "id": "f9a4451095ae6049",
-      "styleAttributes": {},
-      "fromNode": "9f2cb8113754220d",
-      "fromSide": "right",
-      "toNode": "b6f0d97f560d4613",
-      "toSide": "left"
-    },
-    {
-      "id": "bd9ee901b35946ed",
-      "styleAttributes": {},
-      "fromNode": "b6f0d97f560d4613",
-      "fromSide": "top",
-      "toNode": "0a97da8d8020c6d2",
-      "toSide": "bottom"
-    },
-    {
-      "id": "84956c45f9f3cbf1",
-      "styleAttributes": {},
-      "fromNode": "9f2cb8113754220d",
-      "fromSide": "right",
-      "toNode": "878d4f68c20dbcf1",
-      "toSide": "left"
-    },
-    {
-      "id": "5b525e7ae493af99",
-      "styleAttributes": {},
-      "fromNode": "878d4f68c20dbcf1",
-      "fromSide": "bottom",
-      "toNode": "c9c7562f61859bc7",
-      "toSide": "top"
-    },
-    {
-      "id": "6c00c1c0ec410ce0",
-      "styleAttributes": {},
-      "fromNode": "878d4f68c20dbcf1",
-      "fromSide": "left",
-      "toNode": "83fa3a9057fcef11",
-      "toSide": "right"
-    },
-    {
-      "id": "4f0fc44359e2a537",
-      "styleAttributes": {},
-      "fromNode": "83fa3a9057fcef11",
-      "fromSide": "top",
-      "toNode": "c868fed9d8ce2540",
-      "toSide": "bottom"
-    },
-    {
-      "id": "30ce543d48723d70",
-      "styleAttributes": {},
-      "fromNode": "83fa3a9057fcef11",
-      "fromSide": "left",
-      "toNode": "ca261fad1737f616",
-      "toSide": "right"
-    },
-    {
-      "id": "3ff5697d1a7aaf35",
-      "styleAttributes": {},
-      "fromNode": "efde645adbd309b1",
-      "fromSide": "bottom",
-      "toNode": "ca261fad1737f616",
-      "toSide": "top"
-    },
-    {
-      "id": "208e8567ee6813f9",
-      "styleAttributes": {},
-      "fromNode": "efde645adbd309b1",
-      "fromSide": "top",
-      "toNode": "1115f67115717a1f",
-      "toSide": "bottom"
-    },
-    {
-      "id": "f0da83e9a43a6c2a",
-      "styleAttributes": {},
-      "fromNode": "83fa3a9057fcef11",
-      "fromSide": "left",
-      "toNode": "efde645adbd309b1",
-      "toSide": "right"
-    },
-    {
-      "id": "9ad8b8991d01bf2c",
-      "styleAttributes": {},
-      "fromNode": "5b8bff1d0a5b9af7",
-      "fromSide": "bottom",
-      "toNode": "cce307596b6dad13",
-      "toSide": "top"
-    },
-    {
-      "id": "ef873d0a488e4b34",
-      "styleAttributes": {},
-      "fromNode": "cce307596b6dad13",
-      "fromSide": "bottom",
-      "toNode": "d4526dc05cd8d531",
-      "toSide": "top"
-    },
-    {
-      "id": "96fb8f2d56e23e9b",
-      "styleAttributes": {},
-      "fromNode": "638afd91364072f1",
-      "fromSide": "top",
-      "toNode": "d4526dc05cd8d531",
-      "toSide": "bottom"
-    },
-    {
-      "id": "458873503523a0f8",
-      "styleAttributes": {},
-      "fromNode": "1271ada981c189e0",
-      "fromSide": "bottom",
-      "toNode": "5e997eab4ed5c500",
-      "toSide": "top"
-    },
-    {
-      "id": "0aec87e222a27319",
-      "styleAttributes": {},
-      "fromNode": "5e997eab4ed5c500",
-      "fromSide": "left",
-      "toNode": "6f17c9b663ebd2ef",
-      "toSide": "right"
-    },
-    {
-      "id": "e7d039b2e6265dd5",
-      "styleAttributes": {},
-      "fromNode": "ce40a9431238b82a",
-      "fromSide": "bottom",
-      "toNode": "0d332ec8c60fa86f",
-      "toSide": "top"
-    },
-    {
-      "id": "8b04e2acb4728aa9",
-      "styleAttributes": {},
-      "fromNode": "ce40a9431238b82a",
-      "fromSide": "right",
-      "toNode": "67b96cb9a566dc33",
-      "toSide": "left"
-    },
-    {
-      "id": "6018890722cab1cc",
-      "styleAttributes": {},
-      "fromNode": "5e997eab4ed5c500",
-      "fromSide": "bottom",
-      "toNode": "d8ca59113ab21e6d",
-      "toSide": "top"
-    },
-    {
-      "id": "5efd39ff62839f3e",
-      "styleAttributes": {},
-      "fromNode": "d8ca59113ab21e6d",
-      "fromSide": "top",
-      "toNode": "67b96cb9a566dc33",
-      "toSide": "left"
-    },
-    {
-      "id": "d8bca1ac24381b6a",
-      "styleAttributes": {},
-      "fromNode": "d8ca59113ab21e6d",
-      "fromSide": "right",
-      "toNode": "bb64b3729d9b1868",
-      "toSide": "left"
-    },
-    {
-      "id": "669f44d11ea65833",
-      "styleAttributes": {},
-      "fromNode": "d8ca59113ab21e6d",
-      "fromSide": "bottom",
-      "toNode": "78ce578fdcc704ed",
-      "toSide": "top",
-      "fromEnd": "arrow"
-    },
-    {
-      "id": "6e0e33e0cec60e11",
-      "styleAttributes": {},
-      "fromNode": "d8ca59113ab21e6d",
-      "fromSide": "left",
-      "toNode": "d194ea411ff2378b",
-      "toSide": "right"
-    },
-    {
-      "id": "8d3cf5d8d3160bf3",
-      "styleAttributes": {},
-      "fromNode": "51a2bf7ceac2e0e4",
-      "fromSide": "right",
-      "toNode": "d194ea411ff2378b",
-      "toSide": "left"
-    },
-    {
-      "id": "10473f9b2ccaa501",
-      "styleAttributes": {},
-      "fromNode": "51a2bf7ceac2e0e4",
-      "fromSide": "bottom",
-      "toNode": "ccdf8f184a877bc0",
-      "toSide": "top"
-    },
-    {
-      "id": "4ef4fed0336812e5",
-      "styleAttributes": {},
-      "fromNode": "51a2bf7ceac2e0e4",
-      "fromSide": "bottom",
-      "toNode": "78ce578fdcc704ed",
-      "toSide": "left",
-      "fromEnd": "arrow"
-    },
-    {
-      "id": "6c24e70b708e7ffd",
-      "styleAttributes": {},
-      "fromNode": "51a2bf7ceac2e0e4",
-      "fromSide": "bottom",
-      "toNode": "159c679a00555679",
-      "toSide": "top",
-      "fromEnd": "arrow"
-    },
-    {
-      "id": "dbe61fab76c184b3",
-      "styleAttributes": {},
-      "fromNode": "78ce578fdcc704ed",
-      "fromSide": "left",
-      "toNode": "159c679a00555679",
-      "toSide": "right"
-    },
-    {
-      "id": "1238e2185ccff0c3",
-      "styleAttributes": {},
-      "fromNode": "78ce578fdcc704ed",
-      "fromSide": "right",
-      "toNode": "4532d96e7d0ed3c9",
-      "toSide": "left"
-    },
-    {
-      "id": "9b99fe49b4a2ea21",
-      "styleAttributes": {},
-      "fromNode": "10dd19670633cb72",
-      "fromSide": "bottom",
-      "toNode": "bf7860dd806f9df7",
-      "toSide": "top"
-    },
-    {
-      "id": "f4e0fe07e252432c",
-      "styleAttributes": {},
-      "fromNode": "10dd19670633cb72",
-      "fromSide": "bottom",
-      "toNode": "766a202a1ca03288",
-      "toSide": "top"
-    },
-    {
-      "id": "5532712ba18c2390",
-      "styleAttributes": {},
-      "fromNode": "92e5f7fd9c8bfa55",
-      "fromSide": "bottom",
-      "toNode": "1bfb88ae23004428",
-      "toSide": "top"
-    },
-    {
-      "id": "5cff63b95496f019",
-      "styleAttributes": {},
-      "fromNode": "3ce27dde39add3ee",
-      "fromSide": "left",
-      "toNode": "00c64b831dcbe674",
-      "toSide": "right"
-    },
-    {
-      "id": "075614cbc7670a7b",
-      "styleAttributes": {},
-      "fromNode": "3ce27dde39add3ee",
-      "fromSide": "bottom",
-      "toNode": "5d661ebdc0d3f1cc",
-      "toSide": "top"
-    },
-    {
-      "id": "89628c49aac2b444",
-      "styleAttributes": {},
-      "fromNode": "3ce27dde39add3ee",
-      "fromSide": "bottom",
-      "toNode": "87cb774f676388db",
-      "toSide": "top"
-    },
-    {
-      "id": "bb4b7ed8bb5ac338",
-      "styleAttributes": {},
-      "fromNode": "87cb774f676388db",
-      "fromSide": "left",
-      "toNode": "5d661ebdc0d3f1cc",
-      "toSide": "right"
-    },
-    {
-      "id": "1396f9fe5413f2ae",
-      "styleAttributes": {},
-      "fromNode": "3ce27dde39add3ee",
-      "fromSide": "right",
-      "toNode": "35b6e73b2aaa80c9",
-      "toSide": "left"
-    },
-    {
-      "id": "2aa708f0aee72460",
-      "styleAttributes": {},
-      "fromNode": "3ce27dde39add3ee",
-      "fromSide": "right",
-      "toNode": "a2fb98c8d3d44f4d",
-      "toSide": "right"
-    },
-    {
-      "id": "ba1937612464dde2",
-      "styleAttributes": {},
-      "fromNode": "87cb774f676388db",
-      "fromSide": "bottom",
-      "toNode": "a2fb98c8d3d44f4d",
-      "toSide": "top"
-    },
-    {
-      "id": "6327af8fcd2865e3",
-      "styleAttributes": {},
-      "fromNode": "87cb774f676388db",
-      "fromSide": "left",
-      "toNode": "bd2a9c0b26ad8d0a",
-      "toSide": "right"
-    },
-    {
-      "id": "2b0660a91104c169",
-      "styleAttributes": {},
-      "fromNode": "87cb774f676388db",
-      "fromSide": "left",
-      "toNode": "5a839928752d97c7",
-      "toSide": "right"
-    },
-    {
-      "id": "40448c20d7f10bb0",
-      "styleAttributes": {},
-      "fromNode": "a2fb98c8d3d44f4d",
-      "fromSide": "left",
-      "toNode": "5a839928752d97c7",
-      "toSide": "right"
-    },
-    {
-      "id": "b73c9fac9197ab4b",
-      "styleAttributes": {},
-      "fromNode": "87cb774f676388db",
-      "fromSide": "bottom",
-      "toNode": "e8126e3913d20fb7",
-      "toSide": "left"
-    },
-    {
-      "id": "f676df04801e11e9",
-      "styleAttributes": {},
-      "fromNode": "a2fb98c8d3d44f4d",
-      "fromSide": "top",
-      "toNode": "e8126e3913d20fb7",
-      "toSide": "left"
-    },
-    {
-      "id": "0ab923072385843e",
-      "styleAttributes": {},
-      "fromNode": "87cb774f676388db",
-      "fromSide": "right",
-      "toNode": "a16e4daad6e46cb8",
-      "toSide": "left"
-    },
-    {
-      "id": "3857246195af4410",
-      "styleAttributes": {},
-      "fromNode": "a2fb98c8d3d44f4d",
-      "fromSide": "top",
-      "toNode": "a16e4daad6e46cb8",
-      "toSide": "left"
-    },
-    {
-      "id": "79f8b0b4f503fa50",
-      "styleAttributes": {},
-      "fromNode": "a2fb98c8d3d44f4d",
-      "fromSide": "bottom",
-      "toNode": "fff82c0ab89493d6",
-      "toSide": "top"
-    }
-  ],
-  "nodes": [
-    {
-      "id": "3a8b2b9e95008777",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -1900,
-      "y": -420,
-      "width": 3880,
-      "height": 2980,
-      "label": "2. 잔을 비우다"
-    },
-    {
-      "id": "3b69babf72737621",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -1640,
-      "y": 2880,
-      "width": 3620,
-      "height": 2320,
-      "label": "3. 긴 여정을 걷다"
-    },
-    {
-      "id": "030e23d706eddd21",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 2680,
-      "y": 2820,
-      "width": 3100,
-      "height": 2640,
-      "label": "5. 끊임없는 학습"
-    },
-    {
-      "id": "c02e2ddc8506eac7",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 5160,
-      "y": -300,
-      "width": 2780,
-      "height": 2520,
-      "label": "6. 학습 과정의 구성"
-    },
-    {
-      "id": "f574f4d3c41002d4",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 2560,
-      "y": -400,
-      "width": 2360,
-      "height": 2960,
-      "label": "4. 정확한 자기 평가"
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/긴 여정.md",
-      "id": "7d267bb2b5c82dd3",
-      "type": "file",
-      "styleAttributes": {},
-      "x": -760,
-      "y": 1500,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/깊은 쪽.md",
-      "id": "235e9a3159330d42",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 200,
-      "y": 1020,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/피드백 루프를 만들어라.md",
-      "id": "da13892308ec16c3",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 200,
-      "y": 440,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/마음 맞는 사람들.md",
-      "id": "de3a7b2c2adab946",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 200,
-      "y": 1620,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/한발 물러서라.md",
-      "id": "1b39c1751319eb00",
-      "type": "file",
-      "styleAttributes": {},
-      "x": -160,
-      "y": 2140,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지를 드러내라.md",
-      "id": "0ee32f8810a13ad8",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 1000,
-      "y": 1700,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지에 맞서라.md",
-      "id": "daa9adca07fdd0f4",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 880,
-      "y": 1040,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/열정을 드러내라.md",
-      "id": "df9e27e433c7b476",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 1560,
-      "y": 1160,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/열정을 키워라.md",
-      "id": "7dd930dc9fbce33c",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 1560,
-      "y": 1740,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/자신만의 지도를 그려라.md",
-      "id": "adc37c2d7dacd603",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 200,
-      "y": 4100,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/흰 띠를 매라.md",
-      "id": "ce4c3e2915319b96",
-      "type": "file",
-      "styleAttributes": {},
-      "x": -260,
-      "y": -400,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/일하면서 성찰하라.md",
-      "id": "a9a491c57f97a6eb",
-      "type": "file",
-      "styleAttributes": {},
-      "x": -840,
-      "y": -80,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/부숴도 괜찮은 장난감.md",
-      "id": "28222a6e040f9b27",
-      "type": "file",
-      "styleAttributes": {},
-      "x": -260,
-      "y": 160,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/멘토를 찾아라.md",
-      "id": "ba8be1beb68cfb8d",
-      "type": "file",
-      "styleAttributes": {},
-      "x": -420,
-      "y": 1020,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/열정을 키워라.md",
-      "id": "dacf7c0aa6a871ce",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 200,
-      "y": 4700,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/직위를 지표로 이용하라.md",
-      "id": "53dc95a2e2010d2d",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 1560,
-      "y": 3400,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/또 다른 길.md",
-      "id": "8fcf44b833b29295",
-      "type": "file",
-      "styleAttributes": {},
-      "x": -780,
-      "y": 4380,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/고전을 공부하라.md",
-      "id": "b691800c6bfb9985",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 1040,
-      "y": 4780,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/예술보다 기예.md",
-      "id": "67c7c17078f92048",
-      "type": "file",
-      "styleAttributes": {},
-      "x": -980,
-      "y": 2900,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/첫 번째 언어.md",
-      "id": "d2428bc94e070c0b",
-      "type": "file",
-      "styleAttributes": {},
-      "x": -1200,
-      "y": 620,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/구체적인 기술.md",
-      "id": "ab5afddbd4e0f174",
-      "type": "file",
-      "styleAttributes": {},
-      "x": -1340,
-      "y": 20,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/더 깊이 파고들어라.md",
-      "id": "f78b83af9357ba3d",
-      "type": "file",
-      "styleAttributes": {},
-      "x": -1880,
-      "y": 680,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/능력의 폭을 넓혀라.md",
-      "id": "338ab8b6467ee878",
-      "type": "file",
-      "styleAttributes": {},
-      "x": -260,
-      "y": 3580,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/긴 여정.md",
-      "id": "14d1340faa391647",
-      "type": "file",
-      "styleAttributes": {},
-      "x": -780,
-      "y": 3660,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/지속적인 동기 부여.md",
-      "id": "9037f8fab650626d",
-      "type": "file",
-      "styleAttributes": {},
-      "x": -1620,
-      "y": 4100,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/전장에 머물러라.md",
-      "id": "1982ebb69bcc03e7",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 200,
-      "y": 3100,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/마음 맞는 사람들.md",
-      "id": "e9c149a340d42dd6",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 1420,
-      "y": 4080,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/멘토를 찾아라.md",
-      "id": "b10aa5e1d96d527a",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 840,
-      "y": 3580,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/소스를 활용하라.md",
-      "id": "dba643fef12f4749",
-      "type": "file",
-      "styleAttributes": {},
-      "x": -1220,
-      "y": 1280,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/부숴도 괜찮은 장난감.md",
-      "id": "58b9358232de1db8",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 2640,
-      "y": 0,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/피드백 루프를 만들어라.md",
-      "id": "731c8f1e5b623378",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 2580,
-      "y": 480,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/가장 뒤떨어진 이가 되라.md",
-      "id": "9f2cb8113754220d",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 3420,
-      "y": 480,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/열정을 드러내라.md",
-      "id": "0a97da8d8020c6d2",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 4500,
-      "y": 220,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/바닥을 쓸어라.md",
-      "id": "766a202a1ca03288",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 5660,
-      "y": 420,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/긴 여정.md",
-      "id": "5d661ebdc0d3f1cc",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 6140,
-      "y": 420,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/열정을 드러내라.md",
-      "id": "bd2a9c0b26ad8d0a",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 6060,
-      "y": 900,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/마음 맞는 사람들.md",
-      "id": "5a839928752d97c7",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 6060,
-      "y": 1340,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/첫 번째 언어.md",
-      "id": "e8126e3913d20fb7",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 7320,
-      "y": 940,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/전장에 머물러라.md",
-      "id": "a74c10815235dbbe",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 4220,
-      "y": -300,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/더 깊이 파고들어라.md",
-      "id": "10dd19670633cb72",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 5360,
-      "y": -280,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/가장 뒤떨어진 이가 되라.md",
-      "id": "bf7860dd806f9df7",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 5180,
-      "y": 420,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/고전을 공부하라.md",
-      "id": "3ce27dde39add3ee",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 6760,
-      "y": -280,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지를 드러내라.md",
-      "id": "00c64b831dcbe674",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 6060,
-      "y": -280,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/꾸준히 읽어라.md",
-      "id": "87cb774f676388db",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 6760,
-      "y": 420,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/도서 목록.md",
-      "id": "a2fb98c8d3d44f4d",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 6760,
-      "y": 1240,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/일하면서 성찰하라.md",
-      "id": "35b6e73b2aaa80c9",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 7520,
-      "y": -280,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/멘토를 찾아라.md",
-      "id": "a16e4daad6e46cb8",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 7520,
-      "y": 420,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/연습, 연습, 또 연습.md",
-      "id": "ebac9301aaa17298",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 380,
-      "y": -200,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/구체적인 기술.md",
-      "id": "f3495c7d0d5234d6",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 3200,
-      "y": -380,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/일하면서 성찰하라.md",
-      "id": "f440dfacddba5c68",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 3720,
-      "y": -380,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/열정을 키워라.md",
-      "id": "c868fed9d8ce2540",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 3420,
-      "y": 1100,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/마음 맞는 사람들.md",
-      "id": "83fa3a9057fcef11",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 3420,
-      "y": 1780,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/멘토를 찾아라.md",
-      "id": "efde645adbd309b1",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 2700,
-      "y": 1580,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/배운 것을 공유하라.md",
-      "id": "51a2bf7ceac2e0e4",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 3260,
-      "y": 4240,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/가장 뒤떨어진 이가 되라.md",
-      "id": "d194ea411ff2378b",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 3880,
-      "y": 4240,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/배운 것을 공유하라.md",
-      "id": "fff82c0ab89493d6",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 6760,
-      "y": 1800,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/자신만의 지도를 그려라.md",
-      "id": "cce307596b6dad13",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 2700,
-      "y": 3380,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/능력의 폭을 넓혀라.md",
-      "id": "d4526dc05cd8d531",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 2700,
-      "y": 3920,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/멘토를 찾아라.md",
-      "id": "638afd91364072f1",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 2700,
-      "y": 4480,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/연습, 연습, 또 연습.md",
-      "id": "5e997eab4ed5c500",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 3880,
-      "y": 3420,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/구체적인 기술.md",
-      "id": "6f17c9b663ebd2ef",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 3260,
-      "y": 3420,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/피드백 루프를 만들어라.md",
-      "id": "ce40a9431238b82a",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 4500,
-      "y": 2840,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/일하면서 성찰하라.md",
-      "id": "0d332ec8c60fa86f",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 4500,
-      "y": 3420,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/흰 띠를 매라.md",
-      "id": "67b96cb9a566dc33",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 5360,
-      "y": 3260,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/배운 것을 기록하라.md",
-      "id": "78ce578fdcc704ed",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 4280,
-      "y": 4880,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/부숴도 괜찮은 장난감.md",
-      "id": "d8ca59113ab21e6d",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 4500,
-      "y": 4240,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/바닥을 쓸어라.md",
-      "id": "b6f0d97f560d4613",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 4500,
-      "y": 800,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/깊은 쪽.md",
-      "id": "1115f67115717a1f",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 2700,
-      "y": 1020,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/긴 여정.md",
-      "id": "ca261fad1737f616",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 2700,
-      "y": 2140,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/팔꿈치를 맞대고.md",
-      "id": "878d4f68c20dbcf1",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 4360,
-      "y": 1240,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/배운 것을 기록하라.md",
-      "id": "c9c7562f61859bc7",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 4360,
-      "y": 1820,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/실패하는 법을 배워라.md",
-      "id": "5b8bff1d0a5b9af7",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 2700,
-      "y": 2840,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지에 맞서라.md",
-      "id": "bb64b3729d9b1868",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 5300,
-      "y": 3980,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/익숙한 도구들.md",
-      "id": "92e5f7fd9c8bfa55",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 5500,
-      "y": 1000,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/부숴도 괜찮은 장난감.md",
-      "id": "1bfb88ae23004428",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 5500,
-      "y": 1540,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/소스를 활용하라.md",
-      "id": "1271ada981c189e0",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 3880,
-      "y": 2840,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/바닥을 쓸어라.md",
-      "id": "ccdf8f184a877bc0",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 3040,
-      "y": 4940,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/마음 맞는 사람들.md",
-      "id": "159c679a00555679",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 3540,
-      "y": 5040,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/꾸준히 읽어라.md",
-      "id": "4532d96e7d0ed3c9",
-      "type": "file",
-      "styleAttributes": {},
-      "x": 5060,
-      "y": 4700,
-      "width": 400,
-      "height": 400
-    }
-  ],
-  "metadata": {}
+	"edges":[
+		{
+			"id":"a266e3184a2a2304",
+			"styleAttributes":{},
+			"fromNode":"ce4c3e2915319b96",
+			"fromSide":"left",
+			"toNode":"a9a491c57f97a6eb",
+			"toSide":"right"
+		},
+		{
+			"id":"439805aeac4519d6",
+			"styleAttributes":{},
+			"fromNode":"ce4c3e2915319b96",
+			"fromSide":"right",
+			"toNode":"ebac9301aaa17298",
+			"toSide":"left"
+		},
+		{
+			"id":"ce84f5a117ae4843",
+			"styleAttributes":{},
+			"fromNode":"ce4c3e2915319b96",
+			"fromSide":"bottom",
+			"toNode":"28222a6e040f9b27",
+			"toSide":"top"
+		},
+		{
+			"id":"054a1bd920a5f57d",
+			"styleAttributes":{},
+			"fromNode":"ab5afddbd4e0f174",
+			"fromSide":"bottom",
+			"toNode":"d2428bc94e070c0b",
+			"toSide":"top"
+		},
+		{
+			"id":"d10c3749283be375",
+			"styleAttributes":{},
+			"fromNode":"d2428bc94e070c0b",
+			"fromSide":"right",
+			"toNode":"28222a6e040f9b27",
+			"toSide":"left"
+		},
+		{
+			"id":"79d7ce0fd089d519",
+			"styleAttributes":{},
+			"fromNode":"d2428bc94e070c0b",
+			"fromSide":"bottom",
+			"toNode":"dba643fef12f4749",
+			"toSide":"top"
+		},
+		{
+			"id":"1e0fa60ee04d7f78",
+			"styleAttributes":{},
+			"fromNode":"d2428bc94e070c0b",
+			"fromSide":"left",
+			"toNode":"f78b83af9357ba3d",
+			"toSide":"right"
+		},
+		{
+			"id":"67c44b0923d6b3e1",
+			"styleAttributes":{},
+			"fromNode":"d2428bc94e070c0b",
+			"fromSide":"right",
+			"toNode":"ba8be1beb68cfb8d",
+			"toSide":"left"
+		},
+		{
+			"id":"68f973aae3fa912d",
+			"styleAttributes":{},
+			"fromNode":"d2428bc94e070c0b",
+			"fromSide":"bottom",
+			"toNode":"7d267bb2b5c82dd3",
+			"toSide":"top"
+		},
+		{
+			"id":"3910568b8c3e1a67",
+			"styleAttributes":{},
+			"fromNode":"235e9a3159330d42",
+			"fromSide":"left",
+			"toNode":"ba8be1beb68cfb8d",
+			"toSide":"right"
+		},
+		{
+			"id":"4b8d49a6a6a406b4",
+			"styleAttributes":{},
+			"fromNode":"235e9a3159330d42",
+			"fromSide":"top",
+			"toNode":"da13892308ec16c3",
+			"toSide":"bottom"
+		},
+		{
+			"id":"91c143c9fd363b27",
+			"styleAttributes":{},
+			"fromNode":"235e9a3159330d42",
+			"fromSide":"bottom",
+			"toNode":"de3a7b2c2adab946",
+			"toSide":"top"
+		},
+		{
+			"id":"35b32abc48dc049b",
+			"styleAttributes":{},
+			"fromNode":"1b39c1751319eb00",
+			"fromSide":"top",
+			"toNode":"de3a7b2c2adab946",
+			"toSide":"bottom"
+		},
+		{
+			"id":"e6cf450b3d423e14",
+			"styleAttributes":{},
+			"fromNode":"1b39c1751319eb00",
+			"fromSide":"left",
+			"toNode":"7d267bb2b5c82dd3",
+			"toSide":"bottom"
+		},
+		{
+			"id":"b3773905dcffbca7",
+			"styleAttributes":{},
+			"fromNode":"1b39c1751319eb00",
+			"fromSide":"right",
+			"toNode":"0ee32f8810a13ad8",
+			"toSide":"left"
+		},
+		{
+			"id":"2daed0d6865beb53",
+			"styleAttributes":{},
+			"fromNode":"1b39c1751319eb00",
+			"fromSide":"right",
+			"toNode":"daa9adca07fdd0f4",
+			"toSide":"left"
+		},
+		{
+			"id":"4b9789a118617611",
+			"styleAttributes":{},
+			"fromNode":"daa9adca07fdd0f4",
+			"fromSide":"bottom",
+			"toNode":"0ee32f8810a13ad8",
+			"toSide":"top",
+			"fromEnd":"arrow"
+		},
+		{
+			"id":"fcf190bb8bfdb292",
+			"styleAttributes":{},
+			"fromNode":"daa9adca07fdd0f4",
+			"fromSide":"left",
+			"toNode":"de3a7b2c2adab946",
+			"toSide":"right"
+		},
+		{
+			"id":"0bed492aaba1a7a6",
+			"styleAttributes":{},
+			"fromNode":"daa9adca07fdd0f4",
+			"fromSide":"top",
+			"toNode":"28222a6e040f9b27",
+			"toSide":"right"
+		},
+		{
+			"id":"51d9baef758ba5aa",
+			"styleAttributes":{},
+			"fromNode":"df9e27e433c7b476",
+			"fromSide":"left",
+			"toNode":"0ee32f8810a13ad8",
+			"toSide":"top"
+		},
+		{
+			"id":"e29e16b5b926f1ab",
+			"styleAttributes":{},
+			"fromNode":"df9e27e433c7b476",
+			"fromSide":"bottom",
+			"toNode":"7dd930dc9fbce33c",
+			"toSide":"top"
+		},
+		{
+			"id":"14d84d47b57cf8c6",
+			"styleAttributes":{},
+			"fromNode":"1982ebb69bcc03e7",
+			"fromSide":"bottom",
+			"toNode":"adc37c2d7dacd603",
+			"toSide":"top"
+		},
+		{
+			"id":"b07b5a68b37213f9",
+			"styleAttributes":{},
+			"fromNode":"1982ebb69bcc03e7",
+			"fromSide":"left",
+			"toNode":"9037f8fab650626d",
+			"toSide":"top"
+		},
+		{
+			"id":"9e365b2286c73db1",
+			"styleAttributes":{},
+			"fromNode":"1982ebb69bcc03e7",
+			"fromSide":"left",
+			"toNode":"14d1340faa391647",
+			"toSide":"top"
+		},
+		{
+			"id":"e9950d5a51499f5c",
+			"styleAttributes":{},
+			"fromNode":"67c7c17078f92048",
+			"fromSide":"bottom",
+			"toNode":"14d1340faa391647",
+			"toSide":"left"
+		},
+		{
+			"id":"392d8a4c37934dae",
+			"styleAttributes":{},
+			"fromNode":"adc37c2d7dacd603",
+			"fromSide":"top",
+			"toNode":"338ab8b6467ee878",
+			"toSide":"right"
+		},
+		{
+			"id":"4603eccf35c20a0f",
+			"styleAttributes":{},
+			"fromNode":"adc37c2d7dacd603",
+			"fromSide":"top",
+			"toNode":"b10aa5e1d96d527a",
+			"toSide":"left"
+		},
+		{
+			"id":"a85eb8b235ed19f9",
+			"styleAttributes":{},
+			"fromNode":"14d1340faa391647",
+			"fromSide":"right",
+			"toNode":"adc37c2d7dacd603",
+			"toSide":"left",
+			"fromEnd":"arrow"
+		},
+		{
+			"id":"93902c380c5f8545",
+			"styleAttributes":{},
+			"fromNode":"14d1340faa391647",
+			"fromSide":"bottom",
+			"toNode":"8fcf44b833b29295",
+			"toSide":"top",
+			"fromEnd":"arrow"
+		},
+		{
+			"id":"516b2e654b3451b1",
+			"styleAttributes":{},
+			"fromNode":"9037f8fab650626d",
+			"fromSide":"right",
+			"toNode":"14d1340faa391647",
+			"toSide":"left"
+		},
+		{
+			"id":"a7a3b03f24ec8903",
+			"styleAttributes":{},
+			"fromNode":"dacf7c0aa6a871ce",
+			"fromSide":"left",
+			"toNode":"14d1340faa391647",
+			"toSide":"right"
+		},
+		{
+			"id":"42f8e444d0fb7471",
+			"styleAttributes":{},
+			"fromNode":"dacf7c0aa6a871ce",
+			"fromSide":"top",
+			"toNode":"adc37c2d7dacd603",
+			"toSide":"bottom"
+		},
+		{
+			"id":"b0cf9b2140389cc5",
+			"styleAttributes":{},
+			"fromNode":"adc37c2d7dacd603",
+			"fromSide":"left",
+			"toNode":"9037f8fab650626d",
+			"toSide":"right"
+		},
+		{
+			"id":"cc624615de0d8556",
+			"styleAttributes":{},
+			"fromNode":"9037f8fab650626d",
+			"fromSide":"bottom",
+			"toNode":"dacf7c0aa6a871ce",
+			"toSide":"left"
+		},
+		{
+			"id":"33d4f75828103968",
+			"styleAttributes":{},
+			"fromNode":"8fcf44b833b29295",
+			"fromSide":"right",
+			"toNode":"adc37c2d7dacd603",
+			"toSide":"left"
+		},
+		{
+			"id":"dec0c4a253a009f9",
+			"styleAttributes":{},
+			"fromNode":"dacf7c0aa6a871ce",
+			"fromSide":"right",
+			"toNode":"b691800c6bfb9985",
+			"toSide":"left"
+		},
+		{
+			"id":"46e977e713068e80",
+			"styleAttributes":{},
+			"fromNode":"adc37c2d7dacd603",
+			"fromSide":"right",
+			"toNode":"53dc95a2e2010d2d",
+			"toSide":"left"
+		},
+		{
+			"id":"82c755e4abb3ae5a",
+			"styleAttributes":{},
+			"fromNode":"1982ebb69bcc03e7",
+			"fromSide":"right",
+			"toNode":"53dc95a2e2010d2d",
+			"toSide":"left"
+		},
+		{
+			"id":"f1ffbfc47cb5c38b",
+			"styleAttributes":{},
+			"fromNode":"adc37c2d7dacd603",
+			"fromSide":"right",
+			"toNode":"e9c149a340d42dd6",
+			"toSide":"left"
+		},
+		{
+			"id":"f4a76e4d73bd0c83",
+			"styleAttributes":{},
+			"fromNode":"53dc95a2e2010d2d",
+			"fromSide":"bottom",
+			"toNode":"e9c149a340d42dd6",
+			"toSide":"top"
+		},
+		{
+			"id":"779d9ec091e59e19",
+			"styleAttributes":{},
+			"fromNode":"dacf7c0aa6a871ce",
+			"fromSide":"top",
+			"toNode":"e9c149a340d42dd6",
+			"toSide":"bottom"
+		},
+		{
+			"id":"8dd37ea41c87b625",
+			"styleAttributes":{},
+			"fromNode":"1982ebb69bcc03e7",
+			"fromSide":"right",
+			"toNode":"dacf7c0aa6a871ce",
+			"toSide":"right"
+		},
+		{
+			"id":"ea3e4321b6d61069",
+			"styleAttributes":{},
+			"fromNode":"9f2cb8113754220d",
+			"fromSide":"bottom",
+			"toNode":"c868fed9d8ce2540",
+			"toSide":"top"
+		},
+		{
+			"id":"5a791c85215ff482",
+			"styleAttributes":{},
+			"fromNode":"9f2cb8113754220d",
+			"fromSide":"bottom",
+			"toNode":"1115f67115717a1f",
+			"toSide":"top"
+		},
+		{
+			"id":"546ec6f637549c78",
+			"styleAttributes":{},
+			"fromNode":"9f2cb8113754220d",
+			"fromSide":"left",
+			"toNode":"731c8f1e5b623378",
+			"toSide":"right"
+		},
+		{
+			"id":"4570b055e9ab6f3a",
+			"styleAttributes":{},
+			"fromNode":"9f2cb8113754220d",
+			"fromSide":"left",
+			"toNode":"58b9358232de1db8",
+			"toSide":"right"
+		},
+		{
+			"id":"266bb02f892964b3",
+			"styleAttributes":{},
+			"fromNode":"9f2cb8113754220d",
+			"fromSide":"top",
+			"toNode":"f3495c7d0d5234d6",
+			"toSide":"bottom"
+		},
+		{
+			"id":"801fe09d579c3e29",
+			"styleAttributes":{},
+			"fromNode":"9f2cb8113754220d",
+			"fromSide":"top",
+			"toNode":"f440dfacddba5c68",
+			"toSide":"bottom"
+		},
+		{
+			"id":"68295640d164fecc",
+			"styleAttributes":{},
+			"fromNode":"9f2cb8113754220d",
+			"fromSide":"top",
+			"toNode":"a74c10815235dbbe",
+			"toSide":"bottom"
+		},
+		{
+			"id":"0c51cc5bc0ecf803",
+			"styleAttributes":{},
+			"fromNode":"9f2cb8113754220d",
+			"fromSide":"right",
+			"toNode":"0a97da8d8020c6d2",
+			"toSide":"left"
+		},
+		{
+			"id":"f9a4451095ae6049",
+			"styleAttributes":{},
+			"fromNode":"9f2cb8113754220d",
+			"fromSide":"right",
+			"toNode":"b6f0d97f560d4613",
+			"toSide":"left"
+		},
+		{
+			"id":"bd9ee901b35946ed",
+			"styleAttributes":{},
+			"fromNode":"b6f0d97f560d4613",
+			"fromSide":"top",
+			"toNode":"0a97da8d8020c6d2",
+			"toSide":"bottom"
+		},
+		{
+			"id":"84956c45f9f3cbf1",
+			"styleAttributes":{},
+			"fromNode":"9f2cb8113754220d",
+			"fromSide":"right",
+			"toNode":"878d4f68c20dbcf1",
+			"toSide":"left"
+		},
+		{
+			"id":"5b525e7ae493af99",
+			"styleAttributes":{},
+			"fromNode":"878d4f68c20dbcf1",
+			"fromSide":"bottom",
+			"toNode":"c9c7562f61859bc7",
+			"toSide":"top"
+		},
+		{
+			"id":"6c00c1c0ec410ce0",
+			"styleAttributes":{},
+			"fromNode":"878d4f68c20dbcf1",
+			"fromSide":"left",
+			"toNode":"83fa3a9057fcef11",
+			"toSide":"right"
+		},
+		{
+			"id":"4f0fc44359e2a537",
+			"styleAttributes":{},
+			"fromNode":"83fa3a9057fcef11",
+			"fromSide":"top",
+			"toNode":"c868fed9d8ce2540",
+			"toSide":"bottom"
+		},
+		{
+			"id":"30ce543d48723d70",
+			"styleAttributes":{},
+			"fromNode":"83fa3a9057fcef11",
+			"fromSide":"left",
+			"toNode":"ca261fad1737f616",
+			"toSide":"right"
+		},
+		{
+			"id":"3ff5697d1a7aaf35",
+			"styleAttributes":{},
+			"fromNode":"efde645adbd309b1",
+			"fromSide":"bottom",
+			"toNode":"ca261fad1737f616",
+			"toSide":"top"
+		},
+		{
+			"id":"208e8567ee6813f9",
+			"styleAttributes":{},
+			"fromNode":"efde645adbd309b1",
+			"fromSide":"top",
+			"toNode":"1115f67115717a1f",
+			"toSide":"bottom"
+		},
+		{
+			"id":"f0da83e9a43a6c2a",
+			"styleAttributes":{},
+			"fromNode":"83fa3a9057fcef11",
+			"fromSide":"left",
+			"toNode":"efde645adbd309b1",
+			"toSide":"right"
+		},
+		{
+			"id":"9ad8b8991d01bf2c",
+			"styleAttributes":{},
+			"fromNode":"5b8bff1d0a5b9af7",
+			"fromSide":"bottom",
+			"toNode":"cce307596b6dad13",
+			"toSide":"top"
+		},
+		{
+			"id":"ef873d0a488e4b34",
+			"styleAttributes":{},
+			"fromNode":"cce307596b6dad13",
+			"fromSide":"bottom",
+			"toNode":"d4526dc05cd8d531",
+			"toSide":"top"
+		},
+		{
+			"id":"96fb8f2d56e23e9b",
+			"styleAttributes":{},
+			"fromNode":"638afd91364072f1",
+			"fromSide":"top",
+			"toNode":"d4526dc05cd8d531",
+			"toSide":"bottom"
+		},
+		{
+			"id":"458873503523a0f8",
+			"styleAttributes":{},
+			"fromNode":"1271ada981c189e0",
+			"fromSide":"bottom",
+			"toNode":"5e997eab4ed5c500",
+			"toSide":"top"
+		},
+		{
+			"id":"0aec87e222a27319",
+			"styleAttributes":{},
+			"fromNode":"5e997eab4ed5c500",
+			"fromSide":"left",
+			"toNode":"6f17c9b663ebd2ef",
+			"toSide":"right"
+		},
+		{
+			"id":"e7d039b2e6265dd5",
+			"styleAttributes":{},
+			"fromNode":"ce40a9431238b82a",
+			"fromSide":"bottom",
+			"toNode":"0d332ec8c60fa86f",
+			"toSide":"top"
+		},
+		{
+			"id":"8b04e2acb4728aa9",
+			"styleAttributes":{},
+			"fromNode":"ce40a9431238b82a",
+			"fromSide":"right",
+			"toNode":"67b96cb9a566dc33",
+			"toSide":"left"
+		},
+		{
+			"id":"6018890722cab1cc",
+			"styleAttributes":{},
+			"fromNode":"5e997eab4ed5c500",
+			"fromSide":"bottom",
+			"toNode":"d8ca59113ab21e6d",
+			"toSide":"top"
+		},
+		{
+			"id":"5efd39ff62839f3e",
+			"styleAttributes":{},
+			"fromNode":"d8ca59113ab21e6d",
+			"fromSide":"top",
+			"toNode":"67b96cb9a566dc33",
+			"toSide":"left"
+		},
+		{
+			"id":"d8bca1ac24381b6a",
+			"styleAttributes":{},
+			"fromNode":"d8ca59113ab21e6d",
+			"fromSide":"right",
+			"toNode":"bb64b3729d9b1868",
+			"toSide":"left"
+		},
+		{
+			"id":"669f44d11ea65833",
+			"styleAttributes":{},
+			"fromNode":"d8ca59113ab21e6d",
+			"fromSide":"bottom",
+			"toNode":"78ce578fdcc704ed",
+			"toSide":"top",
+			"fromEnd":"arrow"
+		},
+		{
+			"id":"6e0e33e0cec60e11",
+			"styleAttributes":{},
+			"fromNode":"d8ca59113ab21e6d",
+			"fromSide":"left",
+			"toNode":"d194ea411ff2378b",
+			"toSide":"right"
+		},
+		{
+			"id":"8d3cf5d8d3160bf3",
+			"styleAttributes":{},
+			"fromNode":"51a2bf7ceac2e0e4",
+			"fromSide":"right",
+			"toNode":"d194ea411ff2378b",
+			"toSide":"left"
+		},
+		{
+			"id":"10473f9b2ccaa501",
+			"styleAttributes":{},
+			"fromNode":"51a2bf7ceac2e0e4",
+			"fromSide":"bottom",
+			"toNode":"ccdf8f184a877bc0",
+			"toSide":"top"
+		},
+		{
+			"id":"4ef4fed0336812e5",
+			"styleAttributes":{},
+			"fromNode":"51a2bf7ceac2e0e4",
+			"fromSide":"bottom",
+			"toNode":"78ce578fdcc704ed",
+			"toSide":"left",
+			"fromEnd":"arrow"
+		},
+		{
+			"id":"6c24e70b708e7ffd",
+			"styleAttributes":{},
+			"fromNode":"51a2bf7ceac2e0e4",
+			"fromSide":"bottom",
+			"toNode":"159c679a00555679",
+			"toSide":"top",
+			"fromEnd":"arrow"
+		},
+		{
+			"id":"dbe61fab76c184b3",
+			"styleAttributes":{},
+			"fromNode":"78ce578fdcc704ed",
+			"fromSide":"left",
+			"toNode":"159c679a00555679",
+			"toSide":"right"
+		},
+		{
+			"id":"1238e2185ccff0c3",
+			"styleAttributes":{},
+			"fromNode":"78ce578fdcc704ed",
+			"fromSide":"right",
+			"toNode":"4532d96e7d0ed3c9",
+			"toSide":"left"
+		},
+		{
+			"id":"9b99fe49b4a2ea21",
+			"styleAttributes":{},
+			"fromNode":"10dd19670633cb72",
+			"fromSide":"bottom",
+			"toNode":"bf7860dd806f9df7",
+			"toSide":"top"
+		},
+		{
+			"id":"f4e0fe07e252432c",
+			"styleAttributes":{},
+			"fromNode":"10dd19670633cb72",
+			"fromSide":"bottom",
+			"toNode":"766a202a1ca03288",
+			"toSide":"top"
+		},
+		{
+			"id":"5532712ba18c2390",
+			"styleAttributes":{},
+			"fromNode":"92e5f7fd9c8bfa55",
+			"fromSide":"bottom",
+			"toNode":"1bfb88ae23004428",
+			"toSide":"top"
+		},
+		{
+			"id":"5cff63b95496f019",
+			"styleAttributes":{},
+			"fromNode":"3ce27dde39add3ee",
+			"fromSide":"left",
+			"toNode":"00c64b831dcbe674",
+			"toSide":"right"
+		},
+		{
+			"id":"075614cbc7670a7b",
+			"styleAttributes":{},
+			"fromNode":"3ce27dde39add3ee",
+			"fromSide":"bottom",
+			"toNode":"5d661ebdc0d3f1cc",
+			"toSide":"top"
+		},
+		{
+			"id":"89628c49aac2b444",
+			"styleAttributes":{},
+			"fromNode":"3ce27dde39add3ee",
+			"fromSide":"bottom",
+			"toNode":"87cb774f676388db",
+			"toSide":"top"
+		},
+		{
+			"id":"bb4b7ed8bb5ac338",
+			"styleAttributes":{},
+			"fromNode":"87cb774f676388db",
+			"fromSide":"left",
+			"toNode":"5d661ebdc0d3f1cc",
+			"toSide":"right"
+		},
+		{
+			"id":"1396f9fe5413f2ae",
+			"styleAttributes":{},
+			"fromNode":"3ce27dde39add3ee",
+			"fromSide":"right",
+			"toNode":"35b6e73b2aaa80c9",
+			"toSide":"left"
+		},
+		{
+			"id":"2aa708f0aee72460",
+			"styleAttributes":{},
+			"fromNode":"3ce27dde39add3ee",
+			"fromSide":"right",
+			"toNode":"a2fb98c8d3d44f4d",
+			"toSide":"right"
+		},
+		{
+			"id":"ba1937612464dde2",
+			"styleAttributes":{},
+			"fromNode":"87cb774f676388db",
+			"fromSide":"bottom",
+			"toNode":"a2fb98c8d3d44f4d",
+			"toSide":"top"
+		},
+		{
+			"id":"6327af8fcd2865e3",
+			"styleAttributes":{},
+			"fromNode":"87cb774f676388db",
+			"fromSide":"left",
+			"toNode":"bd2a9c0b26ad8d0a",
+			"toSide":"right"
+		},
+		{
+			"id":"2b0660a91104c169",
+			"styleAttributes":{},
+			"fromNode":"87cb774f676388db",
+			"fromSide":"left",
+			"toNode":"5a839928752d97c7",
+			"toSide":"right"
+		},
+		{
+			"id":"40448c20d7f10bb0",
+			"styleAttributes":{},
+			"fromNode":"a2fb98c8d3d44f4d",
+			"fromSide":"left",
+			"toNode":"5a839928752d97c7",
+			"toSide":"right"
+		},
+		{
+			"id":"b73c9fac9197ab4b",
+			"styleAttributes":{},
+			"fromNode":"87cb774f676388db",
+			"fromSide":"bottom",
+			"toNode":"e8126e3913d20fb7",
+			"toSide":"left"
+		},
+		{
+			"id":"f676df04801e11e9",
+			"styleAttributes":{},
+			"fromNode":"a2fb98c8d3d44f4d",
+			"fromSide":"top",
+			"toNode":"e8126e3913d20fb7",
+			"toSide":"left"
+		},
+		{
+			"id":"0ab923072385843e",
+			"styleAttributes":{},
+			"fromNode":"87cb774f676388db",
+			"fromSide":"right",
+			"toNode":"a16e4daad6e46cb8",
+			"toSide":"left"
+		},
+		{
+			"id":"3857246195af4410",
+			"styleAttributes":{},
+			"fromNode":"a2fb98c8d3d44f4d",
+			"fromSide":"top",
+			"toNode":"a16e4daad6e46cb8",
+			"toSide":"left"
+		},
+		{
+			"id":"79f8b0b4f503fa50",
+			"styleAttributes":{},
+			"fromNode":"a2fb98c8d3d44f4d",
+			"fromSide":"bottom",
+			"toNode":"fff82c0ab89493d6",
+			"toSide":"top"
+		}
+	],
+	"nodes":[
+		{
+			"id":"3a8b2b9e95008777",
+			"type":"group",
+			"styleAttributes":{},
+			"x":-1900,
+			"y":-420,
+			"width":3880,
+			"height":2980,
+			"label":"2. 잔을 비우다"
+		},
+		{
+			"id":"3b69babf72737621",
+			"type":"group",
+			"styleAttributes":{},
+			"x":-1640,
+			"y":2880,
+			"width":3620,
+			"height":2320,
+			"label":"3. 긴 여정을 걷다"
+		},
+		{
+			"id":"030e23d706eddd21",
+			"type":"group",
+			"styleAttributes":{},
+			"x":2680,
+			"y":2820,
+			"width":3100,
+			"height":2640,
+			"label":"5. 끊임없는 학습"
+		},
+		{
+			"id":"c02e2ddc8506eac7",
+			"type":"group",
+			"styleAttributes":{},
+			"x":5160,
+			"y":-300,
+			"width":2780,
+			"height":2520,
+			"label":"6. 학습 과정의 구성"
+		},
+		{
+			"id":"f574f4d3c41002d4",
+			"type":"group",
+			"styleAttributes":{},
+			"x":2560,
+			"y":-400,
+			"width":2360,
+			"height":2960,
+			"label":"4. 정확한 자기 평가"
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/직위를 지표로 이용하라.md",
+			"id":"53dc95a2e2010d2d",
+			"type":"file",
+			"styleAttributes":{},
+			"x":1560,
+			"y":3400,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/고전을 공부하라.md",
+			"id":"b691800c6bfb9985",
+			"type":"file",
+			"styleAttributes":{},
+			"x":1040,
+			"y":4780,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/마음 맞는 사람들.md",
+			"id":"e9c149a340d42dd6",
+			"type":"file",
+			"styleAttributes":{},
+			"x":1420,
+			"y":4080,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/멘토를 찾아라.md",
+			"id":"b10aa5e1d96d527a",
+			"type":"file",
+			"styleAttributes":{},
+			"x":840,
+			"y":3580,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/부숴도 괜찮은 장난감.md",
+			"id":"58b9358232de1db8",
+			"type":"file",
+			"styleAttributes":{},
+			"x":2640,
+			"y":0,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/피드백 루프를 만들어라.md",
+			"id":"731c8f1e5b623378",
+			"type":"file",
+			"styleAttributes":{},
+			"x":2580,
+			"y":480,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/가장 뒤떨어진 이가 되라.md",
+			"id":"9f2cb8113754220d",
+			"type":"file",
+			"styleAttributes":{},
+			"x":3420,
+			"y":480,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/열정을 드러내라.md",
+			"id":"0a97da8d8020c6d2",
+			"type":"file",
+			"styleAttributes":{},
+			"x":4500,
+			"y":220,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/바닥을 쓸어라.md",
+			"id":"766a202a1ca03288",
+			"type":"file",
+			"styleAttributes":{},
+			"x":5660,
+			"y":420,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/긴 여정.md",
+			"id":"5d661ebdc0d3f1cc",
+			"type":"file",
+			"styleAttributes":{},
+			"x":6140,
+			"y":420,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/열정을 드러내라.md",
+			"id":"bd2a9c0b26ad8d0a",
+			"type":"file",
+			"styleAttributes":{},
+			"x":6060,
+			"y":900,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/마음 맞는 사람들.md",
+			"id":"5a839928752d97c7",
+			"type":"file",
+			"styleAttributes":{},
+			"x":6060,
+			"y":1340,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/첫 번째 언어.md",
+			"id":"e8126e3913d20fb7",
+			"type":"file",
+			"styleAttributes":{},
+			"x":7320,
+			"y":940,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/전장에 머물러라.md",
+			"id":"a74c10815235dbbe",
+			"type":"file",
+			"styleAttributes":{},
+			"x":4220,
+			"y":-300,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/더 깊이 파고들어라.md",
+			"id":"10dd19670633cb72",
+			"type":"file",
+			"styleAttributes":{},
+			"x":5360,
+			"y":-280,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/가장 뒤떨어진 이가 되라.md",
+			"id":"bf7860dd806f9df7",
+			"type":"file",
+			"styleAttributes":{},
+			"x":5180,
+			"y":420,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/고전을 공부하라.md",
+			"id":"3ce27dde39add3ee",
+			"type":"file",
+			"styleAttributes":{},
+			"x":6760,
+			"y":-280,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지를 드러내라.md",
+			"id":"00c64b831dcbe674",
+			"type":"file",
+			"styleAttributes":{},
+			"x":6060,
+			"y":-280,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/꾸준히 읽어라.md",
+			"id":"87cb774f676388db",
+			"type":"file",
+			"styleAttributes":{},
+			"x":6760,
+			"y":420,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/독서 목록.md",
+			"id":"a2fb98c8d3d44f4d",
+			"type":"file",
+			"styleAttributes":{},
+			"x":6760,
+			"y":1240,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/일하면서 성찰하라.md",
+			"id":"35b6e73b2aaa80c9",
+			"type":"file",
+			"styleAttributes":{},
+			"x":7520,
+			"y":-280,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/멘토를 찾아라.md",
+			"id":"a16e4daad6e46cb8",
+			"type":"file",
+			"styleAttributes":{},
+			"x":7520,
+			"y":420,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/구체적인 기술.md",
+			"id":"f3495c7d0d5234d6",
+			"type":"file",
+			"styleAttributes":{},
+			"x":3200,
+			"y":-380,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/일하면서 성찰하라.md",
+			"id":"f440dfacddba5c68",
+			"type":"file",
+			"styleAttributes":{},
+			"x":3720,
+			"y":-380,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/열정을 키워라.md",
+			"id":"c868fed9d8ce2540",
+			"type":"file",
+			"styleAttributes":{},
+			"x":3420,
+			"y":1100,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/마음 맞는 사람들.md",
+			"id":"83fa3a9057fcef11",
+			"type":"file",
+			"styleAttributes":{},
+			"x":3420,
+			"y":1780,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/멘토를 찾아라.md",
+			"id":"efde645adbd309b1",
+			"type":"file",
+			"styleAttributes":{},
+			"x":2700,
+			"y":1580,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/배운 것을 공유하라.md",
+			"id":"51a2bf7ceac2e0e4",
+			"type":"file",
+			"styleAttributes":{},
+			"x":3260,
+			"y":4240,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/가장 뒤떨어진 이가 되라.md",
+			"id":"d194ea411ff2378b",
+			"type":"file",
+			"styleAttributes":{},
+			"x":3880,
+			"y":4240,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/배운 것을 공유하라.md",
+			"id":"fff82c0ab89493d6",
+			"type":"file",
+			"styleAttributes":{},
+			"x":6760,
+			"y":1800,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/자신만의 지도를 그려라.md",
+			"id":"cce307596b6dad13",
+			"type":"file",
+			"styleAttributes":{},
+			"x":2700,
+			"y":3380,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/능력의 폭을 넓혀라.md",
+			"id":"d4526dc05cd8d531",
+			"type":"file",
+			"styleAttributes":{},
+			"x":2700,
+			"y":3920,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/멘토를 찾아라.md",
+			"id":"638afd91364072f1",
+			"type":"file",
+			"styleAttributes":{},
+			"x":2700,
+			"y":4480,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/연습, 연습, 또 연습.md",
+			"id":"5e997eab4ed5c500",
+			"type":"file",
+			"styleAttributes":{},
+			"x":3880,
+			"y":3420,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/구체적인 기술.md",
+			"id":"6f17c9b663ebd2ef",
+			"type":"file",
+			"styleAttributes":{},
+			"x":3260,
+			"y":3420,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/피드백 루프를 만들어라.md",
+			"id":"ce40a9431238b82a",
+			"type":"file",
+			"styleAttributes":{},
+			"x":4500,
+			"y":2840,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/일하면서 성찰하라.md",
+			"id":"0d332ec8c60fa86f",
+			"type":"file",
+			"styleAttributes":{},
+			"x":4500,
+			"y":3420,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/흰 띠를 매라.md",
+			"id":"67b96cb9a566dc33",
+			"type":"file",
+			"styleAttributes":{},
+			"x":5360,
+			"y":3260,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/배운 것을 기록하라.md",
+			"id":"78ce578fdcc704ed",
+			"type":"file",
+			"styleAttributes":{},
+			"x":4280,
+			"y":4880,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/부숴도 괜찮은 장난감.md",
+			"id":"d8ca59113ab21e6d",
+			"type":"file",
+			"styleAttributes":{},
+			"x":4500,
+			"y":4240,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/바닥을 쓸어라.md",
+			"id":"b6f0d97f560d4613",
+			"type":"file",
+			"styleAttributes":{},
+			"x":4500,
+			"y":800,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/깊은 쪽.md",
+			"id":"1115f67115717a1f",
+			"type":"file",
+			"styleAttributes":{},
+			"x":2700,
+			"y":1020,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/긴 여정.md",
+			"id":"ca261fad1737f616",
+			"type":"file",
+			"styleAttributes":{},
+			"x":2700,
+			"y":2140,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/팔꿈치를 맞대고.md",
+			"id":"878d4f68c20dbcf1",
+			"type":"file",
+			"styleAttributes":{},
+			"x":4360,
+			"y":1240,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/배운 것을 기록하라.md",
+			"id":"c9c7562f61859bc7",
+			"type":"file",
+			"styleAttributes":{},
+			"x":4360,
+			"y":1820,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/실패하는 법을 배워라.md",
+			"id":"5b8bff1d0a5b9af7",
+			"type":"file",
+			"styleAttributes":{},
+			"x":2700,
+			"y":2840,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지에 맞서라.md",
+			"id":"bb64b3729d9b1868",
+			"type":"file",
+			"styleAttributes":{},
+			"x":5300,
+			"y":3980,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/익숙한 도구들.md",
+			"id":"92e5f7fd9c8bfa55",
+			"type":"file",
+			"styleAttributes":{},
+			"x":5500,
+			"y":1000,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/부숴도 괜찮은 장난감.md",
+			"id":"1bfb88ae23004428",
+			"type":"file",
+			"styleAttributes":{},
+			"x":5500,
+			"y":1540,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/소스를 활용하라.md",
+			"id":"1271ada981c189e0",
+			"type":"file",
+			"styleAttributes":{},
+			"x":3880,
+			"y":2840,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/바닥을 쓸어라.md",
+			"id":"ccdf8f184a877bc0",
+			"type":"file",
+			"styleAttributes":{},
+			"x":3040,
+			"y":4940,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/마음 맞는 사람들.md",
+			"id":"159c679a00555679",
+			"type":"file",
+			"styleAttributes":{},
+			"x":3540,
+			"y":5040,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/꾸준히 읽어라.md",
+			"id":"4532d96e7d0ed3c9",
+			"type":"file",
+			"styleAttributes":{},
+			"x":5060,
+			"y":4700,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/깊은 쪽.md",
+			"id":"235e9a3159330d42",
+			"type":"file",
+			"styleAttributes":{},
+			"x":200,
+			"y":1020,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/피드백 루프를 만들어라.md",
+			"id":"da13892308ec16c3",
+			"type":"file",
+			"styleAttributes":{},
+			"x":200,
+			"y":440,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/마음 맞는 사람들.md",
+			"id":"de3a7b2c2adab946",
+			"type":"file",
+			"styleAttributes":{},
+			"x":200,
+			"y":1620,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지를 드러내라.md",
+			"id":"0ee32f8810a13ad8",
+			"type":"file",
+			"styleAttributes":{},
+			"x":1000,
+			"y":1700,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지에 맞서라.md",
+			"id":"daa9adca07fdd0f4",
+			"type":"file",
+			"styleAttributes":{},
+			"x":880,
+			"y":1040,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/열정을 드러내라.md",
+			"id":"df9e27e433c7b476",
+			"type":"file",
+			"styleAttributes":{},
+			"x":1560,
+			"y":1160,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/열정을 키워라.md",
+			"id":"7dd930dc9fbce33c",
+			"type":"file",
+			"styleAttributes":{},
+			"x":1560,
+			"y":1740,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/흰 띠를 매라.md",
+			"id":"ce4c3e2915319b96",
+			"type":"file",
+			"styleAttributes":{},
+			"x":-260,
+			"y":-400,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/일하면서 성찰하라.md",
+			"id":"a9a491c57f97a6eb",
+			"type":"file",
+			"styleAttributes":{},
+			"x":-840,
+			"y":-80,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/긴 여정.md",
+			"id":"7d267bb2b5c82dd3",
+			"type":"file",
+			"styleAttributes":{},
+			"x":-760,
+			"y":1500,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/한발 물러서라.md",
+			"id":"1b39c1751319eb00",
+			"type":"file",
+			"styleAttributes":{},
+			"x":-160,
+			"y":2140,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/부숴도 괜찮은 장난감.md",
+			"id":"28222a6e040f9b27",
+			"type":"file",
+			"styleAttributes":{},
+			"x":-260,
+			"y":160,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/멘토를 찾아라.md",
+			"id":"ba8be1beb68cfb8d",
+			"type":"file",
+			"styleAttributes":{},
+			"x":-420,
+			"y":1020,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/첫 번째 언어.md",
+			"id":"d2428bc94e070c0b",
+			"type":"file",
+			"styleAttributes":{},
+			"x":-1200,
+			"y":620,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/구체적인 기술.md",
+			"id":"ab5afddbd4e0f174",
+			"type":"file",
+			"styleAttributes":{},
+			"x":-1340,
+			"y":20,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/더 깊이 파고들어라.md",
+			"id":"f78b83af9357ba3d",
+			"type":"file",
+			"styleAttributes":{},
+			"x":-1880,
+			"y":680,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/소스를 활용하라.md",
+			"id":"dba643fef12f4749",
+			"type":"file",
+			"styleAttributes":{},
+			"x":-1220,
+			"y":1280,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/연습, 연습, 또 연습.md",
+			"id":"ebac9301aaa17298",
+			"type":"file",
+			"styleAttributes":{},
+			"x":380,
+			"y":-200,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/예술보다 기예.md",
+			"id":"67c7c17078f92048",
+			"type":"file",
+			"styleAttributes":{},
+			"x":-980,
+			"y":2900,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/전장에 머물러라.md",
+			"id":"1982ebb69bcc03e7",
+			"type":"file",
+			"styleAttributes":{},
+			"x":200,
+			"y":3100,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/능력의 폭을 넓혀라.md",
+			"id":"338ab8b6467ee878",
+			"type":"file",
+			"styleAttributes":{},
+			"x":-260,
+			"y":3580,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/긴 여정.md",
+			"id":"14d1340faa391647",
+			"type":"file",
+			"styleAttributes":{},
+			"x":-780,
+			"y":3660,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/자신만의 지도를 그려라.md",
+			"id":"adc37c2d7dacd603",
+			"type":"file",
+			"styleAttributes":{},
+			"x":200,
+			"y":4100,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/지속적인 동기 부여.md",
+			"id":"9037f8fab650626d",
+			"type":"file",
+			"styleAttributes":{},
+			"x":-1620,
+			"y":4100,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/또 다른 길.md",
+			"id":"8fcf44b833b29295",
+			"type":"file",
+			"styleAttributes":{},
+			"x":-780,
+			"y":4380,
+			"width":400,
+			"height":400
+		},
+		{
+			"file":"🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/열정을 키워라.md",
+			"id":"dacf7c0aa6a871ce",
+			"type":"file",
+			"styleAttributes":{},
+			"x":200,
+			"y":4700,
+			"width":400,
+			"height":400
+		}
+	],
+	"metadata":{}
 }

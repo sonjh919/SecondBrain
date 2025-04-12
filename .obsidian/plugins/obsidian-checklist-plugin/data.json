@@ -1,5 +1,5 @@
 {
-  "todoPageName": "TIL",
+  "todoPageName": "TODO",
   "showChecked": false,
   "showAllTodos": true,
   "autoRefresh": true,
@@ -9,11 +9,9 @@
   "sortDirectionGroups": "new->old",
   "sortDirectionSubGroups": "new->old",
   "includeFiles": "",
-  "lookAndFeel": "classic",
+  "lookAndFeel": "compact",
   "_collapsedSections": [
     "Project/BlockChain/분산 시스템.md"
   ],
-  "_hiddenTags": [
-    "todo"
-  ]
+  "_hiddenTags": []
 }

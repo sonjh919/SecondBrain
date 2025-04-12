@@ -11,14 +11,12 @@
             "id": "aefd53bcbb8c3da3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 연관관계.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 목록.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -89,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 연관관계.canvas",
+                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 목록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 연관관계.canvas"
+                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 목록.md"
               }
             }
           },
@@ -143,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 연관관계.canvas",
+                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 목록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,37 +232,37 @@
       }
     ]
   },
-  "active": "28c0689a8d137f4d",
+  "active": "aefd53bcbb8c3da3",
   "lastOpenFiles": [
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/5. 끊임없는 학습.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 목록.md",
     "Todo/2025-04-12.md",
-    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/개발.md",
+    "Todo/2025-01-17 회고 ⁚.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/독서 목록.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/가장 뒤떨어진 이가 되라.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 연관관계.canvas",
+    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/개발.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/익숙한 도구들.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/더 깊이 파고들어라.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/고전을 공부하라.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/꾸준히 읽어라.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/도서 목록.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성",
     "Todo/2025-04-11.md",
     "🟥 Capture 임시메모(inbox)/장기/장기말 설계.md",
-    "Todo/2025-01-17 회고 ⁚.md",
     "Templates/TODO Templete.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/2. 잔을 비우다.md",
     "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/글쓰기.md",
     "🟧 Organize 영구노트/🟡 Area 장기적인 책임/JAVA/방어적 복사.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지를 드러내라.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지에 맞서라.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/가장 뒤떨어진 이가 되라.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/4. 정확한 자기 평가.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/긴 여정.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/책 사용법.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/다이어그램.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/전장에 머물러라.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/3. 긴 여정을 걷다.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/또 다른 길.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/직위를 지표로 이용하라.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/자신만의 지도를 그려라.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다",
     "🟥 Capture 임시메모(inbox)/장기.canvas",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다",
