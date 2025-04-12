@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 목록.md",
+                "file": "🟥 Capture 임시메모(inbox)/inbox.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 목록.md",
+                "file": "🟥 Capture 임시메모(inbox)/inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 목록.md"
+                "file": "🟥 Capture 임시메모(inbox)/inbox.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 목록.md",
+                "file": "🟥 Capture 임시메모(inbox)/inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,101 +200,63 @@
       "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "8d9d33526c2112e9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3aec347dfde7ac2e",
-        "type": "window",
-        "children": [
-          {
-            "id": "56f8661033c74a0c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d352c8f7ab812abe",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/2. 잔을 비우다.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "aefd53bcbb8c3da3",
   "lastOpenFiles": [
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/5. 끊임없는 학습.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 목록.md",
-    "Todo/2025-04-12.md",
-    "Todo/2025-01-17 회고 ⁚.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/독서 목록.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/가장 뒤떨어진 이가 되라.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 연관관계.canvas",
-    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/개발.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/익숙한 도구들.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/더 깊이 파고들어라.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/고전을 공부하라.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/꾸준히 읽어라.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성",
-    "Todo/2025-04-11.md",
-    "🟥 Capture 임시메모(inbox)/장기/장기말 설계.md",
-    "Templates/TODO Templete.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/2. 잔을 비우다.md",
-    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/독서/책 목록/글쓰기.md",
-    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/JAVA/방어적 복사.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지를 드러내라.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지에 맞서라.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/4. 정확한 자기 평가.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/긴 여정.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/책 사용법.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/전장에 머물러라.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/3. 긴 여정을 걷다.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/또 다른 길.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/직위를 지표로 이용하라.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 목록.md",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/이선좌 프로젝트/개발/1.mp4",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/이선좌 프로젝트/개발/시연영상.md",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/이선좌 프로젝트/이선좌 프로젝트.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/2. 잔을 비우다.md",
+    "🟧 Organize 영구노트/🟣 Archive 보관소/img/이선좌/1.mp4",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/모던 자바 인 액션/Part1/람다 표현식.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/모던 자바 인 액션/Part1/동작 파라미터화.md",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/img/JPA/SimpleJapRepository.png",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/img/Spring/filter.png",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/ELK/NHN/Pasted image 20240402175319.png",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/img/Spring/jwpex3.png",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/img/Book/도메인 주도 개발 시작하기/bc3.png",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/img/이선좌/Pasted image 20240612235246.png",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/img/Error/parameters.png",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/ELK/NHN/Pasted image 20240402185852.png",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/ELK/NHN/Pasted image 20240402185908.png",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/img/대용량트래픽/Pasted image 20240126225608.png",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/오브젝트/오브젝트 총정리/오브젝트.canvas",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/level1/장기.canvas",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/level1/장기말 설계.md",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/level1/블랙잭 설계.canvas",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/level1/레벨 인터뷰.canvas",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/모던 자바 인 액션/Part1/자바 8.canvas",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/오브젝트/06 메시지와 인터페이스.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/객체지향의 사실과 오해/05 책임과 메시지.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/오브젝트/05 책임 할당하기.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/객체지향의 사실과 오해/04 역할, 책임, 협력.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/객체지향의 사실과 오해/06 객체 지도.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/오브젝트/13 서브클래싱과 서브타이핑.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/오브젝트/02 객체지향 프로그래밍.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/객체지향의 사실과 오해/01 협력하는 객체들의 공동체.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/객체지향의 사실과 오해/03 타입과 추상화.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/객체지향의 사실과 오해/02 이상한 나라의 객체.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/도메인 주도 개발 시작하기/7. 도메인 서비스/도메인 서비스.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/CS/Network/HTTP 상태 코드.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Software Pattern/Design Pattern/행동 패턴/Proxy Pattern.md",
+    "🟧 Organize 영구노트/🟣 Resource 관심분야/JPA/데이터 타입/값 타입.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/오브젝트/04 설계 품질과 트레이드오프.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JAVA/개발 환경/JVM/Thread 제어.md",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/ELK/02 엘라스틱서치 기본 동작과 구조/ES 내부 구조와 루씬.md",
+    "🟧 Organize 영구노트/🟣 Resource 관심분야/Spring/Spring과 객체지향/AOP.md",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/level1",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품",
+    "🟧 Organize 영구노트/🟡 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Graph",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 2 - 좀비가 희생물을 공격하다",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 4 - 좀비 전투 시스템",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 연관관계.canvas",
     "🟥 Capture 임시메모(inbox)/장기.canvas",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/자바 8.canvas",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/내부 메서드 뒤지기/무제 파일.canvas",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/내부 메서드 뒤지기",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/오브젝트 총정리/오브젝트.canvas",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/3정규화후.png",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/3정규화전.png",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/2정규화전.png",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/2정규화후.png",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/1정규화후.png",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화/1정규화전.png",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/함수",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/정규화",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/RDB/SQL/문법",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/Pasted image 20240327095613.png",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/Pasted image 20240327095530.png",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/Database/Pasted image 20240327095507.png",
-    "🟧 Organize 영구노트/🟡 Area 장기적인 책임/Database/RDB/SQL/정규화/3정규화후.png",
-    "무제 파일.canvas",
-    "🟥 Capture 임시메모(inbox)/레벨 인터뷰.canvas",
-    "🟥 Capture 임시메모(inbox)/레벨인터뷰/모루.canvas",
-    "🟥 Capture 임시메모(inbox)/레벨인터뷰/무제 파일 1.canvas",
-    "🟥 Capture 임시메모(inbox)/체스.canvas"
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/오브젝트 총정리/오브젝트.canvas"
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "accentColor": "#6e6e6e",
-  "cssTheme": "Things",
+  "accentColor": "#d89bee",
+  "cssTheme": "",
   "enabledCssSnippets": [
     "color-extend",
     "extended-colorschemes",
@@ -8,10 +8,10 @@
     "obsidian-css",
     "list_line"
   ],
-  "theme": "moonstone",
+  "theme": "obsidian",
   "interfaceFontFamily": "맑은 고딕",
   "textFontFamily": "고도 M",
   "monospaceFontFamily": "G마켓 산스",
-  "baseFontSize": 16,
+  "baseFontSize": 15,
   "nativeMenus": false
 }

@@ -1,0 +1,2195 @@
+{
+  "edges": [
+    {
+      "fromNode": "193c690c26438636",
+      "fromSide": "right",
+      "id": "a5a55b9f88a7e96e",
+      "label": "기물이 존재하는지 확인해라\n",
+      "styleAttributes": {
+      },
+      "toNode": "51d46da0b2dd6b7f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "193c690c26438636",
+      "fromSide": "top",
+      "id": "cdfbc6e476330414",
+      "label": "같은 팀인지 확인해라",
+      "styleAttributes": {
+      },
+      "toNode": "51d46da0b2dd6b7f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "193c690c26438636",
+      "fromSide": "bottom",
+      "id": "c237e830a9f39fb7",
+      "label": "나가라. 이 포지션은 내 자리다.",
+      "styleAttributes": {
+      },
+      "toNode": "436366a4e710ddee",
+      "toSide": "left"
+    },
+    {
+      "color": "2",
+      "fromNode": "1a000d7c1f54b094",
+      "fromSide": "right",
+      "id": "dafed7c0a3fd0838",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "455f942f17f6b8dd",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1a000d7c1f54b094",
+      "fromSide": "left",
+      "id": "686f03ae44d0c2b6",
+      "label": "이동해라\n(Position dst)",
+      "styleAttributes": {
+      },
+      "toNode": "d2d368e7480ecef4",
+      "toSide": "right"
+    },
+    {
+      "color": "6",
+      "fromNode": "d2d368e7480ecef4",
+      "fromSide": "bottom",
+      "id": "bf8d6798058aebd4",
+      "label": "이동하라(Position dst), 위임",
+      "styleAttributes": {
+      },
+      "toNode": "193c690c26438636",
+      "toSide": "top"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "193c690c26438636",
+      "fromSide": "left",
+      "id": "905da43be12a43c8",
+      "styleAttributes": {
+      },
+      "toNode": "52dd1e4e5ee92b8c",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "52dd1e4e5ee92b8c",
+      "fromSide": "bottom",
+      "id": "d51732e63e55ab6c",
+      "styleAttributes": {
+      },
+      "toNode": "005292be084a3658",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "52dd1e4e5ee92b8c",
+      "fromSide": "bottom",
+      "id": "003f886db2884ef9",
+      "styleAttributes": {
+      },
+      "toNode": "721c7f8d47aea3df",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "52dd1e4e5ee92b8c",
+      "fromSide": "bottom",
+      "id": "9e5f6fa58f20f20a",
+      "styleAttributes": {
+      },
+      "toNode": "748e9120be903ba7",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "52dd1e4e5ee92b8c",
+      "fromSide": "bottom",
+      "id": "4a20475e6d53e469",
+      "styleAttributes": {
+      },
+      "toNode": "c2d3ce9c2cdf0665",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "52dd1e4e5ee92b8c",
+      "fromSide": "bottom",
+      "id": "58f96c2378de10ae",
+      "styleAttributes": {
+      },
+      "toNode": "1d44f9cf85eb58de",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "52dd1e4e5ee92b8c",
+      "fromSide": "bottom",
+      "id": "6ee617b612af0f4c",
+      "styleAttributes": {
+      },
+      "toNode": "59d3ce55ec3088ed",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "52dd1e4e5ee92b8c",
+      "fromSide": "bottom",
+      "id": "cab90c564f3c1c6d",
+      "styleAttributes": {
+      },
+      "toNode": "aa115bae6ca91d70",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4222483962032a9f",
+      "fromSide": "bottom",
+      "id": "d50519b550e24aa5",
+      "label": "이동해라",
+      "styleAttributes": {
+      },
+      "toNode": "455f942f17f6b8dd",
+      "toSide": "right"
+    },
+    {
+      "color": "6",
+      "fromNode": "51d46da0b2dd6b7f",
+      "fromSide": "bottom",
+      "id": "adbb10a619ced64e",
+      "label": "같은 팀인지 확인해라, 위임",
+      "styleAttributes": {
+      },
+      "toNode": "436366a4e710ddee",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "59d3ce55ec3088ed",
+      "fromSide": "top",
+      "id": "a57b518a17304961",
+      "label": "포인가?",
+      "styleAttributes": {
+      },
+      "toNode": "51d46da0b2dd6b7f",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "51d46da0b2dd6b7f",
+      "fromSide": "right",
+      "id": "a28b8dcf12393b75",
+      "label": "포인가?, 위임",
+      "styleAttributes": {
+      },
+      "toNode": "436366a4e710ddee",
+      "toSide": "right"
+    },
+    {
+      "color": "4",
+      "fromNode": "8683bac343d4a9c8",
+      "fromSide": "bottom",
+      "id": "63534de2f4edbb20",
+      "styleAttributes": {
+      },
+      "toNode": "32c554b681e7e7d6",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "332a1ca9b85620fc",
+      "fromSide": "bottom",
+      "id": "80b1185014462dd1",
+      "styleAttributes": {
+      },
+      "toNode": "32c554b681e7e7d6",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "7409227d9c931051",
+      "fromSide": "bottom",
+      "id": "25a3ca2755eec8e9",
+      "styleAttributes": {
+      },
+      "toNode": "32c554b681e7e7d6",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "bbd11248a28bbc97",
+      "fromSide": "bottom",
+      "id": "f5218c16d61dcb02",
+      "styleAttributes": {
+      },
+      "toNode": "32c554b681e7e7d6",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "32c554b681e7e7d6",
+      "fromSide": "bottom",
+      "id": "c1d4cfb96bcff032",
+      "label": "<create>",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "toNode": "1a000d7c1f54b094",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1a000d7c1f54b094",
+      "fromSide": "top",
+      "id": "a431c56f128e3a45",
+      "label": "같은 팀 말을 움직이는가?",
+      "styleAttributes": {
+      },
+      "toNode": "d2d368e7480ecef4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "d2d368e7480ecef4",
+      "fromSide": "left",
+      "id": "d752fc1332863fe0",
+      "label": "같은 팀 말을 \n움직이는가?\n, 위임",
+      "styleAttributes": {
+      },
+      "toNode": "193c690c26438636",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "193c690c26438636",
+      "fromSide": "right",
+      "id": "16aabe6c29448182",
+      "label": "내 턴과 같은 팀의 말인가?",
+      "styleAttributes": {
+      },
+      "toNode": "48b0d55f80c34253",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4222483962032a9f",
+      "fromSide": "bottom",
+      "id": "375933cd4824124c",
+      "label": "턴을 교체해라",
+      "styleAttributes": {
+      },
+      "toNode": "48b0d55f80c34253",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "193c690c26438636",
+      "fromSide": "bottom",
+      "id": "afdc80c396ebd4fc",
+      "label": "이동하라",
+      "styleAttributes": {
+      },
+      "toNode": "51d46da0b2dd6b7f",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "4222483962032a9f",
+      "fromSide": "left",
+      "id": "28c261300aab91fe",
+      "label": "게임을 끝낼 수 있는가?",
+      "styleAttributes": {
+      },
+      "toNode": "1a000d7c1f54b094",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4222483962032a9f",
+      "fromSide": "top",
+      "id": "eecb9f67c5cefa79",
+      "label": "입력받기",
+      "styleAttributes": {
+      },
+      "toNode": "6986ad8c89595147",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "4222483962032a9f",
+      "fromSide": "top",
+      "id": "e067c645543a1088",
+      "label": "<create>",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "toNode": "1a000d7c1f54b094",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "1a000d7c1f54b094",
+      "fromSide": "top",
+      "id": "c989f6bb5a7bdf74",
+      "label": "<create>",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "toNode": "52dd1e4e5ee92b8c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "098f524a5e6ba1fa",
+      "fromSide": "right",
+      "id": "e5cc234f91276ec4",
+      "label": "기물이 존재하는지 확인해라\nboolean isExist()",
+      "styleAttributes": {
+      },
+      "toNode": "8cf5b0c52feca1cd",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "098f524a5e6ba1fa",
+      "fromSide": "bottom",
+      "id": "23d6c119c90fa1f7",
+      "label": "나가라. 이 포지션은 내 자리다.",
+      "styleAttributes": {
+      },
+      "toNode": "4c1be8c4ba75bbb6",
+      "toSide": "left"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "098f524a5e6ba1fa",
+      "fromSide": "left",
+      "id": "62b113bb85f9cfc7",
+      "styleAttributes": {
+      },
+      "toNode": "bf60b458c71b3ad5",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "098f524a5e6ba1fa",
+      "fromSide": "right",
+      "id": "fcc20441ba55f8d9",
+      "label": "내 턴과 같은 팀의 말인가?\nvoid validateMoveablePiece(team)",
+      "styleAttributes": {
+      },
+      "toNode": "fa56618ec783380d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "098f524a5e6ba1fa",
+      "fromSide": "bottom",
+      "id": "3f747389c9388f9a",
+      "label": "이동하라\nvoid move(Piece piece)",
+      "styleAttributes": {
+      },
+      "toNode": "8cf5b0c52feca1cd",
+      "toSide": "bottom"
+    },
+    {
+      "color": "6",
+      "fromNode": "81ccb8e0414d2cad",
+      "fromSide": "bottom",
+      "id": "c599644bf8d4376a",
+      "label": "이동하라\nvoid move(Position dst)",
+      "styleAttributes": {
+      },
+      "toNode": "098f524a5e6ba1fa",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bf60b458c71b3ad5",
+      "fromSide": "bottom",
+      "id": "0ddacd4d6c4b7767",
+      "styleAttributes": {
+      },
+      "toNode": "3b5eb93ad6654194",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bf60b458c71b3ad5",
+      "fromSide": "bottom",
+      "id": "4de763598bcb0704",
+      "styleAttributes": {
+      },
+      "toNode": "1874548c82781da7",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bf60b458c71b3ad5",
+      "fromSide": "bottom",
+      "id": "6efcd43c1d60e07e",
+      "styleAttributes": {
+      },
+      "toNode": "662b8dbae1fe1a14",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bf60b458c71b3ad5",
+      "fromSide": "bottom",
+      "id": "e55ec0a36c0c16d3",
+      "styleAttributes": {
+      },
+      "toNode": "66279dbf64196900",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bf60b458c71b3ad5",
+      "fromSide": "bottom",
+      "id": "ef334c4f62cfd7d6",
+      "styleAttributes": {
+      },
+      "toNode": "8f6c7489b1643001",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bf60b458c71b3ad5",
+      "fromSide": "bottom",
+      "id": "6ea0402445d89f46",
+      "styleAttributes": {
+      },
+      "toNode": "1f0e90d3130d1636",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bf60b458c71b3ad5",
+      "fromSide": "bottom",
+      "id": "7e7e5e0cebedd195",
+      "styleAttributes": {
+      },
+      "toNode": "3880a8b189d9743d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e72bb1676bc2580c",
+      "fromSide": "top",
+      "id": "ccfdd830fc6fbe28",
+      "label": "<create>",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "toNode": "bf60b458c71b3ad5",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1f0e90d3130d1636",
+      "fromSide": "top",
+      "id": "4c38f6f4243580e1",
+      "label": "포인가?",
+      "styleAttributes": {
+      },
+      "toNode": "8cf5b0c52feca1cd",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "e72bb1676bc2580c",
+      "fromSide": "left",
+      "id": "aff4687a4ed1b638",
+      "label": "이동해라\nvoid move(Position dst)",
+      "styleAttributes": {
+      },
+      "toNode": "81ccb8e0414d2cad",
+      "toSide": "right"
+    },
+    {
+      "color": "6",
+      "fromNode": "8cf5b0c52feca1cd",
+      "fromSide": "bottom",
+      "id": "972f3ed212416a45",
+      "label": "같은 팀인지 확인해라, 위임",
+      "styleAttributes": {
+      },
+      "toNode": "4c1be8c4ba75bbb6",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "8cf5b0c52feca1cd",
+      "fromSide": "right",
+      "id": "6af7ca692b555a4c",
+      "label": "포인가?, 위임",
+      "styleAttributes": {
+      },
+      "toNode": "4c1be8c4ba75bbb6",
+      "toSide": "right"
+    },
+    {
+      "color": "4",
+      "fromNode": "477db62e54b86d3a",
+      "fromSide": "bottom",
+      "id": "f551e069f92c7455",
+      "styleAttributes": {
+      },
+      "toNode": "2c46c4a79cb7d38a",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "eb128e037ad3849e",
+      "fromSide": "bottom",
+      "id": "7a8a8f100d243af4",
+      "styleAttributes": {
+      },
+      "toNode": "2c46c4a79cb7d38a",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "c4092fdd7a7e4460",
+      "fromSide": "bottom",
+      "id": "182882b25712590a",
+      "styleAttributes": {
+      },
+      "toNode": "2c46c4a79cb7d38a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "2c46c4a79cb7d38a",
+      "fromSide": "bottom",
+      "id": "d7b6cb287e131732",
+      "label": "<create>",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "toNode": "e72bb1676bc2580c",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "b94893658730e889",
+      "fromSide": "bottom",
+      "id": "8ec46a4619102e83",
+      "styleAttributes": {
+      },
+      "toNode": "2c46c4a79cb7d38a",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "e72bb1676bc2580c",
+      "fromSide": "right",
+      "id": "b2e78bc354fa776e",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "fc76fbca0197c167",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "46abdf94fe434cfb",
+      "fromSide": "left",
+      "id": "43df9cf08156f92d",
+      "label": "게임이 끝났는가?\nboolean isGameOver()",
+      "styleAttributes": {
+      },
+      "toNode": "e72bb1676bc2580c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "46abdf94fe434cfb",
+      "fromSide": "top",
+      "id": "ef41a2e575b918f8",
+      "label": "<create>",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "toNode": "e72bb1676bc2580c",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "46abdf94fe434cfb",
+      "fromSide": "bottom",
+      "id": "dd2d1e9199e09799",
+      "label": "턴을 교체해라\nvoid nextTurn()",
+      "styleAttributes": {
+      },
+      "toNode": "fa56618ec783380d",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "46abdf94fe434cfb",
+      "fromSide": "bottom",
+      "id": "026ca3a881554f6b",
+      "label": "이동해라\nvoid move(Position src, Position dst)",
+      "styleAttributes": {
+      },
+      "toNode": "fc76fbca0197c167",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "46abdf94fe434cfb",
+      "fromSide": "top",
+      "id": "36e5adeace9a25cb",
+      "label": "입력받기",
+      "styleAttributes": {
+      },
+      "toNode": "d3a490d33ef53463",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "46abdf94fe434cfb",
+      "fromSide": "left",
+      "id": "a850faf4e6b56feb",
+      "label": "<create>",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "toNode": "fa56618ec783380d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "46abdf94fe434cfb",
+      "fromSide": "right",
+      "id": "a16359787144aee7",
+      "label": "승자는 누구인가?\nTeam winner()",
+      "styleAttributes": {
+      },
+      "toNode": "fa56618ec783380d",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "322e2bc0cb66834c",
+      "fromSide": "bottom",
+      "id": "8a4c644343f22470",
+      "styleAttributes": {
+      },
+      "toNode": "a9e04353dfbe48dd",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "322e2bc0cb66834c",
+      "fromSide": "bottom",
+      "id": "bc2c710c5389dc97",
+      "styleAttributes": {
+      },
+      "toNode": "d728c57437c0d030",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "322e2bc0cb66834c",
+      "fromSide": "bottom",
+      "id": "64c084b05ed3f829",
+      "styleAttributes": {
+      },
+      "toNode": "3f9d79c1fd57120a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "322e2bc0cb66834c",
+      "fromSide": "bottom",
+      "id": "072828908c45d59e",
+      "styleAttributes": {
+      },
+      "toNode": "88e26a70b0d48dd4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "322e2bc0cb66834c",
+      "fromSide": "bottom",
+      "id": "7d2a1ec52e1995f7",
+      "styleAttributes": {
+      },
+      "toNode": "70df613384ecaaa1",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "322e2bc0cb66834c",
+      "fromSide": "bottom",
+      "id": "a8c86d8762d7e30d",
+      "styleAttributes": {
+      },
+      "toNode": "f71e4e10a6f7dbd4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "322e2bc0cb66834c",
+      "fromSide": "bottom",
+      "id": "ee870f155bdc2310",
+      "styleAttributes": {
+      },
+      "toNode": "8be7bd5657ea42fc",
+      "toSide": "top"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "81ecfac127a254cc",
+      "fromSide": "left",
+      "id": "f2fda1f90378af5a",
+      "styleAttributes": {
+      },
+      "toNode": "322e2bc0cb66834c",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "cc860ac65c2d1e13",
+      "fromSide": "top",
+      "id": "2684b5739dbf2183",
+      "label": "<create>",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "toNode": "322e2bc0cb66834c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "81ecfac127a254cc",
+      "fromSide": "right",
+      "id": "3315693061cf46ca",
+      "label": "기물이 존재하는지 확인해라\nboolean isExist()",
+      "styleAttributes": {
+      },
+      "toNode": "acb793be1ca04d57",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "81ecfac127a254cc",
+      "fromSide": "bottom",
+      "id": "60ed3cda27072c6b",
+      "label": "나가라. 이 포지션은 내 자리다.",
+      "styleAttributes": {
+      },
+      "toNode": "4eaf1558ae78f9a1",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "81ecfac127a254cc",
+      "fromSide": "right",
+      "id": "a90d4a11d37e115a",
+      "label": "내 턴과 같은 팀의 말인가?\nvoid validateMoveablePiece(team)",
+      "styleAttributes": {
+      },
+      "toNode": "8943302d9943a6d4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "81ecfac127a254cc",
+      "fromSide": "bottom",
+      "id": "30e18c00066fd6e2",
+      "label": "이동하라\nvoid move(Piece piece)",
+      "styleAttributes": {
+      },
+      "toNode": "acb793be1ca04d57",
+      "toSide": "bottom"
+    },
+    {
+      "color": "6",
+      "fromNode": "7205938778337567",
+      "fromSide": "bottom",
+      "id": "8912325ecdd72531",
+      "label": "이동하라\nvoid move(Position dst)",
+      "styleAttributes": {
+      },
+      "toNode": "81ecfac127a254cc",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "cc860ac65c2d1e13",
+      "fromSide": "left",
+      "id": "fa9ce998f766b506",
+      "label": "이동해라\nvoid move(Position dst)",
+      "styleAttributes": {
+      },
+      "toNode": "7205938778337567",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "f71e4e10a6f7dbd4",
+      "fromSide": "top",
+      "id": "06a65a773b35084b",
+      "label": "포인가?",
+      "styleAttributes": {
+      },
+      "toNode": "acb793be1ca04d57",
+      "toSide": "bottom"
+    },
+    {
+      "color": "6",
+      "fromNode": "acb793be1ca04d57",
+      "fromSide": "bottom",
+      "id": "506a0de90be390d5",
+      "label": "같은 팀인지 확인해라, 위임",
+      "styleAttributes": {
+      },
+      "toNode": "4eaf1558ae78f9a1",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "acb793be1ca04d57",
+      "fromSide": "right",
+      "id": "d5dde2fcdab1871e",
+      "label": "포인가?, 위임",
+      "styleAttributes": {
+      },
+      "toNode": "4eaf1558ae78f9a1",
+      "toSide": "right"
+    },
+    {
+      "color": "2",
+      "fromNode": "cc860ac65c2d1e13",
+      "fromSide": "right",
+      "id": "ed8ebbd730ec5fd7",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "07288347e9ad4908",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "84bc6fed0e314b70",
+      "fromSide": "bottom",
+      "id": "37f642b44cfd9f87",
+      "label": "<create>",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "toNode": "cc860ac65c2d1e13",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "df137ee8e22a185b",
+      "fromSide": "left",
+      "id": "642a6fa860296dbd",
+      "label": "게임이 끝났는가?\nboolean isGameOver()",
+      "styleAttributes": {
+      },
+      "toNode": "cc860ac65c2d1e13",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "df137ee8e22a185b",
+      "fromSide": "top",
+      "id": "5e3b6c8195770538",
+      "label": "<create>",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "toNode": "cc860ac65c2d1e13",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "df137ee8e22a185b",
+      "fromSide": "bottom",
+      "id": "d86199786fa29527",
+      "label": "턴을 교체해라\nvoid nextTurn()",
+      "styleAttributes": {
+      },
+      "toNode": "8943302d9943a6d4",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "df137ee8e22a185b",
+      "fromSide": "left",
+      "id": "04bb746a684ad094",
+      "label": "<create>",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "toNode": "8943302d9943a6d4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "df137ee8e22a185b",
+      "fromSide": "right",
+      "id": "91d919f115a0e276",
+      "label": "승자는 누구인가?\nTeam winner()",
+      "styleAttributes": {
+      },
+      "toNode": "8943302d9943a6d4",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "df137ee8e22a185b",
+      "fromSide": "bottom",
+      "id": "aefaa600a69a4214",
+      "label": "이동해라\nvoid move(Position src, Position dst)",
+      "styleAttributes": {
+      },
+      "toNode": "07288347e9ad4908",
+      "toSide": "right"
+    },
+    {
+      "color": "4",
+      "fromNode": "29223e70bc26b5e0",
+      "fromSide": "bottom",
+      "id": "10bb3d554e064689",
+      "styleAttributes": {
+      },
+      "toNode": "84bc6fed0e314b70",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "3f283d61e42cd241",
+      "fromSide": "bottom",
+      "id": "8554239f3392ed23",
+      "styleAttributes": {
+      },
+      "toNode": "84bc6fed0e314b70",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "c7dc8b9d4bf52cfc",
+      "fromSide": "bottom",
+      "id": "549fe3c6119d361f",
+      "styleAttributes": {
+      },
+      "toNode": "84bc6fed0e314b70",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "adfb1d64d8fcb06c",
+      "fromSide": "bottom",
+      "id": "a0cc8893b5fafb71",
+      "styleAttributes": {
+      },
+      "toNode": "84bc6fed0e314b70",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "df137ee8e22a185b",
+      "fromSide": "top",
+      "id": "f4cb728259efcbeb",
+      "label": "입력받기",
+      "styleAttributes": {
+      },
+      "toNode": "b9813ea9c0fb9efe",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "91971ffd44b1397c",
+      "fromSide": "bottom",
+      "id": "844b9a2095aa203e",
+      "styleAttributes": {
+      },
+      "toNode": "bf216bc998edc443",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "91971ffd44b1397c",
+      "fromSide": "bottom",
+      "id": "00e49a8f771d2cc2",
+      "styleAttributes": {
+      },
+      "toNode": "0b9fc1c463e729a9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e075fdf606030d71",
+      "fromSide": "bottom",
+      "id": "c590aab4825b9350",
+      "styleAttributes": {
+      },
+      "toNode": "91971ffd44b1397c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e075fdf606030d71",
+      "fromSide": "bottom",
+      "id": "3347a2b7663ba2b9",
+      "styleAttributes": {
+      },
+      "toNode": "e6fa6a9bbc5b7ece",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e075fdf606030d71",
+      "fromSide": "bottom",
+      "id": "b0fceccc1850a700",
+      "styleAttributes": {
+      },
+      "toNode": "682d82b61c417593",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9bcedf83da90478b",
+      "fromSide": "bottom",
+      "id": "76e7eab660cdce54",
+      "styleAttributes": {
+      },
+      "toNode": "e075fdf606030d71",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "db17ab4d0f9fbcc9",
+      "fromSide": "left",
+      "id": "fd811d8f2a77b8f7",
+      "styleAttributes": {
+      },
+      "toNode": "4ec9fcf8f5518f29",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4ec9fcf8f5518f29",
+      "fromSide": "bottom",
+      "id": "0af37fbe5f430639",
+      "styleAttributes": {
+      },
+      "toNode": "de99e894e2cb2a95",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e075fdf606030d71",
+      "fromSide": "bottom",
+      "id": "650d0afffaad7fe7",
+      "styleAttributes": {
+      },
+      "toNode": "4dace57ee2a0c090",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e075fdf606030d71",
+      "fromSide": "bottom",
+      "id": "fea64d882f6c61cf",
+      "styleAttributes": {
+      },
+      "toNode": "9442fbef62bbd34e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9bcedf83da90478b",
+      "fromSide": "bottom",
+      "id": "4852bf09f56fdfa4",
+      "styleAttributes": {
+      },
+      "toNode": "db17ab4d0f9fbcc9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "db17ab4d0f9fbcc9",
+      "fromSide": "bottom",
+      "id": "44c7280066ab1e14",
+      "styleAttributes": {
+      },
+      "toNode": "badb65ca6056d92a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "d54e64eed9cc04a1",
+      "fromSide": "bottom",
+      "id": "b7d5e4bf5815d8e8",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "toNode": "86eec29fa57eef89",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "d54e64eed9cc04a1",
+      "fromSide": "bottom",
+      "id": "d7e2c2a8d21a0dd2",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "toNode": "b3f0df0f680ce91b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4fef13717f8becee",
+      "fromSide": "bottom",
+      "id": "1fd09381b05e3aff",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "toNode": "efd610972b109f3e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "569d785109626101",
+      "fromSide": "bottom",
+      "id": "68f7337d4704f2ff",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "toNode": "4fef13717f8becee",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9bcedf83da90478b",
+      "fromSide": "left",
+      "id": "0c13d08e27bb97e9",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "toNode": "569d785109626101",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "a3876aaf944c694c",
+      "fromSide": "bottom",
+      "id": "a7dd13f3f1501623",
+      "label": "move",
+      "styleAttributes": {
+      },
+      "toNode": "9bcedf83da90478b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "9bcedf83da90478b",
+      "fromSide": "right",
+      "id": "b2ae81119f029bf0",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "toNode": "6f8ef1318bd65ed9",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "5414f518ec2ad6ac",
+      "fromSide": "bottom",
+      "id": "322b650e18f0fe2e",
+      "styleAttributes": {
+        "path": "long-dashed"
+      },
+      "toNode": "6f8ef1318bd65ed9",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {
+  },
+  "nodes": [
+    {
+      "height": 1310,
+      "id": "b7b1399e087d3794",
+      "label": "1",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 3670,
+      "x": -200,
+      "y": -1200
+    },
+    {
+      "height": 60,
+      "id": "bf216bc998edc443",
+      "styleAttributes": {
+      },
+      "text": "HanPawn\nroutes();",
+      "type": "text",
+      "width": 260,
+      "x": 2980,
+      "y": 2780
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "91971ffd44b1397c",
+      "styleAttributes": {
+      },
+      "text": "(abstract) Pawn",
+      "type": "text",
+      "width": 260,
+      "x": 3140,
+      "y": 2600
+    },
+    {
+      "height": 60,
+      "id": "9442fbef62bbd34e",
+      "styleAttributes": {
+      },
+      "text": "Palace",
+      "type": "text",
+      "width": 260,
+      "x": 2500,
+      "y": 2600
+    },
+    {
+      "height": 60,
+      "id": "0b9fc1c463e729a9",
+      "styleAttributes": {
+      },
+      "text": "ChoPawn\nroutes();",
+      "type": "text",
+      "width": 260,
+      "x": 3270,
+      "y": 2780
+    },
+    {
+      "height": 60,
+      "id": "e6fa6a9bbc5b7ece",
+      "styleAttributes": {
+      },
+      "text": "Elephant\nroutes();",
+      "type": "text",
+      "width": 260,
+      "x": 3460,
+      "y": 2600
+    },
+    {
+      "height": 60,
+      "id": "4dace57ee2a0c090",
+      "styleAttributes": {
+      },
+      "text": "Soldier\nroutes();",
+      "type": "text",
+      "width": 260,
+      "x": 2820,
+      "y": 2600
+    },
+    {
+      "height": 60,
+      "id": "de99e894e2cb2a95",
+      "styleAttributes": {
+      },
+      "text": "Cannon \nroutes();",
+      "type": "text",
+      "width": 260,
+      "x": 4120,
+      "y": 2780
+    },
+    {
+      "color": "2",
+      "height": 100,
+      "id": "4ec9fcf8f5518f29",
+      "styleAttributes": {
+      },
+      "text": "(abstract) JumpingPiece\n\n possibleRoutes();",
+      "type": "text",
+      "width": 260,
+      "x": 4120,
+      "y": 2550
+    },
+    {
+      "height": 60,
+      "id": "682d82b61c417593",
+      "styleAttributes": {
+      },
+      "text": "Horse\nroutes();",
+      "type": "text",
+      "width": 260,
+      "x": 3780,
+      "y": 2600
+    },
+    {
+      "height": 340,
+      "id": "6a218072741fd091",
+      "styleAttributes": {
+      },
+      "text": "`Set<Route>` possibleRoutes(){\n\tRoutes.for{\n\t돌면서 추가하기\n\t}\n}",
+      "type": "text",
+      "width": 260,
+      "x": 3720,
+      "y": 2810
+    },
+    {
+      "color": "2",
+      "height": 100,
+      "id": "e075fdf606030d71",
+      "styleAttributes": {
+      },
+      "text": "(abstract) NomalPiece\n\n possibleRoutes();\n",
+      "type": "text",
+      "width": 260,
+      "x": 3460,
+      "y": 2400
+    },
+    {
+      "color": "6",
+      "height": 130,
+      "id": "efd610972b109f3e",
+      "styleAttributes": {
+      },
+      "text": "Direction\n`int x`\n`int y`\n8방위",
+      "type": "text",
+      "width": 260,
+      "x": 3400,
+      "y": 2240
+    },
+    {
+      "height": 180,
+      "id": "569d785109626101",
+      "styleAttributes": {
+      },
+      "text": "Routes\n`Set<Route>`\nofHorse();\nofElephant();\n...",
+      "type": "text",
+      "width": 260,
+      "x": 3400,
+      "y": 1850
+    },
+    {
+      "height": 60,
+      "id": "4fef13717f8becee",
+      "styleAttributes": {
+      },
+      "text": "Route\n`List<Direction>`",
+      "type": "text",
+      "width": 260,
+      "x": 3400,
+      "y": 2120
+    },
+    {
+      "color": "2",
+      "height": 360,
+      "id": "9bcedf83da90478b",
+      "styleAttributes": {
+      },
+      "text": "(abstract) Piece\n\nabstract possibleRoutes();\nRoutes();\n\n```java\nmove(){\n\tpossibleRoutes();\n\t\n};\n```\n",
+      "type": "text",
+      "width": 290,
+      "x": 3780,
+      "y": 2040
+    },
+    {
+      "height": 60,
+      "id": "a9e04353dfbe48dd",
+      "styleAttributes": {
+      },
+      "text": "차",
+      "type": "text",
+      "width": 260,
+      "x": 3750,
+      "y": 1770
+    },
+    {
+      "color": "2",
+      "height": 100,
+      "id": "db17ab4d0f9fbcc9",
+      "styleAttributes": {
+      },
+      "text": "(abstract) straightPiece\n\n possibleRoutes();",
+      "type": "text",
+      "width": 260,
+      "x": 4540,
+      "y": 2400
+    },
+    {
+      "height": 60,
+      "id": "6f8ef1318bd65ed9",
+      "styleAttributes": {
+      },
+      "text": "Team",
+      "type": "text",
+      "width": 260,
+      "x": 4120,
+      "y": 2090
+    },
+    {
+      "height": 60,
+      "id": "a3876aaf944c694c",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 260,
+      "x": 3940,
+      "y": 1880
+    },
+    {
+      "height": 60,
+      "id": "badb65ca6056d92a",
+      "styleAttributes": {
+      },
+      "text": "Chariot\nroutes();",
+      "type": "text",
+      "width": 260,
+      "x": 4540,
+      "y": 2600
+    },
+    {
+      "height": 60,
+      "id": "bbd11248a28bbc97",
+      "styleAttributes": {
+      },
+      "text": "4 마상상마",
+      "type": "text",
+      "width": 260,
+      "x": 2580,
+      "y": -1100
+    },
+    {
+      "height": 60,
+      "id": "4222483962032a9f",
+      "styleAttributes": {
+      },
+      "text": "Application",
+      "type": "text",
+      "width": 260,
+      "x": 3180,
+      "y": -840
+    },
+    {
+      "height": 60,
+      "id": "6986ad8c89595147",
+      "styleAttributes": {
+      },
+      "text": "View",
+      "type": "text",
+      "width": 260,
+      "x": 3180,
+      "y": -1040
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "b3f0df0f680ce91b",
+      "styleAttributes": {
+      },
+      "text": "Column",
+      "type": "text",
+      "width": 260,
+      "x": 3100,
+      "y": 2280
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "12a619ace8310163",
+      "styleAttributes": {
+      },
+      "text": "PieceType",
+      "type": "text",
+      "width": 260,
+      "x": 2500,
+      "y": 2240
+    },
+    {
+      "height": 60,
+      "id": "037b34410b8af107",
+      "styleAttributes": {
+      },
+      "text": "Generator",
+      "type": "text",
+      "width": 260,
+      "x": 2500,
+      "y": 2150
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "86eec29fa57eef89",
+      "styleAttributes": {
+      },
+      "text": "Row",
+      "type": "text",
+      "width": 260,
+      "x": 2840,
+      "y": 2280
+    },
+    {
+      "height": 60,
+      "id": "d54e64eed9cc04a1",
+      "styleAttributes": {
+      },
+      "text": "Position",
+      "type": "text",
+      "width": 260,
+      "x": 2970,
+      "y": 2120
+    },
+    {
+      "height": 130,
+      "id": "25869e8d6a12a660",
+      "styleAttributes": {
+      },
+      "text": "board\n`Map<Position, Piece>`",
+      "type": "text",
+      "width": 260,
+      "x": 2970,
+      "y": 1940
+    },
+    {
+      "height": 60,
+      "id": "5414f518ec2ad6ac",
+      "styleAttributes": {
+      },
+      "text": "Turn",
+      "type": "text",
+      "width": 260,
+      "x": 4410,
+      "y": 2010
+    },
+    {
+      "color": "2",
+      "height": 200,
+      "id": "455f942f17f6b8dd",
+      "styleAttributes": {
+      },
+      "text": "장기판 밖인지 확인 -> 9x10\n`List<position>`\n```java\nnew Board(new 4Strategy)\n```",
+      "type": "text",
+      "width": 320,
+      "x": 2550,
+      "y": -790
+    },
+    {
+      "height": 100,
+      "id": "1a000d7c1f54b094",
+      "styleAttributes": {
+      },
+      "text": "Board\n책임 : postion 검증",
+      "type": "text",
+      "width": 260,
+      "x": 2100,
+      "y": -740
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "32c554b681e7e7d6",
+      "styleAttributes": {
+      },
+      "text": "상차림 strategy",
+      "type": "text",
+      "width": 260,
+      "x": 2100,
+      "y": -920
+    },
+    {
+      "height": 60,
+      "id": "436366a4e710ddee",
+      "styleAttributes": {
+      },
+      "text": "Piece(dst)",
+      "type": "text",
+      "width": 260,
+      "x": 2100,
+      "y": -240
+    },
+    {
+      "height": 60,
+      "id": "51d46da0b2dd6b7f",
+      "styleAttributes": {
+      },
+      "text": "Position(dst)",
+      "type": "text",
+      "width": 260,
+      "x": 2100,
+      "y": -480
+    },
+    {
+      "height": 60,
+      "id": "7409227d9c931051",
+      "styleAttributes": {
+      },
+      "text": "3 마상마상",
+      "type": "text",
+      "width": 260,
+      "x": 2270,
+      "y": -1100
+    },
+    {
+      "height": 270,
+      "id": "48b0d55f80c34253",
+      "styleAttributes": {
+      },
+      "text": "Turn\n`Team currentTeam`\n`boolean isRested`\n```java\npublic Turn(){\n\tcurrentTeam = CHO\n}\n```\n책임 : 턴 계산",
+      "type": "text",
+      "width": 580,
+      "x": 2530,
+      "y": -510
+    },
+    {
+      "height": 180,
+      "id": "8683bac343d4a9c8",
+      "styleAttributes": {
+      },
+      "text": "1 상마상마\n```java\nnew Position(x,y,new Horse()); // *4\n```\n",
+      "type": "text",
+      "width": 460,
+      "x": 1480,
+      "y": -1190
+    },
+    {
+      "height": 60,
+      "id": "d2d368e7480ecef4",
+      "styleAttributes": {
+      },
+      "text": "Position(src)",
+      "type": "text",
+      "width": 260,
+      "x": 1310,
+      "y": -740
+    },
+    {
+      "height": 60,
+      "id": "193c690c26438636",
+      "styleAttributes": {
+      },
+      "text": "Piece(src)",
+      "type": "text",
+      "width": 260,
+      "x": 1310,
+      "y": -480
+    },
+    {
+      "height": 60,
+      "id": "721c7f8d47aea3df",
+      "styleAttributes": {
+      },
+      "text": "사",
+      "type": "text",
+      "width": 260,
+      "x": 110,
+      "y": 20
+    },
+    {
+      "height": 60,
+      "id": "748e9120be903ba7",
+      "styleAttributes": {
+      },
+      "text": "상",
+      "type": "text",
+      "width": 260,
+      "x": 410,
+      "y": 20
+    },
+    {
+      "height": 60,
+      "id": "c2d3ce9c2cdf0665",
+      "styleAttributes": {
+      },
+      "text": "마",
+      "type": "text",
+      "width": 260,
+      "x": 700,
+      "y": 20
+    },
+    {
+      "height": 60,
+      "id": "005292be084a3658",
+      "styleAttributes": {
+      },
+      "text": "차",
+      "type": "text",
+      "width": 260,
+      "x": -190,
+      "y": 20
+    },
+    {
+      "height": 1630,
+      "id": "189989aece939f5f",
+      "styleAttributes": {
+      },
+      "text": "장기 행동\n\n장기판\n- 장기판은 9x10으로 구성된다.\n```java\nnew Board();\n```\n\n기물 이동\n + 이동(도착) 경로에 다른 말이 존재하면 이동할(갈) 수 없다.\n```java\nboolean hasPiece(\bPosition dst);\n-> 해당 포지션에 피스가 있는지?\n-> 가지고 있어야 하는 정보 : 포지션별로 피스 매핑\n```\n\n + 도착 지점에 같은 팀의 말이 있으면 이동할 수 없다.\n + 도착 지점에 다른 팀의 말이 있으면 잡을 수 있다.\n + 장기판 밖으로 이동할 수 없다.\n\n궁\n + 궁이 잡히면 게임이 끝난다.\n + 궁은 상하좌우로 한칸만 이동할 수 있다.\n\n사\n\n+ 사는  상하좌우로 한칸만 이동할 수 있다.\n\n병\n+ 병은  상,좌,우로 한칸만 이동할 수 있다.\n\n차\n + 차는 상하좌우로 n칸 이동할 수 있다.\n\n포\n+ 포는 포를 잡을 수 없다.\n+ 포는 기물을 하나 넘어서만 이동할 수 있다.\n+ 포는 포를 넘을 수 없다.\n\n마\n + 마는 상하좌우로 한칸, 같은 방향으로 대각선으로 한칸 이동할 수 있다.\n\n상\n+  상은 상하좌우로 한칸, 같은 방향으로 대각선으로 두칸 이동할 수 있다.\n\n\n상차림\n+ 마상상마\n+ 마상마상\n+ 상마상마\n+ 상마마상\n\n게임 규칙\n+ 초나라부터 게임 시작\n+ 번갈아가면서 게임 진행\n+ 한턴쉼\n\t+ 한턴 쉬었을 때, 상대도 한턴 쉰다면 무승부이다.\n+ 기권\n\n나중에~~\n\n+ 장군\n+ 외통수",
+      "type": "text",
+      "width": 840,
+      "x": -1260,
+      "y": -670
+    },
+    {
+      "height": 60,
+      "id": "332a1ca9b85620fc",
+      "styleAttributes": {
+      },
+      "text": "2 상마마상",
+      "type": "text",
+      "width": 260,
+      "x": 1970,
+      "y": -1100
+    },
+    {
+      "height": 60,
+      "id": "aa115bae6ca91d70",
+      "styleAttributes": {
+      },
+      "text": "궁",
+      "type": "text",
+      "width": 260,
+      "x": 1700,
+      "y": 20
+    },
+    {
+      "height": 60,
+      "id": "59d3ce55ec3088ed",
+      "styleAttributes": {
+      },
+      "text": "포",
+      "type": "text",
+      "width": 260,
+      "x": 1380,
+      "y": 20
+    },
+    {
+      "height": 60,
+      "id": "1d44f9cf85eb58de",
+      "styleAttributes": {
+      },
+      "text": "병",
+      "type": "text",
+      "width": 260,
+      "x": 1050,
+      "y": 20
+    },
+    {
+      "height": 1060,
+      "id": "bae1186cacbd964a",
+      "styleAttributes": {
+      },
+      "text": "이동 규칙\n\n- [ ] 기물(piece) 종류  \n  - [ ] 궁(宮): Palace (1개)  \n      - 이동 가능 방향: [-1, 0], [0, +1], [+1, 0], [0, -1] (추가 구현 예정)  \n  - [ ] 차(車): Chariot (2개)  \n      - 이동 가능 방향: [0, +n]  \n        - 이동 가능 방향: [0, -n]  \n        - 이동 가능 방향: [+n, 0]  \n        - 이동 가능 방향: [-n, 0]  \n    - [ ] 포(包): Pao (2개)  \n      - 이동 가능 방향: 다른 기물을 지나 -> [0, +n]  \n        - 이동 가능 방향: 다른 기물을 지나 -> [0, -n]  \n        - 이동 가능 방향: 다른 기물을 지나 -> [+n, 0]  \n        - 이동 가능 방향: 다른 기물을 지나 -> [-n, 0]  \n    - [ ] 마(馬): Horse (2개)  \n      - 이동 가능 방향: [0, +1] -> [+1, +1]  \n        - 이동 가능 방향: [0, +1] -> [-1, +1]  \n        - 이동 가능 방향: [0, -1] -> [-1, -1]  \n        - 이동 가능 방향: [0, -1] -> [+1, -1]  \n        - 이동 가능 방향: [-1, 0] -> [-1, +1]  \n        - 이동 가능 방향: [-1, 0] -> [-1, -1]  \n        - 이동 가능 방향: [+1, 0] -> [+1, +1]  \n        - 이동 가능 방향: [+1, 0] -> [+1, -1]  \n    - [ ] 상(象): Elephant (2개)  \n      - 이동 가능 방향: [0, +1] -> [+1, +1] -> [+1, +1]  \n        - 이동 가능 방향: [0, +1] -> [-1, +1] -> [-1, +1]  \n        - 이동 가능 방향: [0, -1] -> [-1, -1] -> [-1, -1]  \n        - 이동 가능 방향: [0, -1] -> [+1, -1] -> [+1, -1]  \n        - 이동 가능 방향: [-1, 0] -> [-1, +1] -> [-1, +1]  \n        - 이동 가능 방향: [-1, 0] -> [-1, -1] -> [-1, -1]  \n        - 이동 가능 방향: [+1, 0] -> [+1, +1] -> [+1, +1]  \n        - 이동 가능 방향: [+1, 0] -> [+1, -1] -> [+1, -1]  \n    - [ ] 사(士): Soldier (2개)  \n      - 이동 가능 방향: [-1, 0], [0, +1], [+1, 0], [0, -1] (추가 구현 예정)   \n  - [ ] 병(兵): Pawn (5개)  \n      - 이동 가능 방향: [-1, 0], [0, +1] ,  [0,-1], [+1, 0]\n      - 초나라면 [0,+1], 한나라면 [0,-1]",
+      "type": "text",
+      "width": 680,
+      "x": 150,
+      "y": 120
+    },
+    {
+      "height": 200,
+      "id": "52dd1e4e5ee92b8c",
+      "styleAttributes": {
+      },
+      "text": "Piece\n`방향벡터 리스트`\n내가 가능한 경로가 dst를 포함하고 있는가?",
+      "type": "text",
+      "width": 260,
+      "x": 650,
+      "y": -550
+    },
+    {
+      "height": 60,
+      "id": "70df613384ecaaa1",
+      "styleAttributes": {
+      },
+      "text": "병",
+      "type": "text",
+      "width": 260,
+      "x": 4990,
+      "y": 1770
+    },
+    {
+      "height": 60,
+      "id": "f71e4e10a6f7dbd4",
+      "styleAttributes": {
+      },
+      "text": "포",
+      "type": "text",
+      "width": 260,
+      "x": 5320,
+      "y": 1770
+    },
+    {
+      "height": 100,
+      "id": "81ecfac127a254cc",
+      "styleAttributes": {
+      },
+      "text": "Piece(src)\n`Team team`\n`List<Route> routes`",
+      "type": "text",
+      "width": 260,
+      "x": 5250,
+      "y": 1270
+    },
+    {
+      "height": 60,
+      "id": "8be7bd5657ea42fc",
+      "styleAttributes": {
+      },
+      "text": "궁",
+      "type": "text",
+      "width": 260,
+      "x": 5640,
+      "y": 1770
+    },
+    {
+      "height": 60,
+      "id": "4eaf1558ae78f9a1",
+      "styleAttributes": {
+      },
+      "text": "Piece(dst)",
+      "type": "text",
+      "width": 260,
+      "x": 6040,
+      "y": 1710
+    },
+    {
+      "height": 60,
+      "id": "acb793be1ca04d57",
+      "styleAttributes": {
+      },
+      "text": "Position(dst)",
+      "type": "text",
+      "width": 260,
+      "x": 6040,
+      "y": 1270
+    },
+    {
+      "height": 60,
+      "id": "d728c57437c0d030",
+      "styleAttributes": {
+      },
+      "text": "사",
+      "type": "text",
+      "width": 260,
+      "x": 4050,
+      "y": 1770
+    },
+    {
+      "height": 60,
+      "id": "3f9d79c1fd57120a",
+      "styleAttributes": {
+      },
+      "text": "상",
+      "type": "text",
+      "width": 260,
+      "x": 4350,
+      "y": 1770
+    },
+    {
+      "height": 60,
+      "id": "8f6c7489b1643001",
+      "styleAttributes": {
+      },
+      "text": "병",
+      "type": "text",
+      "width": 260,
+      "x": 5000,
+      "y": 20
+    },
+    {
+      "color": "2",
+      "height": 200,
+      "id": "fc76fbca0197c167",
+      "styleAttributes": {
+      },
+      "text": "장기판 밖인지 확인 -> 9x10\n`List<position>`\n```java\nnew Board(new 4Strategy)\n```",
+      "type": "text",
+      "width": 320,
+      "x": 6500,
+      "y": -790
+    },
+    {
+      "height": 60,
+      "id": "c4092fdd7a7e4460",
+      "styleAttributes": {
+      },
+      "text": "4 마상상마",
+      "type": "text",
+      "width": 260,
+      "x": 6530,
+      "y": -1100
+    },
+    {
+      "height": 60,
+      "id": "d3a490d33ef53463",
+      "styleAttributes": {
+      },
+      "text": "View",
+      "type": "text",
+      "width": 260,
+      "x": 7130,
+      "y": -1040
+    },
+    {
+      "height": 60,
+      "id": "46abdf94fe434cfb",
+      "styleAttributes": {
+      },
+      "text": "Application",
+      "type": "text",
+      "width": 260,
+      "x": 7130,
+      "y": -840
+    },
+    {
+      "height": 60,
+      "id": "3880a8b189d9743d",
+      "styleAttributes": {
+      },
+      "text": "궁",
+      "type": "text",
+      "width": 260,
+      "x": 5650,
+      "y": 20
+    },
+    {
+      "height": 60,
+      "id": "1f0e90d3130d1636",
+      "styleAttributes": {
+      },
+      "text": "포",
+      "type": "text",
+      "width": 260,
+      "x": 5330,
+      "y": 20
+    },
+    {
+      "height": 60,
+      "id": "4c1be8c4ba75bbb6",
+      "styleAttributes": {
+      },
+      "text": "Piece(dst)",
+      "type": "text",
+      "width": 260,
+      "x": 6050,
+      "y": -40
+    },
+    {
+      "height": 60,
+      "id": "88e26a70b0d48dd4",
+      "styleAttributes": {
+      },
+      "text": "마",
+      "type": "text",
+      "width": 260,
+      "x": 4640,
+      "y": 1770
+    },
+    {
+      "height": 200,
+      "id": "322e2bc0cb66834c",
+      "styleAttributes": {
+      },
+      "text": "Piece\n`방향벡터 리스트`\n내가 가능한 경로가 dst를 포함하고 있는가?",
+      "type": "text",
+      "width": 260,
+      "x": 4590,
+      "y": 1200
+    },
+    {
+      "height": 270,
+      "id": "8943302d9943a6d4",
+      "styleAttributes": {
+      },
+      "text": "Turn\n`Team currentTeam`\n`boolean isRested`\n```java\npublic Turn(){\n\tcurrentTeam = CHO\n}\n```\n책임 : 턴 계산",
+      "type": "text",
+      "width": 580,
+      "x": 6470,
+      "y": 1240
+    },
+    {
+      "color": "2",
+      "height": 200,
+      "id": "07288347e9ad4908",
+      "styleAttributes": {
+      },
+      "text": "장기판 밖인지 확인 -> 9x10\n`List<position>`\n```java\nnew Board(new 4Strategy)\n```",
+      "type": "text",
+      "width": 320,
+      "x": 6490,
+      "y": 960
+    },
+    {
+      "height": 60,
+      "id": "df137ee8e22a185b",
+      "styleAttributes": {
+      },
+      "text": "Application",
+      "type": "text",
+      "width": 260,
+      "x": 7120,
+      "y": 910
+    },
+    {
+      "height": 60,
+      "id": "adfb1d64d8fcb06c",
+      "styleAttributes": {
+      },
+      "text": "4 마상상마",
+      "type": "text",
+      "width": 260,
+      "x": 6520,
+      "y": 650
+    },
+    {
+      "height": 60,
+      "id": "b9813ea9c0fb9efe",
+      "styleAttributes": {
+      },
+      "text": "View",
+      "type": "text",
+      "width": 260,
+      "x": 7120,
+      "y": 710
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "84bc6fed0e314b70",
+      "styleAttributes": {
+      },
+      "text": "상차림 strategy",
+      "type": "text",
+      "width": 260,
+      "x": 6040,
+      "y": 830
+    },
+    {
+      "height": 180,
+      "id": "29223e70bc26b5e0",
+      "styleAttributes": {
+      },
+      "text": "1 상마상마\n```java\nnew Position(x,y,new Horse()); // *4\n```\n",
+      "type": "text",
+      "width": 460,
+      "x": 5420,
+      "y": 560
+    },
+    {
+      "height": 60,
+      "id": "c7dc8b9d4bf52cfc",
+      "styleAttributes": {
+      },
+      "text": "3 마상마상",
+      "type": "text",
+      "width": 260,
+      "x": 6210,
+      "y": 650
+    },
+    {
+      "height": 60,
+      "id": "3f283d61e42cd241",
+      "styleAttributes": {
+      },
+      "text": "2 상마마상",
+      "type": "text",
+      "width": 260,
+      "x": 5910,
+      "y": 650
+    },
+    {
+      "height": 270,
+      "id": "fa56618ec783380d",
+      "styleAttributes": {
+      },
+      "text": "Turn\n`Team currentTeam`\n`boolean isRested`\n```java\npublic Turn(){\n\tcurrentTeam = CHO\n}\n```\n책임 : 턴 계산",
+      "type": "text",
+      "width": 580,
+      "x": 6480,
+      "y": -510
+    },
+    {
+      "height": 140,
+      "id": "7205938778337567",
+      "styleAttributes": {
+      },
+      "text": "Position(src)\n`int x`\n`int y`\n`Piece piece`",
+      "type": "text",
+      "width": 260,
+      "x": 5250,
+      "y": 930
+    },
+    {
+      "height": 100,
+      "id": "cc860ac65c2d1e13",
+      "styleAttributes": {
+      },
+      "text": "Board\n책임 : postion 검증",
+      "type": "text",
+      "width": 260,
+      "x": 6040,
+      "y": 1010
+    },
+    {
+      "height": 100,
+      "id": "098f524a5e6ba1fa",
+      "styleAttributes": {
+      },
+      "text": "Piece(src)\n`Team team`\n`List<Route> routes`",
+      "type": "text",
+      "width": 260,
+      "x": 5260,
+      "y": -480
+    },
+    {
+      "height": 140,
+      "id": "81ccb8e0414d2cad",
+      "styleAttributes": {
+      },
+      "text": "Position(src)\n`int x`\n`int y`\n`Piece piece`",
+      "type": "text",
+      "width": 260,
+      "x": 5260,
+      "y": -820
+    },
+    {
+      "height": 180,
+      "id": "b94893658730e889",
+      "styleAttributes": {
+      },
+      "text": "1 상마상마\n```java\nnew Position(x,y,new Horse()); // *4\n```\n",
+      "type": "text",
+      "width": 460,
+      "x": 5430,
+      "y": -1190
+    },
+    {
+      "height": 60,
+      "id": "8cf5b0c52feca1cd",
+      "styleAttributes": {
+      },
+      "text": "Position(dst)",
+      "type": "text",
+      "width": 260,
+      "x": 6050,
+      "y": -480
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "2c46c4a79cb7d38a",
+      "styleAttributes": {
+      },
+      "text": "상차림 strategy",
+      "type": "text",
+      "width": 260,
+      "x": 6050,
+      "y": -920
+    },
+    {
+      "height": 60,
+      "id": "eb128e037ad3849e",
+      "styleAttributes": {
+      },
+      "text": "3 마상마상",
+      "type": "text",
+      "width": 260,
+      "x": 6220,
+      "y": -1100
+    },
+    {
+      "height": 60,
+      "id": "477db62e54b86d3a",
+      "styleAttributes": {
+      },
+      "text": "2 상마마상",
+      "type": "text",
+      "width": 260,
+      "x": 5920,
+      "y": -1100
+    },
+    {
+      "height": 100,
+      "id": "e72bb1676bc2580c",
+      "styleAttributes": {
+      },
+      "text": "Board\n책임 : postion 검증",
+      "type": "text",
+      "width": 260,
+      "x": 6050,
+      "y": -740
+    },
+    {
+      "height": 60,
+      "id": "662b8dbae1fe1a14",
+      "styleAttributes": {
+      },
+      "text": "상",
+      "type": "text",
+      "width": 260,
+      "x": 4360,
+      "y": 20
+    },
+    {
+      "height": 60,
+      "id": "66279dbf64196900",
+      "styleAttributes": {
+      },
+      "text": "마",
+      "type": "text",
+      "width": 260,
+      "x": 4650,
+      "y": 20
+    },
+    {
+      "height": 60,
+      "id": "3b5eb93ad6654194",
+      "styleAttributes": {
+      },
+      "text": "차",
+      "type": "text",
+      "width": 260,
+      "x": 3760,
+      "y": 20
+    },
+    {
+      "height": 200,
+      "id": "bf60b458c71b3ad5",
+      "styleAttributes": {
+      },
+      "text": "Piece\n`방향벡터 리스트`\n내가 가능한 경로가 dst를 포함하고 있는가?",
+      "type": "text",
+      "width": 260,
+      "x": 4600,
+      "y": -550
+    },
+    {
+      "height": 60,
+      "id": "1874548c82781da7",
+      "styleAttributes": {
+      },
+      "text": "사",
+      "type": "text",
+      "width": 260,
+      "x": 4060,
+      "y": 20
+    }
+  ]
+}
