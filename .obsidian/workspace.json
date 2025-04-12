@@ -228,7 +228,13 @@
             ]
           }
         ],
-        "direction": "vertical"
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
