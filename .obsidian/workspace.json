@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/책 사용법.md",
+                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/더 깊이 파고들어라.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/책 사용법.md",
+                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/더 깊이 파고들어라.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/책 사용법.md"
+                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/더 깊이 파고들어라.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/책 사용법.md",
+                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/더 깊이 파고들어라.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,6 +202,12 @@
   },
   "active": "aefd53bcbb8c3da3",
   "lastOpenFiles": [
+    "🟧 Organize 영구노트/🟤 Archive 보관소/이선좌 프로젝트/개발/4. 대기열.md",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/이선좌 프로젝트/개발/시연영상.md",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/이선좌 프로젝트/개발/1. Gradle Multi-Module.md",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/이선좌 프로젝트/이선좌 프로젝트.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/책 사용법.md",
+    "Todo/2025-04-13.md",
     "Setting/20241228.png",
     "Setting/🙌 Welcome!!.md",
     "Setting",
@@ -214,7 +220,6 @@
     "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/RDB/SQL/정규화/2정규화후.png",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/RDB/SQL/정규화/3정규화후.png",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/RDB/SQL/정규화/2정규화전.png",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/RDB/SQL/정규화/1정규화후.png",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/DataBase.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/RDB/SQL/문법/연산자.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/Lock/Lock.md",
@@ -234,11 +239,6 @@
     "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/RDB/SQL/Join/INNER JOIN.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Graph/우선순위 큐(Priority Queue); 힙(Heap).md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/코딩테스트 준비하기/코테 Tip 모음.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/NoSQL/NoSQL의 종류/Key-Value.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Graph/Tree.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/RDB/SQL/함수/숫자 함수.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/RDB/SQL/문법/절차형 SQL.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Hash.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Graph",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure",
