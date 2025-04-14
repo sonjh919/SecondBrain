@@ -269,14 +269,14 @@ else {
       this.callout_icon = callout_title.createDiv({ cls: "callout-icon" });
       tp.obsidian.setIcon(this.callout_icon, calloutType[2]);
 
-      this.title = callout_title.createDiv({ cls: "callout-title-inner", attr: { contenteditable: "plaintext-only", placeholder: "제목 입럭" } });
+      this.title = callout_title.createDiv({ cls: "callout-title-inner", attr: { contenteditable: "plaintext-only", placeholder: "제목 입력" } });
 
       this.callout_fold = callout_title.createDiv({ cls: "callout-fold" });
       tp.obsidian.setIcon(this.callout_fold, "lucide-chevron-down");
 
       let callout_content = this.callout_div.createDiv({ cls: "callout-content" });
 
-      this.callout_editor = callout_content.createEl("p", { attr: { contenteditable: "plaintext-only", placeholder: "내용 입럭" } });
+      this.callout_editor = callout_content.createEl("p", { attr: { contenteditable: "plaintext-only", placeholder: "내용 입력" } });
 
       let div_foot = contentEl.createDiv({ cls: "footer" });
 
