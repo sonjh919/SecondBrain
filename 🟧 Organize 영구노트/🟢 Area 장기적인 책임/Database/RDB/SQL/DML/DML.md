@@ -25,4 +25,4 @@ path:
 
 - 조건에 맞는 data를 select하는 기술
 
-+ [[🟧 Organize 영구노트/🔵 Project 프로젝트/Database/RDB/SQL/DML/SELECT|SELECT]]
++ [[🟧 Organize 영구노트/🟢 Area 장기적인 책임/Database/RDB/SQL/DML/SELECT|SELECT]]
