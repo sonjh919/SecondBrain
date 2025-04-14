@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/개발자들이 공통적으로 가진 특성.md",
+                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 목록-중요도.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/개발자들이 공통적으로 가진 특성.md",
+                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 목록-중요도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/개발자들이 공통적으로 가진 특성.md"
+                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 목록-중요도.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/개발자들이 공통적으로 가진 특성.md",
+                "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 목록-중요도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,18 +202,33 @@
   },
   "active": "aefd53bcbb8c3da3",
   "lastOpenFiles": [
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/책 목록/개발.md",
-    "🟥 Capture 임시메모(inbox)/개발자들이 공통적으로 가진 특성.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/책 목록/글쓰기.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/연습, 연습, 또 연습.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 목록-중요도.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/실패하는 법을 배워라.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/부숴도 괜찮은 장난감.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/소스를 활용하라.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/배운 것을 기록하라.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/배운 것을 공유하라.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/바닥을 쓸어라.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지에 맞서라.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지를 드러내라.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/멘토를 찾아라.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/마음 맞는 사람들.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/더 깊이 파고들어라.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/능력의 폭을 넓혀라.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/깊은 쪽.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/고전을 공부하라.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/가장 뒤떨어진 이가 되라.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/긴 여정.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 목록.md",
+    "🟥 Capture 임시메모(inbox)/개발자들이 공통적으로 가진 특성.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/책 목록/개발.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/책 목록/글쓰기.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/이선좌 프로젝트/개발/4. 대기열.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/이선좌 프로젝트/개발/시연영상.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/이선좌 프로젝트/개발/1. Gradle Multi-Module.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/이선좌 프로젝트/이선좌 프로젝트.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/책 사용법.md",
-    "Todo/2025-04-13.md",
     "Setting/20241228.png",
-    "Setting/🙌 Welcome!!.md",
     "Setting",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/Pasted image 20240327095613.png",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/addressing.png",
@@ -224,21 +239,6 @@
     "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/RDB/SQL/정규화/2정규화후.png",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/RDB/SQL/정규화/3정규화후.png",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/RDB/SQL/정규화/2정규화전.png",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/DataBase.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/RDB/SQL/문법/연산자.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/Lock/Lock.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/RDB/SQL/함수/소계(총계) 함수.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/시간 복잡도.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/RDB/SQL/함수/문자 함수.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/RDB/SQL/TCL/Transaction.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/RDB/SQL/정규화/정규화.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/RDB/SQL/Query/계층 Query.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/RDB/SQL/Join/OUTER JOIN.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Hash Table(Hash Map).md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/RDB/SQL/Query/SubQuery.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Graph/순회(Traversal); 탐색(Search).md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/RDB/SQL/SQL.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Database/RDB/SQL/DDL/ALTER.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Graph",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure",
