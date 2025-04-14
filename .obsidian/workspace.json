@@ -200,50 +200,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "a1b64022e52a04cb",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5095b492fec4f475",
-        "type": "window",
-        "children": [
-          {
-            "id": "03c97b95eadf13dc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "aefd53bcbb8c3da3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 목록.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1340,
-        "y": 27,
-        "width": 1281,
-        "height": 1000,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "fde0ff1c85bde7f4",
   "lastOpenFiles": [
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 목록.md",
+    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 목록-중요도.md",
     "Todo/2025-04-14.md",
     "🟥 Capture 임시메모(inbox)/무제.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/흰 띠를 매라.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 목록-중요도.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/한발 물러서라.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/피드백 루프를 만들어라.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/팔꿈치를 맞대고.md",
@@ -251,7 +214,6 @@
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/첫 번째 언어.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/직위를 지표로 이용하라.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/자신만의 지도를 그려라.md",
-    "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/패턴 목록.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/꾸준히 읽어라.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/예술보다 기예.md",
     "🟥 Capture 임시메모(inbox)/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/열정을 키워라.md",
