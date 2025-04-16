@@ -17,5 +17,7 @@
   "floating-toc",
   "advanced-canvas",
   "obsidian-view-mode-by-frontmatter",
-  "canvas-node-screenshot"
+  "canvas-node-screenshot",
+  "colored-text",
+  "highlightr-plugin"
 ]

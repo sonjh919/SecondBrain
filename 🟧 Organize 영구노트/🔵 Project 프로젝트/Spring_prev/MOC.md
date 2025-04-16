@@ -13,7 +13,7 @@ path:
 ## Spring
 ### 세팅
 [[Maven]]
-[[Gradle]]
+[[🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/세팅/Gradle]]
 [[application.properties]]
 
 ### 문법

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/2025-01-17 회고 ⁚.md",
+                "file": "Todo/2025-04-15.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/2025-01-17 회고 ⁚.md",
+                "file": "Todo/2025-04-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/2025-01-17 회고 ⁚.md"
+                "file": "Todo/2025-04-15.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/2025-01-17 회고 ⁚.md",
+                "file": "Todo/2025-04-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,35 +202,45 @@
   },
   "active": "fde0ff1c85bde7f4",
   "lastOpenFiles": [
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/스터디 inbox.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/프로그래머의 길, 멘토에게 묻다/패턴 목록-우테코.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/개발자들이 공통적으로 가진 특성.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring",
-    "🟥 Capture 임시메모(inbox)/테코톡.md",
+    "Todo/TIL/2025-04-16 TIL.md",
+    "Todo/2025-04-15.md",
+    "Todo/TIL",
+    "Todo/2025-04-12.md",
     "🟥 Capture 임시메모(inbox)/Inbox.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/공식 문서 읽기/알아두면 이해하기 편한 문법.md",
-    "🟥 Capture 임시메모(inbox)/무제.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/배운 것을 기록하라.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/배운 것을 공유하라.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/흰 띠를 매라.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/한발 물러서라.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/피드백 루프를 만들어라.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/팔꿈치를 맞대고.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/첫 번째 언어.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/일하면서 성찰하라.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/실패하는 법을 배워라.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/연습, 연습, 또 연습.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/소스를 활용하라.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/부숴도 괜찮은 장난감.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지에 맞서라.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/꾸준히 읽어라.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/더 깊이 파고들어라.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지를 드러내라.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/능력의 폭을 넓혀라.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/고전을 공부하라.md",
+    "Todo/2025-01-17 회고 ⁚.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/os 스터디/os 스터디 inbox.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/os 스터디",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/예외처리/exception.png",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/Spring과 객체지향/AOP.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/세팅/Gradle.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/Spring과 객체지향/IoC (Inversion of Controller).md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/Security/Security.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/문법/Client에서 데이터 받기.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/Spring과 객체지향/Interceptor.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/문법/정적 페이지와 동적 페이지.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/세팅/build.gradle.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/문법/Spring.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/Security/쿠키와 세션 비교.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/문법/HTTP 데이터 객체로 변환하기.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/Security/로그인.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/Security/JWT/JWT.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/Servlet/DispatcherServlet.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/Spring과 객체지향/IoC Container와 Bean.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/Library/Jackson.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/Spring과 객체지향/DI (Dependency Injection).md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/Security/접근 불가 페이지.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/문법/같은 타입의 Bean이 2개일 경우.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/문법/Bean 수동 등록.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/Security/JWT",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/Spring과 객체지향",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/RestTemplate",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/Annotation",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/Interface",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/Security",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/Servlet",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/Library",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring/Spring.canvas",
     "Setting/20241228.png",
-    "Setting",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Database/Pasted image 20240327095613.png",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/addressing.png",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Database/Pasted image 20240327095507.png",
@@ -239,14 +249,6 @@
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Database/RDB/SQL/정규화/3정규화전.png",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Database/RDB/SQL/정규화/2정규화후.png",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Database/RDB/SQL/정규화/3정규화후.png",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Database/RDB/SQL/정규화/2정규화전.png",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Graph",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Database/RDB/SQL/SQL 실행 순서",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Database/NoSQL/NoSQL의 종류",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Database/RDB/SQL/Query",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Database/RDB/SQL/Join",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/오브젝트/오브젝트 총정리/오브젝트.canvas",
     "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/level1/장기.canvas",
     "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/level1/블랙잭 설계.canvas",
@@ -255,7 +257,6 @@
     "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/프로그래머의 길, 멘토에게 묻다/패턴 연관관계.canvas",
     "🟥 Capture 임시메모(inbox)/장기.canvas",
     "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/자바 8.canvas",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/내부 메서드 뒤지기/무제 파일.canvas",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/오브젝트/오브젝트 총정리/오브젝트.canvas"
+    "🟧 Organize 영구노트/🟠 Project 프로젝트/내부 메서드 뒤지기/무제 파일.canvas"
   ]
 }
