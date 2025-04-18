@@ -13,7 +13,7 @@ path:
 ## Spring
 ### 세팅
 [[Maven]]
-[[🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/세팅/Gradle]]
+[[Gradle]]
 [[application.properties]]
 
 ### 문법
@@ -25,7 +25,7 @@ path:
 [[HTTP 데이터 객체로 변환하기]]
 [[Response 트렌드의 변화]]
 [[Spring MVC]]
-[[Spring]]
+[[🟧 Organize 영구노트/🟤 Archive 보관소/Spring_prev/문법/Spring]]
 [[SpringBoot]]
 
 ### spring과 객체지향
