@@ -6,7 +6,7 @@
 
 > [!summary]+ 
 > 1. [[Entity와 Value]]
-> 2. 애그리거트([[🟠 Project/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Aggregate|Aggregate]])
+> 2. 애그리거트([[🟧 Organize 영구노트/🔵 Project 프로젝트/도메인 주도 개발 시작하기/2. 아키텍처 개요/Aggregate|Aggregate]])
 > 3. 리포지터리([[Repository]])
 > 4. 도메인 서비스(DOMAIN SERVICE)
 

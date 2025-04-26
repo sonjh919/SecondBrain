@@ -462,16 +462,6 @@
       "height": 290
     },
     {
-      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/컴퓨터의 네 가지 핵심 부품.md",
-      "id": "d590837e9d251a2a",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 180,
-      "y": -1135,
-      "width": 400,
-      "height": 370
-    },
-    {
       "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/문자 표현/문자 집합.md",
       "id": "be87edde55540129",
       "styleAttributes": {},
@@ -480,27 +470,6 @@
       "y": 420,
       "width": 500,
       "height": 700
-    },
-    {
-      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/CPU/CPU.md",
-      "id": "74fb46d41b5f6868",
-      "styleAttributes": {},
-      "type": "file",
-      "x": -70,
-      "y": -687,
-      "width": 400,
-      "height": 522,
-      "color": "1"
-    },
-    {
-      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/메인보드.md",
-      "id": "3426f652f5d5c4eb",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 1820,
-      "y": -1500,
-      "width": 400,
-      "height": 520
     },
     {
       "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/버스.md",
@@ -522,6 +491,68 @@
       "width": 400,
       "height": 1004,
       "color": "1"
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/CPU/ALU.md",
+      "id": "f2dacccc62f33641",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -530,
+      "y": 20,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "3378b85ea2d78a8b",
+      "styleAttributes": {},
+      "text": "컴퓨터 프로그램\n+ 명령어들의 모음",
+      "type": "text",
+      "x": -940,
+      "y": 300,
+      "width": 260,
+      "height": 100,
+      "color": "6"
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어.md",
+      "id": "a60594870987ed37",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -1060,
+      "y": -180,
+      "width": 500,
+      "height": 400
+    },
+    {
+      "id": "5febb99ee72b0f8d",
+      "type": "text",
+      "text": "**Random인 이유?**\n\n 명칭에 Random(무작위)가 들어가는 이유는 데이터 접근 시간이 하드디스크와는 다르기 때문이다. 램과 같은 경우는 어느 위치에 저장되어있는 데이터든지 접근(Access)하는 데 시간이 동일하게 걸리지만, 순차 접근 방식은 저장된 위치에 따라 접근하는 시간이 다르다. 즉, Random은 이러한 램의 데이터 처리 시간이 저장된 위치와 무관하다는 것을 반영한다.\n\n보조기억장치의 접근 방식\n+ **순차 접근 방식(Sequential Access)** : 데이터를 처음부터 차례대로 읽거나 써야 하는 방식(자기 테이프)\n+ **직접 접근 방식(Direct Access)** : 저장된 데이터의 물리적 위치를 지정하여 바로 접근할 수 있는 방식(HDD)\n",
+      "styleAttributes": {},
+      "x": 1460,
+      "y": 1320,
+      "width": 600,
+      "height": 360
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/CPU/CPU.md",
+      "id": "74fb46d41b5f6868",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -70,
+      "y": -687,
+      "width": 400,
+      "height": 522,
+      "color": "1"
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/메인보드.md",
+      "id": "3426f652f5d5c4eb",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 1820,
+      "y": -1500,
+      "width": 400,
+      "height": 520
     },
     {
       "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/메모리/메모리.md",
@@ -565,27 +596,6 @@
       "height": 400
     },
     {
-      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/CPU/ALU.md",
-      "id": "f2dacccc62f33641",
-      "styleAttributes": {},
-      "type": "file",
-      "x": -530,
-      "y": 20,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "3378b85ea2d78a8b",
-      "styleAttributes": {},
-      "text": "컴퓨터 프로그램\n+ 명령어들의 모음",
-      "type": "text",
-      "x": -940,
-      "y": 300,
-      "width": 260,
-      "height": 100,
-      "color": "6"
-    },
-    {
       "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/입출력장치.md",
       "id": "04b3288e501c5368",
       "styleAttributes": {},
@@ -595,16 +605,6 @@
       "width": 540,
       "height": 580,
       "color": "1"
-    },
-    {
-      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어.md",
-      "id": "a60594870987ed37",
-      "styleAttributes": {},
-      "type": "file",
-      "x": -1060,
-      "y": -180,
-      "width": 500,
-      "height": 400
     },
     {
       "id": "a174ee2f6a106896",
@@ -639,14 +639,14 @@
       "height": 440
     },
     {
-      "id": "5febb99ee72b0f8d",
-      "type": "text",
-      "text": "**Random인 이유?**\n\n 명칭에 Random(무작위)가 들어가는 이유는 데이터 접근 시간이 하드디스크와는 다르기 때문이다. 램과 같은 경우는 어느 위치에 저장되어있는 데이터든지 접근(Access)하는 데 시간이 동일하게 걸리지만, 순차 접근 방식은 저장된 위치에 따라 접근하는 시간이 다르다. 즉, Random은 이러한 램의 데이터 처리 시간이 저장된 위치와 무관하다는 것을 반영한다.\n\n보조기억장치의 접근 방식\n+ **순차 접근 방식(Sequential Access)** : 데이터를 처음부터 차례대로 읽거나 써야 하는 방식(자기 테이프)\n+ **직접 접근 방식(Direct Access)** : 저장된 데이터의 물리적 위치를 지정하여 바로 접근할 수 있는 방식(HDD)\n",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/컴퓨터의 네 가지 핵심 부품.md",
+      "id": "d590837e9d251a2a",
       "styleAttributes": {},
-      "x": 1460,
-      "y": 1320,
-      "width": 600,
-      "height": 360
+      "type": "file",
+      "x": 180,
+      "y": -1135,
+      "width": 400,
+      "height": 370
     }
   ],
   "metadata": {}
