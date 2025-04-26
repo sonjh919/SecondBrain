@@ -1,0 +1,653 @@
+{
+  "edges": [
+    {
+      "id": "2749b45e3fb670e8",
+      "styleAttributes": {},
+      "fromNode": "a1b305bd4d6bf2d2",
+      "fromSide": "left",
+      "toNode": "817ba4205c6f1e9a",
+      "toSide": "right"
+    },
+    {
+      "id": "9435101a690d7445",
+      "styleAttributes": {},
+      "fromNode": "817ba4205c6f1e9a",
+      "fromSide": "bottom",
+      "toNode": "6b2959db31954031",
+      "toSide": "top"
+    },
+    {
+      "id": "5f221b46dcf61c0e",
+      "styleAttributes": {},
+      "fromNode": "a1b305bd4d6bf2d2",
+      "fromSide": "top",
+      "toNode": "407617f93b1f31ca",
+      "toSide": "bottom"
+    },
+    {
+      "id": "4ee2b477bcb16253",
+      "styleAttributes": {},
+      "fromNode": "6b2959db31954031",
+      "fromSide": "bottom",
+      "toNode": "a60594870987ed37",
+      "toSide": "top"
+    },
+    {
+      "id": "12a1fd0611dac7fb",
+      "styleAttributes": {},
+      "fromNode": "a60594870987ed37",
+      "fromSide": "bottom",
+      "toNode": "3378b85ea2d78a8b",
+      "toSide": "top"
+    },
+    {
+      "id": "bc81bec53f853766",
+      "styleAttributes": {},
+      "fromNode": "a1b305bd4d6bf2d2",
+      "fromSide": "right",
+      "toNode": "d590837e9d251a2a",
+      "toSide": "left"
+    },
+    {
+      "id": "d66b54ba2d80824a",
+      "styleAttributes": {},
+      "fromNode": "d590837e9d251a2a",
+      "fromSide": "right",
+      "toNode": "52a97ca2f9843ff2",
+      "toSide": "top"
+    },
+    {
+      "id": "10b048f4b8dbd974",
+      "styleAttributes": {},
+      "fromNode": "52a97ca2f9843ff2",
+      "fromSide": "bottom",
+      "toNode": "3a364fa9a50868b9",
+      "toSide": "top",
+      "label": "메모리"
+    },
+    {
+      "id": "662852f2a3311330",
+      "styleAttributes": {},
+      "fromNode": "52a97ca2f9843ff2",
+      "fromSide": "left",
+      "toNode": "74fb46d41b5f6868",
+      "toSide": "right",
+      "label": "CPU"
+    },
+    {
+      "id": "e43507439222e4bf",
+      "styleAttributes": {},
+      "fromNode": "74fb46d41b5f6868",
+      "fromSide": "bottom",
+      "toNode": "f2dacccc62f33641",
+      "toSide": "top"
+    },
+    {
+      "id": "09084d4e37afa3aa",
+      "styleAttributes": {},
+      "fromNode": "74fb46d41b5f6868",
+      "fromSide": "bottom",
+      "toNode": "2a6ccc58ee4ac0af",
+      "toSide": "top"
+    },
+    {
+      "id": "5f64b23996041e6a",
+      "styleAttributes": {},
+      "fromNode": "74fb46d41b5f6868",
+      "fromSide": "bottom",
+      "toNode": "b4a5027aab8c639e",
+      "toSide": "top"
+    },
+    {
+      "id": "f0b0b5a552d366ae",
+      "styleAttributes": {},
+      "fromNode": "b4a5027aab8c639e",
+      "fromSide": "bottom",
+      "toNode": "22ea6ba6b265358d",
+      "toSide": "top"
+    },
+    {
+      "id": "e97d07f743826732",
+      "styleAttributes": {},
+      "fromNode": "3a364fa9a50868b9",
+      "fromSide": "right",
+      "toNode": "a174ee2f6a106896",
+      "toSide": "left"
+    },
+    {
+      "id": "72a7dfefc156c6bf",
+      "styleAttributes": {},
+      "fromNode": "a174ee2f6a106896",
+      "fromSide": "right",
+      "toNode": "a23c85d221d06e0f",
+      "toSide": "left"
+    },
+    {
+      "id": "48a5e536c152ba1d",
+      "styleAttributes": {},
+      "fromNode": "52a97ca2f9843ff2",
+      "fromSide": "right",
+      "toNode": "a23c85d221d06e0f",
+      "toSide": "top",
+      "label": "보조기억장치"
+    },
+    {
+      "id": "1a0653417b85bc68",
+      "styleAttributes": {},
+      "fromNode": "52a97ca2f9843ff2",
+      "fromSide": "right",
+      "toNode": "04b3288e501c5368",
+      "toSide": "left",
+      "label": "입출력장치"
+    },
+    {
+      "id": "b20ccf87b050e62e",
+      "styleAttributes": {},
+      "fromNode": "52a97ca2f9843ff2",
+      "fromSide": "top",
+      "toNode": "3426f652f5d5c4eb",
+      "toSide": "left",
+      "label": "메인보드"
+    },
+    {
+      "id": "ac60784b202baf3b",
+      "styleAttributes": {},
+      "fromNode": "3426f652f5d5c4eb",
+      "fromSide": "right",
+      "toNode": "78ae4e8e896c4a31",
+      "toSide": "left",
+      "label": "버스"
+    },
+    {
+      "id": "a8e7a5c906157a21",
+      "styleAttributes": {},
+      "fromNode": "78ae4e8e896c4a31",
+      "fromSide": "right",
+      "toNode": "f8f2825ff5957da6",
+      "toSide": "left",
+      "label": "시스템 버스"
+    },
+    {
+      "id": "7e8de7b704912947",
+      "styleAttributes": {},
+      "fromNode": "6b2959db31954031",
+      "fromSide": "left",
+      "toNode": "2b30566cd2ab2c1f",
+      "toSide": "right"
+    },
+    {
+      "id": "218079a7ea36c3e5",
+      "styleAttributes": {},
+      "fromNode": "2b30566cd2ab2c1f",
+      "fromSide": "top",
+      "toNode": "61592daa2f2f86c4",
+      "toSide": "bottom"
+    },
+    {
+      "id": "197f105d6d83b93d",
+      "styleAttributes": {},
+      "fromNode": "0a04695308117eb7",
+      "fromSide": "left",
+      "toNode": "18aac70844ad7712",
+      "toSide": "right"
+    },
+    {
+      "id": "a710c8360fd1b4d9",
+      "styleAttributes": {},
+      "fromNode": "18aac70844ad7712",
+      "fromSide": "top",
+      "toNode": "544c3bc7b6700cce",
+      "toSide": "bottom"
+    },
+    {
+      "id": "11d681ea96265c42",
+      "styleAttributes": {},
+      "fromNode": "18aac70844ad7712",
+      "fromSide": "left",
+      "toNode": "799cf1e611222642",
+      "toSide": "right",
+      "fromEnd": "arrow"
+    },
+    {
+      "id": "9ac4ceea2f959e1c",
+      "styleAttributes": {},
+      "fromNode": "6b2959db31954031",
+      "fromSide": "left",
+      "toNode": "0a04695308117eb7",
+      "toSide": "right"
+    },
+    {
+      "id": "04fc35f6afa65a9d",
+      "styleAttributes": {},
+      "fromNode": "6b2959db31954031",
+      "fromSide": "left",
+      "toNode": "082a921e0bec3c92",
+      "toSide": "right"
+    },
+    {
+      "id": "a51b3fdf07a29064",
+      "styleAttributes": {},
+      "fromNode": "082a921e0bec3c92",
+      "fromSide": "bottom",
+      "toNode": "be87edde55540129",
+      "toSide": "top"
+    },
+    {
+      "id": "f89d7cc5702c97c8",
+      "styleAttributes": {},
+      "fromNode": "be87edde55540129",
+      "fromSide": "left",
+      "toNode": "20cf6402b1cb13da",
+      "toSide": "right"
+    },
+    {
+      "id": "b3a769324095d40d",
+      "styleAttributes": {},
+      "fromNode": "be87edde55540129",
+      "fromSide": "left",
+      "toNode": "7570d5b22da6dba4",
+      "toSide": "right"
+    },
+    {
+      "id": "9c364cb561da65c1",
+      "styleAttributes": {},
+      "fromNode": "be87edde55540129",
+      "fromSide": "left",
+      "toNode": "6df100afa69e9e54",
+      "toSide": "right"
+    },
+    {
+      "id": "43b7728f46dbd81e",
+      "styleAttributes": {},
+      "fromNode": "6df100afa69e9e54",
+      "fromSide": "left",
+      "toNode": "017ea8b95a3a9ac2",
+      "toSide": "right"
+    },
+    {
+      "id": "f6aabd77bf77bb1b",
+      "styleAttributes": {},
+      "fromNode": "18aac70844ad7712",
+      "fromSide": "top",
+      "toNode": "f4aba5ccf2711ba8",
+      "toSide": "right"
+    },
+    {
+      "id": "4338e852e265b0a8",
+      "styleAttributes": {},
+      "fromNode": "3a364fa9a50868b9",
+      "fromSide": "bottom",
+      "toNode": "5febb99ee72b0f8d",
+      "toSide": "top",
+      "color": "1"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "54a731bb6e021b45",
+      "styleAttributes": {},
+      "type": "group",
+      "x": -2860,
+      "y": 360,
+      "width": 1120,
+      "height": 1310,
+      "color": "1",
+      "label": "9"
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/정보 단위.md",
+      "id": "2b30566cd2ab2c1f",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -1580,
+      "y": -1820,
+      "width": 400,
+      "height": 585,
+      "color": "1"
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/워드.md",
+      "id": "61592daa2f2f86c4",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -1580,
+      "y": -2520,
+      "width": 400,
+      "height": 585
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/숫자 표현/2의 보수.md",
+      "id": "544c3bc7b6700cce",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -2160,
+      "y": -1715,
+      "width": 400,
+      "height": 480,
+      "color": "1"
+    },
+    {
+      "id": "f4aba5ccf2711ba8",
+      "styleAttributes": {},
+      "text": "8. 정수형 자료를 비트로 관리하는 방법. 32bit int 자료형은 각 비트를 어떤 용도로 사용하여 수를 표현하는가?\n\n\n32비트 int 자료형은 32비트 또는 4바이트 크기로, 표현할 수 있는 수의 범위는 -21억 ~ 21억이다.\n**-2³¹ ~ 2³¹-1**",
+      "type": "text",
+      "x": -2600,
+      "y": -1655,
+      "width": 260,
+      "height": 420,
+      "color": "1"
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/숫자 표현/십육진법.md",
+      "id": "799cf1e611222642",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -2740,
+      "y": -1125,
+      "width": 400,
+      "height": 1040
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/문자 표현/아스키 문자.md",
+      "id": "20cf6402b1cb13da",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -2320,
+      "y": -40,
+      "width": 560,
+      "height": 440
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/문자 표현/문자 표현.md",
+      "id": "082a921e0bec3c92",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -1580,
+      "y": -250,
+      "width": 400,
+      "height": 540
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/숫자 표현/이진법.md",
+      "id": "18aac70844ad7712",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -2160,
+      "y": -1005,
+      "width": 400,
+      "height": 800
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/숫자 표현/숫자 표현.md",
+      "id": "0a04695308117eb7",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -1580,
+      "y": -745,
+      "width": 400,
+      "height": 280
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/컴퓨터가 이해하는 정보.md",
+      "id": "817ba4205c6f1e9a",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -1010,
+      "y": -1050,
+      "width": 400,
+      "height": 200
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/문자 표현/UTF-8.md",
+      "id": "017ea8b95a3a9ac2",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -2840,
+      "y": 370,
+      "width": 400,
+      "height": 800
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/문자 표현/유니코드.md",
+      "id": "6df100afa69e9e54",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -2320,
+      "y": 440,
+      "width": 560,
+      "height": 660
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/문자 표현/EUC-KR.md",
+      "id": "7570d5b22da6dba4",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -2320,
+      "y": 1200,
+      "width": 560,
+      "height": 440
+    },
+    {
+      "id": "407617f93b1f31ca",
+      "styleAttributes": {},
+      "text": "컴퓨터?\n+ 명령어를 처리하는 기계",
+      "type": "text",
+      "x": -330,
+      "y": -1140,
+      "width": 260,
+      "height": 100,
+      "color": "6"
+    },
+    {
+      "id": "a1b305bd4d6bf2d2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "컴퓨터 구조",
+      "type": "text",
+      "x": -330,
+      "y": -980,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/데이터.md",
+      "id": "6b2959db31954031",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -1010,
+      "y": -750,
+      "width": 400,
+      "height": 290
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/컴퓨터의 네 가지 핵심 부품.md",
+      "id": "d590837e9d251a2a",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 180,
+      "y": -1135,
+      "width": 400,
+      "height": 370
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/문자 표현/문자 집합.md",
+      "id": "be87edde55540129",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -1630,
+      "y": 420,
+      "width": 500,
+      "height": 700
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/CPU/CPU.md",
+      "id": "74fb46d41b5f6868",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -70,
+      "y": -687,
+      "width": 400,
+      "height": 522,
+      "color": "1"
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/메인보드.md",
+      "id": "3426f652f5d5c4eb",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 1820,
+      "y": -1500,
+      "width": 400,
+      "height": 520
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/버스.md",
+      "id": "78ae4e8e896c4a31",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 2470,
+      "y": -1360,
+      "width": 500,
+      "height": 240
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/시스템 버스.md",
+      "id": "f8f2825ff5957da6",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 3280,
+      "y": -1742,
+      "width": 400,
+      "height": 1004,
+      "color": "1"
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/메모리/메모리.md",
+      "id": "3a364fa9a50868b9",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 1075,
+      "y": 140,
+      "width": 510,
+      "height": 1060,
+      "color": "1"
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/img/컴퓨터_부품_구조.png",
+      "id": "52a97ca2f9843ff2",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 820,
+      "y": -750,
+      "width": 1020,
+      "height": 647
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/CPU/제어장치.md",
+      "id": "b4a5027aab8c639e",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 380,
+      "y": 20,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/CPU/레지스터.md",
+      "id": "2a6ccc58ee4ac0af",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -70,
+      "y": 20,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/CPU/ALU.md",
+      "id": "f2dacccc62f33641",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -530,
+      "y": 20,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "3378b85ea2d78a8b",
+      "styleAttributes": {},
+      "text": "컴퓨터 프로그램\n+ 명령어들의 모음",
+      "type": "text",
+      "x": -940,
+      "y": 300,
+      "width": 260,
+      "height": 100,
+      "color": "6"
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/입출력장치.md",
+      "id": "04b3288e501c5368",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 2450,
+      "y": -716,
+      "width": 540,
+      "height": 580,
+      "color": "1"
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어.md",
+      "id": "a60594870987ed37",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -1060,
+      "y": -180,
+      "width": 500,
+      "height": 400
+    },
+    {
+      "id": "a174ee2f6a106896",
+      "styleAttributes": {},
+      "text": "메모리 문제점\n1. 가격이 비싸 저장 용량이 적다.\n2. 전원이 꺼지면 저장된 내용을 잃는다.",
+      "type": "text",
+      "x": 1920,
+      "y": 590,
+      "width": 360,
+      "height": 160,
+      "color": "6"
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/보조기억장치.md",
+      "id": "a23c85d221d06e0f",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 2520,
+      "y": 365,
+      "width": 400,
+      "height": 610,
+      "color": "1"
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/CPU/제어 신호.md",
+      "id": "22ea6ba6b265358d",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 330,
+      "y": 520,
+      "width": 500,
+      "height": 440
+    },
+    {
+      "id": "5febb99ee72b0f8d",
+      "type": "text",
+      "text": "**Random인 이유?**\n\n 명칭에 Random(무작위)가 들어가는 이유는 데이터 접근 시간이 하드디스크와는 다르기 때문이다. 램과 같은 경우는 어느 위치에 저장되어있는 데이터든지 접근(Access)하는 데 시간이 동일하게 걸리지만, 순차 접근 방식은 저장된 위치에 따라 접근하는 시간이 다르다. 즉, Random은 이러한 램의 데이터 처리 시간이 저장된 위치와 무관하다는 것을 반영한다.\n\n보조기억장치의 접근 방식\n+ **순차 접근 방식(Sequential Access)** : 데이터를 처음부터 차례대로 읽거나 써야 하는 방식(자기 테이프)\n+ **직접 접근 방식(Direct Access)** : 저장된 데이터의 물리적 위치를 지정하여 바로 접근할 수 있는 방식(HDD)\n",
+      "styleAttributes": {},
+      "x": 1460,
+      "y": 1320,
+      "width": 600,
+      "height": 360
+    }
+  ],
+  "metadata": {}
+}

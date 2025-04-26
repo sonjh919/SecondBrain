@@ -11,12 +11,14 @@
             "id": "fde0ff1c85bde7f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/Inbox.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터구조.canvas",
+                "viewState": {
+                  "x": 1576.949159988108,
+                  "y": -44.90044255655437,
+                  "zoom": -0.9999999999999998
+                }
               }
             }
           }
@@ -87,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/Inbox.md",
+                "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/시스템 버스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/Inbox.md"
+                "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/시스템 버스.md"
               }
             }
           },
@@ -141,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/Inbox.md",
+                "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/시스템 버스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,61 +204,61 @@
   },
   "active": "fde0ff1c85bde7f4",
   "lastOpenFiles": [
-    "🟥 Capture 임시메모(inbox)/테코톡.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/메모리/메모리.md",
     "🟥 Capture 임시메모(inbox)/Inbox.md",
-    "Todo/2025-04-19.md",
-    "Templates/Insert_Callout.md",
-    "Templates/gitblog templete.md",
-    "Templates/TODO Templete.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/내부코드 까보기/알아두면 이해하기 편한 문법.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/개발자들이 공통적으로 가진 특성.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/학습법 스터디/스터디 inbox.md",
-    "Todo/2025-04-16.md",
-    "Todo/2025-04-18.md",
-    "Todo/2025-04-15.md",
-    "Todo/TIL",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Boot/공식문서/First Steps/Overview.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Boot/공식문서/Developing With Spring Boot/Spring Beans and Dependency Injection.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Boot/공식문서/Documentation Overview.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Boot/공식문서/Developing With Spring Boot/Auto-configuration.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Boot/공식문서/Developing With Spring Boot/Configuration Classes.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Boot/공식문서/Developing With Spring Boot/Structuring Your Code.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Boot/공식문서/Developing With Spring Boot/Developing with Spring Boot.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Boot/공식문서/First Steps/Developing Your First Spring Boot Application.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Boot/공식문서/Developing With Spring Boot",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Boot/공식문서/First Steps/Installation.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Boot/공식문서/First Steps/Requirements.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Boot/공식문서/First Steps",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JAVA/Annotation/Annotation.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JAVA/Annotation/커스텀 Annotation.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JAVA/Annotation/@RestController.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JAVA/Annotation",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Boot/공식문서",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Boot",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring/Spring.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring/RestController.png",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring/MyApplication.png",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring/img",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring/Annotation",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/addressing.png",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/chaining.png",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/내부코드 까보기",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/Graph",
-    "🟧 Organize 영구노트/🟤 Archive 보관소/Spring_prev/예외처리/exception.png",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring_prev/예외처리/exception.png",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터구조.canvas",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Framework/Spring Framework.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Framework/무제.canvas",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/CPU/ALU.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/문자 표현/문자 집합.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터 구조.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/문자 표현/문자 표현.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/문자 표현/UTF-8.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/img/byte_codepoint.png",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/문자 표현/유니코드.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/문자 표현/EUC-KR.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/문자 표현/아스키 문자.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/숫자 표현/이진법.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/데이터.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/정보 단위.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/숫자 표현/숫자 표현.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/문자 표현",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/워드.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/숫자 표현/십육진법.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/숫자 표현/2의 보수.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터/숫자 표현",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/img/이진수_십육진수.png",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/img/십육진수_이진수.png",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/img/메모리_접근.png",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/img/컴퓨터_부품_구조.png",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/컴퓨터의 네 가지 핵심 부품.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/img",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/컴퓨터가 이해하는 정보.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/데이터",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/시스템 버스.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/버스.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/메인보드.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/입출력장치.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/보조기억장치.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/CPU/제어 신호.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/CPU",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/메모리",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체",
+    "Todo/Pasted image 20250421122102.png",
+    "Todo/Pasted image 20250421122100.png",
+    "Todo/Pasted image 20250420222717.png",
+    "Todo/Pasted image 20250420222552.png",
+    "Todo/Pasted image 20250420222315.png",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring/Spring.canvas",
-    "Setting/20241228.png",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Database/Pasted image 20240327095613.png",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/코딩테스트 준비하기/Algorithm & Data Structure/Data Structure/addressing.png",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Database/Pasted image 20240327095507.png",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/오브젝트/오브젝트 총정리/오브젝트.canvas",
     "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/level1/장기.canvas",
     "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/level1/블랙잭 설계.canvas",
     "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/level1/레벨 인터뷰.canvas",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/모던 자바 인 액션/Part1/자바 8.canvas",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/패턴 연관관계.canvas",
-    "🟥 Capture 임시메모(inbox)/장기.canvas",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/모던 자바 인 액션/Part1/자바 8.canvas",
-    "🟧 Organize 영구노트/🟠 Project 프로젝트/내부 메서드 뒤지기/무제 파일.canvas"
+    "🟥 Capture 임시메모(inbox)/장기.canvas"
   ]
 }

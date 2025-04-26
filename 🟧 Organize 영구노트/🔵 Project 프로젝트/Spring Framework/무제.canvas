@@ -1,0 +1,17 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "dd7b8a57554ff13a",
+      "styleAttributes": {
+      },
+      "text": "Spring Framework",
+      "type": "text",
+      "width": 260,
+      "x": -100,
+      "y": -440
+    }
+  ]
+}

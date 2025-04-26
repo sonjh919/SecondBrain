@@ -1,2180 +1,2402 @@
 {
   "edges": [
     {
+      "color": "5",
+      "fromNode": "908d6af961c85ee3",
+      "fromSide": "top",
       "id": "607959494b1d7e29",
-      "styleAttributes": {},
-      "fromNode": "908d6af961c85ee3",
-      "fromSide": "top",
+      "styleAttributes": {
+      },
       "toNode": "a76b1d6d448d2940",
-      "toSide": "right",
-      "color": "5"
+      "toSide": "right"
     },
     {
-      "id": "c6da238d30fe5798",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "908d6af961c85ee3",
       "fromSide": "top",
+      "id": "c6da238d30fe5798",
+      "styleAttributes": {
+      },
       "toNode": "6e165e6a095c57ed",
-      "toSide": "bottom",
-      "color": "6"
+      "toSide": "bottom"
     },
     {
-      "id": "9052b30729553ef9",
-      "styleAttributes": {},
+      "color": "2",
+      "fromEnd": "arrow",
       "fromNode": "c67f8a748a4962b0",
       "fromSide": "right",
+      "id": "9052b30729553ef9",
+      "styleAttributes": {
+      },
       "toNode": "908d6af961c85ee3",
-      "toSide": "left",
-      "fromEnd": "arrow",
-      "color": "2"
+      "toSide": "left"
     },
     {
-      "id": "5fcf6a3f8074bf83",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "c67f8a748a4962b0",
       "fromSide": "top",
+      "id": "5fcf6a3f8074bf83",
+      "styleAttributes": {
+      },
       "toNode": "eedf20abdac6af21",
-      "toSide": "bottom",
-      "color": "6"
+      "toSide": "bottom"
     },
     {
-      "id": "a2b3bf6ed632216e",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "eedf20abdac6af21",
       "fromSide": "top",
+      "id": "a2b3bf6ed632216e",
+      "styleAttributes": {
+      },
       "toNode": "79c3ffd0df2d42b1",
-      "toSide": "bottom",
-      "color": "6"
+      "toSide": "bottom"
     },
     {
-      "id": "8b6a3e4ebe0ee490",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "6e165e6a095c57ed",
       "fromSide": "top",
+      "id": "8b6a3e4ebe0ee490",
+      "styleAttributes": {
+      },
       "toNode": "79c3ffd0df2d42b1",
-      "toSide": "bottom",
-      "color": "6"
+      "toSide": "bottom"
     },
     {
+      "color": "6",
+      "fromEnd": "arrow",
+      "fromNode": "eedf20abdac6af21",
+      "fromSide": "right",
       "id": "d8a1c88a8a3114ff",
       "styleAttributes": {
         "arrow": null
       },
-      "fromNode": "eedf20abdac6af21",
-      "fromSide": "right",
       "toNode": "6e165e6a095c57ed",
-      "toSide": "left",
-      "fromEnd": "arrow",
-      "color": "6"
+      "toSide": "left"
     },
     {
-      "id": "b69b5812f8fc7268",
-      "styleAttributes": {},
+      "color": "6",
+      "fromEnd": "arrow",
       "fromNode": "6e165e6a095c57ed",
       "fromSide": "right",
+      "id": "b69b5812f8fc7268",
+      "styleAttributes": {
+      },
       "toNode": "e959c8bb4e4c5d74",
-      "toSide": "left",
-      "fromEnd": "arrow",
-      "color": "6"
+      "toSide": "left"
     },
     {
-      "id": "9cbf3e8a8521f4ad",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "e959c8bb4e4c5d74",
       "fromSide": "bottom",
+      "id": "9cbf3e8a8521f4ad",
+      "styleAttributes": {
+      },
       "toNode": "359042ce92fb89e9",
-      "toSide": "top",
-      "color": "6"
+      "toSide": "top"
     },
     {
-      "id": "3022bfa40feb0313",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "e959c8bb4e4c5d74",
       "fromSide": "top",
+      "id": "3022bfa40feb0313",
+      "styleAttributes": {
+      },
       "toNode": "79c3ffd0df2d42b1",
-      "toSide": "top",
-      "color": "6"
+      "toSide": "top"
     },
     {
-      "id": "b811e9f45beb6ca8",
-      "styleAttributes": {},
       "fromNode": "8d956c73d6c32dd7",
       "fromSide": "top",
+      "id": "b811e9f45beb6ca8",
+      "styleAttributes": {
+      },
       "toNode": "2ed892a599ec5132",
       "toSide": "bottom"
     },
     {
-      "id": "7506172a2d376394",
-      "styleAttributes": {},
+      "color": "5",
       "fromNode": "238cc6ccdc43363e",
       "fromSide": "bottom",
+      "id": "7506172a2d376394",
+      "styleAttributes": {
+      },
       "toNode": "06ed72476dbc9fab",
-      "toSide": "top",
-      "color": "5"
+      "toSide": "top"
     },
     {
-      "id": "a696899302a54f83",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "cf427db0d16bf261",
       "fromSide": "top",
+      "id": "a696899302a54f83",
+      "styleAttributes": {
+      },
       "toNode": "c8daafe21e429ce9",
-      "toSide": "bottom",
-      "color": "6"
+      "toSide": "bottom"
     },
     {
-      "id": "4f971154c6cdeec6",
-      "styleAttributes": {},
+      "color": "6",
+      "fromEnd": "arrow",
       "fromNode": "eedf20abdac6af21",
       "fromSide": "left",
+      "id": "4f971154c6cdeec6",
+      "styleAttributes": {
+      },
       "toNode": "c8daafe21e429ce9",
-      "toSide": "right",
-      "fromEnd": "arrow",
-      "color": "6"
+      "toSide": "right"
     },
     {
-      "id": "420bd1ad0e052bad",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "238cc6ccdc43363e",
       "fromSide": "top",
+      "id": "420bd1ad0e052bad",
+      "styleAttributes": {
+      },
       "toNode": "359042ce92fb89e9",
-      "toSide": "bottom",
-      "color": "6"
+      "toSide": "bottom"
     },
     {
-      "id": "1d95445351100a7e",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "238cc6ccdc43363e",
       "fromSide": "right",
+      "id": "1d95445351100a7e",
+      "styleAttributes": {
+      },
       "toNode": "25ae79cad372cc63",
-      "toSide": "left",
-      "color": "6"
+      "toSide": "left"
     },
     {
-      "id": "e4da66252f97c7ac",
-      "styleAttributes": {},
+      "color": "5",
       "fromNode": "25ae79cad372cc63",
       "fromSide": "bottom",
+      "id": "e4da66252f97c7ac",
+      "styleAttributes": {
+      },
       "toNode": "e8811e099085112e",
-      "toSide": "top",
-      "color": "5"
+      "toSide": "top"
     },
     {
-      "id": "e05b33380cebcc4d",
-      "styleAttributes": {},
+      "color": "5",
       "fromNode": "e8811e099085112e",
       "fromSide": "right",
+      "id": "e05b33380cebcc4d",
+      "styleAttributes": {
+      },
       "toNode": "c308920c6f8189f9",
-      "toSide": "left",
-      "color": "5"
+      "toSide": "left"
     },
     {
-      "id": "b0771adc7b28a476",
-      "styleAttributes": {},
+      "color": "1",
       "fromNode": "8d679e390243cd71",
       "fromSide": "top",
+      "id": "b0771adc7b28a476",
+      "styleAttributes": {
+      },
       "toNode": "e8811e099085112e",
-      "toSide": "bottom",
-      "color": "1"
+      "toSide": "bottom"
     },
     {
-      "id": "5d5702f8bbcd5040",
-      "styleAttributes": {},
+      "color": "5",
       "fromNode": "06ed72476dbc9fab",
       "fromSide": "right",
+      "id": "5d5702f8bbcd5040",
+      "styleAttributes": {
+      },
       "toNode": "e8811e099085112e",
-      "toSide": "left",
-      "color": "5"
+      "toSide": "left"
     },
     {
-      "id": "cf605102ebd7e1f3",
-      "styleAttributes": {},
+      "color": "6",
+      "fromEnd": "arrow",
       "fromNode": "cf427db0d16bf261",
       "fromSide": "bottom",
+      "id": "cf605102ebd7e1f3",
+      "styleAttributes": {
+      },
       "toNode": "238cc6ccdc43363e",
-      "toSide": "bottom",
-      "fromEnd": "arrow",
-      "color": "6"
+      "toSide": "bottom"
     },
     {
-      "id": "421f9e47802571be",
-      "styleAttributes": {},
+      "color": "5",
       "fromNode": "0115ab57f99c9b8b",
       "fromSide": "top",
+      "id": "421f9e47802571be",
+      "styleAttributes": {
+      },
       "toNode": "8d956c73d6c32dd7",
-      "toSide": "bottom",
-      "color": "5"
+      "toSide": "bottom"
     },
     {
-      "id": "6d3915893c19592f",
-      "styleAttributes": {},
+      "color": "1",
+      "fromEnd": "arrow",
       "fromNode": "359042ce92fb89e9",
       "fromSide": "left",
+      "id": "6d3915893c19592f",
+      "label": "TO",
+      "styleAttributes": {
+      },
       "toNode": "41c6faf17fc3d81a",
-      "toSide": "right",
-      "fromEnd": "arrow",
-      "color": "1",
-      "label": "TO"
+      "toSide": "right"
     },
     {
-      "id": "2d8854a6ef9b5392",
-      "styleAttributes": {},
+      "color": "1",
       "fromNode": "908d6af961c85ee3",
       "fromSide": "bottom",
+      "id": "2d8854a6ef9b5392",
+      "styleAttributes": {
+      },
       "toNode": "41c6faf17fc3d81a",
-      "toSide": "top",
-      "color": "1"
+      "toSide": "top"
     },
     {
-      "id": "390f270bb21ba91c",
-      "styleAttributes": {},
+      "color": "1",
       "fromNode": "41c6faf17fc3d81a",
       "fromSide": "bottom",
+      "id": "390f270bb21ba91c",
+      "styleAttributes": {
+      },
       "toNode": "e023ba992b02ece4",
-      "toSide": "top",
-      "color": "1"
+      "toSide": "top"
     },
     {
-      "id": "def7b84e0deb04d9",
-      "styleAttributes": {},
+      "color": "1",
       "fromNode": "41c6faf17fc3d81a",
       "fromSide": "left",
+      "id": "def7b84e0deb04d9",
+      "styleAttributes": {
+      },
       "toNode": "77022d958a4fbb37",
-      "toSide": "right",
-      "color": "1"
+      "toSide": "right"
     },
     {
-      "id": "dacbad0a341e179b",
-      "styleAttributes": {},
+      "color": "1",
       "fromNode": "c67f8a748a4962b0",
       "fromSide": "bottom",
+      "id": "dacbad0a341e179b",
+      "styleAttributes": {
+      },
       "toNode": "77022d958a4fbb37",
-      "toSide": "top",
-      "color": "1"
+      "toSide": "top"
     },
     {
-      "id": "95919d1424abf391",
-      "styleAttributes": {},
+      "color": "1",
       "fromNode": "77022d958a4fbb37",
       "fromSide": "bottom",
+      "id": "95919d1424abf391",
+      "styleAttributes": {
+      },
       "toNode": "e023ba992b02ece4",
-      "toSide": "top",
-      "color": "1"
+      "toSide": "top"
     },
     {
-      "id": "94fac077730c8054",
-      "styleAttributes": {},
       "fromNode": "a9b43ba2f69ebd81",
       "fromSide": "bottom",
+      "id": "94fac077730c8054",
+      "styleAttributes": {
+      },
       "toNode": "d1c27b560ad2f16c",
       "toSide": "top"
     },
     {
-      "id": "a7939cf45c04c0c4",
-      "styleAttributes": {},
       "fromNode": "d1c27b560ad2f16c",
       "fromSide": "right",
+      "id": "a7939cf45c04c0c4",
+      "styleAttributes": {
+      },
       "toNode": "3a3f48c739a509e4",
       "toSide": "left"
     },
     {
-      "id": "3c763a57ec898769",
-      "styleAttributes": {},
       "fromNode": "d1c27b560ad2f16c",
       "fromSide": "right",
+      "id": "3c763a57ec898769",
+      "styleAttributes": {
+      },
       "toNode": "5bc570554b2c89a9",
       "toSide": "left"
     },
     {
+      "color": "5",
+      "fromNode": "e8811e099085112e",
+      "fromSide": "bottom",
       "id": "5d7db2dde03662b9",
-      "styleAttributes": {},
-      "fromNode": "e8811e099085112e",
-      "fromSide": "bottom",
+      "styleAttributes": {
+      },
       "toNode": "38c684f68eec75b0",
-      "toSide": "top",
-      "color": "5"
+      "toSide": "top"
     },
     {
+      "color": "5",
+      "fromNode": "e8811e099085112e",
+      "fromSide": "bottom",
       "id": "703ee004b52fe4a2",
-      "styleAttributes": {},
-      "fromNode": "e8811e099085112e",
-      "fromSide": "bottom",
+      "styleAttributes": {
+      },
       "toNode": "a5c63369cb5e88a3",
-      "toSide": "top",
-      "color": "5"
+      "toSide": "top"
     },
     {
-      "id": "393d7474c4f2637c",
-      "styleAttributes": {},
       "fromNode": "a9b43ba2f69ebd81",
       "fromSide": "top",
+      "id": "393d7474c4f2637c",
+      "styleAttributes": {
+      },
       "toNode": "a5c63369cb5e88a3",
       "toSide": "bottom"
     },
     {
-      "id": "295e02e25fb70ff6",
-      "styleAttributes": {},
       "fromNode": "a9b43ba2f69ebd81",
       "fromSide": "top",
+      "id": "295e02e25fb70ff6",
+      "styleAttributes": {
+      },
       "toNode": "38c684f68eec75b0",
       "toSide": "bottom"
     },
     {
-      "id": "9fa3d6509fba00f2",
-      "styleAttributes": {},
       "fromNode": "08c5129e89e7180d",
       "fromSide": "top",
+      "id": "9fa3d6509fba00f2",
+      "styleAttributes": {
+      },
       "toNode": "172c9734d5588eff",
       "toSide": "bottom"
     },
     {
-      "id": "b987e36987249891",
-      "styleAttributes": {},
       "fromNode": "172c9734d5588eff",
       "fromSide": "left",
+      "id": "b987e36987249891",
+      "styleAttributes": {
+      },
       "toNode": "a9b43ba2f69ebd81",
       "toSide": "left"
     },
     {
-      "id": "43b83c08a8e7f052",
-      "styleAttributes": {},
       "fromNode": "172c9734d5588eff",
       "fromSide": "left",
+      "id": "43b83c08a8e7f052",
+      "styleAttributes": {
+      },
       "toNode": "d1c27b560ad2f16c",
       "toSide": "left"
     },
     {
-      "id": "ffc14dbe9c0feafc",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "a9b43ba2f69ebd81",
       "fromSide": "top",
+      "id": "ffc14dbe9c0feafc",
+      "styleAttributes": {
+      },
       "toNode": "238cc6ccdc43363e",
-      "toSide": "bottom",
-      "color": "6"
+      "toSide": "bottom"
     },
     {
-      "id": "0d9e158ab42a25bf",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "e959c8bb4e4c5d74",
       "fromSide": "right",
+      "id": "0d9e158ab42a25bf",
+      "styleAttributes": {
+      },
       "toNode": "0115ab57f99c9b8b",
-      "toSide": "left",
-      "color": "6"
+      "toSide": "left"
     },
     {
-      "id": "a930eb9cc31061ee",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "0115ab57f99c9b8b",
       "fromSide": "bottom",
+      "id": "a930eb9cc31061ee",
+      "styleAttributes": {
+      },
       "toNode": "359042ce92fb89e9",
-      "toSide": "right",
-      "color": "6"
+      "toSide": "right"
     },
     {
-      "id": "d5d38c184802a776",
-      "styleAttributes": {},
       "fromNode": "5bc570554b2c89a9",
       "fromSide": "right",
+      "id": "d5d38c184802a776",
+      "styleAttributes": {
+      },
       "toNode": "55e6050fce677aea",
       "toSide": "left"
     },
     {
-      "id": "957bc71e53bc3103",
-      "styleAttributes": {},
+      "color": "5",
       "fromNode": "8d956c73d6c32dd7",
       "fromSide": "left",
+      "id": "957bc71e53bc3103",
+      "styleAttributes": {
+      },
       "toNode": "d385077066353d37",
-      "toSide": "right",
-      "color": "5"
+      "toSide": "right"
     },
     {
-      "id": "22d5029b92fe0ca1",
-      "styleAttributes": {},
+      "color": "5",
       "fromNode": "d385077066353d37",
       "fromSide": "left",
+      "id": "22d5029b92fe0ca1",
+      "styleAttributes": {
+      },
       "toNode": "79c3ffd0df2d42b1",
-      "toSide": "top",
-      "color": "5"
+      "toSide": "top"
     },
     {
-      "id": "261494c0156b12da",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "a9b43ba2f69ebd81",
       "fromSide": "right",
+      "id": "261494c0156b12da",
+      "styleAttributes": {
+      },
       "toNode": "3084d25b0863b51f",
-      "toSide": "left",
-      "color": "6"
+      "toSide": "left"
     },
     {
-      "id": "5fca797381c02b4a",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "3084d25b0863b51f",
       "fromSide": "top",
+      "id": "5fca797381c02b4a",
+      "styleAttributes": {
+      },
       "toNode": "3267c5eb828ae9aa",
-      "toSide": "bottom",
-      "color": "6"
+      "toSide": "bottom"
     },
     {
-      "id": "a607c8c10fa2e561",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "3267c5eb828ae9aa",
       "fromSide": "top",
+      "id": "a607c8c10fa2e561",
+      "styleAttributes": {
+      },
       "toNode": "06ed72476dbc9fab",
-      "toSide": "bottom",
-      "color": "6"
+      "toSide": "bottom"
     },
     {
-      "id": "59bc8e888d6752a6",
-      "styleAttributes": {},
+      "color": "5",
       "fromNode": "fa242a467651eb41",
       "fromSide": "right",
+      "id": "59bc8e888d6752a6",
+      "styleAttributes": {
+      },
       "toNode": "a5c63369cb5e88a3",
-      "toSide": "left",
-      "color": "5"
+      "toSide": "left"
     },
     {
-      "id": "68bb7f882b0ae348",
-      "styleAttributes": {},
+      "color": "2",
       "fromNode": "fa242a467651eb41",
       "fromSide": "left",
+      "id": "68bb7f882b0ae348",
+      "styleAttributes": {
+      },
       "toNode": "5de86ec8f46d407a",
-      "toSide": "right",
-      "color": "2"
+      "toSide": "right"
     },
     {
-      "id": "d0dae3f9cfb05183",
-      "styleAttributes": {},
+      "color": "2",
       "fromNode": "5de86ec8f46d407a",
       "fromSide": "left",
+      "id": "d0dae3f9cfb05183",
+      "styleAttributes": {
+      },
       "toNode": "bde5e7c6d373c19b",
-      "toSide": "right",
-      "color": "2"
+      "toSide": "right"
     },
     {
-      "id": "62092e6fca0f28f7",
-      "styleAttributes": {},
+      "color": "2",
       "fromNode": "bde5e7c6d373c19b",
       "fromSide": "top",
+      "id": "62092e6fca0f28f7",
+      "styleAttributes": {
+      },
       "toNode": "fe63afa5004a3e69",
-      "toSide": "bottom",
-      "color": "2"
+      "toSide": "bottom"
     },
     {
-      "id": "fd273f61b83f003f",
-      "styleAttributes": {},
+      "color": "2",
       "fromNode": "5de86ec8f46d407a",
       "fromSide": "top",
+      "id": "fd273f61b83f003f",
+      "styleAttributes": {
+      },
       "toNode": "fe63afa5004a3e69",
-      "toSide": "bottom",
-      "color": "2"
+      "toSide": "bottom"
     },
     {
-      "id": "71032ae090082c90",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "844b78380fb5865a",
       "fromSide": "right",
+      "id": "71032ae090082c90",
+      "styleAttributes": {
+      },
       "toNode": "067ec08893efb3f3",
-      "toSide": "left",
-      "color": "6"
+      "toSide": "left"
     },
     {
-      "id": "edb94e4f9ec835cb",
-      "styleAttributes": {},
       "fromNode": "067ec08893efb3f3",
       "fromSide": "bottom",
+      "id": "edb94e4f9ec835cb",
+      "styleAttributes": {
+      },
       "toNode": "af6a2157ef22c4a3",
       "toSide": "top"
     },
     {
-      "id": "8caf574395a26724",
-      "styleAttributes": {},
+      "color": "3",
       "fromNode": "a2e91d38e9e4fba8",
       "fromSide": "left",
+      "id": "8caf574395a26724",
+      "styleAttributes": {
+      },
       "toNode": "51ee466a6e6371e5",
-      "toSide": "right",
-      "color": "3"
+      "toSide": "right"
     },
     {
-      "id": "2dd8280f283af865",
-      "styleAttributes": {},
+      "color": "2",
       "fromNode": "ea9861beee0641d4",
       "fromSide": "bottom",
+      "id": "2dd8280f283af865",
+      "styleAttributes": {
+      },
       "toNode": "844b78380fb5865a",
-      "toSide": "top",
-      "color": "2"
+      "toSide": "top"
     },
     {
-      "id": "d9f1374bf5c6119a",
-      "styleAttributes": {},
       "fromNode": "3a3f48c739a509e4",
       "fromSide": "top",
+      "id": "d9f1374bf5c6119a",
+      "styleAttributes": {
+      },
       "toNode": "e959c8bb4e4c5d74",
       "toSide": "bottom"
     },
     {
-      "id": "b7a2fc2a4ff883bc",
-      "styleAttributes": {},
+      "color": "2",
       "fromNode": "908d6af961c85ee3",
       "fromSide": "left",
+      "id": "b7a2fc2a4ff883bc",
+      "styleAttributes": {
+      },
       "toNode": "2a85b7e9e3c7e09b",
-      "toSide": "right",
-      "color": "2"
+      "toSide": "right"
     },
     {
-      "id": "8092075423884cd6",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "2a85b7e9e3c7e09b",
       "fromSide": "top",
+      "id": "8092075423884cd6",
+      "styleAttributes": {
+      },
       "toNode": "3aaa2a2a001b83d8",
-      "toSide": "bottom",
-      "color": "6"
+      "toSide": "bottom"
     },
     {
-      "id": "0c34b01f2f99bed4",
-      "styleAttributes": {},
+      "color": "1",
       "fromNode": "3aaa2a2a001b83d8",
       "fromSide": "top",
+      "id": "0c34b01f2f99bed4",
+      "styleAttributes": {
+      },
       "toNode": "99ad118fed465462",
-      "toSide": "bottom",
-      "color": "1"
+      "toSide": "bottom"
     },
     {
-      "id": "c88b6ef3f9be662f",
-      "styleAttributes": {},
+      "color": "5",
       "fromNode": "3aaa2a2a001b83d8",
       "fromSide": "right",
+      "id": "c88b6ef3f9be662f",
+      "styleAttributes": {
+      },
       "toNode": "60a2b70ac9aea4ac",
-      "toSide": "left",
-      "color": "5"
+      "toSide": "left"
     },
     {
-      "id": "48bf5a6a3843ac12",
-      "styleAttributes": {},
+      "color": "5",
       "fromNode": "60a2b70ac9aea4ac",
       "fromSide": "right",
+      "id": "48bf5a6a3843ac12",
+      "styleAttributes": {
+      },
       "toNode": "79c3ffd0df2d42b1",
-      "toSide": "left",
-      "color": "5"
+      "toSide": "left"
     },
     {
-      "id": "ff7072a929fb0d4e",
-      "styleAttributes": {},
+      "color": "2",
       "fromNode": "844b78380fb5865a",
       "fromSide": "left",
+      "id": "ff7072a929fb0d4e",
+      "styleAttributes": {
+      },
       "toNode": "f4a519e628114738",
-      "toSide": "right",
-      "color": "2"
+      "toSide": "right"
     },
     {
+      "color": "6",
+      "fromNode": "844b78380fb5865a",
+      "fromSide": "bottom",
       "id": "9cd915c4b82c057b",
-      "styleAttributes": {},
-      "fromNode": "844b78380fb5865a",
-      "fromSide": "bottom",
+      "styleAttributes": {
+      },
       "toNode": "b7641910d6f32c61",
-      "toSide": "top",
-      "color": "6"
+      "toSide": "top"
     },
     {
-      "id": "899bb814052724d9",
-      "styleAttributes": {},
+      "color": "2",
       "fromNode": "844b78380fb5865a",
       "fromSide": "bottom",
+      "id": "899bb814052724d9",
+      "styleAttributes": {
+      },
       "toNode": "c30c4d683ce992b9",
-      "toSide": "top",
-      "color": "2"
+      "toSide": "top"
     },
     {
-      "id": "523957c70f7abb6f",
-      "styleAttributes": {},
+      "color": "2",
       "fromNode": "5de86ec8f46d407a",
       "fromSide": "bottom",
+      "id": "523957c70f7abb6f",
+      "styleAttributes": {
+      },
       "toNode": "32e6cf7218d62a0a",
-      "toSide": "right",
-      "color": "2"
+      "toSide": "right"
     },
     {
-      "id": "b0ffad496341f69a",
-      "styleAttributes": {},
       "fromNode": "b7641910d6f32c61",
       "fromSide": "bottom",
+      "id": "b0ffad496341f69a",
+      "styleAttributes": {
+      },
       "toNode": "4564d682a2126cad",
       "toSide": "top"
     },
     {
-      "id": "1c22562472b501a4",
-      "styleAttributes": {},
       "fromNode": "4564d682a2126cad",
       "fromSide": "bottom",
+      "id": "1c22562472b501a4",
+      "styleAttributes": {
+      },
       "toNode": "c0f51546dcd4e67a",
       "toSide": "top"
     },
     {
-      "id": "cd27bde6e5e56d3c",
-      "styleAttributes": {},
+      "color": "2",
       "fromNode": "c0f51546dcd4e67a",
       "fromSide": "bottom",
+      "id": "cd27bde6e5e56d3c",
+      "styleAttributes": {
+      },
       "toNode": "9425b4224cc7f95d",
-      "toSide": "top",
-      "color": "2"
+      "toSide": "top"
     },
     {
-      "id": "0fd11bfb5d4bb051",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "fe63afa5004a3e69",
       "fromSide": "left",
+      "id": "0fd11bfb5d4bb051",
+      "styleAttributes": {
+      },
       "toNode": "3434056e090464de",
-      "toSide": "right",
-      "color": "6"
+      "toSide": "right"
     },
     {
-      "id": "a36006ab69679bac",
-      "styleAttributes": {},
       "fromNode": "3434056e090464de",
       "fromSide": "bottom",
+      "id": "a36006ab69679bac",
+      "styleAttributes": {
+      },
       "toNode": "32e6cf7218d62a0a",
       "toSide": "top"
     },
     {
-      "id": "deec4fa389b25061",
-      "styleAttributes": {},
       "fromNode": "4564d682a2126cad",
       "fromSide": "right",
+      "id": "deec4fa389b25061",
+      "styleAttributes": {
+      },
       "toNode": "32e6cf7218d62a0a",
       "toSide": "left"
     },
     {
-      "id": "fa48eef6d605643f",
-      "styleAttributes": {},
+      "color": "2",
       "fromNode": "2a85b7e9e3c7e09b",
       "fromSide": "bottom",
+      "id": "fa48eef6d605643f",
+      "styleAttributes": {
+      },
       "toNode": "496a6fd472f53f96",
-      "toSide": "top",
-      "color": "2"
+      "toSide": "top"
     },
     {
-      "id": "df881a31157e06dd",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "bde5e7c6d373c19b",
       "fromSide": "top",
+      "id": "df881a31157e06dd",
+      "styleAttributes": {
+      },
       "toNode": "496a6fd472f53f96",
-      "toSide": "bottom",
-      "color": "6"
+      "toSide": "bottom"
     },
     {
-      "id": "8733936c684eb984",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "5de86ec8f46d407a",
       "fromSide": "top",
+      "id": "8733936c684eb984",
+      "styleAttributes": {
+      },
       "toNode": "496a6fd472f53f96",
-      "toSide": "bottom",
-      "color": "6"
+      "toSide": "bottom"
     },
     {
-      "id": "1c7ea6e8389fe97d",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "496a6fd472f53f96",
       "fromSide": "right",
+      "id": "1c7ea6e8389fe97d",
+      "styleAttributes": {
+      },
       "toNode": "fe63afa5004a3e69",
-      "toSide": "top",
-      "color": "6"
+      "toSide": "top"
     },
     {
-      "id": "4e906d07300d95ee",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "067ec08893efb3f3",
       "fromSide": "right",
+      "id": "4e906d07300d95ee",
+      "styleAttributes": {
+      },
       "toNode": "fe63afa5004a3e69",
-      "toSide": "left",
-      "color": "6"
+      "toSide": "left"
     },
     {
-      "id": "88df1005d3a23bfb",
-      "styleAttributes": {},
+      "color": "1",
       "fromNode": "c30c4d683ce992b9",
       "fromSide": "bottom",
+      "id": "88df1005d3a23bfb",
+      "styleAttributes": {
+      },
       "toNode": "7cf5e88c143032b6",
-      "toSide": "top",
-      "color": "1"
+      "toSide": "top"
     },
     {
-      "id": "9678258297781fe2",
-      "styleAttributes": {},
+      "color": "2",
       "fromNode": "844b78380fb5865a",
       "fromSide": "bottom",
+      "id": "9678258297781fe2",
+      "styleAttributes": {
+      },
       "toNode": "80b70cb64568fdee",
-      "toSide": "top",
-      "color": "2"
+      "toSide": "top"
     },
     {
-      "id": "ac8f6d3c8a1fc736",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "80b70cb64568fdee",
       "fromSide": "right",
+      "id": "ac8f6d3c8a1fc736",
+      "styleAttributes": {
+      },
       "toNode": "b7641910d6f32c61",
-      "toSide": "left",
-      "color": "6"
+      "toSide": "left"
     },
     {
-      "id": "f9ec089ac8c54512",
-      "styleAttributes": {},
+      "color": "5",
       "fromNode": "b7641910d6f32c61",
       "fromSide": "left",
+      "id": "f9ec089ac8c54512",
+      "styleAttributes": {
+      },
       "toNode": "bff8e9e0a4e8f363",
-      "toSide": "right",
-      "color": "5"
+      "toSide": "right"
     },
     {
-      "id": "00120d3c33903101",
-      "styleAttributes": {},
+      "color": "1",
       "fromNode": "7cf5e88c143032b6",
       "fromSide": "right",
+      "id": "00120d3c33903101",
+      "styleAttributes": {
+      },
       "toNode": "e023ba992b02ece4",
-      "toSide": "left",
-      "color": "1"
+      "toSide": "left"
     },
     {
-      "id": "bba0e059301fd36c",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "56396a4b2706010a",
       "fromSide": "bottom",
+      "id": "bba0e059301fd36c",
+      "styleAttributes": {
+      },
       "toNode": "728cc7a394c7e166",
-      "toSide": "top",
-      "color": "6"
+      "toSide": "top"
     },
     {
-      "id": "e5f0087c7975f151",
-      "styleAttributes": {},
+      "color": "5",
       "fromNode": "16a832500d41fffd",
       "fromSide": "left",
+      "id": "e5f0087c7975f151",
+      "styleAttributes": {
+      },
       "toNode": "60a2b70ac9aea4ac",
-      "toSide": "top",
-      "color": "5"
+      "toSide": "top"
     },
     {
-      "id": "6e760fe2f9edff64",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "728cc7a394c7e166",
       "fromSide": "bottom",
+      "id": "6e760fe2f9edff64",
+      "styleAttributes": {
+      },
       "toNode": "55c660063b742491",
-      "toSide": "top",
-      "color": "6"
+      "toSide": "top"
     },
     {
+      "color": "3",
+      "fromNode": "728cc7a394c7e166",
+      "fromSide": "right",
       "id": "f0813642149fd72f",
-      "styleAttributes": {},
-      "fromNode": "728cc7a394c7e166",
-      "fromSide": "right",
+      "styleAttributes": {
+      },
       "toNode": "7f22424bb4581439",
-      "toSide": "left",
-      "color": "3"
+      "toSide": "left"
     },
     {
-      "id": "722f0c3c4d4ca8c7",
-      "styleAttributes": {},
+      "color": "3",
       "fromNode": "728cc7a394c7e166",
       "fromSide": "right",
+      "id": "722f0c3c4d4ca8c7",
+      "styleAttributes": {
+      },
       "toNode": "82c26fb342dbe97a",
-      "toSide": "left",
-      "color": "3"
+      "toSide": "left"
     },
     {
-      "id": "91b5c5240f2b959e",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "728cc7a394c7e166",
       "fromSide": "left",
+      "id": "91b5c5240f2b959e",
+      "styleAttributes": {
+      },
       "toNode": "16a832500d41fffd",
-      "toSide": "top",
-      "color": "6"
+      "toSide": "top"
     },
     {
-      "id": "5ed6a58e26ba55be",
-      "styleAttributes": {},
       "fromNode": "dbc79622ac0100f8",
       "fromSide": "right",
+      "id": "5ed6a58e26ba55be",
+      "styleAttributes": {
+      },
       "toNode": "56396a4b2706010a",
       "toSide": "top"
     },
     {
-      "id": "418dcc617d7dbfab",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "a2e91d38e9e4fba8",
       "fromSide": "right",
+      "id": "418dcc617d7dbfab",
+      "styleAttributes": {
+      },
       "toNode": "ea9861beee0641d4",
-      "toSide": "left",
-      "color": "6"
+      "toSide": "left"
     },
     {
-      "id": "4ad68b7161c5966b",
-      "styleAttributes": {},
+      "color": "1",
+      "fromEnd": "arrow",
       "fromNode": "ea9861beee0641d4",
       "fromSide": "right",
+      "id": "4ad68b7161c5966b",
+      "label": "TO",
+      "styleAttributes": {
+      },
       "toNode": "86e105d9197844bd",
-      "toSide": "left",
-      "fromEnd": "arrow",
-      "color": "1",
-      "label": "TO"
+      "toSide": "left"
     },
     {
-      "id": "b7501a867caf4578",
-      "styleAttributes": {},
+      "color": "5",
       "fromNode": "32e6cf7218d62a0a",
       "fromSide": "bottom",
+      "id": "b7501a867caf4578",
+      "styleAttributes": {
+      },
       "toNode": "86e105d9197844bd",
-      "toSide": "top",
-      "color": "5"
+      "toSide": "top"
     },
     {
-      "id": "05724ed7d1cce906",
-      "styleAttributes": {},
+      "color": "1",
+      "fromEnd": "arrow",
       "fromNode": "99ad118fed465462",
       "fromSide": "right",
+      "id": "05724ed7d1cce906",
+      "label": "TO",
+      "styleAttributes": {
+      },
       "toNode": "60a2b70ac9aea4ac",
-      "toSide": "left",
-      "fromEnd": "arrow",
-      "color": "1",
-      "label": "TO"
+      "toSide": "left"
     },
     {
-      "id": "40bd4a1a14e41eda",
-      "styleAttributes": {},
+      "color": "1",
       "fromNode": "7cf5e88c143032b6",
       "fromSide": "bottom",
+      "id": "40bd4a1a14e41eda",
+      "styleAttributes": {
+      },
       "toNode": "a80d4bc46f60d2fe",
-      "toSide": "left",
-      "color": "1"
+      "toSide": "left"
     },
     {
-      "id": "ab56bee079fd0ed5",
-      "styleAttributes": {},
+      "color": "1",
       "fromNode": "7cf5e88c143032b6",
       "fromSide": "left",
+      "id": "ab56bee079fd0ed5",
+      "styleAttributes": {
+      },
       "toNode": "f7873c33c59e0640",
-      "toSide": "right",
-      "color": "1"
+      "toSide": "right"
     },
     {
-      "id": "78e3b9b26b0b1775",
-      "styleAttributes": {},
+      "color": "1",
       "fromNode": "a80d4bc46f60d2fe",
       "fromSide": "right",
+      "id": "78e3b9b26b0b1775",
+      "styleAttributes": {
+      },
       "toNode": "77022d958a4fbb37",
-      "toSide": "bottom",
-      "color": "1"
+      "toSide": "bottom"
     },
     {
-      "id": "fedab41fbbce99b6",
-      "styleAttributes": {},
+      "color": "1",
+      "fromEnd": "arrow",
       "fromNode": "f7873c33c59e0640",
       "fromSide": "top",
+      "id": "fedab41fbbce99b6",
+      "styleAttributes": {
+      },
       "toNode": "698c57b016b35e64",
-      "toSide": "bottom",
-      "fromEnd": "arrow",
-      "color": "1"
+      "toSide": "bottom"
     },
     {
-      "id": "0f9f9ea1d5d288c4",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "2a85b7e9e3c7e09b",
       "fromSide": "bottom",
+      "id": "0f9f9ea1d5d288c4",
+      "styleAttributes": {
+      },
       "toNode": "698c57b016b35e64",
-      "toSide": "top",
-      "color": "6"
+      "toSide": "top"
     },
     {
-      "id": "e8a76bfd952e6550",
-      "styleAttributes": {},
+      "color": "1",
+      "fromEnd": "arrow",
       "fromNode": "f7873c33c59e0640",
       "fromSide": "left",
+      "id": "e8a76bfd952e6550",
+      "label": "TO",
+      "styleAttributes": {
+      },
       "toNode": "36a87e7b1a31ee47",
-      "toSide": "right",
-      "fromEnd": "arrow",
-      "color": "1",
-      "label": "TO"
+      "toSide": "right"
     },
     {
-      "id": "ee43100fd074b799",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "7cf5e88c143032b6",
       "fromSide": "top",
+      "id": "ee43100fd074b799",
+      "styleAttributes": {
+      },
       "toNode": "5c111c514c444920",
-      "toSide": "left",
-      "color": "6"
+      "toSide": "left"
     },
     {
-      "id": "50869bd5f8b86d47",
-      "styleAttributes": {},
+      "color": "5",
       "fromNode": "5c111c514c444920",
       "fromSide": "top",
+      "id": "50869bd5f8b86d47",
+      "styleAttributes": {
+      },
       "toNode": "60a2b70ac9aea4ac",
-      "toSide": "bottom",
-      "color": "5"
+      "toSide": "bottom"
     },
     {
-      "id": "d08497381167d70a",
-      "styleAttributes": {},
       "fromNode": "5c111c514c444920",
       "fromSide": "bottom",
+      "id": "d08497381167d70a",
+      "styleAttributes": {
+      },
       "toNode": "32e6cf7218d62a0a",
       "toSide": "left"
     },
     {
-      "id": "bf465b3e9ae05996",
-      "styleAttributes": {},
+      "color": "2",
+      "fromEnd": "arrow",
       "fromNode": "fa242a467651eb41",
       "fromSide": "bottom",
+      "id": "bf465b3e9ae05996",
+      "styleAttributes": {
+      },
       "toNode": "cd35fb4aea8f3489",
-      "toSide": "top",
-      "fromEnd": "arrow",
-      "color": "2"
+      "toSide": "top"
     },
     {
-      "id": "800e019094c7873d",
-      "styleAttributes": {},
+      "color": "2",
+      "fromEnd": "arrow",
       "fromNode": "cd35fb4aea8f3489",
       "fromSide": "left",
+      "id": "800e019094c7873d",
+      "styleAttributes": {
+      },
       "toNode": "f282984a705fe900",
-      "toSide": "right",
-      "fromEnd": "arrow",
-      "color": "2"
+      "toSide": "right"
     },
     {
-      "id": "d847b8efee665112",
-      "styleAttributes": {},
+      "color": "5",
       "fromNode": "bbe7fdf52ef00704",
       "fromSide": "top",
+      "id": "d847b8efee665112",
+      "styleAttributes": {
+      },
       "toNode": "359042ce92fb89e9",
-      "toSide": "left",
-      "color": "5"
+      "toSide": "left"
     },
     {
-      "id": "bdfe1183ccc363e4",
-      "styleAttributes": {},
+      "color": "2",
+      "fromEnd": "arrow",
       "fromNode": "fa242a467651eb41",
       "fromSide": "left",
+      "id": "bdfe1183ccc363e4",
+      "styleAttributes": {
+      },
       "toNode": "f282984a705fe900",
-      "toSide": "top",
-      "fromEnd": "arrow",
-      "color": "2"
+      "toSide": "top"
     },
     {
-      "id": "7a9782a26ae0dd8b",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "bbe7fdf52ef00704",
       "fromSide": "bottom",
+      "id": "7a9782a26ae0dd8b",
+      "styleAttributes": {
+      },
       "toNode": "27d10a809a8905c7",
-      "toSide": "top",
-      "color": "6"
+      "toSide": "top"
     },
     {
-      "id": "670d737a290473cf",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "fa242a467651eb41",
       "fromSide": "right",
+      "id": "670d737a290473cf",
+      "styleAttributes": {
+      },
       "toNode": "b4e0cb7ce5ef6efd",
-      "toSide": "top",
-      "color": "6"
+      "toSide": "top"
     },
     {
-      "id": "41bddd7e5038aa61",
-      "styleAttributes": {},
       "fromNode": "cd35fb4aea8f3489",
       "fromSide": "bottom",
+      "id": "41bddd7e5038aa61",
+      "styleAttributes": {
+      },
       "toNode": "54226d6d0341be40",
       "toSide": "top"
     },
     {
-      "id": "074da7c68e53a134",
-      "styleAttributes": {},
+      "color": "5",
       "fromNode": "b4e0cb7ce5ef6efd",
       "fromSide": "bottom",
+      "id": "074da7c68e53a134",
+      "styleAttributes": {
+      },
       "toNode": "acb8ec4fe4443b59",
-      "toSide": "top",
-      "color": "5"
+      "toSide": "top"
     },
     {
-      "id": "97d4b418bda78b75",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "a9b43ba2f69ebd81",
       "fromSide": "top",
+      "id": "97d4b418bda78b75",
+      "styleAttributes": {
+      },
       "toNode": "bc53d548fe814ebe",
-      "toSide": "right",
-      "color": "6"
+      "toSide": "right"
     },
     {
-      "id": "cd9f54ce99a8e00c",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "bc53d548fe814ebe",
       "fromSide": "left",
+      "id": "cd9f54ce99a8e00c",
+      "styleAttributes": {
+      },
       "toNode": "fa242a467651eb41",
-      "toSide": "right",
-      "color": "6"
+      "toSide": "right"
     },
     {
-      "id": "9965e297f62ef07f",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "5de86ec8f46d407a",
       "fromSide": "right",
+      "id": "9965e297f62ef07f",
+      "styleAttributes": {
+      },
       "toNode": "b4e0cb7ce5ef6efd",
-      "toSide": "left",
-      "color": "6"
+      "toSide": "left"
     },
     {
-      "id": "8e5704b8fb19696a",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "b4e0cb7ce5ef6efd",
       "fromSide": "top",
+      "id": "8e5704b8fb19696a",
+      "styleAttributes": {
+      },
       "toNode": "a9b43ba2f69ebd81",
-      "toSide": "left",
-      "color": "6"
+      "toSide": "left"
     },
     {
-      "id": "ac132d136436c97a",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "5de86ec8f46d407a",
       "fromSide": "bottom",
+      "id": "ac132d136436c97a",
+      "styleAttributes": {
+      },
       "toNode": "8c68eb390cc5ad0e",
-      "toSide": "left",
-      "color": "6"
+      "toSide": "left"
     },
     {
-      "id": "ecde8c6a5edf378f",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "8c68eb390cc5ad0e",
       "fromSide": "right",
+      "id": "ecde8c6a5edf378f",
+      "styleAttributes": {
+      },
       "toNode": "b4e0cb7ce5ef6efd",
-      "toSide": "left",
-      "color": "6"
+      "toSide": "left"
     },
     {
-      "id": "427b199349359ce5",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "b4e0cb7ce5ef6efd",
       "fromSide": "bottom",
+      "id": "427b199349359ce5",
+      "styleAttributes": {
+      },
       "toNode": "cd35fb4aea8f3489",
-      "toSide": "top",
-      "color": "6"
+      "toSide": "top"
     },
     {
-      "id": "dbc2bcb52661919d",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "5b114787d9194cf6",
       "fromSide": "right",
+      "id": "dbc2bcb52661919d",
+      "styleAttributes": {
+      },
       "toNode": "56396a4b2706010a",
-      "toSide": "left",
-      "color": "6"
+      "toSide": "left"
     },
     {
-      "id": "f9c5af38ada95b31",
-      "styleAttributes": {},
+      "color": "6",
       "fromNode": "f282984a705fe900",
       "fromSide": "bottom",
+      "id": "f9c5af38ada95b31",
+      "styleAttributes": {
+      },
       "toNode": "5b114787d9194cf6",
-      "toSide": "top",
-      "color": "6"
+      "toSide": "top"
     },
     {
+      "color": "2",
+      "fromNode": "8d956c73d6c32dd7",
+      "fromSide": "top",
       "id": "9cb967ea74ec657d",
-      "styleAttributes": {},
-      "fromNode": "8d956c73d6c32dd7",
-      "fromSide": "top",
+      "styleAttributes": {
+      },
       "toNode": "ff32dfdd8a181dfe",
-      "toSide": "bottom",
-      "color": "2"
+      "toSide": "bottom"
     },
     {
-      "id": "8e838584d6d8e07e",
-      "styleAttributes": {},
+      "color": "2",
       "fromNode": "8d956c73d6c32dd7",
       "fromSide": "top",
+      "id": "8e838584d6d8e07e",
+      "styleAttributes": {
+      },
       "toNode": "dac206badc891849",
-      "toSide": "bottom",
-      "color": "2"
+      "toSide": "bottom"
     },
     {
-      "id": "16809127e7b625d8",
-      "styleAttributes": {},
+      "color": "2",
+      "fromEnd": "arrow",
       "fromNode": "e959c8bb4e4c5d74",
       "fromSide": "right",
+      "id": "16809127e7b625d8",
+      "styleAttributes": {
+      },
       "toNode": "56396a4b2706010a",
-      "toSide": "left",
-      "fromEnd": "arrow",
-      "color": "2"
+      "toSide": "left"
     },
     {
-      "id": "76a48a1861a6e09f",
-      "styleAttributes": {},
+      "color": "2",
+      "fromEnd": "arrow",
       "fromNode": "c67f8a748a4962b0",
       "fromSide": "left",
+      "id": "76a48a1861a6e09f",
+      "styleAttributes": {
+      },
       "toNode": "cf427db0d16bf261",
-      "toSide": "right",
-      "fromEnd": "arrow",
-      "color": "2"
+      "toSide": "right"
     },
     {
-      "id": "de6cb5a16aa17c51",
-      "styleAttributes": {},
+      "color": "1",
       "fromNode": "e959c8bb4e4c5d74",
       "fromSide": "top",
+      "id": "de6cb5a16aa17c51",
+      "styleAttributes": {
+      },
       "toNode": "112d7924d92495e3",
-      "toSide": "bottom",
-      "color": "1"
+      "toSide": "bottom"
     },
     {
-      "id": "77bb55134e4e497d",
-      "styleAttributes": {},
+      "color": "1",
       "fromNode": "112d7924d92495e3",
       "fromSide": "top",
+      "id": "77bb55134e4e497d",
+      "styleAttributes": {
+      },
       "toNode": "d66b4beb6f2a9077",
-      "toSide": "bottom",
-      "color": "1"
+      "toSide": "bottom"
     },
     {
-      "id": "578b380cc0e848ab",
-      "styleAttributes": {},
+      "color": "5",
       "fromNode": "5bc570554b2c89a9",
       "fromSide": "bottom",
+      "id": "578b380cc0e848ab",
+      "styleAttributes": {
+      },
       "toNode": "1c6b11711766bdf1",
-      "toSide": "top",
-      "color": "5"
+      "toSide": "top"
     },
     {
-      "id": "4c2e7e44553ff5f3",
-      "styleAttributes": {},
+      "color": "5",
       "fromNode": "d1c27b560ad2f16c",
       "fromSide": "right",
+      "id": "4c2e7e44553ff5f3",
+      "styleAttributes": {
+      },
       "toNode": "dc7ce94f73f3e12a",
-      "toSide": "left",
-      "color": "5"
+      "toSide": "left"
     },
     {
-      "id": "7c5a982185a5be2c",
-      "styleAttributes": {},
+      "color": "2",
+      "fromEnd": "arrow",
       "fromNode": "fe63afa5004a3e69",
       "fromSide": "right",
+      "id": "7c5a982185a5be2c",
+      "styleAttributes": {
+      },
       "toNode": "f282984a705fe900",
-      "toSide": "top",
-      "fromEnd": "arrow",
-      "color": "2"
+      "toSide": "top"
     },
     {
-      "id": "af71ea8ee7787aad",
-      "styleAttributes": {},
+      "color": "2",
       "fromNode": "5de86ec8f46d407a",
       "fromSide": "left",
+      "id": "af71ea8ee7787aad",
+      "styleAttributes": {
+      },
       "toNode": "8b9572b326bb7f5f",
-      "toSide": "top",
-      "color": "2"
+      "toSide": "top"
     },
     {
-      "id": "54a1de271aaa0224",
-      "styleAttributes": {},
       "fromNode": "dac206badc891849",
       "fromSide": "left",
+      "id": "54a1de271aaa0224",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
       "toNode": "32e6cf7218d62a0a",
-      "toSide": "right",
-      "toEnd": "none"
+      "toSide": "right"
     }
   ],
-  "metadata": {},
+  "metadata": {
+  },
   "nodes": [
     {
-      "id": "bbe7fdf52ef00704",
-      "styleAttributes": {},
-      "type": "group",
-      "x": -620,
-      "y": 1220,
-      "width": 650,
-      "height": 520,
       "color": "5",
-      "label": "자율적인 객체"
+      "height": 520,
+      "id": "bbe7fdf52ef00704",
+      "label": "자율적인 객체",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 650,
+      "x": -620,
+      "y": 1220
     },
     {
-      "id": "54226d6d0341be40",
-      "styleAttributes": {},
-      "text": "책임의 구성\n+ 하는 것\n+ 아는 것",
-      "type": "text",
-      "x": -250,
-      "y": 1900,
-      "width": 260,
-      "height": 140
-    },
-    {
-      "id": "fa242a467651eb41",
-      "styleAttributes": {},
-      "text": "협력\n+ 객체들 사이에 이뤄지는 상호작용\n+ 요청과 응답",
-      "type": "text",
-      "x": -250,
-      "y": 1250,
-      "width": 260,
+      "color": "6",
       "height": 170,
-      "color": "2"
-    },
-    {
-      "id": "b4e0cb7ce5ef6efd",
-      "styleAttributes": {},
-      "text": "1. 객체 설계에 대한 문맥(Context) 제공\n2. 객체에게 올바른 책임 할당",
-      "type": "text",
-      "x": -65,
-      "y": 1430,
-      "width": 290,
-      "height": 100,
-      "color": "6"
-    },
-    {
-      "id": "bc53d548fe814ebe",
-      "styleAttributes": {},
-      "text": "협력 참여",
-      "type": "text",
-      "x": 105,
-      "y": 1275,
-      "width": 130,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "acb8ec4fe4443b59",
-      "styleAttributes": {},
-      "text": "책임 주도 설계(RDD)",
-      "type": "text",
-      "x": -50,
-      "y": 1750,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "60a2b70ac9aea4ac",
-      "styleAttributes": {},
-      "text": "유연하고 확장 가능한 설계",
-      "type": "text",
-      "x": -900,
-      "y": 170,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "c8daafe21e429ce9",
-      "styleAttributes": {},
-      "text": "응집도 높이기",
-      "type": "text",
-      "x": -900,
-      "y": 330,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "232822b16695b860",
-      "styleAttributes": {},
-      "text": "목적\n객체지향 프로그래밍을 설계, 유지보수하는데 필요한 원칙과 기법 설명",
-      "type": "text",
-      "x": -600,
-      "y": -400,
-      "width": 260,
-      "height": 140
-    },
-    {
-      "id": "f282984a705fe900",
-      "styleAttributes": {},
-      "text": "역할\n+ 책임의 집합",
-      "type": "text",
-      "x": -600,
-      "y": 1605,
-      "width": 260,
-      "height": 90,
-      "color": "2"
-    },
-    {
-      "id": "5b114787d9194cf6",
-      "styleAttributes": {},
-      "text": "유연하고 재사용 가능한 협력",
-      "type": "text",
-      "x": -600,
-      "y": 1870,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "27d10a809a8905c7",
-      "styleAttributes": {},
-      "text": "어떤 객체도 섬이 아니다.",
-      "type": "text",
-      "x": -340,
-      "y": 1780,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "cd35fb4aea8f3489",
-      "styleAttributes": {},
-      "text": "책임\n+ 객체가 협력에 참여하기 위해 수행하는 로직",
-      "type": "text",
-      "x": -250,
-      "y": 1590,
-      "width": 260,
-      "height": 120,
-      "color": "2"
-    },
-    {
-      "id": "5de86ec8f46d407a",
-      "styleAttributes": {},
-      "text": "메시지\n+ 객체가 다른 객체와 상호작용하는 유일한 방법",
-      "type": "text",
-      "x": -680,
-      "y": 1280,
-      "width": 260,
-      "height": 110,
-      "color": "2"
-    },
-    {
-      "id": "8c68eb390cc5ad0e",
-      "styleAttributes": {},
-      "text": "메시지가 객체를 선택",
-      "type": "text",
-      "x": -420,
-      "y": 1490,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "e073906627a09b48",
-      "styleAttributes": {},
-      "text": "소프트웨어 모듈의 3가지 목적\n1. 제대로 실행되어야 함.\n2. 변경 용이성\n3. 이해하기 쉬워야 함.",
-      "type": "text",
-      "x": -300,
-      "y": -400,
-      "width": 260,
-      "height": 240
-    },
-    {
-      "id": "eedf20abdac6af21",
-      "styleAttributes": {},
-      "text": "결합도 낮추기",
-      "type": "text",
-      "x": -495,
-      "y": 330,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "79c3ffd0df2d42b1",
-      "styleAttributes": {},
-      "text": "변경이 용이한 설계",
-      "type": "text",
-      "x": -270,
-      "y": 170,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "dc7ce94f73f3e12a",
-      "styleAttributes": {},
-      "text": "변경의 이유에 따라 클래스 분리하기",
-      "type": "text",
-      "x": 600,
-      "y": 1840,
-      "width": 300,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "3084d25b0863b51f",
-      "styleAttributes": {},
-      "text": "도메인의 의미를 명시적이고 분명하게 표현 가능",
-      "type": "text",
-      "x": 610,
-      "y": 1360,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "3267c5eb828ae9aa",
-      "styleAttributes": {},
-      "text": "설계의 명확성 높이기",
-      "type": "text",
-      "x": 610,
-      "y": 1220,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "172c9734d5588eff",
-      "styleAttributes": {},
-      "text": "도메인 구성 개념\n도메인 구조 == 클래스 구조",
-      "type": "text",
-      "x": 240,
-      "y": 1665,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "08c5129e89e7180d",
-      "styleAttributes": {},
-      "text": "도메인\n+ 문제 해결을 위해 사용자가 사용하는 분야",
-      "type": "text",
-      "x": 235,
-      "y": 1780,
-      "width": 270,
-      "height": 120,
-      "color": "2"
-    },
-    {
-      "id": "5bc570554b2c89a9",
-      "styleAttributes": {},
-      "text": "행동",
-      "type": "text",
-      "x": 610,
-      "y": 1580,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "1c6b11711766bdf1",
-      "styleAttributes": {},
-      "text": "상태보다 행동 먼저 결정하기",
-      "type": "text",
-      "x": 610,
-      "y": 1750,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "3a3f48c739a509e4",
-      "styleAttributes": {},
-      "text": "상태",
-      "type": "text",
-      "x": 610,
-      "y": 1500,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "a9b43ba2f69ebd81",
-      "styleAttributes": {},
-      "text": "객체",
-      "type": "text",
-      "x": 220,
-      "y": 1360,
-      "width": 280,
-      "height": 60,
-      "color": "2"
-    },
-    {
-      "id": "d1c27b560ad2f16c",
-      "styleAttributes": {},
-      "text": "클래스\n+ 공통적인 상태와 행동을 공유하는 객체를 추상화한 것",
-      "type": "text",
-      "x": 220,
-      "y": 1490,
-      "width": 280,
-      "height": 140,
-      "color": "2"
-    },
-    {
-      "id": "e8811e099085112e",
-      "styleAttributes": {},
-      "text": "객체지향 프로그래밍",
-      "type": "text",
-      "x": 700,
-      "y": 920,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "55e6050fce677aea",
-      "styleAttributes": {},
-      "text": "외부에 공개",
-      "type": "text",
-      "x": 960,
-      "y": 1580,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "8d679e390243cd71",
-      "styleAttributes": {},
-      "text": "절차지향 → 책임의 이동",
-      "type": "text",
-      "x": 700,
-      "y": 1060,
-      "width": 260,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "d385077066353d37",
-      "styleAttributes": {},
-      "text": "구현 은닉\n변경 가능성 있는 구현 내용 은닉",
-      "type": "text",
-      "x": 340,
-      "y": 30,
-      "width": 270,
-      "height": 90,
-      "color": "5"
-    },
-    {
-      "id": "bde5e7c6d373c19b",
-      "styleAttributes": {},
-      "text": "메서드\n+ 수신된 메시지를 처리하기 위한 자신만의 방법",
-      "type": "text",
-      "x": -1030,
-      "y": 1274,
-      "width": 260,
-      "height": 122,
-      "color": "2"
-    },
-    {
-      "id": "8b9572b326bb7f5f",
-      "styleAttributes": {},
-      "text": "시그니처\n메서드의 이름 + 파라미터 목록",
-      "type": "text",
-      "x": -1030,
-      "y": 1590,
-      "width": 260,
-      "height": 60,
-      "color": "2"
-    },
-    {
-      "id": "86e105d9197844bd",
-      "styleAttributes": {},
-      "text": "유연한 행동 정의",
-      "type": "text",
-      "x": -1340,
-      "y": 1620,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "32e6cf7218d62a0a",
-      "styleAttributes": {},
-      "text": "인터페이스\n+ 메시지의 목록 정의",
-      "type": "text",
-      "x": -1340,
-      "y": 1420,
-      "width": 260,
-      "height": 120,
-      "color": "2"
-    },
-    {
-      "id": "3434056e090464de",
-      "styleAttributes": {},
-      "text": "동일한 인터페이스",
-      "type": "text",
-      "x": -1340,
-      "y": 1329,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "496a6fd472f53f96",
-      "styleAttributes": {},
-      "text": "지연 바인딩 / 동적 바인딩\n+ 메시지와 메서드를 실행 시점에 바인딩",
-      "type": "text",
-      "x": -1220,
-      "y": 700,
-      "width": 260,
-      "height": 120,
-      "color": "6"
-    },
-    {
-      "id": "3aaa2a2a001b83d8",
-      "styleAttributes": {},
-      "text": "두 의존성이 달라짐",
-      "type": "text",
-      "x": -1330,
-      "y": 330,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "99ad118fed465462",
-      "styleAttributes": {},
-      "text": "코드를 이해하기 어려워짐",
-      "type": "text",
-      "x": -1330,
-      "y": 170,
-      "width": 260,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "2a85b7e9e3c7e09b",
-      "styleAttributes": {},
-      "text": "컴파일 시간 의존성과 실행 시간 의존성\n\n+ == 클래스 사이의 의존성과 객체 사이의 의존성은 다를 수 있다.",
-      "type": "text",
-      "x": -1330,
-      "y": 435,
-      "width": 260,
-      "height": 190,
-      "color": "2"
-    },
-    {
       "id": "b7641910d6f32c61",
-      "styleAttributes": {},
+      "styleAttributes": {
+      },
       "text": "상속의 가치\n+ 부모 클래스가 제공하는 모든 인터페이스를 자식 클래스가 물려받음",
       "type": "text",
+      "width": 260,
       "x": -1675,
-      "y": 1189,
-      "width": 260,
-      "height": 170,
-      "color": "6"
+      "y": 1189
     },
     {
-      "id": "067ec08893efb3f3",
-      "styleAttributes": {},
-      "text": "오버라이딩\n+ 부모 클래스에 정의된 시그니처를 자식 클래스에서 재정의",
-      "type": "text",
-      "x": -1365,
-      "y": 1009,
-      "width": 310,
-      "height": 135,
-      "color": "6"
-    },
-    {
-      "id": "a2e91d38e9e4fba8",
-      "styleAttributes": {},
-      "text": "추상 클래스",
-      "type": "text",
-      "x": -2030,
-      "y": 886,
-      "width": 260,
+      "color": "6",
       "height": 60,
-      "color": "2"
-    },
-    {
-      "id": "af6a2157ef22c4a3",
-      "styleAttributes": {},
-      "text": "오버로딩\n+ 파라미터의 목록이 다름",
-      "type": "text",
-      "x": -1340,
-      "y": 1190,
-      "width": 260,
-      "height": 100
-    },
-    {
-      "id": "c0f51546dcd4e67a",
-      "styleAttributes": {},
-      "text": "외부에서 자식 클래스를 부모 클래스와 동일 타입으로 간주 가능",
-      "type": "text",
-      "x": -1675,
-      "y": 1600,
-      "width": 260,
-      "height": 100
-    },
-    {
-      "id": "9425b4224cc7f95d",
-      "styleAttributes": {},
-      "text": "업캐스팅\n+ 자식 클래스가 부모 클래스를 대신하는 것",
-      "type": "text",
-      "x": -1675,
-      "y": 1760,
-      "width": 260,
-      "height": 120,
-      "color": "2"
-    },
-    {
-      "id": "4564d682a2126cad",
-      "styleAttributes": {},
-      "text": "자식 클래스는 부모 클래스가 수신할 수 있는 모든 메시지 수신 가능 → 같은 인터페이스",
-      "type": "text",
-      "x": -1675,
-      "y": 1420,
-      "width": 260,
-      "height": 120
-    },
-    {
       "id": "ea9861beee0641d4",
-      "styleAttributes": {},
+      "styleAttributes": {
+      },
       "text": "개념적인 결합",
       "type": "text",
-      "x": -1675,
-      "y": 886,
       "width": 260,
-      "height": 60,
-      "color": "6"
+      "x": -1675,
+      "y": 886
     },
     {
+      "color": "2",
+      "height": 60,
       "id": "844b78380fb5865a",
-      "styleAttributes": {},
+      "styleAttributes": {
+      },
       "text": "상속\n",
       "type": "text",
+      "width": 260,
       "x": -1675,
-      "y": 1046,
-      "width": 260,
-      "height": 60,
-      "color": "2"
+      "y": 1046
     },
     {
-      "id": "f4a519e628114738",
-      "styleAttributes": {},
-      "text": "차이에 의한 프로그래밍\n+ 부모 클래스와 다른 부분만 추가하여 새 클래스 만들기",
+      "color": "6",
+      "height": 135,
+      "id": "067ec08893efb3f3",
+      "styleAttributes": {
+      },
+      "text": "오버라이딩\n+ 부모 클래스에 정의된 시그니처를 자식 클래스에서 재정의",
       "type": "text",
-      "x": -2010,
-      "y": 1017,
-      "width": 280,
+      "width": 310,
+      "x": -1365,
+      "y": 1009
+    },
+    {
+      "height": 100,
+      "id": "af6a2157ef22c4a3",
+      "styleAttributes": {
+      },
+      "text": "오버로딩\n+ 파라미터의 목록이 다름",
+      "type": "text",
+      "width": 260,
+      "x": -1340,
+      "y": 1190
+    },
+    {
+      "height": 100,
+      "id": "c0f51546dcd4e67a",
+      "styleAttributes": {
+      },
+      "text": "외부에서 자식 클래스를 부모 클래스와 동일 타입으로 간주 가능",
+      "type": "text",
+      "width": 260,
+      "x": -1675,
+      "y": 1600
+    },
+    {
+      "color": "2",
       "height": 120,
-      "color": "2"
+      "id": "9425b4224cc7f95d",
+      "styleAttributes": {
+      },
+      "text": "업캐스팅\n+ 자식 클래스가 부모 클래스를 대신하는 것",
+      "type": "text",
+      "width": 260,
+      "x": -1675,
+      "y": 1760
     },
     {
-      "id": "698c57b016b35e64",
-      "styleAttributes": {},
-      "text": "컴파일 타임 의존성",
-      "type": "text",
-      "x": -2655,
-      "y": 1106,
-      "width": 260,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "cf427db0d16bf261",
-      "styleAttributes": {},
-      "text": "응집도\n+ 내부 요소들이 연관되어 있는 정도\n",
-      "type": "text",
-      "x": -900,
-      "y": 678,
-      "width": 260,
       "height": 120,
-      "color": "2"
+      "id": "4564d682a2126cad",
+      "styleAttributes": {
+      },
+      "text": "자식 클래스는 부모 클래스가 수신할 수 있는 모든 메시지 수신 가능 → 같은 인터페이스",
+      "type": "text",
+      "width": 260,
+      "x": -1675,
+      "y": 1420
     },
     {
+      "color": "1",
+      "height": 60,
       "id": "a80d4bc46f60d2fe",
-      "styleAttributes": {},
+      "styleAttributes": {
+      },
       "text": "캡슐화 약화",
       "type": "text",
-      "x": -2050,
-      "y": 1510,
       "width": 260,
-      "height": 60,
-      "color": "1"
+      "x": -2050,
+      "y": 1510
     },
     {
+      "color": "5",
+      "height": 80,
       "id": "bff8e9e0a4e8f363",
-      "styleAttributes": {},
+      "styleAttributes": {
+      },
       "text": "상속의 목적\n+ 인터페이스 재사용",
       "type": "text",
-      "x": -2000,
-      "y": 1359,
       "width": 260,
-      "height": 80,
-      "color": "5"
+      "x": -2000,
+      "y": 1359
     },
     {
+      "color": "2",
+      "height": 60,
+      "id": "a2e91d38e9e4fba8",
+      "styleAttributes": {
+      },
+      "text": "추상 클래스",
+      "type": "text",
+      "width": 260,
+      "x": -2030,
+      "y": 886
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "f4a519e628114738",
+      "styleAttributes": {
+      },
+      "text": "차이에 의한 프로그래밍\n+ 부모 클래스와 다른 부분만 추가하여 새 클래스 만들기",
+      "type": "text",
+      "width": 280,
+      "x": -2010,
+      "y": 1017
+    },
+    {
+      "color": "2",
+      "height": 60,
       "id": "80b70cb64568fdee",
-      "styleAttributes": {},
+      "styleAttributes": {
+      },
       "text": "인터페이스 상속: 서브타이핑",
       "type": "text",
-      "x": -2000,
-      "y": 1244,
       "width": 260,
-      "height": 60,
-      "color": "2"
+      "x": -2000,
+      "y": 1244
     },
     {
+      "color": "1",
+      "height": 60,
+      "id": "698c57b016b35e64",
+      "styleAttributes": {
+      },
+      "text": "컴파일 타임 의존성",
+      "type": "text",
+      "width": 260,
+      "x": -2655,
+      "y": 1106
+    },
+    {
+      "color": "5",
+      "height": 60,
       "id": "36a87e7b1a31ee47",
-      "styleAttributes": {},
+      "styleAttributes": {
+      },
       "text": "가독성 증가",
       "type": "text",
-      "x": -3020,
-      "y": 1390,
       "width": 260,
-      "height": 60,
-      "color": "5"
+      "x": -3020,
+      "y": 1390
     },
     {
+      "color": "1",
+      "height": 60,
       "id": "f7873c33c59e0640",
-      "styleAttributes": {},
+      "styleAttributes": {
+      },
       "text": "유연하지 못한 설계",
       "type": "text",
-      "x": -2655,
-      "y": 1389,
       "width": 260,
-      "height": 60,
-      "color": "1"
+      "x": -2655,
+      "y": 1389
     },
     {
+      "color": "3",
+      "height": 60,
       "id": "51ee466a6e6371e5",
-      "styleAttributes": {},
+      "styleAttributes": {
+      },
       "text": "템플릿 메서드 패턴[GOF94]",
       "type": "text",
-      "x": -2395,
-      "y": 886,
       "width": 260,
-      "height": 60,
-      "color": "3"
+      "x": -2395,
+      "y": 886
     },
     {
+      "color": "2",
+      "height": 188,
       "id": "5c111c514c444920",
-      "styleAttributes": {},
+      "styleAttributes": {
+      },
       "text": "합성(Composition)\n+ 인스턴스 변수로 연결\n+ 인터페이스에 정의된 메시지를 통해서만 코드 재사용",
       "type": "text",
-      "x": -2290,
-      "y": 978,
       "width": 260,
-      "height": 188,
-      "color": "2"
+      "x": -2290,
+      "y": 978
     },
     {
+      "color": "2",
+      "height": 60,
       "id": "c30c4d683ce992b9",
-      "styleAttributes": {},
+      "styleAttributes": {
+      },
       "text": "구현 상속: 서브클래싱",
       "type": "text",
-      "x": -2300,
-      "y": 1244,
       "width": 260,
-      "height": 60,
-      "color": "2"
+      "x": -2300,
+      "y": 1244
     },
     {
+      "color": "6",
+      "height": 60,
       "id": "7cf5e88c143032b6",
-      "styleAttributes": {},
+      "styleAttributes": {
+      },
       "text": "메서드, 인스턴스 변수 재사용",
       "type": "text",
+      "width": 260,
       "x": -2300,
-      "y": 1389,
-      "width": 260,
+      "y": 1389
+    },
+    {
+      "color": "6",
       "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "e023ba992b02ece4",
-      "styleAttributes": {},
-      "text": "변경하기 어려운 설계",
-      "type": "text",
-      "x": -250,
-      "y": 1160,
-      "width": 260,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "a5c63369cb5e88a3",
-      "styleAttributes": {},
-      "text": "객체를 협력하는 공동체의 일원으로 바라보기",
-      "type": "text",
-      "x": 80,
-      "y": 1120,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "41c6faf17fc3d81a",
-      "styleAttributes": {},
-      "text": "의존성 추가됨",
-      "type": "text",
-      "x": -50,
-      "y": 980,
-      "width": 260,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "fe63afa5004a3e69",
-      "styleAttributes": {},
-      "text": "다형성\n+ 같은 메세지에 대해 다르게 대답할 수 있는 능력",
-      "type": "text",
-      "x": -860,
-      "y": 1030,
-      "width": 260,
-      "height": 120,
-      "color": "2"
-    },
-    {
       "id": "6e165e6a095c57ed",
-      "styleAttributes": {},
+      "styleAttributes": {
+      },
       "text": "의존성 제거하기",
       "type": "text",
+      "width": 260,
       "x": -50,
-      "y": 330,
-      "width": 260,
+      "y": 330
+    },
+    {
+      "color": "5",
       "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "77022d958a4fbb37",
-      "styleAttributes": {},
-      "text": "결압도 높아짐",
-      "type": "text",
-      "x": -495,
-      "y": 980,
-      "width": 260,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "c67f8a748a4962b0",
-      "styleAttributes": {},
-      "text": "결합도\n+ 한 모듈이 변경되기 위해서 다른 모듈의 변경을 요구하는 정도\n+ 어떤 모듈이 다른 모듈에 의존하는 정도",
-      "type": "text",
-      "x": -510,
-      "y": 623,
-      "width": 290,
-      "height": 230,
-      "color": "2"
-    },
-    {
       "id": "a76b1d6d448d2940",
-      "styleAttributes": {},
+      "styleAttributes": {
+      },
       "text": "서로 의존하면서 협력하는 객체들의 공동체 구축",
       "type": "text",
-      "x": -250,
-      "y": 500,
       "width": 260,
-      "height": 60,
-      "color": "5"
+      "x": -250,
+      "y": 500
     },
     {
+      "color": "2",
+      "height": 295,
       "id": "908d6af961c85ee3",
-      "styleAttributes": {},
+      "styleAttributes": {
+      },
       "text": "의존성\n+ A가 B에 의존할 때, B가 바뀌면 A도 바뀐다.\n+ 변경에 대한 영향 암시\n+ 어떤 클래스가 다른 클래스에 접근할 수 있는 경로를 가지는 경우\n+ 해당 클래스의 객체의 메서드를 호출하는 경우",
       "type": "text",
+      "width": 260,
       "x": -50,
-      "y": 590,
-      "width": 260,
-      "height": 295,
-      "color": "2"
+      "y": 590
     },
     {
-      "id": "38c684f68eec75b0",
-      "styleAttributes": {},
-      "text": "클래스보다 객체를 먼저 고민하기",
-      "type": "text",
-      "x": 350,
-      "y": 1120,
-      "width": 290,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "0115ab57f99c9b8b",
-      "styleAttributes": {},
-      "text": "접근 제어 메커니즘 → 접근 수정자\n+ `public`, `private`, `protected`",
-      "type": "text",
-      "x": 700,
-      "y": 390,
-      "width": 360,
-      "height": 90,
-      "color": "6"
-    },
-    {
-      "id": "8d956c73d6c32dd7",
-      "styleAttributes": {},
-      "text": "인터페이스와 구현의 분리",
-      "type": "text",
-      "x": 750,
-      "y": 230,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "16a832500d41fffd",
-      "styleAttributes": {},
-      "text": "기존 구조 수정 없이 새 기능 확장",
-      "type": "text",
-      "x": 1060,
-      "y": 623,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "dbc79622ac0100f8",
-      "styleAttributes": {},
-      "text": "컨텍스트 독립성",
-      "type": "text",
-      "x": 1085,
-      "y": 173,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "359042ce92fb89e9",
-      "styleAttributes": {},
-      "text": "자율적인 객체",
-      "type": "text",
-      "x": 350,
-      "y": 530,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "238cc6ccdc43363e",
-      "styleAttributes": {},
-      "text": "자율성\n\n+ 스스로의 의지와 판단에 따라 각자 맡은 책임을 수행하는 객체",
-      "type": "text",
-      "x": 350,
-      "y": 640,
-      "width": 260,
-      "height": 140,
-      "color": "2"
-    },
-    {
-      "id": "25ae79cad372cc63",
-      "styleAttributes": {},
-      "text": "데이터와 프로세스가 동일한 모듈 내부에 위치",
-      "type": "text",
-      "x": 700,
-      "y": 680,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "06ed72476dbc9fab",
-      "styleAttributes": {},
-      "text": "유연한 설계",
-      "type": "text",
-      "x": 350,
-      "y": 920,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "c308920c6f8189f9",
-      "styleAttributes": {},
-      "text": "적절한 객체에 적절한 책임을 할당하는 것",
-      "type": "text",
-      "x": 1040,
-      "y": 920,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "e959c8bb4e4c5d74",
-      "styleAttributes": {},
-      "text": "캡슐화\n+ 개념적, 물리적으로 객체 내부의 세부적인 사항을 감추는 것\n+ 데이터와 기능을 객체 내부로 함께 묶는 것",
-      "type": "text",
-      "x": 350,
-      "y": 255,
-      "width": 260,
-      "height": 210,
-      "color": "2"
-    },
-    {
-      "id": "56396a4b2706010a",
-      "styleAttributes": {},
-      "text": "추상화\n+ 유연성이 필요한 곳에 추상화를 사용하자.",
-      "type": "text",
-      "x": 1345,
-      "y": 311,
-      "width": 260,
-      "height": 124,
-      "color": "2"
-    },
-    {
+      "color": "2",
+      "height": 120,
       "id": "dac206badc891849",
-      "styleAttributes": {},
+      "styleAttributes": {
+      },
       "text": "인터페이스\n+ 변경 가능성이 낮은 부분",
       "type": "text",
+      "width": 260,
       "x": 1320,
-      "y": -120,
-      "width": 260,
-      "height": 120,
-      "color": "2"
+      "y": -120
     },
     {
-      "id": "728cc7a394c7e166",
-      "styleAttributes": {},
-      "text": "세부 내용을 무시한 채 상위 정책을 쉽게 표현",
-      "type": "text",
-      "x": 1345,
-      "y": 503,
-      "width": 260,
+      "color": "5",
       "height": 60,
-      "color": "6"
+      "id": "8d956c73d6c32dd7",
+      "styleAttributes": {
+      },
+      "text": "인터페이스와 구현의 분리",
+      "type": "text",
+      "width": 260,
+      "x": 750,
+      "y": 230
     },
     {
+      "height": 60,
+      "id": "dbc79622ac0100f8",
+      "styleAttributes": {
+      },
+      "text": "컨텍스트 독립성",
+      "type": "text",
+      "width": 260,
+      "x": 1085,
+      "y": 173
+    },
+    {
+      "color": "2",
+      "height": 120,
       "id": "ff32dfdd8a181dfe",
-      "styleAttributes": {},
+      "styleAttributes": {
+      },
       "text": "구현\n+ 변경 가능성이 높은 부분",
       "type": "text",
+      "width": 260,
       "x": 1020,
-      "y": -120,
-      "width": 260,
-      "height": 120,
-      "color": "2"
+      "y": -120
     },
     {
-      "id": "7f22424bb4581439",
-      "styleAttributes": {},
-      "text": "디자인 패턴",
-      "type": "text",
-      "x": 1720,
-      "y": 323,
-      "width": 260,
       "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "82c26fb342dbe97a",
-      "styleAttributes": {},
-      "text": "프레임워크",
-      "type": "text",
-      "x": 1850,
-      "y": 423,
-      "width": 260,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "55c660063b742491",
-      "styleAttributes": {},
-      "text": "어플리케이션을 협력 흐름 기술",
-      "type": "text",
-      "x": 1345,
-      "y": 653,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
       "id": "2ed892a599ec5132",
-      "styleAttributes": {},
+      "styleAttributes": {
+      },
       "text": "인터페이스에만 의존",
       "type": "text",
-      "x": 750,
-      "y": -30,
       "width": 260,
-      "height": 60
+      "x": 750,
+      "y": -30
     },
     {
+      "color": "1",
+      "height": 80,
       "id": "d66b4beb6f2a9077",
-      "styleAttributes": {},
+      "styleAttributes": {
+      },
       "text": "+ 부족한 캡슐화\n+ 파급 효과(ripple effect)",
       "type": "text",
-      "x": 570,
-      "y": -280,
       "width": 260,
-      "height": 80,
-      "color": "1"
+      "x": 570,
+      "y": -280
     },
     {
+      "color": "1",
+      "height": 60,
       "id": "112d7924d92495e3",
-      "styleAttributes": {},
+      "styleAttributes": {
+      },
       "text": "내부 구현의 변경이 외부로 퍼짐",
       "type": "text",
-      "x": 560,
-      "y": -120,
       "width": 280,
+      "x": 560,
+      "y": -120
+    },
+    {
+      "color": "6",
       "height": 60,
-      "color": "1"
+      "id": "c8daafe21e429ce9",
+      "styleAttributes": {
+      },
+      "text": "응집도 높이기",
+      "type": "text",
+      "width": 260,
+      "x": -900,
+      "y": 330
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "cf427db0d16bf261",
+      "styleAttributes": {
+      },
+      "text": "응집도\n+ 내부 요소들이 연관되어 있는 정도\n",
+      "type": "text",
+      "width": 260,
+      "x": -900,
+      "y": 678
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "eedf20abdac6af21",
+      "styleAttributes": {
+      },
+      "text": "결합도 낮추기",
+      "type": "text",
+      "width": 260,
+      "x": -495,
+      "y": 330
+    },
+    {
+      "color": "2",
+      "height": 230,
+      "id": "c67f8a748a4962b0",
+      "styleAttributes": {
+      },
+      "text": "결합도\n+ 한 모듈이 변경되기 위해서 다른 모듈의 변경을 요구하는 정도\n+ 어떤 모듈이 다른 모듈에 의존하는 정도",
+      "type": "text",
+      "width": 290,
+      "x": -510,
+      "y": 623
+    },
+    {
+      "color": "2",
+      "height": 124,
+      "id": "56396a4b2706010a",
+      "styleAttributes": {
+      },
+      "text": "추상화\n+ 유연성이 필요한 곳에 추상화를 사용하자.",
+      "type": "text",
+      "width": 260,
+      "x": 1345,
+      "y": 311
+    },
+    {
+      "color": "6",
+      "height": 90,
+      "id": "0115ab57f99c9b8b",
+      "styleAttributes": {
+      },
+      "text": "접근 제어 메커니즘 → 접근 수정자\n+ `public`, `private`, `protected`",
+      "type": "text",
+      "width": 360,
+      "x": 700,
+      "y": 390
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "16a832500d41fffd",
+      "styleAttributes": {
+      },
+      "text": "기존 구조 수정 없이 새 기능 확장",
+      "type": "text",
+      "width": 260,
+      "x": 1060,
+      "y": 623
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "25ae79cad372cc63",
+      "styleAttributes": {
+      },
+      "text": "데이터와 프로세스가 동일한 모듈 내부에 위치",
+      "type": "text",
+      "width": 260,
+      "x": 700,
+      "y": 680
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "e8811e099085112e",
+      "styleAttributes": {
+      },
+      "text": "객체지향 프로그래밍",
+      "type": "text",
+      "width": 260,
+      "x": 700,
+      "y": 920
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "c308920c6f8189f9",
+      "styleAttributes": {
+      },
+      "text": "적절한 객체에 적절한 책임을 할당하는 것",
+      "type": "text",
+      "width": 260,
+      "x": 1040,
+      "y": 920
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "3aaa2a2a001b83d8",
+      "styleAttributes": {
+      },
+      "text": "두 의존성이 달라짐",
+      "type": "text",
+      "width": 260,
+      "x": -1330,
+      "y": 330
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "99ad118fed465462",
+      "styleAttributes": {
+      },
+      "text": "코드를 이해하기 어려워짐",
+      "type": "text",
+      "width": 260,
+      "x": -1330,
+      "y": 170
+    },
+    {
+      "color": "2",
+      "height": 190,
+      "id": "2a85b7e9e3c7e09b",
+      "styleAttributes": {
+      },
+      "text": "컴파일 시간 의존성과 실행 시간 의존성\n\n+ == 클래스 사이의 의존성과 객체 사이의 의존성은 다를 수 있다.",
+      "type": "text",
+      "width": 260,
+      "x": -1330,
+      "y": 435
+    },
+    {
+      "color": "6",
+      "height": 120,
+      "id": "496a6fd472f53f96",
+      "styleAttributes": {
+      },
+      "text": "지연 바인딩 / 동적 바인딩\n+ 메시지와 메서드를 실행 시점에 바인딩",
+      "type": "text",
+      "width": 260,
+      "x": -1220,
+      "y": 700
+    },
+    {
+      "color": "5",
+      "height": 90,
+      "id": "d385077066353d37",
+      "styleAttributes": {
+      },
+      "text": "구현 은닉\n변경 가능성 있는 구현 내용 은닉",
+      "type": "text",
+      "width": 270,
+      "x": 340,
+      "y": 30
+    },
+    {
+      "color": "2",
+      "height": 210,
+      "id": "e959c8bb4e4c5d74",
+      "styleAttributes": {
+      },
+      "text": "캡슐화\n+ 개념적, 물리적으로 객체 내부의 세부적인 사항을 감추는 것\n+ 데이터와 기능을 객체 내부로 함께 묶는 것",
+      "type": "text",
+      "width": 260,
+      "x": 350,
+      "y": 255
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "728cc7a394c7e166",
+      "styleAttributes": {
+      },
+      "text": "세부 내용을 무시한 채 상위 정책을 쉽게 표현",
+      "type": "text",
+      "width": 260,
+      "x": 1345,
+      "y": 503
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "7f22424bb4581439",
+      "styleAttributes": {
+      },
+      "text": "디자인 패턴",
+      "type": "text",
+      "width": 260,
+      "x": 1720,
+      "y": 323
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "82c26fb342dbe97a",
+      "styleAttributes": {
+      },
+      "text": "프레임워크",
+      "type": "text",
+      "width": 260,
+      "x": 1850,
+      "y": 423
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "55c660063b742491",
+      "styleAttributes": {
+      },
+      "text": "어플리케이션을 협력 흐름 기술",
+      "type": "text",
+      "width": 260,
+      "x": 1345,
+      "y": 653
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "60a2b70ac9aea4ac",
+      "styleAttributes": {
+      },
+      "text": "유연하고 확장 가능한 설계",
+      "type": "text",
+      "width": 260,
+      "x": -900,
+      "y": 170
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "359042ce92fb89e9",
+      "styleAttributes": {
+      },
+      "text": "자율적인 객체",
+      "type": "text",
+      "width": 260,
+      "x": 350,
+      "y": 530
+    },
+    {
+      "color": "2",
+      "height": 140,
+      "id": "238cc6ccdc43363e",
+      "styleAttributes": {
+      },
+      "text": "자율성\n\n+ 스스로의 의지와 판단에 따라 각자 맡은 책임을 수행하는 객체",
+      "type": "text",
+      "width": 260,
+      "x": 350,
+      "y": 640
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "06ed72476dbc9fab",
+      "styleAttributes": {
+      },
+      "text": "유연한 설계",
+      "type": "text",
+      "width": 260,
+      "x": 350,
+      "y": 920
+    },
+    {
+      "height": 140,
+      "id": "232822b16695b860",
+      "styleAttributes": {
+      },
+      "text": "목적\n객체지향 프로그래밍을 설계, 유지보수하는데 필요한 원칙과 기법 설명",
+      "type": "text",
+      "width": 260,
+      "x": -600,
+      "y": -400
+    },
+    {
+      "height": 240,
+      "id": "e073906627a09b48",
+      "styleAttributes": {
+      },
+      "text": "소프트웨어 모듈의 3가지 목적\n1. 제대로 실행되어야 함.\n2. 변경 용이성\n3. 이해하기 쉬워야 함.",
+      "type": "text",
+      "width": 260,
+      "x": -300,
+      "y": -400
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "79c3ffd0df2d42b1",
+      "styleAttributes": {
+      },
+      "text": "변경이 용이한 설계",
+      "type": "text",
+      "width": 260,
+      "x": -270,
+      "y": 170
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "3084d25b0863b51f",
+      "styleAttributes": {
+      },
+      "text": "도메인의 의미를 명시적이고 분명하게 표현 가능",
+      "type": "text",
+      "width": 260,
+      "x": 610,
+      "y": 1360
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "3267c5eb828ae9aa",
+      "styleAttributes": {
+      },
+      "text": "설계의 명확성 높이기",
+      "type": "text",
+      "width": 260,
+      "x": 610,
+      "y": 1220
+    },
+    {
+      "height": 60,
+      "id": "3a3f48c739a509e4",
+      "styleAttributes": {
+      },
+      "text": "상태",
+      "type": "text",
+      "width": 260,
+      "x": 610,
+      "y": 1500
+    },
+    {
+      "height": 60,
+      "id": "172c9734d5588eff",
+      "styleAttributes": {
+      },
+      "text": "도메인 구성 개념\n도메인 구조 == 클래스 구조",
+      "type": "text",
+      "width": 260,
+      "x": 240,
+      "y": 1665
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "08c5129e89e7180d",
+      "styleAttributes": {
+      },
+      "text": "도메인\n+ 문제 해결을 위해 사용자가 사용하는 분야",
+      "type": "text",
+      "width": 270,
+      "x": 235,
+      "y": 1780
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "a9b43ba2f69ebd81",
+      "styleAttributes": {
+      },
+      "text": "객체",
+      "type": "text",
+      "width": 280,
+      "x": 220,
+      "y": 1360
+    },
+    {
+      "color": "2",
+      "height": 140,
+      "id": "d1c27b560ad2f16c",
+      "styleAttributes": {
+      },
+      "text": "클래스\n+ 공통적인 상태와 행동을 공유하는 객체를 추상화한 것",
+      "type": "text",
+      "width": 280,
+      "x": 220,
+      "y": 1490
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "a5c63369cb5e88a3",
+      "styleAttributes": {
+      },
+      "text": "객체를 협력하는 공동체의 일원으로 바라보기",
+      "type": "text",
+      "width": 260,
+      "x": 80,
+      "y": 1120
+    },
+    {
+      "height": 60,
+      "id": "5bc570554b2c89a9",
+      "styleAttributes": {
+      },
+      "text": "행동",
+      "type": "text",
+      "width": 260,
+      "x": 610,
+      "y": 1580
+    },
+    {
+      "height": 60,
+      "id": "55e6050fce677aea",
+      "styleAttributes": {
+      },
+      "text": "외부에 공개",
+      "type": "text",
+      "width": 260,
+      "x": 960,
+      "y": 1580
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "8d679e390243cd71",
+      "styleAttributes": {
+      },
+      "text": "절차지향 → 책임의 이동",
+      "type": "text",
+      "width": 260,
+      "x": 700,
+      "y": 1060
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "dc7ce94f73f3e12a",
+      "styleAttributes": {
+      },
+      "text": "변경의 이유에 따라 클래스 분리하기",
+      "type": "text",
+      "width": 300,
+      "x": 600,
+      "y": 1840
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "1c6b11711766bdf1",
+      "styleAttributes": {
+      },
+      "text": "상태보다 행동 먼저 결정하기",
+      "type": "text",
+      "width": 260,
+      "x": 610,
+      "y": 1750
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "86e105d9197844bd",
+      "styleAttributes": {
+      },
+      "text": "유연한 행동 정의",
+      "type": "text",
+      "width": 260,
+      "x": -1340,
+      "y": 1620
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "32e6cf7218d62a0a",
+      "styleAttributes": {
+      },
+      "text": "인터페이스\n+ 메시지의 목록 정의",
+      "type": "text",
+      "width": 260,
+      "x": -1340,
+      "y": 1420
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "3434056e090464de",
+      "styleAttributes": {
+      },
+      "text": "동일한 인터페이스",
+      "type": "text",
+      "width": 260,
+      "x": -1340,
+      "y": 1329
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "38c684f68eec75b0",
+      "styleAttributes": {
+      },
+      "text": "클래스보다 객체를 먼저 고민하기",
+      "type": "text",
+      "width": 290,
+      "x": 350,
+      "y": 1120
+    },
+    {
+      "height": 140,
+      "id": "54226d6d0341be40",
+      "styleAttributes": {
+      },
+      "text": "책임의 구성\n+ 하는 것\n+ 아는 것",
+      "type": "text",
+      "width": 260,
+      "x": -250,
+      "y": 1900
+    },
+    {
+      "color": "6",
+      "height": 100,
+      "id": "b4e0cb7ce5ef6efd",
+      "styleAttributes": {
+      },
+      "text": "1. 객체 설계에 대한 문맥(Context) 제공\n2. 객체에게 올바른 책임 할당",
+      "type": "text",
+      "width": 290,
+      "x": -65,
+      "y": 1430
+    },
+    {
+      "color": "2",
+      "height": 110,
+      "id": "5de86ec8f46d407a",
+      "styleAttributes": {
+      },
+      "text": "메시지\n+ 객체가 다른 객체와 상호작용하는 유일한 방법",
+      "type": "text",
+      "width": 260,
+      "x": -680,
+      "y": 1280
+    },
+    {
+      "color": "2",
+      "height": 122,
+      "id": "bde5e7c6d373c19b",
+      "styleAttributes": {
+      },
+      "text": "메서드\n+ 수신된 메시지를 처리하기 위한 자신만의 방법",
+      "type": "text",
+      "width": 260,
+      "x": -1030,
+      "y": 1274
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "8b9572b326bb7f5f",
+      "styleAttributes": {
+      },
+      "text": "시그니처\n메서드의 이름 + 파라미터 목록",
+      "type": "text",
+      "width": 260,
+      "x": -1030,
+      "y": 1590
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "fe63afa5004a3e69",
+      "styleAttributes": {
+      },
+      "text": "다형성\n+ 같은 메세지에 대해 다르게 대답할 수 있는 능력",
+      "type": "text",
+      "width": 260,
+      "x": -860,
+      "y": 1030
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "bc53d548fe814ebe",
+      "styleAttributes": {
+      },
+      "text": "협력 참여",
+      "type": "text",
+      "width": 130,
+      "x": 105,
+      "y": 1275
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "acb8ec4fe4443b59",
+      "styleAttributes": {
+      },
+      "text": "책임 주도 설계(RDD)",
+      "type": "text",
+      "width": 260,
+      "x": -50,
+      "y": 1750
+    },
+    {
+      "color": "2",
+      "height": 90,
+      "id": "f282984a705fe900",
+      "styleAttributes": {
+      },
+      "text": "역할\n+ 책임의 집합",
+      "type": "text",
+      "width": 260,
+      "x": -600,
+      "y": 1605
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "5b114787d9194cf6",
+      "styleAttributes": {
+      },
+      "text": "유연하고 재사용 가능한 협력",
+      "type": "text",
+      "width": 260,
+      "x": -600,
+      "y": 1870
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "e023ba992b02ece4",
+      "styleAttributes": {
+      },
+      "text": "변경하기 어려운 설계",
+      "type": "text",
+      "width": 260,
+      "x": -250,
+      "y": 1160
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "41c6faf17fc3d81a",
+      "styleAttributes": {
+      },
+      "text": "의존성 추가됨",
+      "type": "text",
+      "width": 260,
+      "x": -50,
+      "y": 980
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "27d10a809a8905c7",
+      "styleAttributes": {
+      },
+      "text": "어떤 객체도 섬이 아니다.",
+      "type": "text",
+      "width": 260,
+      "x": -340,
+      "y": 1780
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "8c68eb390cc5ad0e",
+      "styleAttributes": {
+      },
+      "text": "메시지가 객체를 선택",
+      "type": "text",
+      "width": 260,
+      "x": -420,
+      "y": 1490
+    },
+    {
+      "color": "2",
+      "height": 170,
+      "id": "fa242a467651eb41",
+      "styleAttributes": {
+      },
+      "text": "협력\n+ 객체들 사이에 이뤄지는 상호작용\n+ 요청과 응답",
+      "type": "text",
+      "width": 260,
+      "x": -250,
+      "y": 1250
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "cd35fb4aea8f3489",
+      "styleAttributes": {
+      },
+      "text": "책임\n+ 객체가 협력에 참여하기 위해 수행하는 로직",
+      "type": "text",
+      "width": 260,
+      "x": -250,
+      "y": 1590
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "77022d958a4fbb37",
+      "styleAttributes": {
+      },
+      "text": "결압도 높아짐",
+      "type": "text",
+      "width": 260,
+      "x": -495,
+      "y": 980
     }
   ]
 }
