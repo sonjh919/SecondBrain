@@ -36,7 +36,7 @@
       "id": "12a1fd0611dac7fb",
       "styleAttributes": {},
       "fromNode": "a60594870987ed37",
-      "fromSide": "right",
+      "fromSide": "top",
       "toNode": "3378b85ea2d78a8b",
       "toSide": "bottom"
     },
@@ -249,14 +249,6 @@
       "toSide": "right"
     },
     {
-      "id": "4338e852e265b0a8",
-      "styleAttributes": {},
-      "fromNode": "3a364fa9a50868b9",
-      "fromSide": "bottom",
-      "toNode": "5febb99ee72b0f8d",
-      "toSide": "top"
-    },
-    {
       "id": "b3a769324095d40d",
       "styleAttributes": {},
       "fromNode": "be87edde55540129",
@@ -279,6 +271,14 @@
       "fromSide": "left",
       "toNode": "017ea8b95a3a9ac2",
       "toSide": "right"
+    },
+    {
+      "id": "4338e852e265b0a8",
+      "styleAttributes": {},
+      "fromNode": "3a364fa9a50868b9",
+      "fromSide": "bottom",
+      "toNode": "5febb99ee72b0f8d",
+      "toSide": "top"
     },
     {
       "id": "ee9ce502081f3594",
@@ -335,6 +335,152 @@
       "fromSide": "bottom",
       "toNode": "2e46a5911f203041",
       "toSide": "top"
+    },
+    {
+      "id": "e0bf727c90c6c399",
+      "styleAttributes": {},
+      "fromNode": "a60594870987ed37",
+      "fromSide": "left",
+      "toNode": "5c50fdc11dca0fe9",
+      "toSide": "right",
+      "label": "명령어의 구조"
+    },
+    {
+      "id": "c6016d2ff53a63eb",
+      "styleAttributes": {},
+      "fromNode": "a60594870987ed37",
+      "fromSide": "right",
+      "toNode": "9d29c45e32464c0e",
+      "toSide": "left",
+      "label": "명령어의 구조"
+    },
+    {
+      "id": "9936bb772ac9b4db",
+      "styleAttributes": {},
+      "fromNode": "5c50fdc11dca0fe9",
+      "fromSide": "left",
+      "toNode": "af698977b408bddd",
+      "toSide": "right"
+    },
+    {
+      "id": "981030b50d659644",
+      "styleAttributes": {},
+      "fromNode": "5c50fdc11dca0fe9",
+      "fromSide": "left",
+      "toNode": "6267902b1ae91e5d",
+      "toSide": "right"
+    },
+    {
+      "id": "1181a9f07dbe5727",
+      "styleAttributes": {},
+      "fromNode": "5c50fdc11dca0fe9",
+      "fromSide": "left",
+      "toNode": "18406459790f9ea3",
+      "toSide": "right"
+    },
+    {
+      "id": "2d0fa74b4efbe4c6",
+      "styleAttributes": {},
+      "fromNode": "5c50fdc11dca0fe9",
+      "fromSide": "left",
+      "toNode": "fc3b035737554ed2",
+      "toSide": "right"
+    },
+    {
+      "id": "a0c1a75776b6e7da",
+      "styleAttributes": {},
+      "fromNode": "9d29c45e32464c0e",
+      "fromSide": "right",
+      "toNode": "7315f7231b55b7d5",
+      "toSide": "left"
+    },
+    {
+      "id": "e1e9cf292d5d7813",
+      "styleAttributes": {},
+      "fromNode": "7315f7231b55b7d5",
+      "fromSide": "top",
+      "toNode": "3a364fa9a50868b9",
+      "toSide": "left"
+    },
+    {
+      "id": "4615739282505e29",
+      "styleAttributes": {},
+      "fromNode": "7315f7231b55b7d5",
+      "fromSide": "top",
+      "toNode": "2a6ccc58ee4ac0af",
+      "toSide": "bottom"
+    },
+    {
+      "id": "80b6b814eb578999",
+      "styleAttributes": {},
+      "fromNode": "7315f7231b55b7d5",
+      "fromSide": "right",
+      "toNode": "64b5ee2716ed8e7b",
+      "toSide": "left"
+    },
+    {
+      "id": "9a1a1f8015105dc1",
+      "styleAttributes": {},
+      "fromNode": "64b5ee2716ed8e7b",
+      "fromSide": "bottom",
+      "toNode": "c863d180f2a95cd0",
+      "toSide": "top"
+    },
+    {
+      "id": "f95365c2231e5a20",
+      "styleAttributes": {},
+      "fromNode": "64b5ee2716ed8e7b",
+      "fromSide": "right",
+      "toNode": "59886cd356b7e991",
+      "toSide": "left"
+    },
+    {
+      "id": "ea0cd5560f99bc72",
+      "styleAttributes": {},
+      "fromNode": "64b5ee2716ed8e7b",
+      "fromSide": "right",
+      "toNode": "7fffa588b6423510",
+      "toSide": "left"
+    },
+    {
+      "id": "ff276cbac6d94345",
+      "styleAttributes": {},
+      "fromNode": "64b5ee2716ed8e7b",
+      "fromSide": "right",
+      "toNode": "e47a92179a9d16d9",
+      "toSide": "left"
+    },
+    {
+      "id": "9ce8fc93b7e4bd67",
+      "styleAttributes": {},
+      "fromNode": "64b5ee2716ed8e7b",
+      "fromSide": "right",
+      "toNode": "f86533e7449cd03d",
+      "toSide": "left"
+    },
+    {
+      "id": "d15f76e4b01c180f",
+      "styleAttributes": {},
+      "fromNode": "64b5ee2716ed8e7b",
+      "fromSide": "right",
+      "toNode": "9953f2b2f386c618",
+      "toSide": "left"
+    },
+    {
+      "id": "0b53059bf375c825",
+      "styleAttributes": {},
+      "fromNode": "7fffa588b6423510",
+      "fromSide": "top",
+      "toNode": "59886cd356b7e991",
+      "toSide": "bottom"
+    },
+    {
+      "id": "c1ce5eccede28a13",
+      "styleAttributes": {},
+      "fromNode": "9953f2b2f386c618",
+      "fromSide": "right",
+      "toNode": "e47a92179a9d16d9",
+      "toSide": "right"
     }
   ],
   "nodes": [
@@ -481,16 +627,6 @@
       "y": 420,
       "width": 500,
       "height": 700
-    },
-    {
-      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/명령어.md",
-      "id": "a60594870987ed37",
-      "styleAttributes": {},
-      "type": "file",
-      "x": -1060,
-      "y": -180,
-      "width": 500,
-      "height": 470
     },
     {
       "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터의 네 가지 핵심 부품/컴퓨터의 네 가지 핵심 부품.md",
@@ -678,28 +814,19 @@
       "styleAttributes": {},
       "text": "컴퓨터 프로그램\n+ 명령어들의 모음",
       "type": "text",
-      "x": -530,
-      "y": -280,
+      "x": -1090,
+      "y": 1669,
       "width": 260,
       "height": 100,
       "color": "6"
     },
     {
-      "id": "54eba05c6f4f49ca",
+      "id": "7bdb7213fc9984c6",
       "type": "file",
-      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/프로그래밍 언어.md",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/컴파일.md",
       "styleAttributes": {},
-      "x": -1010,
-      "y": 500,
-      "width": 400,
-      "height": 920
-    },
-    {
-      "id": "f7d38ed2bf4f0d31",
-      "type": "file",
-      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/기계어.md",
-      "x": -530,
-      "y": 460,
+      "x": -1330,
+      "y": 4490,
       "width": 400,
       "height": 560
     },
@@ -707,35 +834,199 @@
       "id": "af845ceb4c25d4bd",
       "type": "file",
       "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/인터프리터.md",
+      "styleAttributes": {},
       "x": -680,
-      "y": 1640,
+      "y": 4490,
       "width": 400,
       "height": 240
+    },
+    {
+      "id": "af698977b408bddd",
+      "type": "file",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/명령어 구조/연산 코드/데이터 전송.md",
+      "styleAttributes": {},
+      "x": -2410,
+      "y": 1719,
+      "width": 400,
+      "height": 360
+    },
+    {
+      "id": "6267902b1ae91e5d",
+      "type": "file",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/명령어 구조/연산 코드/산술,논리 연산.md",
+      "styleAttributes": {},
+      "x": -2410,
+      "y": 2115,
+      "width": 400,
+      "height": 340
+    },
+    {
+      "id": "18406459790f9ea3",
+      "type": "file",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/명령어 구조/연산 코드/제어 흐름 변경.md",
+      "styleAttributes": {},
+      "x": -2410,
+      "y": 2499,
+      "width": 400,
+      "height": 420
+    },
+    {
+      "id": "fc3b035737554ed2",
+      "type": "file",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/명령어 구조/연산 코드/입출력 제어.md",
+      "styleAttributes": {},
+      "x": -2410,
+      "y": 2979,
+      "width": 400,
+      "height": 320
+    },
+    {
+      "id": "5c50fdc11dca0fe9",
+      "type": "file",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/명령어 구조/연산 코드/연산 코드.md",
+      "styleAttributes": {},
+      "x": -1730,
+      "y": 2065,
+      "width": 400,
+      "height": 940
+    },
+    {
+      "id": "f7d38ed2bf4f0d31",
+      "type": "file",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/기계어.md",
+      "styleAttributes": {},
+      "x": -400,
+      "y": 3250,
+      "width": 400,
+      "height": 560
+    },
+    {
+      "id": "54eba05c6f4f49ca",
+      "type": "file",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/프로그래밍 언어.md",
+      "styleAttributes": {},
+      "x": -1010,
+      "y": 3350,
+      "width": 400,
+      "height": 920
     },
     {
       "id": "292601f506802578",
       "type": "file",
       "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/어셈블리어.md",
-      "x": -530,
-      "y": 1100,
+      "styleAttributes": {},
+      "x": -400,
+      "y": 3890,
       "width": 400,
       "height": 460
     },
     {
-      "id": "7bdb7213fc9984c6",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/명령어.md",
+      "id": "a60594870987ed37",
+      "styleAttributes": {},
       "type": "file",
-      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/컴파일.md",
-      "x": -1330,
-      "y": 1640,
+      "x": -1060,
+      "y": 1930,
+      "width": 500,
+      "height": 1210
+    },
+    {
+      "id": "9d29c45e32464c0e",
+      "type": "file",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/명령어 구조/오퍼랜드.md",
+      "styleAttributes": {},
+      "x": -250,
+      "y": 1973,
       "width": 400,
-      "height": 560
+      "height": 1125
+    },
+    {
+      "id": "7315f7231b55b7d5",
+      "type": "file",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/명령어 구조/오퍼랜드/주소 필드.md",
+      "styleAttributes": {},
+      "x": 320,
+      "y": 2016,
+      "width": 400,
+      "height": 1040
+    },
+    {
+      "id": "64b5ee2716ed8e7b",
+      "type": "file",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/명령어 구조/오퍼랜드/주소 지정 방식.md",
+      "styleAttributes": {},
+      "x": 860,
+      "y": 2314,
+      "width": 400,
+      "height": 444
+    },
+    {
+      "id": "c863d180f2a95cd0",
+      "type": "file",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/명령어 구조/오퍼랜드/유효 주소.md",
+      "styleAttributes": {},
+      "x": 860,
+      "y": 2858,
+      "width": 400,
+      "height": 480
+    },
+    {
+      "id": "59886cd356b7e991",
+      "type": "file",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/명령어 구조/오퍼랜드/주소 지정 방식/즉시 주소 지정 방식.md",
+      "styleAttributes": {},
+      "x": 1460,
+      "y": 1816,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7fffa588b6423510",
+      "type": "file",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/명령어 구조/오퍼랜드/주소 지정 방식/직접 주소 지정 방식.md",
+      "styleAttributes": {},
+      "x": 1460,
+      "y": 2280,
+      "width": 400,
+      "height": 440
+    },
+    {
+      "id": "e47a92179a9d16d9",
+      "type": "file",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/명령어 구조/오퍼랜드/주소 지정 방식/간접 주소 지정 방식.md",
+      "styleAttributes": {},
+      "x": 1460,
+      "y": 2758,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f86533e7449cd03d",
+      "type": "file",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/명령어 구조/오퍼랜드/주소 지정 방식/레지스터 주소 지정 방식.md",
+      "styleAttributes": {},
+      "x": 1460,
+      "y": 3200,
+      "width": 400,
+      "height": 440
+    },
+    {
+      "id": "9953f2b2f386c618",
+      "type": "file",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/명령어 구조/오퍼랜드/주소 지정 방식/레지스터 간접 주소 지정 방식.md",
+      "styleAttributes": {},
+      "x": 1460,
+      "y": 3680,
+      "width": 400,
+      "height": 480
     },
     {
       "id": "2e46a5911f203041",
       "type": "file",
       "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/링킹.md",
+      "styleAttributes": {},
       "x": -1330,
-      "y": 2280,
+      "y": 5100,
       "width": 400,
       "height": 580
     }
