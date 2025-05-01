@@ -13,19 +13,19 @@ path:
 ## Bean Validation
 + 검증과 관련되어 간편하게 사용할 수 있는 여러 애너테이션을 제공해준다.
 
-| annotation | 설명 |
-| ---- | ---- |
-| @NotNull | null 불가 |
-| @NotEmpty | null, ""불가 |
-| @NotBlank | null, "", " " 불가 |
-| @Size | 문자 길이 측정 |
-| @Max | 최대값 |
-| @Min | 최소값 |
-| @Positive | 양수 |
-| @Negative | 음수 |
-| @Email | E-mail 형식 |
-| @Pattern | 정규 표현식 |
-| @Valid | Validation 적용 |
+| annotation | 설명               |
+| ---------- | ---------------- |
+| @NotNull   | null 불가          |
+| @NotEmpty  | null, ""불가       |
+| @NotBlank  | null, "", " " 불가 |
+| @Size      | 문자 길이 측정         |
+| @Max       | 최대값              |
+| @Min       | 최소값              |
+| @Positive  | 양수               |
+| @Negative  | 음수               |
+| @Email     | E-mail 형식        |
+| @Pattern   | 정규 표현식           |
+| @Valid     | Validation 적용    |
 
 ## BindingResult
 - 예외가 발생하면 BindingResult 객체에 오류에 대한 정보가 담긴다.

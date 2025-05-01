@@ -58,23 +58,9 @@ RestAssured.given().log().all()
         .statusCode(201)  
         .header("Location", containsString("reservations/1"));
 
-
+request
 직렬화 : 생성자 -> 타입체킹 -> setter
 
+response
 역직렬화 :  기본 생성자 -> 타입체킹 -> getter로 값 채워주기
-
-
----
-1on1
-
-성장 vs 취업
-
-반란군과 성장?
-우테코에서 바라는 것
-
-
----
-
-
-
 
