@@ -705,14 +705,6 @@
       "fromSide": "right",
       "toNode": "4d24ca43e35f9039",
       "toSide": "left"
-    },
-    {
-      "id": "bee4335b122bbe2f",
-      "styleAttributes": {},
-      "fromNode": "74fb46d41b5f6868",
-      "fromSide": "right",
-      "toNode": "44c69c3db167728d",
-      "toSide": "left"
     }
   ],
   "metadata": {},
