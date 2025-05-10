@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Network/HTTP 상태 코드.md",
+                "file": "🟧 Organize 영구노트/🟤 Archive 보관소/Spring_prev/Security/인증과 인가.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conflict",
+                "query": "인증",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Network/HTTP 상태 코드.md",
+                "file": "🟧 Organize 영구노트/🟤 Archive 보관소/Spring_prev/Security/인증과 인가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Network/HTTP 상태 코드.md"
+                "file": "🟧 Organize 영구노트/🟤 Archive 보관소/Spring_prev/Security/인증과 인가.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Network/HTTP 상태 코드.md",
+                "file": "🟧 Organize 영구노트/🟤 Archive 보관소/Spring_prev/Security/인증과 인가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,6 +243,8 @@
   },
   "active": "f87c1ea89a2d5c8a",
   "lastOpenFiles": [
+    "🟧 Organize 영구노트/🟤 Archive 보관소/Spring_prev/Security/로그인.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Network/HTTP 상태 코드.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Software Pattern/Architecture Pattern/Front Controller Pattern.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/Spring_prev/Servlet/DispatcherServlet.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/도메인 주도 개발 시작하기/2. 아키텍처 개요/DIP.md",
@@ -258,7 +260,6 @@
     "🟧 Organize 영구노트/🟣 Resource 관심분야/JPA/객체지향 쿼리 언어/JPQL/FETCH JOIN.md",
     "N+1 문제.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Java API/java.lang/java.lang.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Network/HTTP 상태 코드.md",
     "🟥 Capture 임시메모(inbox)/Drawing 2025-05-04 15.39.02.excalidraw.md",
     "🟥 Capture 임시메모(inbox)/Inbox.md",
     "🟥 Capture 임시메모(inbox)/무제.md",
@@ -271,7 +272,6 @@
     "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/메인보드/CPU/레지스터/베이스 레지스터.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/명령어 구조/오퍼랜드.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/명령어 구조/오퍼랜드/유효 주소.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/명령어 구조/오퍼랜드/주소 지정 방식/변위 주소 지정 방식.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/img/Pasted image 20250501233747.png",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/img/변위_주소_지정_방식.png",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/img/스택_영역.png",
