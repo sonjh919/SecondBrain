@@ -460,28 +460,6 @@
       "height": 482
     },
     {
-      "id": "a7cb215d41804c76",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "text": "#### 표준 함수형 인터페이스\n|       함수형 인터페이스       |     함수 디스크립터      | 구현 메서드                   | 추가 메서드(디폴드 메서드/정적 메서드)                   |\n| :-------------------: | :---------------: | ------------------------ | ---------------------------------------- |\n|    `Predicate<T>`     |   T -> boolean    | `boolean test(T t)`      | `and()`, `or()`, `negate()`, `isEqual()` |\n|     `Consumer<T>`     |     T -> void     | `void accept(T t)`       | `andThen()`                              |\n|   `Function<T, R>`    |      T -> R       | `R apply(T t)`           | `compose()`, `andThen()`, `identity()`   |\n|     `Supplier<T>`     |     ( ) -> T      | `T get()`                |                                          |\n|  `UnaryOperator<T>`   |      T -> T       | `T apply(T t)`           |                                          |\n|  `BinaryOperator<T>`  |    (T, T) -> T    | `T apply(T t1, T t2)`    | `minBy()`, `maxBy()`                     |\n|  `BiPredicate<L, R>`  | (L, R) -> boolean | `boolean test(L l, R r)` | `and()`, `or()`, `negate()`              |\n|  `BiConsumer<T, U>`   |  (T, U) -> void   | `void accept(T t, U u)`  | `andThen()`                              |\n| `BiFunction<T, U, R>` |    (T, U) -> R    | `R apply(T t, U u)`      | `andThen()`                              |\n\n\n\n> [!question]+ 함수 디스크립터?\n> 함수형 인터페이스의 추상 메서드 시그니처\n\n\n#### 기본형 특화\n+ 오토박싱 과정을 피하는 함수형 인터페이스\n+ `특정 형식` + `함수형 인터페이스`\n+ `IntPredicate`, `LongConsumer` 등",
-      "type": "text",
-      "x": 635,
-      "y": 4410,
-      "width": 905,
-      "height": 790
-    },
-    {
-      "id": "9699b8fde07406ef",
-      "styleAttributes": {},
-      "text": "#### 함수형 인터페이스\n+ 정확히 **하나의 추상 메서드**를 지정하는 인터페이스\n+ `@FunctionalInterface`",
-      "type": "text",
-      "x": 1300,
-      "y": 4128,
-      "width": 420,
-      "height": 145
-    },
-    {
       "id": "dd0aca3c8d8596e6",
       "styleAttributes": {},
       "text": "#### 세 번째 시도 : 동작 파라미터화\n\n1.  인터페이스 정의 → 사과 선택 전략 캡슐화(**전략 패턴**)\n```java\npublic interface ApplePredicate{\n\tboolean test (Apple apple);\n}\n```\n\n2. 전략 선택\n```java\npublic class AppleHeavyWeightPredicate implements ApplePredicate{ // 무게 선택\n\tpublic boolean test(Apple apple){\n\t\treturn apple.getWeight() > 150;\n\t}\n}\n\npublic class AppleGreenColorPredicate implements ApplePredicate{ // 색 선택\n\tpublic boolean test(Apple apple){\n\t\treturn GREEN.equals(apple.getColor());\n\t}\n}\n```\n\n3. 추상적 조건으로 필터링 → **한 개의 파라미터, 다양한 동작**\n```java\npublic static List<Apple> filterApples(List<Apple> inventory, ApplePredicate p){\n\tList<Apple> result = new ArrayList<>();\n\tfor(Apple apple: inventory){\n\t\tif(p.test(apple)){\n\t\t\tresult.add(apple);\n\t\t}\n\t}\n\treturn result;\n}\n```",
@@ -512,16 +490,6 @@
       "height": 220
     },
     {
-      "id": "874c69e586d4842f",
-      "styleAttributes": {},
-      "text": "#### 여섯 번째 시도 : 리스트 형식으로 추상화\n```java\npublic interface Predicate<T>{\n\tboolean test(T t);\n}\n\npublic static <T> List<T> filter(List<T> list, Predicate<T> p){\n\tList<T> result = new ArrayList<>();\n\tfor(T e: list){\n\t\tif(p.test(e)){\n\t\t\tresult.add(e);\n\t\t}\n\t}\n\treturn result;\n}\n```\n\n```java\nList<Apple> redApples = filter(inventory, (Apple apple) -> RED.equals(apple.getColor()));\n```",
-      "type": "text",
-      "x": -410,
-      "y": 3960,
-      "width": 940,
-      "height": 480
-    },
-    {
       "id": "f7ac2d06371c2c5c",
       "styleAttributes": {},
       "text": "#### 다섯 번째 시도 : 람다 사용\n\n```java\nList<Apple> result = filterApples(inventory, (Apple apple) -> RED.equals(apple.getColor()));\n```",
@@ -532,29 +500,6 @@
       "height": 160
     },
     {
-      "id": "1021db4baba2b179",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "종류",
-      "type": "text",
-      "x": 1460,
-      "y": 4300,
-      "width": 100,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JAVA/클래스&객체/제네릭.md",
-      "id": "a13c58433d643889",
-      "styleAttributes": {},
-      "type": "file",
-      "x": -340,
-      "y": 4620,
-      "width": 800,
-      "height": 580
-    },
-    {
       "id": "0119aca709d9c01b",
       "styleAttributes": {},
       "text": "#### Comparator로 정렬\n\n```java\n//java.util.Comparator\npublic interface Comparator<T> {\n\tint compare(T o1, T o2);\n}\n```\n\n```java\ninventory.sort(\n(Apple a1, Apple a2) -> a1.getWeight().compareTo(a2.getWeight()));\n```",
@@ -563,26 +508,6 @@
       "y": 4410,
       "width": 660,
       "height": 290
-    },
-    {
-      "id": "5e50b361c696985c",
-      "styleAttributes": {},
-      "text": "#### 기능적 함수형 인터페이스\n| 함수형 인터페이스       | 함수 디스크립터      | 구현 메서드                      | 역할              |\n| --------------- | ------------- | --------------------------- | --------------- |\n| `Runnable`      | () -> void    | `void run()`                | 쓰레드 생성          |\n| `Callable<V>`   | () -> T       | `V call() throws Exception` | 비동기 작업          |\n| `Comparator<T>` | (T, T) -> int | `int compare(T o1, T o2)`   | 두 객체 순서 비교      |\n| `Comparable<T>` | (T) -> int    | `compareTo(T o)`            | 자신과 다른 객체 순서 비교 |\n",
-      "type": "text",
-      "x": 1540,
-      "y": 4410,
-      "width": 760,
-      "height": 290
-    },
-    {
-      "id": "676d27f47d050116",
-      "styleAttributes": {},
-      "type": "link",
-      "url": "https://devlog-wjdrbs96.tistory.com/201",
-      "x": -395,
-      "y": 5340,
-      "width": 910,
-      "height": 620
     },
     {
       "id": "bf7905c8d671f2e2",
@@ -613,6 +538,81 @@
       "y": 4425,
       "width": 510,
       "height": 260
+    },
+    {
+      "id": "a7cb215d41804c76",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "#### 표준 함수형 인터페이스\n|       함수형 인터페이스       |     함수 디스크립터      | 구현 메서드                   | 추가 메서드(디폴드 메서드/정적 메서드)                   |\n| :-------------------: | :---------------: | ------------------------ | ---------------------------------------- |\n|    `Predicate<T>`     |   T -> boolean    | `boolean test(T t)`      | `and()`, `or()`, `negate()`, `isEqual()` |\n|     `Consumer<T>`     |     T -> void     | `void accept(T t)`       | `andThen()`                              |\n|   `Function<T, R>`    |      T -> R       | `R apply(T t)`           | `compose()`, `andThen()`, `identity()`   |\n|     `Supplier<T>`     |     ( ) -> T      | `T get()`                |                                          |\n|  `UnaryOperator<T>`   |      T -> T       | `T apply(T t)`           |                                          |\n|  `BinaryOperator<T>`  |    (T, T) -> T    | `T apply(T t1, T t2)`    | `minBy()`, `maxBy()`                     |\n|  `BiPredicate<L, R>`  | (L, R) -> boolean | `boolean test(L l, R r)` | `and()`, `or()`, `negate()`              |\n|  `BiConsumer<T, U>`   |  (T, U) -> void   | `void accept(T t, U u)`  | `andThen()`                              |\n| `BiFunction<T, U, R>` |    (T, U) -> R    | `R apply(T t, U u)`      | `andThen()`                              |\n\n\n\n> [!question]+ 함수 디스크립터?\n> 함수형 인터페이스의 추상 메서드 시그니처\n\n\n#### 기본형 특화\n+ 오토박싱 과정을 피하는 함수형 인터페이스\n+ `특정 형식` + `함수형 인터페이스`\n+ `IntPredicate`, `LongConsumer` 등",
+      "type": "text",
+      "x": 635,
+      "y": 4410,
+      "width": 905,
+      "height": 790
+    },
+    {
+      "id": "9699b8fde07406ef",
+      "styleAttributes": {},
+      "text": "#### 함수형 인터페이스\n+ 정확히 **하나의 추상 메서드**를 지정하는 인터페이스\n+ `@FunctionalInterface`",
+      "type": "text",
+      "x": 1300,
+      "y": 4128,
+      "width": 420,
+      "height": 145
+    },
+    {
+      "id": "874c69e586d4842f",
+      "styleAttributes": {},
+      "text": "#### 여섯 번째 시도 : 리스트 형식으로 추상화\n```java\npublic interface Predicate<T>{\n\tboolean test(T t);\n}\n\npublic static <T> List<T> filter(List<T> list, Predicate<T> p){\n\tList<T> result = new ArrayList<>();\n\tfor(T e: list){\n\t\tif(p.test(e)){\n\t\t\tresult.add(e);\n\t\t}\n\t}\n\treturn result;\n}\n```\n\n```java\nList<Apple> redApples = filter(inventory, (Apple apple) -> RED.equals(apple.getColor()));\n```",
+      "type": "text",
+      "x": -410,
+      "y": 3960,
+      "width": 940,
+      "height": 480
+    },
+    {
+      "id": "1021db4baba2b179",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "종류",
+      "type": "text",
+      "x": 1460,
+      "y": 4300,
+      "width": 100,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JAVA/클래스&객체/제네릭.md",
+      "id": "a13c58433d643889",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -340,
+      "y": 4620,
+      "width": 800,
+      "height": 580
+    },
+    {
+      "id": "5e50b361c696985c",
+      "styleAttributes": {},
+      "text": "#### 기능적 함수형 인터페이스\n| 함수형 인터페이스       | 함수 디스크립터      | 구현 메서드                      | 역할              |\n| --------------- | ------------- | --------------------------- | --------------- |\n| `Runnable`      | () -> void    | `void run()`                | 쓰레드 생성          |\n| `Callable<V>`   | () -> T       | `V call() throws Exception` | 비동기 작업          |\n| `Comparator<T>` | (T, T) -> int | `int compare(T o1, T o2)`   | 두 객체 순서 비교      |\n| `Comparable<T>` | (T) -> int    | `compareTo(T o)`            | 자신과 다른 객체 순서 비교 |\n",
+      "type": "text",
+      "x": 1540,
+      "y": 4410,
+      "width": 760,
+      "height": 290
+    },
+    {
+      "id": "676d27f47d050116",
+      "styleAttributes": {},
+      "type": "link",
+      "url": "https://devlog-wjdrbs96.tistory.com/201",
+      "x": -395,
+      "y": 5340,
+      "width": 910,
+      "height": 620
     }
   ]
 }
