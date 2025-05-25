@@ -54,3 +54,4 @@ request
 response
 역직렬화 :  기본 생성자 -> 타입체킹 -> getter로 값 채워주기
 
+테스트 슬라이싱
