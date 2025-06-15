@@ -13,10 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/2025-04-29.md",
+                "file": "🟥 Capture 임시메모(inbox)/Drawing 2025-05-27 16.32.52.excalidraw.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "70a676bc52919c67",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "🟥 Capture 임시메모(inbox)/Drawing 2025-06-15 12.35.58.excalidraw.md"
               }
             }
           },
@@ -46,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/2025-04-29.md",
+                "file": "🟥 Capture 임시메모(inbox)/Drawing 2025-06-15 12.35.58.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/2025-04-29.md"
+                "file": "🟥 Capture 임시메모(inbox)/Drawing 2025-06-15 12.35.58.excalidraw.md"
               }
             }
           },
@@ -167,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/2025-04-29.md",
+                "file": "🟥 Capture 임시메모(inbox)/Drawing 2025-06-15 12.35.58.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,8 +237,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "25c919bde7488490",
+  "active": "70a676bc52919c67",
   "lastOpenFiles": [
+    "🟥 Capture 임시메모(inbox)/Drawing 2025-06-15 12.35.58.excalidraw.md",
+    "🟥 Capture 임시메모(inbox)/Drawing 2025-05-27 16.32.52.excalidraw.md",
+    "Todo/2025-04-29.md",
     "Todo/2025-04-28.md",
     "Todo/2025-04-22.md",
     "Todo/2025-04-21.md",
@@ -239,7 +253,6 @@
     "Todo/2025-04-12.md",
     "Todo/2025-01-17 회고 ⁚.md",
     "🟥 Capture 임시메모(inbox)/Inbox.md",
-    "🟥 Capture 임시메모(inbox)/Drawing 2025-05-27 16.32.52.excalidraw.md",
     "🟥 Capture 임시메모(inbox)/무제.canvas",
     "🟥 Capture 임시메모(inbox)/컨텍스트 로딩 시간 측정.md",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250526134201.png",
@@ -256,8 +269,6 @@
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JPA/객체지향 쿼리 언어/네이티브 SQL/네이티브 SQL 사용.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JPA/Mapping/식별&비식별 관계/식별 관계와 비식별 관계.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JPA/객체지향 쿼리 언어/JPQL/프로젝션.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JPA/Annotation/연관관계/@JoinTable.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JPA/Annotation/Id/@GeneratedValue.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JPA/Spring Data JPA/QueryMethod",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JPA/Annotation/Spring Data JPA",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건",
