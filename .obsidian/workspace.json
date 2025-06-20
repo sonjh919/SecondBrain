@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "대용량 트래픽",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,8 +227,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5a092dc82e37913e",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초",
     "🟥 Capture 임시메모(inbox)/Inbox.md",
     "🟥 Capture 임시메모(inbox)/이번주운체.md",
     "Templates/Insert_Callout.md",
@@ -257,7 +257,6 @@
     "Todo/2025-04-16.md",
     "Todo/2025-04-15.md",
     "Todo/2025-04-12.md",
-    "Todo/2025-01-17 회고 ⁚.md",
     "🟥 Capture 임시메모(inbox)/무제.canvas",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250526134201.png",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250526133945.png",
