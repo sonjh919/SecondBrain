@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/Inbox.md",
+                "file": "🟧 Organize 영구노트/🟤 Archive 보관소/대용량트래픽/대용량 트래픽.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Network",
+                "query": "대용량 트래픽",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/Inbox.md",
+                "file": "🟧 Organize 영구노트/🟤 Archive 보관소/대용량트래픽/대용량 트래픽.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/Inbox.md"
+                "file": "🟧 Organize 영구노트/🟤 Archive 보관소/대용량트래픽/대용량 트래픽.md"
               }
             }
           },
@@ -168,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/Inbox.md",
+                "file": "🟧 Organize 영구노트/🟤 Archive 보관소/대용량트래픽/대용량 트래픽.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,10 +230,10 @@
   },
   "active": "5a092dc82e37913e",
   "lastOpenFiles": [
+    "🟥 Capture 임시메모(inbox)/Inbox.md",
     "🟥 Capture 임시메모(inbox)/이번주운체.md",
     "Templates/Insert_Callout.md",
     "Templates/TODO Templete.md",
-    "🟥 Capture 임시메모(inbox)/Inbox.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Network/HTTP 상태 코드.md",
     "Todo/TIL/2025-06-17 TIL.md",
     "🟧 Organize 영구노트/🟣 Resource 관심분야/메타인지/성향.md",
