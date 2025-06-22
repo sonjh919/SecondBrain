@@ -1,0 +1,93 @@
+{
+  "nodes": [
+    {
+      "id": "45794ac4f639535b",
+      "type": "text",
+      "text": "사용자 단말(웹 브라우저)",
+      "styleAttributes": {},
+      "x": -140,
+      "y": -100,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "eb36e0555c320eb8",
+      "type": "text",
+      "text": "웹 서버",
+      "styleAttributes": {},
+      "x": -140,
+      "y": 100,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e339a395b07206e8",
+      "type": "text",
+      "text": "DNS(Domain Name Service)",
+      "styleAttributes": {},
+      "x": 320,
+      "y": -100,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "5c0898cd69be5314",
+      "type": "text",
+      "text": "대역폭\n주어신 시간(보통 1초) 동안 컴퓨터 네트워크 또는 인터넷 연결을 통해 한 지점에서 다른 지점으로 최대 데이터 양을 전송하는 유선 또는 무선 네트워크 통신 링크의 용량\n",
+      "styleAttributes": {},
+      "x": -500,
+      "y": 240,
+      "width": 260,
+      "height": 200
+    },
+    {
+      "id": "c0e12b9ca33d6ea4",
+      "type": "text",
+      "text": "주제: 내 서버는 어느 정도의 트래픽까지 감당할 수 있을까?",
+      "styleAttributes": {},
+      "x": -480,
+      "y": -480,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "c0104697f7afa576",
+      "styleAttributes": {},
+      "fromNode": "45794ac4f639535b",
+      "fromSide": "right",
+      "toNode": "e339a395b07206e8",
+      "toSide": "left",
+      "label": "1. api.mysite.com"
+    },
+    {
+      "id": "040b31213f9d9141",
+      "styleAttributes": {},
+      "fromNode": "e339a395b07206e8",
+      "fromSide": "top",
+      "toNode": "45794ac4f639535b",
+      "toSide": "top",
+      "label": "2. IP address\n(15.125.23.214)"
+    },
+    {
+      "id": "5cafb704704b2fb0",
+      "styleAttributes": {},
+      "fromNode": "45794ac4f639535b",
+      "fromSide": "bottom",
+      "toNode": "eb36e0555c320eb8",
+      "toSide": "top",
+      "label": "3. 15.125.23.214"
+    },
+    {
+      "id": "a9087298fc7ec1bc",
+      "styleAttributes": {},
+      "fromNode": "eb36e0555c320eb8",
+      "fromSide": "left",
+      "toNode": "45794ac4f639535b",
+      "toSide": "left",
+      "label": "4. HTML 페이지"
+    }
+  ],
+  "metadata": {}
+}
