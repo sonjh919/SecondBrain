@@ -37,14 +37,12 @@
             "id": "5a092dc82e37913e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초/흐름도.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 152.5,
-                  "zoom": 0
-                }
+                "file": "🟥 Capture 임시메모(inbox)/이벤트 스토밍.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -116,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초/흐름도.canvas",
+                "file": "🟥 Capture 임시메모(inbox)/이벤트 스토밍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초/흐름도.canvas"
+                "file": "🟥 Capture 임시메모(inbox)/이벤트 스토밍.md"
               }
             }
           },
@@ -170,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초/흐름도.canvas",
+                "file": "🟥 Capture 임시메모(inbox)/이벤트 스토밍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,13 +229,13 @@
   },
   "active": "5a092dc82e37913e",
   "lastOpenFiles": [
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초/흐름도.canvas",
+    "🟥 Capture 임시메모(inbox)/이벤트 스토밍.md",
     "🟥 Capture 임시메모(inbox)/Inbox.md",
     "🟥 Capture 임시메모(inbox)/무제.canvas",
-    "🟥 Capture 임시메모(inbox)/무제 파일.md",
     "🟥 Capture 임시메모(inbox)/Drawing 2025-06-15 12.35.58.excalidraw.md",
     "🟥 Capture 임시메모(inbox)/Drawing 2025-05-27 16.32.52.excalidraw.md",
     "🟥 Capture 임시메모(inbox)/Drawing 2025-06-16 00.06.49.excalidraw.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초/흐름도.canvas",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/명령어 구조/오퍼랜드/주소 지정 방식/상대 주소 지정 방식.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초",
     "🟥 Capture 임시메모(inbox)/이번주운체.md",
