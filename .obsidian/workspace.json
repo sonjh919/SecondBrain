@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초/대용량트래픽/대용량 트래픽.md",
+                "file": "🟥 Capture 임시메모(inbox)/Inbox.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초/대용량트래픽/대용량 트래픽.md",
+                "file": "🟥 Capture 임시메모(inbox)/Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초/대용량트래픽/대용량 트래픽.md"
+                "file": "🟥 Capture 임시메모(inbox)/Inbox.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초/대용량트래픽/대용량 트래픽.md",
+                "file": "🟥 Capture 임시메모(inbox)/Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,8 +229,10 @@
   },
   "active": "5a092dc82e37913e",
   "lastOpenFiles": [
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
+    "🟥 Capture 임시메모(inbox)/Pasted image 20250623145538.png",
+    "🟥 Capture 임시메모(inbox)/Pasted image 20250623145534.png",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초/대용량트래픽/대용량 트래픽.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
     "🟥 Capture 임시메모(inbox)/Inbox.md",
     "🟥 Capture 임시메모(inbox)/이벤트 스토밍.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초/흐름도.canvas",
@@ -259,7 +261,6 @@
     "Todo/2025-04-20.md",
     "Todo/2025-04-18.md",
     "Todo/2025-04-16.md",
-    "Todo/2025-04-15.md",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250526134201.png",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250526133945.png",
     "🟥 Capture 임시메모(inbox)/요청응답.canvas",
@@ -279,7 +280,6 @@
     "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/img/스택_영역.png",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/img/스택_주소_지정_방식.png",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/img/프로그램_실행_레지스터_07.png",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/img/프로그램_실행_레지스터_06.png",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/도메인 주도 개발 시작하기/DDD.canvas",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Framework/Spring Framework.canvas",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Framework/무제.canvas",
