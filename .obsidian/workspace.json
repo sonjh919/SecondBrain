@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/컨텍스트 로딩 시간 측정.md",
+                "file": "🟧 Organize 영구노트/🟤 Archive 보관소/BlockChain/합의 프로토콜.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/컨텍스트 로딩 시간 측정.md"
+                "file": "🟧 Organize 영구노트/🟤 Archive 보관소/BlockChain/합의 프로토콜.md"
               }
             }
           },
@@ -168,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/컨텍스트 로딩 시간 측정.md",
+                "file": "🟧 Organize 영구노트/🟤 Archive 보관소/BlockChain/합의 프로토콜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,11 +228,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9c1db22eda6d5988",
+  "active": "5a092dc82e37913e",
   "lastOpenFiles": [
+    "🟥 Capture 임시메모(inbox)/컨텍스트 로딩 시간 측정.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/BlockChain/합의 프로토콜.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/메인보드/CPU/레지스터/범용 레지스터.md",
-    "🟥 Capture 임시메모(inbox)/컨텍스트 로딩 시간 측정.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/BlockChain/Nonce.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기/Lesson 1 - 좀비 공장 만들기.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기/Keccack256.md",
