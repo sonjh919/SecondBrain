@@ -47,17 +47,17 @@
             }
           },
           {
-            "id": "a79707a655d7a7fd",
+            "id": "be9f16cd94dae2d3",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/Pasted image 20250719002227.png"
+                "file": "🟥 Capture 임시메모(inbox)/Pasted image 20250719001850.png"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "right": {
     "id": "0d2e3f6089f6430b",
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/Pasted image 20250719002227.png",
+                "file": "🟥 Capture 임시메모(inbox)/무제 파일 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/Pasted image 20250719002227.png"
+                "file": "🟥 Capture 임시메모(inbox)/무제 파일 1.md"
               }
             }
           },
@@ -178,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/Pasted image 20250719002227.png",
+                "file": "🟥 Capture 임시메모(inbox)/무제 파일 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +220,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310
+    "width": 310,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,12 +239,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a79707a655d7a7fd",
+  "active": "5a092dc82e37913e",
   "lastOpenFiles": [
-    "🟥 Capture 임시메모(inbox)/무제 파일 1.md",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250719001850.png",
-    "🟥 Capture 임시메모(inbox)/Pasted image 20250719002317.png",
+    "🟥 Capture 임시메모(inbox)/무제 파일 1.md",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250719002227.png",
+    "🟥 Capture 임시메모(inbox)/Pasted image 20250719002317.png",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250719002149.png",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250719002133.png",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250719002124.png",
