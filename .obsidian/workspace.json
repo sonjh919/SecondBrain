@@ -19,45 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0db0af0643b1a961",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/메인보드/CPU/레지스터/범용 레지스터.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a092dc82e37913e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🟥 Capture 임시메모(inbox)/무제 파일 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be9f16cd94dae2d3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "🟥 Capture 임시메모(inbox)/Pasted image 20250719001850.png"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "restful",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "right": {
     "id": "0d2e3f6089f6430b",
@@ -125,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/무제 파일 1.md",
+                "file": "🟥 Capture 임시메모(inbox)/컨텍스트 로딩 시간 측정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/무제 파일 1.md"
+                "file": "🟥 Capture 임시메모(inbox)/컨텍스트 로딩 시간 측정.md"
               }
             }
           },
@@ -179,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/무제 파일 1.md",
+                "file": "🟥 Capture 임시메모(inbox)/컨텍스트 로딩 시간 측정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,23 +201,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5a092dc82e37913e",
+  "active": "9c1db22eda6d5988",
   "lastOpenFiles": [
-    "🟥 Capture 임시메모(inbox)/Pasted image 20250719001850.png",
     "🟥 Capture 임시메모(inbox)/무제 파일 1.md",
+    "🟥 Capture 임시메모(inbox)/컨텍스트 로딩 시간 측정.md",
+    "🟥 Capture 임시메모(inbox)/Pasted image 20250719002102.png",
+    "🟥 Capture 임시메모(inbox)/Pasted image 20250719001850.png",
+    "🟥 Capture 임시메모(inbox)/Pasted image 20250719002124.png",
+    "🟥 Capture 임시메모(inbox)/Pasted image 20250719002149.png",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250719002227.png",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250719002317.png",
-    "🟥 Capture 임시메모(inbox)/Pasted image 20250719002149.png",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250719002133.png",
-    "🟥 Capture 임시메모(inbox)/Pasted image 20250719002124.png",
-    "🟥 Capture 임시메모(inbox)/Pasted image 20250719002102.png",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/메인보드/CPU/레지스터/범용 레지스터.md",
     "🟥 Capture 임시메모(inbox)/무제 파일.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Network/REST API.md",
     "🟥 Capture 임시메모(inbox)/Inbox.md",
     "🟥 Capture 임시메모(inbox)/이번주운체.md",
     "🟥 Capture 임시메모(inbox)/이벤트 스토밍.md",
-    "🟥 Capture 임시메모(inbox)/컨텍스트 로딩 시간 측정.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/BlockChain/합의 프로토콜.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/메인보드/CPU/레지스터/범용 레지스터.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/BlockChain/Nonce.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기/Lesson 1 - 좀비 공장 만들기.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기/Keccack256.md",
@@ -278,7 +241,6 @@
     "🟧 Organize 영구노트/🟣 Resource 관심분야/메타인지/성향.md",
     "Todo/TIL",
     "🟧 Organize 영구노트/🟣 Resource 관심분야/메타인지",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Network/REST API.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Network/HTTP.md",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250526134201.png",
     "🟥 Capture 임시메모(inbox)/요청응답.canvas",
