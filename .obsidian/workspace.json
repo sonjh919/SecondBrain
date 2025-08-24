@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/컬렉션 매핑/한 개 칼럼 매핑(컬렉션).md",
+                "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Java API/java.util/Collection/List.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Arrays",
+                "query": "리스트",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/컬렉션 매핑/한 개 칼럼 매핑(컬렉션).md",
+                "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Java API/java.util/Collection/List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/컬렉션 매핑/한 개 칼럼 매핑(컬렉션).md"
+                "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Java API/java.util/Collection/List.md"
               }
             }
           },
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/컬렉션 매핑/한 개 칼럼 매핑(컬렉션).md",
+                "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Java API/java.util/Collection/List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,6 +203,7 @@
   },
   "active": "9c1db22eda6d5988",
   "lastOpenFiles": [
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/밸류 매핑/컬렉션 매핑/한 개 칼럼 매핑(컬렉션).md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/코딩테스트 준비하기/코테 구현 Tip 모음.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JAVA/기본 문법/배열.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기/배열.md",
@@ -244,7 +244,6 @@
     "🟥 Capture 임시메모(inbox)/Drawing 2025-05-27 16.32.52.excalidraw.md",
     "🟥 Capture 임시메모(inbox)/Drawing 2025-06-16 00.06.49.excalidraw.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초",
-    "Templates/Insert_Callout.md",
     "Todo/TIL",
     "🟧 Organize 영구노트/🟣 Resource 관심분야/메타인지",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250526134201.png",
