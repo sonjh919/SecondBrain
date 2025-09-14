@@ -11,10 +11,17 @@
             "id": "0d3bd506f83e17fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "type": "canvas",
+              "state": {
+                "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/패턴 연관관계.canvas",
+                "viewState": {
+                  "x": 5037.197096091408,
+                  "y": 4448.524678196694,
+                  "zoom": -0.46591392562523887
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "패턴 연관관계"
             }
           }
         ]
