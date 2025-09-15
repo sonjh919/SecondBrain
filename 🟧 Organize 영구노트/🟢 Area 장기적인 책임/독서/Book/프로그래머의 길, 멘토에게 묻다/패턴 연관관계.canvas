@@ -1438,16 +1438,6 @@
       "height": 400
     },
     {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/가장 뒤떨어진 이가 되라.md",
-      "id": "d194ea411ff2378b",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 3880,
-      "y": 4240,
-      "width": 400,
-      "height": 400
-    },
-    {
       "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/바닥을 쓸어라.md",
       "id": "ccdf8f184a877bc0",
       "styleAttributes": {},
@@ -1508,16 +1498,6 @@
       "height": 400
     },
     {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/연습, 연습, 또 연습.md",
-      "id": "5e997eab4ed5c500",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 3880,
-      "y": 3420,
-      "width": 400,
-      "height": 400
-    },
-    {
       "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/소스를 활용하라.md",
       "id": "1271ada981c189e0",
       "styleAttributes": {},
@@ -1564,6 +1544,26 @@
       "type": "file",
       "x": 4360,
       "y": 1820,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/가장 뒤떨어진 이가 되라.md",
+      "id": "d194ea411ff2378b",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 3880,
+      "y": 4240,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/연습, 연습, 또 연습.md",
+      "id": "5e997eab4ed5c500",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 3880,
+      "y": 3420,
       "width": 400,
       "height": 400
     },
