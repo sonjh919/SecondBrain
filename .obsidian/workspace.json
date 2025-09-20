@@ -11,20 +11,40 @@
             "id": "0d3bd506f83e17fc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/패턴 연관관계.canvas",
-                "viewState": {
-                  "x": 5037.197096091408,
-                  "y": 4448.524678196694,
-                  "zoom": -0.46591392562523887
+                "file": "🟥 Capture 임시메모(inbox)/무제 파일 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "패턴 연관관계"
+              "icon": "lucide-file",
+              "title": "무제 파일 1"
+            }
+          },
+          {
+            "id": "ba703fcdd1e31afc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-09-16 00.42.17.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-16 00.42.17.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,8 +251,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0d3bd506f83e17fc",
+  "active": "62e53e068c161a20",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-09-16 00.42.17.excalidraw.md",
+    "🟥 Capture 임시메모(inbox)/무제 파일 1.md",
+    "Excalidraw",
+    "🟥 Capture 임시메모(inbox)/무제 파일.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/패턴 연관관계.canvas",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초/대용량트래픽/대용량 트래픽.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Java API/java.util/Collection/List.md",
@@ -247,8 +272,6 @@
     "🟠 Project",
     "🟥 Capture 임시메모(inbox)/이번주운체.md",
     "🟧 Organize 영구노트/🟣 Resource 관심분야/메타인지/성향.md",
-    "🟥 Capture 임시메모(inbox)/무제 파일 1.md",
-    "🟥 Capture 임시메모(inbox)/무제 파일.md",
     "🟥 Capture 임시메모(inbox)/이벤트 스토밍.md",
     "🟥 Capture 임시메모(inbox)/컨텍스트 로딩 시간 측정.md",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250719002102.png",
@@ -272,7 +295,6 @@
     "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초/흐름도.canvas",
     "🟥 Capture 임시메모(inbox)/무제.canvas",
     "🟥 Capture 임시메모(inbox)/Drawing 2025-06-15 12.35.58.excalidraw.md",
-    "🟥 Capture 임시메모(inbox)/Drawing 2025-05-27 16.32.52.excalidraw.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초",
     "Todo/TIL",
     "🟧 Organize 영구노트/🟣 Resource 관심분야/메타인지",
@@ -281,13 +303,11 @@
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JPA/Spring Data JPA/QueryMethod",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JPA/Annotation/Spring Data JPA",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JPA/객체지향 쿼리 언어/Criteria",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/모던 자바 인 액션/Part1/자바 8.canvas",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터구조.canvas",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/도메인 주도 개발 시작하기/DDD.canvas",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Framework/Spring Framework.canvas",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Framework/무제.canvas",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring/Spring.canvas",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/오브젝트/오브젝트 총정리/오브젝트.canvas"
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring/Spring.canvas"
   ]
 }
