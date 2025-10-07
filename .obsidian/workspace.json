@@ -11,24 +11,17 @@
             "id": "0d3bd506f83e17fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/무제 파일 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/무제.canvas",
+                "viewState": {
+                  "x": 2269.6989204245724,
+                  "y": 2056.490772951905,
+                  "zoom": -0.48299174222882385
                 }
               },
-              "icon": "lucide-file",
-              "title": "무제 파일 1"
+              "icon": "lucide-layout-dashboard",
+              "title": "무제"
             }
           },
           {
@@ -250,9 +243,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6d0ccfc115d36e12",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디.zip",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/Pasted image 20250928224151.png",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/Pasted image 20250928224044.png",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/지연의 원인을 찾아라 (15점).md",
     "🟥 Capture 임시메모(inbox)/무제 파일 1.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/무제.canvas",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디",
     "Excalidraw/Drawing 2025-09-16 00.42.17.excalidraw.md",
     "Excalidraw",
     "🟥 Capture 임시메모(inbox)/무제 파일.md",
@@ -288,25 +287,19 @@
     "🟧 Organize 영구노트/🟤 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기/Lesson 1 - 좀비 공장 만들기.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기/Keccack256.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터가 이해하는 정보/명령어/명령어 구조/오퍼랜드/주소 지정 방식/상대 주소 지정 방식.md",
-    "🟧 Organize 영구노트/🟤 Archive 보관소/BlockChain/블록.md",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250623145538.png",
-    "🟥 Capture 임시메모(inbox)/Pasted image 20250623145534.png",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초/흐름도.canvas",
     "🟥 Capture 임시메모(inbox)/무제.canvas",
-    "🟥 Capture 임시메모(inbox)/Drawing 2025-06-15 12.35.58.excalidraw.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초",
     "Todo/TIL",
     "🟧 Organize 영구노트/🟣 Resource 관심분야/메타인지",
-    "🟥 Capture 임시메모(inbox)/Pasted image 20250526134201.png",
     "🟥 Capture 임시메모(inbox)/요청응답.canvas",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JPA/Spring Data JPA/QueryMethod",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JPA/Annotation/Spring Data JPA",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JPA/객체지향 쿼리 언어/QueryDSL/검색 조건",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/모던 자바 인 액션/Part1/자바 8.canvas",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터구조.canvas",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/도메인 주도 개발 시작하기/DDD.canvas",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Framework/Spring Framework.canvas",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Framework/무제.canvas",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring/Spring.canvas"
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Framework/무제.canvas"
   ]
 }
