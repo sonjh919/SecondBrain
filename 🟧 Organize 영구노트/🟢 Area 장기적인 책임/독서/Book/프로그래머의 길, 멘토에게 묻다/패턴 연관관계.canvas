@@ -788,16 +788,6 @@
       "label": "2. 잔을 비우다"
     },
     {
-      "id": "030e23d706eddd21",
-      "styleAttributes": {},
-      "type": "group",
-      "x": 2680,
-      "y": 2820,
-      "width": 3100,
-      "height": 2640,
-      "label": "5. 끊임없는 학습"
-    },
-    {
       "id": "3b69babf72737621",
       "styleAttributes": {},
       "type": "group",
@@ -806,6 +796,16 @@
       "width": 3620,
       "height": 2320,
       "label": "3. 긴 여정을 걷다"
+    },
+    {
+      "id": "030e23d706eddd21",
+      "styleAttributes": {},
+      "type": "group",
+      "x": 2680,
+      "y": 2820,
+      "width": 3100,
+      "height": 2640,
+      "label": "5. 끊임없는 학습"
     },
     {
       "id": "c02e2ddc8506eac7",
@@ -828,12 +828,92 @@
       "label": "4. 정확한 자기 평가"
     },
     {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/부숴도 괜찮은 장난감.md",
-      "id": "28222a6e040f9b27",
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/마음 맞는 사람들.md",
+      "id": "de3a7b2c2adab946",
       "styleAttributes": {},
       "type": "file",
-      "x": -260,
-      "y": 160,
+      "x": 200,
+      "y": 1620,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지에 맞서라.md",
+      "id": "daa9adca07fdd0f4",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 880,
+      "y": 1040,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/연습, 연습, 또 연습.md",
+      "id": "ebac9301aaa17298",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 380,
+      "y": -200,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/가장 뒤떨어진 이가 되라.md",
+      "id": "9f2cb8113754220d",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 3420,
+      "y": 480,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/전장에 머물러라.md",
+      "id": "a74c10815235dbbe",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 4220,
+      "y": -300,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/일하면서 성찰하라.md",
+      "id": "f440dfacddba5c68",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 3720,
+      "y": -380,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/구체적인 기술.md",
+      "id": "f3495c7d0d5234d6",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 3200,
+      "y": -380,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/피드백 루프를 만들어라.md",
+      "id": "731c8f1e5b623378",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 2580,
+      "y": 480,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/부숴도 괜찮은 장난감.md",
+      "id": "58b9358232de1db8",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 2640,
+      "y": 0,
       "width": 400,
       "height": 400
     },
@@ -848,16 +928,6 @@
       "height": 400
     },
     {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/자신만의 지도를 그려라.md",
-      "id": "adc37c2d7dacd603",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 200,
-      "y": 4100,
-      "width": 400,
-      "height": 400
-    },
-    {
       "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/멘토를 찾아라.md",
       "id": "b10aa5e1d96d527a",
       "styleAttributes": {},
@@ -868,12 +938,82 @@
       "height": 400
     },
     {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/한발 물러서라.md",
+      "id": "1b39c1751319eb00",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -160,
+      "y": 2140,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지를 드러내라.md",
+      "id": "0ee32f8810a13ad8",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 1000,
+      "y": 1700,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/긴 여정.md",
+      "id": "14d1340faa391647",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -780,
+      "y": 3660,
+      "width": 400,
+      "height": 400
+    },
+    {
       "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/열정을 키워라.md",
-      "id": "dacf7c0aa6a871ce",
+      "id": "7dd930dc9fbce33c",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 1560,
+      "y": 1740,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/열정을 드러내라.md",
+      "id": "df9e27e433c7b476",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 1560,
+      "y": 1160,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/부숴도 괜찮은 장난감.md",
+      "id": "28222a6e040f9b27",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -260,
+      "y": 160,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/피드백 루프를 만들어라.md",
+      "id": "da13892308ec16c3",
       "styleAttributes": {},
       "type": "file",
       "x": 200,
-      "y": 4700,
+      "y": 440,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/깊은 쪽.md",
+      "id": "235e9a3159330d42",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 200,
+      "y": 1020,
       "width": 400,
       "height": 400
     },
@@ -884,6 +1024,66 @@
       "type": "file",
       "x": 200,
       "y": 3100,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/직위를 지표로 이용하라.md",
+      "id": "53dc95a2e2010d2d",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 1560,
+      "y": 3400,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/지속적인 동기 부여.md",
+      "id": "9037f8fab650626d",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -1620,
+      "y": 4100,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/또 다른 길.md",
+      "id": "8fcf44b833b29295",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -780,
+      "y": 4380,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/예술보다 기예.md",
+      "id": "67c7c17078f92048",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -980,
+      "y": 2900,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/자신만의 지도를 그려라.md",
+      "id": "adc37c2d7dacd603",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 200,
+      "y": 4100,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/열정을 키워라.md",
+      "id": "dacf7c0aa6a871ce",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 200,
+      "y": 4700,
       "width": 400,
       "height": 400
     },
@@ -908,112 +1108,12 @@
       "height": 400
     },
     {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/피드백 루프를 만들어라.md",
-      "id": "da13892308ec16c3",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 200,
-      "y": 440,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/직위를 지표로 이용하라.md",
-      "id": "53dc95a2e2010d2d",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 1560,
-      "y": 3400,
-      "width": 400,
-      "height": 400
-    },
-    {
       "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/더 깊이 파고들어라.md",
       "id": "f78b83af9357ba3d",
       "styleAttributes": {},
       "type": "file",
       "x": -1880,
       "y": 680,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/지속적인 동기 부여.md",
-      "id": "9037f8fab650626d",
-      "styleAttributes": {},
-      "type": "file",
-      "x": -1620,
-      "y": 4100,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/한발 물러서라.md",
-      "id": "1b39c1751319eb00",
-      "styleAttributes": {},
-      "type": "file",
-      "x": -160,
-      "y": 2140,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/마음 맞는 사람들.md",
-      "id": "de3a7b2c2adab946",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 200,
-      "y": 1620,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/긴 여정.md",
-      "id": "7d267bb2b5c82dd3",
-      "styleAttributes": {},
-      "type": "file",
-      "x": -760,
-      "y": 1500,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/소스를 활용하라.md",
-      "id": "dba643fef12f4749",
-      "styleAttributes": {},
-      "type": "file",
-      "x": -1220,
-      "y": 1280,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지를 드러내라.md",
-      "id": "0ee32f8810a13ad8",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 1000,
-      "y": 1700,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/깊은 쪽.md",
-      "id": "235e9a3159330d42",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 200,
-      "y": 1020,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/무지에 맞서라.md",
-      "id": "daa9adca07fdd0f4",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 880,
-      "y": 1040,
       "width": 400,
       "height": 400
     },
@@ -1048,36 +1148,6 @@
       "height": 400
     },
     {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/흰 띠를 매라.md",
-      "id": "ce4c3e2915319b96",
-      "styleAttributes": {},
-      "type": "file",
-      "x": -260,
-      "y": -400,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/또 다른 길.md",
-      "id": "8fcf44b833b29295",
-      "styleAttributes": {},
-      "type": "file",
-      "x": -780,
-      "y": 4380,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/예술보다 기예.md",
-      "id": "67c7c17078f92048",
-      "styleAttributes": {},
-      "type": "file",
-      "x": -980,
-      "y": 2900,
-      "width": 400,
-      "height": 400
-    },
-    {
       "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/멘토를 찾아라.md",
       "id": "ba8be1beb68cfb8d",
       "styleAttributes": {},
@@ -1088,22 +1158,42 @@
       "height": 400
     },
     {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/긴 여정.md",
-      "id": "14d1340faa391647",
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/고전을 공부하라.md",
+      "id": "3ce27dde39add3ee",
       "styleAttributes": {},
       "type": "file",
-      "x": -780,
-      "y": 3660,
+      "x": 6760,
+      "y": -280,
       "width": 400,
       "height": 400
     },
     {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/연습, 연습, 또 연습.md",
-      "id": "ebac9301aaa17298",
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/긴 여정.md",
+      "id": "7d267bb2b5c82dd3",
       "styleAttributes": {},
       "type": "file",
-      "x": 380,
-      "y": -200,
+      "x": -760,
+      "y": 1500,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/소스를 활용하라.md",
+      "id": "dba643fef12f4749",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -1220,
+      "y": 1280,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/흰 띠를 매라.md",
+      "id": "ce4c3e2915319b96",
+      "styleAttributes": {},
+      "type": "file",
+      "x": -260,
+      "y": -400,
       "width": 400,
       "height": 400
     },
@@ -1148,16 +1238,6 @@
       "height": 400
     },
     {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/고전을 공부하라.md",
-      "id": "3ce27dde39add3ee",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 6760,
-      "y": -280,
-      "width": 400,
-      "height": 400
-    },
-    {
       "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/일하면서 성찰하라.md",
       "id": "35b6e73b2aaa80c9",
       "styleAttributes": {},
@@ -1188,42 +1268,12 @@
       "height": 400
     },
     {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/가장 뒤떨어진 이가 되라.md",
-      "id": "bf7860dd806f9df7",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 5180,
-      "y": 420,
-      "width": 400,
-      "height": 400
-    },
-    {
       "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/열정을 드러내라.md",
       "id": "bd2a9c0b26ad8d0a",
       "styleAttributes": {},
       "type": "file",
       "x": 6060,
       "y": 900,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/바닥을 쓸어라.md",
-      "id": "766a202a1ca03288",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 5660,
-      "y": 420,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/더 깊이 파고들어라.md",
-      "id": "10dd19670633cb72",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 5360,
-      "y": -280,
       "width": 400,
       "height": 400
     },
@@ -1244,6 +1294,36 @@
       "type": "file",
       "x": 6140,
       "y": 420,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/가장 뒤떨어진 이가 되라.md",
+      "id": "bf7860dd806f9df7",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 5180,
+      "y": 420,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/바닥을 쓸어라.md",
+      "id": "766a202a1ca03288",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 5660,
+      "y": 420,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/더 깊이 파고들어라.md",
+      "id": "10dd19670633cb72",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 5360,
+      "y": -280,
       "width": 400,
       "height": 400
     },
@@ -1278,242 +1358,12 @@
       "height": 400
     },
     {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/마음 맞는 사람들.md",
-      "id": "83fa3a9057fcef11",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 3420,
-      "y": 1780,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/가장 뒤떨어진 이가 되라.md",
-      "id": "9f2cb8113754220d",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 3420,
-      "y": 480,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/전장에 머물러라.md",
-      "id": "a74c10815235dbbe",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 4220,
-      "y": -300,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/배운 것을 공유하라.md",
-      "id": "51a2bf7ceac2e0e4",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 3260,
-      "y": 4240,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/멘토를 찾아라.md",
-      "id": "638afd91364072f1",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 2700,
-      "y": 4480,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/능력의 폭을 넓혀라.md",
-      "id": "d4526dc05cd8d531",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 2700,
-      "y": 3920,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/흰 띠를 매라.md",
-      "id": "67b96cb9a566dc33",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 5360,
-      "y": 3260,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/피드백 루프를 만들어라.md",
-      "id": "ce40a9431238b82a",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 4500,
-      "y": 2840,
-      "width": 400,
-      "height": 400
-    },
-    {
       "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/멘토를 찾아라.md",
       "id": "efde645adbd309b1",
       "styleAttributes": {},
       "type": "file",
       "x": 2700,
       "y": 1580,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/긴 여정.md",
-      "id": "ca261fad1737f616",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 2700,
-      "y": 2140,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/일하면서 성찰하라.md",
-      "id": "f440dfacddba5c68",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 3720,
-      "y": -380,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/구체적인 기술.md",
-      "id": "f3495c7d0d5234d6",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 3200,
-      "y": -380,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/깊은 쪽.md",
-      "id": "1115f67115717a1f",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 2700,
-      "y": 1020,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/구체적인 기술.md",
-      "id": "6f17c9b663ebd2ef",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 3260,
-      "y": 3420,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/자신만의 지도를 그려라.md",
-      "id": "cce307596b6dad13",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 2700,
-      "y": 3380,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/실패하는 법을 배워라.md",
-      "id": "5b8bff1d0a5b9af7",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 2700,
-      "y": 2840,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/바닥을 쓸어라.md",
-      "id": "ccdf8f184a877bc0",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 3040,
-      "y": 4940,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/마음 맞는 사람들.md",
-      "id": "159c679a00555679",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 3540,
-      "y": 5040,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/피드백 루프를 만들어라.md",
-      "id": "731c8f1e5b623378",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 2580,
-      "y": 480,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/부숴도 괜찮은 장난감.md",
-      "id": "58b9358232de1db8",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 2640,
-      "y": 0,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/열정을 키워라.md",
-      "id": "7dd930dc9fbce33c",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 1560,
-      "y": 1740,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/열정을 드러내라.md",
-      "id": "df9e27e433c7b476",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 1560,
-      "y": 1160,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/소스를 활용하라.md",
-      "id": "1271ada981c189e0",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 3880,
-      "y": 2840,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/팔꿈치를 맞대고.md",
-      "id": "878d4f68c20dbcf1",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 4360,
-      "y": 1240,
       "width": 400,
       "height": 400
     },
@@ -1538,32 +1388,62 @@
       "height": 400
     },
     {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/마음 맞는 사람들.md",
+      "id": "83fa3a9057fcef11",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 3420,
+      "y": 1780,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/흰 띠를 매라.md",
+      "id": "67b96cb9a566dc33",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 5360,
+      "y": 3260,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/긴 여정.md",
+      "id": "ca261fad1737f616",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 2700,
+      "y": 2140,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/깊은 쪽.md",
+      "id": "1115f67115717a1f",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 2700,
+      "y": 1020,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/팔꿈치를 맞대고.md",
+      "id": "878d4f68c20dbcf1",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 4360,
+      "y": 1240,
+      "width": 400,
+      "height": 400
+    },
+    {
       "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/배운 것을 기록하라.md",
       "id": "c9c7562f61859bc7",
       "styleAttributes": {},
       "type": "file",
       "x": 4360,
       "y": 1820,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/가장 뒤떨어진 이가 되라.md",
-      "id": "d194ea411ff2378b",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 3880,
-      "y": 4240,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/연습, 연습, 또 연습.md",
-      "id": "5e997eab4ed5c500",
-      "styleAttributes": {},
-      "type": "file",
-      "x": 3880,
-      "y": 3420,
       "width": 400,
       "height": 400
     },
@@ -1604,6 +1484,126 @@
       "type": "file",
       "x": 4500,
       "y": 4240,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/배운 것을 공유하라.md",
+      "id": "51a2bf7ceac2e0e4",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 3260,
+      "y": 4240,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/멘토를 찾아라.md",
+      "id": "638afd91364072f1",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 2700,
+      "y": 4480,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/능력의 폭을 넓혀라.md",
+      "id": "d4526dc05cd8d531",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 2700,
+      "y": 3920,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/구체적인 기술.md",
+      "id": "6f17c9b663ebd2ef",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 3260,
+      "y": 3420,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/실패하는 법을 배워라.md",
+      "id": "5b8bff1d0a5b9af7",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 2700,
+      "y": 2840,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/바닥을 쓸어라.md",
+      "id": "ccdf8f184a877bc0",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 3040,
+      "y": 4940,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/마음 맞는 사람들.md",
+      "id": "159c679a00555679",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 3540,
+      "y": 5040,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/가장 뒤떨어진 이가 되라.md",
+      "id": "d194ea411ff2378b",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 3880,
+      "y": 4240,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/연습, 연습, 또 연습.md",
+      "id": "5e997eab4ed5c500",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 3880,
+      "y": 3420,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/피드백 루프를 만들어라.md",
+      "id": "ce40a9431238b82a",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 4500,
+      "y": 2840,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/3. 긴 여정을 걷다/자신만의 지도를 그려라.md",
+      "id": "cce307596b6dad13",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 2700,
+      "y": 3380,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/소스를 활용하라.md",
+      "id": "1271ada981c189e0",
+      "styleAttributes": {},
+      "type": "file",
+      "x": 3880,
+      "y": 2840,
       "width": 400,
       "height": 400
     },
