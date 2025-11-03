@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟥 Capture 임시메모(inbox)/toss5.md",
+                "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JAVA/클래스&객체/제네릭.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "toss5"
+              "title": "제네릭"
             }
           },
           {
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "역전",
+                "query": "제네릭",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -249,10 +250,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "0d3bd506f83e17fc",
   "lastOpenFiles": [
-    "🟥 Capture 임시메모(inbox)/무제 파일.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JAVA/모던 자바/함수형 인터페이스.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JAVA/클래스&객체/제네릭.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Java API/java.lang/record.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Java API/java.lang/Class.md",
     "🟥 Capture 임시메모(inbox)/toss5.md",
+    "🟥 Capture 임시메모(inbox)/무제 파일.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/03 자바와 객체 지향.md",
     "🟠 Project/JAVA/기본 문법/배열.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/04 자바가 확장한 객체 지향.md",
@@ -283,9 +288,6 @@
     "🟠 Project/JAVA",
     "🟠 Project",
     "🟥 Capture 임시메모(inbox)/이번주운체.md",
-    "🟧 Organize 영구노트/🟣 Resource 관심분야/메타인지/성향.md",
-    "🟥 Capture 임시메모(inbox)/이벤트 스토밍.md",
-    "🟥 Capture 임시메모(inbox)/컨텍스트 로딩 시간 측정.md",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250719002102.png",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250719001850.png",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250719002124.png",
@@ -293,7 +295,6 @@
     "🟥 Capture 임시메모(inbox)/Pasted image 20250719002227.png",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250719002317.png",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250719002133.png",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/메인보드/CPU/레지스터/범용 레지스터.md",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250623145538.png",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초/흐름도.canvas",
     "🟥 Capture 임시메모(inbox)/무제.canvas",
