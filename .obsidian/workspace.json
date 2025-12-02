@@ -11,24 +11,17 @@
             "id": "0d3bd506f83e17fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/깊은 쪽.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/모던 자바 인 액션/Part1/자바 8.canvas",
+                "viewState": {
+                  "x": 562.936098060366,
+                  "y": 1724.4851126437543,
+                  "zoom": -1.6032922606453774
                 }
               },
-              "icon": "lucide-file",
-              "title": "깊은 쪽"
+              "icon": "lucide-layout-dashboard",
+              "title": "자바 8"
             }
           },
           {
@@ -246,11 +239,13 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "0d3bd506f83e17fc",
   "lastOpenFiles": [
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/깊은 쪽.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/부숴도 괜찮은 장난감.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/꾸준히 읽어라.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/열정을 드러내라.md",
@@ -283,7 +278,6 @@
     "Excalidraw",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초/대용량트래픽/대용량트래픽 - 어플리케이션 관점.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초/대용량트래픽/대용량 트래픽.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Java API/java.util/Collection/List.md",
     "🟠 Project/JAVA/기본 문법",
     "🟠 Project/JAVA",
     "🟠 Project",
