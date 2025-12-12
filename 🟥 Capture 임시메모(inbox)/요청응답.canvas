@@ -1,996 +1,903 @@
 {
   "edges": [
     {
+      "id": "61acea07c23356c5",
+      "styleAttributes": {},
       "fromNode": "5f14d67e59957465",
       "fromSide": "right",
-      "id": "61acea07c23356c5",
-      "styleAttributes": {
-      },
       "toNode": "e92331e4cc3acc17",
       "toSide": "left"
     },
     {
+      "id": "a860ffc985c1a628",
+      "styleAttributes": {},
       "fromNode": "e92331e4cc3acc17",
       "fromSide": "right",
-      "id": "a860ffc985c1a628",
-      "styleAttributes": {
-      },
       "toNode": "77e84ecfba9d0861",
       "toSide": "left"
     },
     {
+      "id": "b1d1f2820019fb25",
+      "styleAttributes": {},
       "fromNode": "77e84ecfba9d0861",
       "fromSide": "right",
-      "id": "b1d1f2820019fb25",
-      "styleAttributes": {
-      },
       "toNode": "bcaeb545bb95d16b",
       "toSide": "left"
     },
     {
+      "id": "f204d042cf0ac2e1",
+      "styleAttributes": {},
       "fromNode": "ec18f223b191cfcd",
       "fromSide": "right",
-      "id": "f204d042cf0ac2e1",
-      "styleAttributes": {
-      },
       "toNode": "ee85615c67523e34",
       "toSide": "left"
     },
     {
+      "id": "4e6a75cb1efdf875",
+      "styleAttributes": {},
       "fromNode": "ee85615c67523e34",
       "fromSide": "top",
-      "id": "4e6a75cb1efdf875",
-      "styleAttributes": {
-      },
       "toNode": "ac6fb778ba70b000",
       "toSide": "left"
     },
     {
+      "id": "3ccab4b62969bc8e",
+      "styleAttributes": {},
       "fromNode": "a796c530df2d6c09",
       "fromSide": "top",
-      "id": "3ccab4b62969bc8e",
-      "styleAttributes": {
-      },
       "toNode": "ec18f223b191cfcd",
       "toSide": "bottom"
     },
     {
+      "id": "b8071282e550b23b",
+      "styleAttributes": {},
       "fromNode": "ac6fb778ba70b000",
       "fromSide": "right",
-      "id": "b8071282e550b23b",
-      "styleAttributes": {
-      },
       "toNode": "fbdeffad6ee53a7c",
       "toSide": "left"
     },
     {
+      "id": "df633763d07804ba",
+      "styleAttributes": {},
       "fromNode": "ff8229d3fd7f2709",
       "fromSide": "top",
-      "id": "df633763d07804ba",
-      "styleAttributes": {
-      },
       "toNode": "0a3af9bc935244fa",
       "toSide": "bottom"
     },
     {
+      "id": "3b477a33329c7050",
+      "styleAttributes": {},
       "fromNode": "ac6fb778ba70b000",
       "fromSide": "bottom",
-      "id": "3b477a33329c7050",
-      "label": "return handlerexcutionchain",
-      "styleAttributes": {
-      },
       "toNode": "ee85615c67523e34",
-      "toSide": "right"
+      "toSide": "right",
+      "label": "return handlerexcutionchain"
     },
     {
+      "id": "762ef40492a9892c",
+      "styleAttributes": {},
       "fromNode": "ee85615c67523e34",
       "fromSide": "bottom",
-      "id": "762ef40492a9892c",
-      "label": "handlermethod 전달",
-      "styleAttributes": {
-      },
       "toNode": "0a3af9bc935244fa",
-      "toSide": "left"
+      "toSide": "left",
+      "label": "handlermethod 전달"
     },
     {
+      "id": "60b3054db3169965",
+      "styleAttributes": {},
       "fromNode": "eb2625b79b908ad8",
       "fromSide": "bottom",
-      "id": "60b3054db3169965",
-      "styleAttributes": {
-      },
       "toNode": "5bb8bc7b27bdb17f",
       "toSide": "top"
     },
     {
+      "id": "a183db77c6e67738",
+      "styleAttributes": {},
       "fromNode": "5bb8bc7b27bdb17f",
       "fromSide": "bottom",
-      "id": "a183db77c6e67738",
-      "styleAttributes": {
-      },
       "toNode": "3fd5765aac52f43c",
       "toSide": "top"
     },
     {
+      "id": "c331e23da825c75c",
+      "styleAttributes": {},
       "fromNode": "ee85615c67523e34",
       "fromSide": "top",
-      "id": "c331e23da825c75c",
-      "styleAttributes": {
-      },
       "toNode": "ac6fb778ba70b000",
       "toSide": "left"
     },
     {
+      "id": "fad9067d078b3945",
+      "styleAttributes": {},
       "fromNode": "ee85615c67523e34",
       "fromSide": "bottom",
-      "id": "fad9067d078b3945",
-      "styleAttributes": {
-      },
       "toNode": "cd5c3d7c11146d27",
       "toSide": "top"
     },
     {
+      "id": "22313a4f8c62e6f3",
+      "styleAttributes": {},
       "fromNode": "bcaeb545bb95d16b",
       "fromSide": "bottom",
-      "id": "22313a4f8c62e6f3",
-      "styleAttributes": {
-      },
       "toNode": "8527ea029b8abd20",
       "toSide": "top"
     },
     {
+      "id": "3aa4820f7b8c8bb1",
+      "styleAttributes": {},
       "fromNode": "8527ea029b8abd20",
       "fromSide": "bottom",
-      "id": "3aa4820f7b8c8bb1",
-      "styleAttributes": {
-      },
       "toNode": "25ac84d15b291c92",
       "toSide": "top"
     },
     {
+      "id": "862c879ad8788400",
+      "styleAttributes": {},
       "fromNode": "25ac84d15b291c92",
       "fromSide": "bottom",
-      "id": "862c879ad8788400",
-      "styleAttributes": {
-      },
       "toNode": "c66155be332a30ba",
       "toSide": "top"
     },
     {
+      "id": "25eeec9d765ce039",
+      "styleAttributes": {},
       "fromNode": "c66155be332a30ba",
       "fromSide": "bottom",
-      "id": "25eeec9d765ce039",
-      "styleAttributes": {
-      },
       "toNode": "7a7195d989baae15",
       "toSide": "bottom"
     },
     {
+      "id": "6933f64e63bae2c0",
+      "styleAttributes": {},
       "fromNode": "7a7195d989baae15",
       "fromSide": "top",
-      "id": "6933f64e63bae2c0",
-      "styleAttributes": {
-      },
       "toNode": "2b1e420406d4735f",
       "toSide": "bottom"
     },
     {
+      "id": "0202130aa5e9658e",
+      "styleAttributes": {},
       "fromNode": "2b1e420406d4735f",
       "fromSide": "top",
-      "id": "0202130aa5e9658e",
-      "styleAttributes": {
-      },
       "toNode": "997e42565953e2ca",
       "toSide": "bottom"
     },
     {
+      "id": "a0ed884c07594780",
+      "styleAttributes": {},
       "fromNode": "997e42565953e2ca",
       "fromSide": "top",
-      "id": "a0ed884c07594780",
-      "styleAttributes": {
-      },
       "toNode": "5eec4c850e744459",
       "toSide": "bottom"
     },
     {
+      "id": "476464ab9dba5039",
+      "styleAttributes": {},
       "fromNode": "3fd5765aac52f43c",
       "fromSide": "bottom",
-      "id": "476464ab9dba5039",
-      "styleAttributes": {
-      },
       "toNode": "a486d0a7485386bc",
       "toSide": "top"
     },
     {
+      "id": "11c6a1433177d484",
+      "styleAttributes": {},
       "fromNode": "a486d0a7485386bc",
       "fromSide": "bottom",
-      "id": "11c6a1433177d484",
-      "styleAttributes": {
-      },
       "toNode": "157d22510494c1b2",
       "toSide": "top"
     },
     {
+      "id": "148abac879fbf479",
+      "styleAttributes": {},
       "fromNode": "4fe1430ecf2690b8",
       "fromSide": "left",
-      "id": "148abac879fbf479",
-      "styleAttributes": {
-      },
       "toNode": "3fd5765aac52f43c",
       "toSide": "right"
     },
     {
+      "id": "4c086b532295ec14",
+      "styleAttributes": {},
       "fromNode": "a77c99ce41cad387",
       "fromSide": "right",
-      "id": "4c086b532295ec14",
-      "styleAttributes": {
-      },
       "toNode": "817d3fc35db257f9",
       "toSide": "left"
     },
     {
+      "id": "1359d4139e226896",
+      "styleAttributes": {},
       "fromNode": "817d3fc35db257f9",
       "fromSide": "right",
-      "id": "1359d4139e226896",
-      "styleAttributes": {
-      },
       "toNode": "b155c98702f724aa",
       "toSide": "left"
     },
     {
+      "id": "ce42fe0f46a94d1b",
+      "styleAttributes": {},
       "fromNode": "65e38d569c350cb9",
       "fromSide": "bottom",
-      "id": "ce42fe0f46a94d1b",
-      "label": "할당",
-      "styleAttributes": {
-      },
       "toNode": "3ba1252bec282e39",
-      "toSide": "top"
+      "toSide": "top",
+      "label": "할당"
     },
     {
+      "id": "18c3c197ae847761",
+      "styleAttributes": {},
       "fromNode": "3ba1252bec282e39",
       "fromSide": "bottom",
-      "id": "18c3c197ae847761",
-      "label": "SocketProcessor",
-      "styleAttributes": {
-      },
       "toNode": "baaf2e07e05ca5d3",
-      "toSide": "top"
+      "toSide": "top",
+      "label": "SocketProcessor"
     },
     {
+      "id": "3f55b34840f64321",
+      "styleAttributes": {},
       "fromNode": "baaf2e07e05ca5d3",
       "fromSide": "bottom",
-      "id": "3f55b34840f64321",
-      "styleAttributes": {
-      },
       "toNode": "403fc9f136e0d92d",
       "toSide": "top"
     },
     {
+      "id": "a12fdea1ec01df11",
+      "styleAttributes": {},
       "fromNode": "403fc9f136e0d92d",
       "fromSide": "bottom",
-      "id": "a12fdea1ec01df11",
-      "styleAttributes": {
-      },
       "toNode": "db2ffcebe1a8c2fc",
       "toSide": "top"
     },
     {
+      "id": "e425a761338da6ae",
+      "styleAttributes": {},
       "fromNode": "db2ffcebe1a8c2fc",
       "fromSide": "bottom",
-      "id": "e425a761338da6ae",
-      "styleAttributes": {
-      },
       "toNode": "96e432c471daab6c",
       "toSide": "top"
     },
     {
+      "id": "dc9ca690c3e74bd0",
+      "styleAttributes": {},
       "fromNode": "96e432c471daab6c",
       "fromSide": "bottom",
-      "id": "dc9ca690c3e74bd0",
-      "styleAttributes": {
-      },
       "toNode": "83909d980c02bb00",
       "toSide": "top"
     },
     {
+      "id": "de1224b9447be9f3",
+      "styleAttributes": {},
       "fromNode": "b155c98702f724aa",
       "fromSide": "right",
-      "id": "de1224b9447be9f3",
-      "styleAttributes": {
-      },
       "toNode": "f10d933ee2cee03e",
       "toSide": "left"
     },
     {
+      "id": "1dd1222e5453bbd9",
+      "styleAttributes": {},
       "fromNode": "f10d933ee2cee03e",
       "fromSide": "right",
-      "id": "1dd1222e5453bbd9",
-      "styleAttributes": {
-      },
       "toNode": "3ba1252bec282e39",
       "toSide": "left"
     },
     {
+      "id": "2401b7956909bc3b",
+      "styleAttributes": {},
       "fromNode": "5eec4c850e744459",
       "fromSide": "right",
-      "id": "2401b7956909bc3b",
-      "styleAttributes": {
-      },
       "toNode": "a77c99ce41cad387",
       "toSide": "left"
     },
     {
+      "id": "09c4bffdb1dd7940",
+      "styleAttributes": {},
       "fromNode": "83909d980c02bb00",
       "fromSide": "right",
-      "id": "09c4bffdb1dd7940",
-      "styleAttributes": {
-      },
       "toNode": "ec18f223b191cfcd",
       "toSide": "left"
     },
     {
+      "id": "374c0203f8a634dd",
+      "styleAttributes": {},
       "fromNode": "0a3af9bc935244fa",
       "fromSide": "right",
-      "id": "374c0203f8a634dd",
-      "styleAttributes": {
-      },
       "toNode": "eb2625b79b908ad8",
       "toSide": "left"
     }
   ],
   "nodes": [
     {
-      "color": "5",
-      "height": 900,
       "id": "b7cb191a045f7d88",
-      "label": "Tomcat(Servlet Container), WAS",
-      "styleAttributes": {
-      },
+      "styleAttributes": {},
       "type": "group",
-      "width": 1640,
       "x": 840,
-      "y": -360
-    },
-    {
-      "color": "4",
-      "height": 1040,
-      "id": "6d2839757d54725a",
-      "label": "TCP/IP 4 Layer",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 1135,
-      "x": -340,
-      "y": -220
-    },
-    {
-      "color": "6",
-      "height": 850,
-      "id": "c05a51ab97d34e40",
-      "label": "Dispatcher Servlet",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 1040,
-      "x": 2960,
-      "y": 100
-    },
-    {
-      "color": "6",
-      "height": 100,
-      "id": "57c41533fb30a23e",
-      "label": "Browser",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 460,
-      "x": -760,
-      "y": -215
-    },
-    {
-      "height": 60,
-      "id": "2112ee264ae6d12e",
-      "styleAttributes": {
-      },
-      "text": "Application Layer",
-      "type": "text",
-      "width": 260,
-      "x": 40,
-      "y": -200
-    },
-    {
-      "color": "2",
-      "height": 135,
-      "id": "997e42565953e2ca",
-      "styleAttributes": {
-      },
-      "text": "TCP Header",
-      "type": "text",
-      "width": 260,
-      "x": 465,
-      "y": 0
-    },
-    {
-      "color": "3",
-      "height": 220,
-      "id": "2b1e420406d4735f",
-      "styleAttributes": {
-      },
-      "text": "IP Header",
-      "type": "text",
-      "width": 310,
-      "x": 440,
-      "y": 232
-    },
-    {
-      "color": "2",
-      "height": 135,
-      "id": "b1c7ef3222ce3b4e",
-      "styleAttributes": {
-      },
-      "text": "TCP Header",
-      "type": "text",
-      "width": 260,
-      "x": 465,
-      "y": 293
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "bda2d30eb7b24f73",
-      "styleAttributes": {
-      },
-      "text": "HTTP Data",
-      "type": "text",
-      "width": 160,
-      "x": 515,
-      "y": 338
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "9fbf2d3a000a81f6",
-      "styleAttributes": {
-      },
-      "text": "HTTP Data",
-      "type": "text",
-      "width": 160,
-      "x": 515,
-      "y": 670
-    },
-    {
-      "height": 60,
-      "id": "f767d7fc0c5aae81",
-      "styleAttributes": {
-      },
-      "text": "Network Access Layer",
-      "type": "text",
-      "width": 260,
-      "x": 40,
-      "y": 625
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "dc7f01faf04ab918",
-      "styleAttributes": {
-      },
-      "text": "HTTP Data",
-      "type": "text",
-      "width": 160,
-      "x": 515,
-      "y": 45
-    },
-    {
-      "height": 60,
-      "id": "546296a813fb7a18",
-      "styleAttributes": {
-      },
-      "text": "Transport Layer",
-      "type": "text",
-      "width": 260,
-      "x": 40,
-      "y": 45
-    },
-    {
-      "height": 60,
-      "id": "eb478cdf0bc6134e",
-      "styleAttributes": {
-      },
-      "text": "Internet Layer",
-      "type": "text",
-      "width": 260,
-      "x": 40,
-      "y": 305
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "bcaeb545bb95d16b",
-      "styleAttributes": {
-      },
-      "text": "HTTP Data",
-      "type": "text",
-      "width": 160,
-      "x": -240,
-      "y": -195
-    },
-    {
-      "color": "2",
-      "height": 135,
-      "id": "565cff209503282e",
-      "styleAttributes": {
-      },
-      "text": "TCP Header",
-      "type": "text",
-      "width": 260,
-      "x": 465,
-      "y": 625
-    },
-    {
-      "color": "3",
-      "height": 220,
-      "id": "c0888ee166569266",
-      "styleAttributes": {
-      },
-      "text": "IP Header",
-      "type": "text",
-      "width": 310,
-      "x": 440,
-      "y": 565
-    },
-    {
-      "color": "4",
-      "height": 295,
-      "id": "7a7195d989baae15",
-      "styleAttributes": {
-      },
-      "text": "Ethernet Header",
-      "type": "text",
-      "width": 340,
-      "x": 425,
-      "y": 505
-    },
-    {
-      "color": "4",
-      "height": 295,
-      "id": "c66155be332a30ba",
-      "styleAttributes": {
-      },
-      "text": "Ethernet Header",
-      "type": "text",
-      "width": 340,
-      "x": -330,
-      "y": 505
-    },
-    {
-      "color": "3",
-      "height": 220,
-      "id": "5f61a142ac37f20c",
-      "styleAttributes": {
-      },
-      "text": "IP Header",
-      "type": "text",
-      "width": 310,
-      "x": -315,
-      "y": 565
-    },
-    {
-      "color": "2",
-      "height": 135,
-      "id": "e20f43134dca4043",
-      "styleAttributes": {
-      },
-      "text": "TCP Header",
-      "type": "text",
-      "width": 260,
-      "x": -290,
-      "y": 625
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "e5ea2c7d86878562",
-      "styleAttributes": {
-      },
-      "text": "HTTP Data",
-      "type": "text",
-      "width": 160,
-      "x": -240,
-      "y": 670
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "3e5ba6bc463e79df",
-      "styleAttributes": {
-      },
-      "text": "HTTP Data",
-      "type": "text",
-      "width": 160,
-      "x": -240,
-      "y": 330
-    },
-    {
-      "color": "2",
-      "height": 135,
-      "id": "8527ea029b8abd20",
-      "styleAttributes": {
-      },
-      "text": "TCP Header",
-      "type": "text",
-      "width": 260,
-      "x": -290,
-      "y": 0
-    },
-    {
-      "height": 60,
-      "id": "e92331e4cc3acc17",
-      "styleAttributes": {
-      },
-      "text": "예약 생성",
-      "type": "text",
-      "width": 180,
-      "x": -740,
-      "y": -195
-    },
-    {
-      "height": 60,
-      "id": "77e84ecfba9d0861",
-      "styleAttributes": {
-      },
-      "text": "http 요청 생성",
-      "type": "text",
-      "width": 160,
-      "x": -480,
-      "y": -195
-    },
-    {
+      "y": -360,
+      "width": 1640,
+      "height": 900,
       "color": "5",
-      "height": 60,
-      "id": "5f14d67e59957465",
-      "styleAttributes": {
-      },
-      "text": "사용자",
-      "type": "text",
-      "width": 120,
-      "x": -960,
-      "y": -195
+      "label": "Tomcat(Servlet Container), WAS"
     },
     {
-      "color": "1",
-      "height": 60,
+      "id": "6d2839757d54725a",
+      "styleAttributes": {},
+      "type": "group",
+      "x": -340,
+      "y": -220,
+      "width": 1135,
+      "height": 1040,
+      "color": "4",
+      "label": "TCP/IP 4 Layer"
+    },
+    {
+      "id": "c05a51ab97d34e40",
+      "styleAttributes": {},
+      "type": "group",
+      "x": 2960,
+      "y": 100,
+      "width": 1040,
+      "height": 850,
+      "color": "6",
+      "label": "Dispatcher Servlet"
+    },
+    {
+      "id": "57c41533fb30a23e",
+      "styleAttributes": {},
+      "type": "group",
+      "x": -760,
+      "y": -215,
+      "width": 460,
+      "height": 100,
+      "color": "6",
+      "label": "Browser"
+    },
+    {
       "id": "5eec4c850e744459",
-      "styleAttributes": {
-      },
+      "styleAttributes": {},
       "text": "HTTP Data",
       "type": "text",
-      "width": 160,
       "x": 515,
-      "y": -195
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "a5d14dfc8c0fd952",
-      "styleAttributes": {
-      },
-      "text": "HTTP Data",
-      "type": "text",
+      "y": -195,
       "width": 160,
-      "x": -240,
-      "y": 45
-    },
-    {
-      "color": "3",
-      "height": 220,
-      "id": "25ac84d15b291c92",
-      "styleAttributes": {
-      },
-      "text": "IP Header",
-      "type": "text",
-      "width": 310,
-      "x": -315,
-      "y": 225
-    },
-    {
-      "color": "2",
-      "height": 135,
-      "id": "d7210f8fa576a1fd",
-      "styleAttributes": {
-      },
-      "text": "TCP Header",
-      "type": "text",
-      "width": 260,
-      "x": -290,
-      "y": 285
-    },
-    {
       "height": 60,
-      "id": "fbdeffad6ee53a7c",
-      "styleAttributes": {
-      },
-      "text": "Interceptor",
-      "type": "text",
-      "width": 260,
-      "x": 3720,
-      "y": 285
+      "color": "1"
     },
     {
-      "height": 290,
-      "id": "ee85615c67523e34",
-      "styleAttributes": {
-      },
-      "text": "Dispatcher Servlet\n\nservice() -> request.get() 메서드 확인\n\ninterceptor 실행(prehandle / post / after 다)\n\n대충 do뭐시기가 해줌",
-      "type": "text",
-      "width": 260,
-      "x": 2980,
-      "y": 330
-    },
-    {
-      "height": 60,
-      "id": "cd5c3d7c11146d27",
-      "styleAttributes": {
-      },
-      "text": "exceptionHandler\ncontrolleradvice",
-      "type": "text",
-      "width": 260,
-      "x": 2980,
-      "y": 775
-    },
-    {
-      "height": 60,
-      "id": "ac6fb778ba70b000",
-      "styleAttributes": {
-      },
-      "text": "handlerMapping\n",
-      "type": "text",
-      "width": 280,
-      "x": 3360,
-      "y": 285
-    },
-    {
-      "height": 60,
-      "id": "0a3af9bc935244fa",
-      "styleAttributes": {
-      },
-      "text": "handlerAdaptor\n",
-      "type": "text",
-      "width": 260,
-      "x": 3340,
-      "y": 625
-    },
-    {
-      "height": 135,
-      "id": "ff8229d3fd7f2709",
-      "styleAttributes": {
-      },
-      "text": "argumentresolver\n종류: 직렬화(jackson~resolver)세션, 쿠키 인증, validation 등등\n\n",
-      "type": "text",
-      "width": 260,
-      "x": 3340,
-      "y": 745
-    },
-    {
-      "height": 60,
-      "id": "403fc9f136e0d92d",
-      "styleAttributes": {
-      },
-      "text": "Service",
-      "type": "text",
-      "width": 260,
-      "x": 2180,
-      "y": 85
-    },
-    {
-      "height": 60,
-      "id": "ec18f223b191cfcd",
-      "styleAttributes": {
-      },
-      "text": "filter",
-      "type": "text",
-      "width": 260,
-      "x": 2580,
-      "y": 445
-    },
-    {
-      "height": 60,
-      "id": "a796c530df2d6c09",
-      "styleAttributes": {
-      },
-      "text": "Spring Security : 필터 체인",
-      "type": "text",
-      "width": 260,
-      "x": 2580,
-      "y": 560
-    },
-    {
-      "height": 60,
-      "id": "db2ffcebe1a8c2fc",
-      "styleAttributes": {
-      },
-      "text": "Engine",
-      "type": "text",
-      "width": 260,
-      "x": 2180,
-      "y": 205
-    },
-    {
-      "height": 60,
-      "id": "96e432c471daab6c",
-      "styleAttributes": {
-      },
-      "text": "Host",
-      "type": "text",
-      "width": 260,
-      "x": 2180,
-      "y": 325
-    },
-    {
-      "height": 60,
-      "id": "83909d980c02bb00",
-      "styleAttributes": {
-      },
-      "text": "Context",
-      "type": "text",
-      "width": 260,
-      "x": 2180,
-      "y": 445
-    },
-    {
-      "height": 60,
-      "id": "a77c99ce41cad387",
-      "styleAttributes": {
-      },
-      "text": ":8080 port",
-      "type": "text",
-      "width": 260,
-      "x": 860,
-      "y": -195
-    },
-    {
-      "height": 60,
-      "id": "817d3fc35db257f9",
-      "styleAttributes": {
-      },
-      "text": "HTTP Connector",
-      "type": "text",
-      "width": 260,
-      "x": 1200,
-      "y": -195
-    },
-    {
-      "height": 60,
-      "id": "b155c98702f724aa",
-      "styleAttributes": {
-      },
-      "text": "Coyote",
-      "type": "text",
-      "width": 260,
-      "x": 1540,
-      "y": -195
-    },
-    {
-      "height": 60,
       "id": "baaf2e07e05ca5d3",
-      "styleAttributes": {
-      },
+      "styleAttributes": {},
       "text": "Catalina(Servlet Container)",
       "type": "text",
-      "width": 300,
       "x": 2160,
-      "y": -35
+      "y": -35,
+      "width": 300,
+      "height": 60
     },
     {
-      "height": 60,
-      "id": "65e38d569c350cb9",
-      "styleAttributes": {
-      },
-      "text": "Thread Pool",
-      "type": "text",
-      "width": 260,
-      "x": 2180,
-      "y": -355
-    },
-    {
-      "height": 60,
-      "id": "3ba1252bec282e39",
-      "styleAttributes": {
-      },
-      "text": "Poller",
-      "type": "text",
-      "width": 260,
-      "x": 2180,
-      "y": -195
-    },
-    {
-      "height": 60,
       "id": "f10d933ee2cee03e",
-      "styleAttributes": {
-      },
+      "styleAttributes": {},
       "text": "Socket",
       "type": "text",
-      "width": 260,
       "x": 1860,
-      "y": -195
+      "y": -195,
+      "width": 260,
+      "height": 60
     },
     {
+      "id": "997e42565953e2ca",
+      "styleAttributes": {},
+      "text": "TCP Header",
+      "type": "text",
+      "x": 465,
+      "y": 0,
+      "width": 260,
+      "height": 135,
+      "color": "2"
+    },
+    {
+      "id": "2b1e420406d4735f",
+      "styleAttributes": {},
+      "text": "IP Header",
+      "type": "text",
+      "x": 440,
+      "y": 232,
+      "width": 310,
+      "height": 220,
+      "color": "3"
+    },
+    {
+      "id": "b1c7ef3222ce3b4e",
+      "styleAttributes": {},
+      "text": "TCP Header",
+      "type": "text",
+      "x": 465,
+      "y": 293,
+      "width": 260,
+      "height": 135,
+      "color": "2"
+    },
+    {
+      "id": "dc7f01faf04ab918",
+      "styleAttributes": {},
+      "text": "HTTP Data",
+      "type": "text",
+      "x": 515,
+      "y": 45,
+      "width": 160,
       "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "565cff209503282e",
+      "styleAttributes": {},
+      "text": "TCP Header",
+      "type": "text",
+      "x": 465,
+      "y": 625,
+      "width": 260,
+      "height": 135,
+      "color": "2"
+    },
+    {
+      "id": "c0888ee166569266",
+      "styleAttributes": {},
+      "text": "IP Header",
+      "type": "text",
+      "x": 440,
+      "y": 565,
+      "width": 310,
+      "height": 220,
+      "color": "3"
+    },
+    {
+      "id": "7a7195d989baae15",
+      "styleAttributes": {},
+      "text": "Ethernet Header",
+      "type": "text",
+      "x": 425,
+      "y": 505,
+      "width": 340,
+      "height": 295,
+      "color": "4"
+    },
+    {
+      "id": "bda2d30eb7b24f73",
+      "styleAttributes": {},
+      "text": "HTTP Data",
+      "type": "text",
+      "x": 515,
+      "y": 338,
+      "width": 160,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "9fbf2d3a000a81f6",
+      "styleAttributes": {},
+      "text": "HTTP Data",
+      "type": "text",
+      "x": 515,
+      "y": 670,
+      "width": 160,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "546296a813fb7a18",
+      "styleAttributes": {},
+      "text": "Transport Layer",
+      "type": "text",
+      "x": 40,
+      "y": 45,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a5d14dfc8c0fd952",
+      "styleAttributes": {},
+      "text": "HTTP Data",
+      "type": "text",
+      "x": -240,
+      "y": 45,
+      "width": 160,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "a77c99ce41cad387",
+      "styleAttributes": {},
+      "text": ":8080 port",
+      "type": "text",
+      "x": 860,
+      "y": -195,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "817d3fc35db257f9",
+      "styleAttributes": {},
+      "text": "HTTP Connector",
+      "type": "text",
+      "x": 1200,
+      "y": -195,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b155c98702f724aa",
+      "styleAttributes": {},
+      "text": "Coyote",
+      "type": "text",
+      "x": 1540,
+      "y": -195,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "65e38d569c350cb9",
+      "styleAttributes": {},
+      "text": "Thread Pool",
+      "type": "text",
+      "x": 2180,
+      "y": -355,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3ba1252bec282e39",
+      "styleAttributes": {},
+      "text": "Poller",
+      "type": "text",
+      "x": 2180,
+      "y": -195,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "eb478cdf0bc6134e",
+      "styleAttributes": {},
+      "text": "Internet Layer",
+      "type": "text",
+      "x": 40,
+      "y": 305,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c66155be332a30ba",
+      "styleAttributes": {},
+      "text": "Ethernet Header",
+      "type": "text",
+      "x": -330,
+      "y": 505,
+      "width": 340,
+      "height": 295,
+      "color": "4"
+    },
+    {
+      "id": "5f61a142ac37f20c",
+      "styleAttributes": {},
+      "text": "IP Header",
+      "type": "text",
+      "x": -315,
+      "y": 565,
+      "width": 310,
+      "height": 220,
+      "color": "3"
+    },
+    {
+      "id": "e20f43134dca4043",
+      "styleAttributes": {},
+      "text": "TCP Header",
+      "type": "text",
+      "x": -290,
+      "y": 625,
+      "width": 260,
+      "height": 135,
+      "color": "2"
+    },
+    {
+      "id": "e5ea2c7d86878562",
+      "styleAttributes": {},
+      "text": "HTTP Data",
+      "type": "text",
+      "x": -240,
+      "y": 670,
+      "width": 160,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "8527ea029b8abd20",
+      "styleAttributes": {},
+      "text": "TCP Header",
+      "type": "text",
+      "x": -290,
+      "y": 0,
+      "width": 260,
+      "height": 135,
+      "color": "2"
+    },
+    {
+      "id": "25ac84d15b291c92",
+      "styleAttributes": {},
+      "text": "IP Header",
+      "type": "text",
+      "x": -315,
+      "y": 225,
+      "width": 310,
+      "height": 220,
+      "color": "3"
+    },
+    {
+      "id": "d7210f8fa576a1fd",
+      "styleAttributes": {},
+      "text": "TCP Header",
+      "type": "text",
+      "x": -290,
+      "y": 285,
+      "width": 260,
+      "height": 135,
+      "color": "2"
+    },
+    {
+      "id": "bcaeb545bb95d16b",
+      "styleAttributes": {},
+      "text": "HTTP Data",
+      "type": "text",
+      "x": -240,
+      "y": -195,
+      "width": 160,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "2112ee264ae6d12e",
+      "styleAttributes": {},
+      "text": "Application Layer",
+      "type": "text",
+      "x": 40,
+      "y": -200,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e92331e4cc3acc17",
+      "styleAttributes": {},
+      "text": "예약 생성",
+      "type": "text",
+      "x": -740,
+      "y": -195,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "77e84ecfba9d0861",
+      "styleAttributes": {},
+      "text": "http 요청 생성",
+      "type": "text",
+      "x": -480,
+      "y": -195,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "5f14d67e59957465",
+      "styleAttributes": {},
+      "text": "사용자",
+      "type": "text",
+      "x": -960,
+      "y": -195,
+      "width": 120,
+      "height": 60,
+      "color": "5"
+    },
+    {
       "id": "eb2625b79b908ad8",
-      "styleAttributes": {
-      },
+      "styleAttributes": {},
       "text": "Controller",
       "type": "text",
-      "width": 260,
       "x": 4080,
-      "y": 625
+      "y": 625,
+      "width": 260,
+      "height": 60
     },
     {
-      "height": 60,
       "id": "3fd5765aac52f43c",
-      "styleAttributes": {
-      },
+      "styleAttributes": {},
       "text": "Repository",
       "type": "text",
-      "width": 260,
       "x": 4080,
-      "y": 895
-    },
-    {
-      "height": 60,
-      "id": "4fe1430ecf2690b8",
-      "styleAttributes": {
-      },
-      "text": "Datasource",
-      "type": "text",
+      "y": 895,
       "width": 260,
-      "x": 4420,
-      "y": 895
+      "height": 60
     },
     {
-      "color": "6",
-      "height": 60,
-      "id": "a486d0a7485386bc",
-      "styleAttributes": {
-      },
-      "text": "connection pool",
-      "type": "text",
-      "width": 210,
-      "x": 4105,
-      "y": 1030
-    },
-    {
-      "height": 60,
-      "id": "19736f7266b9c950",
-      "styleAttributes": {
-      },
-      "text": "(Hikari Pool)",
-      "type": "text",
-      "width": 260,
-      "x": 4340,
-      "y": 1030
-    },
-    {
-      "height": 60,
       "id": "157d22510494c1b2",
-      "styleAttributes": {
-      },
+      "styleAttributes": {},
       "text": "DB 연결",
       "type": "text",
-      "width": 260,
       "x": 4080,
-      "y": 1230
+      "y": 1230,
+      "width": 260,
+      "height": 60
     },
     {
+      "id": "f767d7fc0c5aae81",
+      "styleAttributes": {},
+      "text": "Network Access Layer",
+      "type": "text",
+      "x": 40,
+      "y": 625,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3e5ba6bc463e79df",
+      "styleAttributes": {},
+      "text": "HTTP Data",
+      "type": "text",
+      "x": -240,
+      "y": 330,
+      "width": 160,
       "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "fbdeffad6ee53a7c",
+      "styleAttributes": {},
+      "text": "Interceptor",
+      "type": "text",
+      "x": 3720,
+      "y": 285,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ac6fb778ba70b000",
+      "styleAttributes": {},
+      "text": "handlerMapping\n",
+      "type": "text",
+      "x": 3360,
+      "y": 285,
+      "width": 280,
+      "height": 60
+    },
+    {
+      "id": "0a3af9bc935244fa",
+      "styleAttributes": {},
+      "text": "handlerAdaptor\n",
+      "type": "text",
+      "x": 3340,
+      "y": 625,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ff8229d3fd7f2709",
+      "styleAttributes": {},
+      "text": "argumentresolver\n종류: 직렬화(jackson~resolver)세션, 쿠키 인증, validation 등등\n\n",
+      "type": "text",
+      "x": 3340,
+      "y": 745,
+      "width": 260,
+      "height": 135
+    },
+    {
+      "id": "ec18f223b191cfcd",
+      "styleAttributes": {},
+      "text": "filter",
+      "type": "text",
+      "x": 2580,
+      "y": 445,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a796c530df2d6c09",
+      "styleAttributes": {},
+      "text": "Spring Security : 필터 체인",
+      "type": "text",
+      "x": 2580,
+      "y": 560,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "4fe1430ecf2690b8",
+      "styleAttributes": {},
+      "text": "Datasource",
+      "type": "text",
+      "x": 4420,
+      "y": 895,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a486d0a7485386bc",
+      "styleAttributes": {},
+      "text": "connection pool",
+      "type": "text",
+      "x": 4105,
+      "y": 1030,
+      "width": 210,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "19736f7266b9c950",
+      "styleAttributes": {},
+      "text": "(Hikari Pool)",
+      "type": "text",
+      "x": 4340,
+      "y": 1030,
+      "width": 260,
+      "height": 60
+    },
+    {
       "id": "5bb8bc7b27bdb17f",
-      "styleAttributes": {
-      },
+      "styleAttributes": {},
       "text": "Service",
       "type": "text",
-      "width": 260,
       "x": 4080,
-      "y": 735
+      "y": 735,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ee85615c67523e34",
+      "styleAttributes": {},
+      "text": "Dispatcher Servlet\n\nservice() -> request.get() 메서드 확인\n\ninterceptor 실행(prehandle / post / after 다)\n\n대충 do뭐시기가 해줌",
+      "type": "text",
+      "x": 2980,
+      "y": 330,
+      "width": 260,
+      "height": 290
+    },
+    {
+      "id": "cd5c3d7c11146d27",
+      "styleAttributes": {},
+      "text": "exceptionHandler\ncontrolleradvice",
+      "type": "text",
+      "x": 2980,
+      "y": 775,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "403fc9f136e0d92d",
+      "styleAttributes": {},
+      "text": "Service",
+      "type": "text",
+      "x": 2180,
+      "y": 85,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "db2ffcebe1a8c2fc",
+      "styleAttributes": {},
+      "text": "Engine",
+      "type": "text",
+      "x": 2180,
+      "y": 205,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "96e432c471daab6c",
+      "styleAttributes": {},
+      "text": "Host",
+      "type": "text",
+      "x": 2180,
+      "y": 325,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "83909d980c02bb00",
+      "styleAttributes": {},
+      "text": "Context",
+      "type": "text",
+      "x": 2180,
+      "y": 445,
+      "width": 260,
+      "height": 60
     }
-  ]
+  ],
+  "metadata": {}
 }
