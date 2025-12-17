@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp.md",
+                "file": "ec2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -45,11 +45,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "temp"
+              "title": "ec2"
+            }
+          },
+          {
+            "id": "d8af7cff2f28fd9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo/TIL/2025-12-12 TIL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-12 TIL"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,15 +214,16 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Todo/TIL/2025-12-12 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "2025-12-12 TIL 의 나가는 링크"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "06bca203602d61c1",
@@ -236,8 +261,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310,
-    "collapsed": true
+    "width": 310
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,10 +280,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eec49123ddb71b39",
+  "active": "d8af7cff2f28fd9f",
   "lastOpenFiles": [
+    "무제.canvas",
+    "Todo/TIL/2025-12-12 TIL.md",
+    "Drawing 2025-12-12 16.56.12.excalidraw.md",
+    "ec2.md",
+    "temp2.md",
     "🟥 Capture 임시메모(inbox)/요청응답.canvas",
-    "temp.md",
     "Excalidraw/Drawing 2025-09-16 00.42.17.excalidraw.md",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250526133945.png",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250526134201.png",
@@ -288,9 +316,6 @@
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Java API/java.lang/record.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Java API/java.lang/Class.md",
     "🟥 Capture 임시메모(inbox)/toss5.md",
-    "🟥 Capture 임시메모(inbox)/무제 파일.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/스프링 입문을 위한 자바 객체지향의 원리와 이해/03 자바와 객체 지향.md",
-    "🟠 Project/JAVA/기본 문법/배열.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/무제.canvas",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디.zip",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/Pasted image 20250928224151.png",
@@ -311,7 +336,6 @@
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JPA/Spring Data JPA/QueryMethod",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/혼공 컴구+운체/컴퓨터구조/컴퓨터구조.canvas",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/도메인 주도 개발 시작하기/DDD.canvas",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Framework/Spring Framework.canvas",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Framework/무제.canvas"
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/Spring Framework/Spring Framework.canvas"
   ]
 }
