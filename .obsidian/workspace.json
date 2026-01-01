@@ -262,8 +262,7 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-brat:BRAT": false,
-      "periodic-notes:Open today": false
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "d8af7cff2f28fd9f",
