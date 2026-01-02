@@ -4,52 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8d1cb78db546d017",
+        "id": "3459300a77076ebc",
         "type": "tabs",
         "children": [
           {
-            "id": "ba703fcdd1e31afc",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "🟥 Capture 임시메모(inbox)/요청응답.canvas",
-                "viewState": {
-                  "x": 1860,
-                  "y": 465,
-                  "zoom": -1.9962841060181262
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "요청응답"
-            }
-          },
-          {
-            "id": "eec49123ddb71b39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ec2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ec2"
-            }
-          },
-          {
-            "id": "d8af7cff2f28fd9f",
+            "id": "e4d8b9e7a8502420",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -58,8 +17,7 @@
               "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -262,26 +220,30 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "d8af7cff2f28fd9f",
+  "active": "e4d8b9e7a8502420",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-09-16 00.42.17.excalidraw.md",
+    "🟥 Capture 임시메모(inbox)/이번주운체.md",
+    "🟥 Capture 임시메모(inbox)/강산나가기전-요약본.md",
+    "🟥 Capture 임시메모(inbox)/강산나간다음-요약본.md",
+    "🟥 Capture 임시메모(inbox)/요청응답.canvas",
+    "🟥 Capture 임시메모(inbox)/Inbox.md",
+    "🟥 Capture 임시메모(inbox)/컨텍스트 로딩 시간 측정.md",
+    "🟥 Capture 임시메모(inbox)/toss5.md",
+    "🟥 Capture 임시메모(inbox)/이벤트 스토밍.md",
     "Drawing 2025-12-12 16.56.12.excalidraw.md",
     "Todo/TIL/2025-12-12 TIL.md",
     "temp2.md",
     "ec2.md",
     "무제.canvas",
-    "🟥 Capture 임시메모(inbox)/요청응답.canvas",
-    "Excalidraw/Drawing 2025-09-16 00.42.17.excalidraw.md",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250526133945.png",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250526134201.png",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250623145534.png",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250623145538.png",
-    "🟥 Capture 임시메모(inbox)/이벤트 스토밍.md",
-    "🟥 Capture 임시메모(inbox)/컨텍스트 로딩 시간 측정.md",
-    "🟥 Capture 임시메모(inbox)/이번주운체.md",
-    "🟥 Capture 임시메모(inbox)/강산나간다음-요약본.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/Redis의 특징.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/RedLock.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/분산락.png",
@@ -299,8 +261,6 @@
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JAVA/클래스&객체/제네릭.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JAVA/모던 자바/함수형 인터페이스.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Java API/java.lang/record.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Java API/java.lang/Class.md",
-    "🟥 Capture 임시메모(inbox)/toss5.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/무제.canvas",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디.zip",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/Pasted image 20250928224151.png",

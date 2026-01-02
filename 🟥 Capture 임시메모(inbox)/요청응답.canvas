@@ -347,59 +347,6 @@
       "label": "Browser"
     },
     {
-      "id": "5eec4c850e744459",
-      "styleAttributes": {},
-      "text": "HTTP Data",
-      "type": "text",
-      "x": 515,
-      "y": -195,
-      "width": 160,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "baaf2e07e05ca5d3",
-      "styleAttributes": {},
-      "text": "Catalina(Servlet Container)",
-      "type": "text",
-      "x": 2160,
-      "y": -35,
-      "width": 300,
-      "height": 60
-    },
-    {
-      "id": "f10d933ee2cee03e",
-      "styleAttributes": {},
-      "text": "Socket",
-      "type": "text",
-      "x": 1860,
-      "y": -195,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "997e42565953e2ca",
-      "styleAttributes": {},
-      "text": "TCP Header",
-      "type": "text",
-      "x": 465,
-      "y": 0,
-      "width": 260,
-      "height": 135,
-      "color": "2"
-    },
-    {
-      "id": "2b1e420406d4735f",
-      "styleAttributes": {},
-      "text": "IP Header",
-      "type": "text",
-      "x": 440,
-      "y": 232,
-      "width": 310,
-      "height": 220,
-      "color": "3"
-    },
-    {
       "id": "b1c7ef3222ce3b4e",
       "styleAttributes": {},
       "text": "TCP Header",
@@ -409,17 +356,6 @@
       "width": 260,
       "height": 135,
       "color": "2"
-    },
-    {
-      "id": "dc7f01faf04ab918",
-      "styleAttributes": {},
-      "text": "HTTP Data",
-      "type": "text",
-      "x": 515,
-      "y": 45,
-      "width": 160,
-      "height": 60,
-      "color": "1"
     },
     {
       "id": "565cff209503282e",
@@ -466,107 +402,48 @@
       "color": "1"
     },
     {
-      "id": "9fbf2d3a000a81f6",
+      "id": "5eec4c850e744459",
       "styleAttributes": {},
       "text": "HTTP Data",
       "type": "text",
       "x": 515,
-      "y": 670,
+      "y": -195,
       "width": 160,
       "height": 60,
       "color": "1"
     },
     {
-      "id": "546296a813fb7a18",
+      "id": "997e42565953e2ca",
       "styleAttributes": {},
-      "text": "Transport Layer",
+      "text": "TCP Header",
       "type": "text",
-      "x": 40,
-      "y": 45,
+      "x": 465,
+      "y": 0,
       "width": 260,
-      "height": 60
+      "height": 135,
+      "color": "2"
     },
     {
-      "id": "a5d14dfc8c0fd952",
+      "id": "2b1e420406d4735f",
+      "styleAttributes": {},
+      "text": "IP Header",
+      "type": "text",
+      "x": 440,
+      "y": 232,
+      "width": 310,
+      "height": 220,
+      "color": "3"
+    },
+    {
+      "id": "dc7f01faf04ab918",
       "styleAttributes": {},
       "text": "HTTP Data",
       "type": "text",
-      "x": -240,
+      "x": 515,
       "y": 45,
       "width": 160,
       "height": 60,
       "color": "1"
-    },
-    {
-      "id": "a77c99ce41cad387",
-      "styleAttributes": {},
-      "text": ":8080 port",
-      "type": "text",
-      "x": 860,
-      "y": -195,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "817d3fc35db257f9",
-      "styleAttributes": {},
-      "text": "HTTP Connector",
-      "type": "text",
-      "x": 1200,
-      "y": -195,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "b155c98702f724aa",
-      "styleAttributes": {},
-      "text": "Coyote",
-      "type": "text",
-      "x": 1540,
-      "y": -195,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "65e38d569c350cb9",
-      "styleAttributes": {},
-      "text": "Thread Pool",
-      "type": "text",
-      "x": 2180,
-      "y": -355,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "3ba1252bec282e39",
-      "styleAttributes": {},
-      "text": "Poller",
-      "type": "text",
-      "x": 2180,
-      "y": -195,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "eb478cdf0bc6134e",
-      "styleAttributes": {},
-      "text": "Internet Layer",
-      "type": "text",
-      "x": 40,
-      "y": 305,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "c66155be332a30ba",
-      "styleAttributes": {},
-      "text": "Ethernet Header",
-      "type": "text",
-      "x": -330,
-      "y": 505,
-      "width": 340,
-      "height": 295,
-      "color": "4"
     },
     {
       "id": "5f61a142ac37f20c",
@@ -578,6 +455,70 @@
       "width": 310,
       "height": 220,
       "color": "3"
+    },
+    {
+      "id": "8527ea029b8abd20",
+      "styleAttributes": {},
+      "text": "TCP Header",
+      "type": "text",
+      "x": -290,
+      "y": 0,
+      "width": 260,
+      "height": 135,
+      "color": "2"
+    },
+    {
+      "id": "bcaeb545bb95d16b",
+      "styleAttributes": {},
+      "text": "HTTP Data",
+      "type": "text",
+      "x": -240,
+      "y": -195,
+      "width": 160,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "2112ee264ae6d12e",
+      "styleAttributes": {},
+      "text": "Application Layer",
+      "type": "text",
+      "x": 40,
+      "y": -200,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f767d7fc0c5aae81",
+      "styleAttributes": {},
+      "text": "Network Access Layer",
+      "type": "text",
+      "x": 40,
+      "y": 625,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9fbf2d3a000a81f6",
+      "styleAttributes": {},
+      "text": "HTTP Data",
+      "type": "text",
+      "x": 515,
+      "y": 670,
+      "width": 160,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "c66155be332a30ba",
+      "styleAttributes": {},
+      "text": "Ethernet Header",
+      "type": "text",
+      "x": -330,
+      "y": 505,
+      "width": 340,
+      "height": 295,
+      "color": "4"
     },
     {
       "id": "e20f43134dca4043",
@@ -602,56 +543,12 @@
       "color": "1"
     },
     {
-      "id": "8527ea029b8abd20",
+      "id": "eb478cdf0bc6134e",
       "styleAttributes": {},
-      "text": "TCP Header",
-      "type": "text",
-      "x": -290,
-      "y": 0,
-      "width": 260,
-      "height": 135,
-      "color": "2"
-    },
-    {
-      "id": "25ac84d15b291c92",
-      "styleAttributes": {},
-      "text": "IP Header",
-      "type": "text",
-      "x": -315,
-      "y": 225,
-      "width": 310,
-      "height": 220,
-      "color": "3"
-    },
-    {
-      "id": "d7210f8fa576a1fd",
-      "styleAttributes": {},
-      "text": "TCP Header",
-      "type": "text",
-      "x": -290,
-      "y": 285,
-      "width": 260,
-      "height": 135,
-      "color": "2"
-    },
-    {
-      "id": "bcaeb545bb95d16b",
-      "styleAttributes": {},
-      "text": "HTTP Data",
-      "type": "text",
-      "x": -240,
-      "y": -195,
-      "width": 160,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "2112ee264ae6d12e",
-      "styleAttributes": {},
-      "text": "Application Layer",
+      "text": "Internet Layer",
       "type": "text",
       "x": 40,
-      "y": -200,
+      "y": 305,
       "width": 260,
       "height": 60
     },
@@ -687,6 +584,70 @@
       "color": "5"
     },
     {
+      "id": "a5d14dfc8c0fd952",
+      "styleAttributes": {},
+      "text": "HTTP Data",
+      "type": "text",
+      "x": -240,
+      "y": 45,
+      "width": 160,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "546296a813fb7a18",
+      "styleAttributes": {},
+      "text": "Transport Layer",
+      "type": "text",
+      "x": 40,
+      "y": 45,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "25ac84d15b291c92",
+      "styleAttributes": {},
+      "text": "IP Header",
+      "type": "text",
+      "x": -315,
+      "y": 225,
+      "width": 310,
+      "height": 220,
+      "color": "3"
+    },
+    {
+      "id": "d7210f8fa576a1fd",
+      "styleAttributes": {},
+      "text": "TCP Header",
+      "type": "text",
+      "x": -290,
+      "y": 285,
+      "width": 260,
+      "height": 135,
+      "color": "2"
+    },
+    {
+      "id": "3e5ba6bc463e79df",
+      "styleAttributes": {},
+      "text": "HTTP Data",
+      "type": "text",
+      "x": -240,
+      "y": 330,
+      "width": 160,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "0a3af9bc935244fa",
+      "styleAttributes": {},
+      "text": "handlerAdaptor\n",
+      "type": "text",
+      "x": 3340,
+      "y": 625,
+      "width": 260,
+      "height": 60
+    },
+    {
       "id": "eb2625b79b908ad8",
       "styleAttributes": {},
       "text": "Controller",
@@ -717,57 +678,6 @@
       "height": 60
     },
     {
-      "id": "f767d7fc0c5aae81",
-      "styleAttributes": {},
-      "text": "Network Access Layer",
-      "type": "text",
-      "x": 40,
-      "y": 625,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "3e5ba6bc463e79df",
-      "styleAttributes": {},
-      "text": "HTTP Data",
-      "type": "text",
-      "x": -240,
-      "y": 330,
-      "width": 160,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "fbdeffad6ee53a7c",
-      "styleAttributes": {},
-      "text": "Interceptor",
-      "type": "text",
-      "x": 3720,
-      "y": 285,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "ac6fb778ba70b000",
-      "styleAttributes": {},
-      "text": "handlerMapping\n",
-      "type": "text",
-      "x": 3360,
-      "y": 285,
-      "width": 280,
-      "height": 60
-    },
-    {
-      "id": "0a3af9bc935244fa",
-      "styleAttributes": {},
-      "text": "handlerAdaptor\n",
-      "type": "text",
-      "x": 3340,
-      "y": 625,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "ff8229d3fd7f2709",
       "styleAttributes": {},
       "text": "argumentresolver\n종류: 직렬화(jackson~resolver)세션, 쿠키 인증, validation 등등\n\n",
@@ -776,26 +686,6 @@
       "y": 745,
       "width": 260,
       "height": 135
-    },
-    {
-      "id": "ec18f223b191cfcd",
-      "styleAttributes": {},
-      "text": "filter",
-      "type": "text",
-      "x": 2580,
-      "y": 445,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "a796c530df2d6c09",
-      "styleAttributes": {},
-      "text": "Spring Security : 필터 체인",
-      "type": "text",
-      "x": 2580,
-      "y": 560,
-      "width": 260,
-      "height": 60
     },
     {
       "id": "4fe1430ecf2690b8",
@@ -839,26 +729,6 @@
       "height": 60
     },
     {
-      "id": "ee85615c67523e34",
-      "styleAttributes": {},
-      "text": "Dispatcher Servlet\n\nservice() -> request.get() 메서드 확인\n\ninterceptor 실행(prehandle / post / after 다)\n\n대충 do뭐시기가 해줌",
-      "type": "text",
-      "x": 2980,
-      "y": 330,
-      "width": 260,
-      "height": 290
-    },
-    {
-      "id": "cd5c3d7c11146d27",
-      "styleAttributes": {},
-      "text": "exceptionHandler\ncontrolleradvice",
-      "type": "text",
-      "x": 2980,
-      "y": 775,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "403fc9f136e0d92d",
       "styleAttributes": {},
       "text": "Service",
@@ -879,6 +749,76 @@
       "height": 60
     },
     {
+      "id": "65e38d569c350cb9",
+      "styleAttributes": {},
+      "text": "Thread Pool",
+      "type": "text",
+      "x": 2180,
+      "y": -355,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3ba1252bec282e39",
+      "styleAttributes": {},
+      "text": "Poller",
+      "type": "text",
+      "x": 2180,
+      "y": -195,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "fbdeffad6ee53a7c",
+      "styleAttributes": {},
+      "text": "Interceptor",
+      "type": "text",
+      "x": 3720,
+      "y": 285,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ac6fb778ba70b000",
+      "styleAttributes": {},
+      "text": "handlerMapping\n",
+      "type": "text",
+      "x": 3360,
+      "y": 285,
+      "width": 280,
+      "height": 60
+    },
+    {
+      "id": "ec18f223b191cfcd",
+      "styleAttributes": {},
+      "text": "filter",
+      "type": "text",
+      "x": 2580,
+      "y": 445,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a796c530df2d6c09",
+      "styleAttributes": {},
+      "text": "Spring Security : 필터 체인",
+      "type": "text",
+      "x": 2580,
+      "y": 560,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ee85615c67523e34",
+      "styleAttributes": {},
+      "text": "Dispatcher Servlet\n\nservice() -> request.get() 메서드 확인\n\ninterceptor 실행(prehandle / post / after 다)\n\n대충 do뭐시기가 해줌",
+      "type": "text",
+      "x": 2980,
+      "y": 330,
+      "width": 260,
+      "height": 290
+    },
+    {
       "id": "96e432c471daab6c",
       "styleAttributes": {},
       "text": "Host",
@@ -895,6 +835,66 @@
       "type": "text",
       "x": 2180,
       "y": 445,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "baaf2e07e05ca5d3",
+      "styleAttributes": {},
+      "text": "Catalina(Servlet Container)",
+      "type": "text",
+      "x": 2160,
+      "y": -35,
+      "width": 300,
+      "height": 60
+    },
+    {
+      "id": "f10d933ee2cee03e",
+      "styleAttributes": {},
+      "text": "Socket",
+      "type": "text",
+      "x": 1860,
+      "y": -195,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a77c99ce41cad387",
+      "styleAttributes": {},
+      "text": ":8080 port",
+      "type": "text",
+      "x": 860,
+      "y": -195,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "817d3fc35db257f9",
+      "styleAttributes": {},
+      "text": "HTTP Connector",
+      "type": "text",
+      "x": 1200,
+      "y": -195,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b155c98702f724aa",
+      "styleAttributes": {},
+      "text": "Coyote",
+      "type": "text",
+      "x": 1540,
+      "y": -195,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "cd5c3d7c11146d27",
+      "styleAttributes": {},
+      "text": "exceptionHandler\ncontrolleradvice",
+      "type": "text",
+      "x": 2980,
+      "y": 775,
       "width": 260,
       "height": 60
     }
