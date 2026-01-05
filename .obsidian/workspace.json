@@ -11,10 +11,24 @@
             "id": "e4d8b9e7a8502420",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "🟥 Capture 임시메모(inbox)/컨텍스트 로딩 시간 측정.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "컨텍스트 로딩 시간 측정"
             }
           }
         ]
@@ -225,13 +239,14 @@
   },
   "active": "e4d8b9e7a8502420",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-09-16 00.42.17.excalidraw.md",
+    "🟥 Capture 임시메모(inbox)/무제 파일.md",
+    "🟥 Capture 임시메모(inbox)/컨텍스트 로딩 시간 측정.md",
     "🟥 Capture 임시메모(inbox)/이번주운체.md",
+    "Excalidraw/Drawing 2025-09-16 00.42.17.excalidraw.md",
     "🟥 Capture 임시메모(inbox)/강산나가기전-요약본.md",
     "🟥 Capture 임시메모(inbox)/강산나간다음-요약본.md",
     "🟥 Capture 임시메모(inbox)/요청응답.canvas",
     "🟥 Capture 임시메모(inbox)/Inbox.md",
-    "🟥 Capture 임시메모(inbox)/컨텍스트 로딩 시간 측정.md",
     "🟥 Capture 임시메모(inbox)/toss5.md",
     "🟥 Capture 임시메모(inbox)/이벤트 스토밍.md",
     "Drawing 2025-12-12 16.56.12.excalidraw.md",
@@ -259,7 +274,6 @@
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/패턴 연관관계.canvas",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JAVA/클래스&객체/제네릭.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JAVA/모던 자바/함수형 인터페이스.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Java API/java.lang/record.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/무제.canvas",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디.zip",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/Pasted image 20250928224151.png",
