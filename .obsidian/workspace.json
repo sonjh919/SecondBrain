@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Database/DataBase.md",
+                "file": "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/Redis의 특징.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DataBase"
+              "title": "Redis의 특징"
             }
           }
         ]
@@ -234,12 +234,14 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-brat:BRAT": false,
-      "periodic-notes:Open today": false
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "e4d8b9e7a8502420",
   "lastOpenFiles": [
+    "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/Cache.md",
+    "🟨 Express 공유/🪐 우아한테크코스/level 0/최종 코딩테스트 회고.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Database/DataBase.md",
     "🟥 Capture 임시메모(inbox)/컨텍스트 로딩 시간 측정.md",
     "🟥 Capture 임시메모(inbox)/무제 파일.md",
     "🟥 Capture 임시메모(inbox)/이번주운체.md",
@@ -271,10 +273,7 @@
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/열정을 드러내라.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/바닥을 쓸어라.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/패턴 목록.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/구체적인 기술.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/패턴 연관관계.canvas",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JAVA/클래스&객체/제네릭.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/JAVA/모던 자바/함수형 인터페이스.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/무제.canvas",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디.zip",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/Pasted image 20250928224151.png",
