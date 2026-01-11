@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/Redis의 특징.md",
+                "file": "Todo/2025-01-17 회고 ⁚.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Redis의 특징"
+              "title": "2025-01-17 회고 ⁚"
             }
           }
         ]
@@ -234,11 +234,27 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "e4d8b9e7a8502420",
   "lastOpenFiles": [
+    "Todo/2025-04-12.md",
+    "Todo/2025-01-17 회고 ⁚.md",
+    "Todo/2025-04-15.md",
+    "Todo/2025-04-16.md",
+    "Todo/2025-04-18.md",
+    "Todo/2025-04-19.md",
+    "Todo/2025-04-20.md",
+    "Todo/2025-04-21.md",
+    "Todo/2025-04-28.md",
+    "Todo/2025-04-22.md",
+    "Todo/2025-04-29.md",
+    "Todo/TIL/2025-06-17 TIL.md",
+    "Todo/TIL/2025-12-12 TIL.md",
+    "Todo/Pasted image 20250420222315.png",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/Redis의 특징.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/Cache.md",
     "🟨 Express 공유/🪐 우아한테크코스/level 0/최종 코딩테스트 회고.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Database/DataBase.md",
@@ -252,27 +268,13 @@
     "🟥 Capture 임시메모(inbox)/Inbox.md",
     "🟥 Capture 임시메모(inbox)/toss5.md",
     "🟥 Capture 임시메모(inbox)/이벤트 스토밍.md",
-    "Drawing 2025-12-12 16.56.12.excalidraw.md",
-    "Todo/TIL/2025-12-12 TIL.md",
-    "temp2.md",
-    "ec2.md",
     "무제.canvas",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250526133945.png",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250526134201.png",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250623145534.png",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250623145538.png",
-    "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/Redis의 특징.md",
-    "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/RedLock.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/분산락.png",
-    "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/Redis의 주의사항.md",
-    "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/데이터타입/Sets.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/모던 자바 인 액션/Part1/자바 8.canvas",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/깊은 쪽.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/5. 끊임없는 학습/부숴도 괜찮은 장난감.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/6. 학습 과정의 구성/꾸준히 읽어라.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/2. 잔을 비우다/열정을 드러내라.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/4. 정확한 자기 평가/바닥을 쓸어라.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/패턴 목록.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/독서/Book/프로그래머의 길, 멘토에게 묻다/패턴 연관관계.canvas",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/무제.canvas",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디.zip",
@@ -285,7 +287,6 @@
     "🟠 Project",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250719002102.png",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250719001850.png",
-    "🟥 Capture 임시메모(inbox)/Pasted image 20250719002124.png",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초/흐름도.canvas",
     "🟥 Capture 임시메모(inbox)/무제.canvas",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/가상 면접 사례로 배우는 대규모 시스템 설계 기초",
