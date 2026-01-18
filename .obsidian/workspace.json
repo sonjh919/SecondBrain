@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/2025-01-17 회고 ⁚.md",
+                "file": "🟥 Capture 임시메모(inbox)/toss5.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-01-17 회고 ⁚"
+              "title": "toss5"
             }
           }
         ]
@@ -240,8 +240,15 @@
   },
   "active": "e4d8b9e7a8502420",
   "lastOpenFiles": [
-    "Todo/2025-04-12.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/내부코드 까보기/알아두면 이해하기 편한 문법.md",
+    "🟥 Capture 임시메모(inbox)/toss5.md",
+    "🟥 Capture 임시메모(inbox)/강산나가기전-요약본.md",
+    "🟥 Capture 임시메모(inbox)/이번주운체.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/코딩테스트 준비하기/코테 구현 Tip 모음.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/코딩테스트 준비하기/코테 Tip 모음.md",
     "Todo/2025-01-17 회고 ⁚.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Database/DataBase.md",
+    "Todo/2025-04-12.md",
     "Todo/2025-04-15.md",
     "Todo/2025-04-16.md",
     "Todo/2025-04-18.md",
@@ -257,17 +264,10 @@
     "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/Redis의 특징.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/Cache.md",
     "🟨 Express 공유/🪐 우아한테크코스/level 0/최종 코딩테스트 회고.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Database/DataBase.md",
     "🟥 Capture 임시메모(inbox)/컨텍스트 로딩 시간 측정.md",
     "🟥 Capture 임시메모(inbox)/무제 파일.md",
-    "🟥 Capture 임시메모(inbox)/이번주운체.md",
     "Excalidraw/Drawing 2025-09-16 00.42.17.excalidraw.md",
-    "🟥 Capture 임시메모(inbox)/강산나가기전-요약본.md",
-    "🟥 Capture 임시메모(inbox)/강산나간다음-요약본.md",
     "🟥 Capture 임시메모(inbox)/요청응답.canvas",
-    "🟥 Capture 임시메모(inbox)/Inbox.md",
-    "🟥 Capture 임시메모(inbox)/toss5.md",
-    "🟥 Capture 임시메모(inbox)/이벤트 스토밍.md",
     "무제.canvas",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250526133945.png",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250526134201.png",
