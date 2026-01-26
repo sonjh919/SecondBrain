@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/데이터타입/Sorted Sets.md",
+                "file": "Templates/TODO Templete.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sorted Sets"
+              "title": "TODO Templete"
             }
           }
         ]
@@ -234,12 +234,18 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "e4d8b9e7a8502420",
   "lastOpenFiles": [
+    "🟧 Organize 영구노트/🟣 Resource 관심분야/메타인지/성향.md",
+    "Templates/TODO Templete.md",
     "Todo/2025-01-17 회고 ⁚.md",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/Cache.md",
+    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Database/DataBase.md",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/데이터타입/Sorted Sets.md",
     "Todo/2026 초록스터디 밋업 후기~.md",
     "🟥 Capture 임시메모(inbox)/toss5.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/내부코드 까보기/알아두면 이해하기 편한 문법.md",
@@ -247,7 +253,6 @@
     "🟥 Capture 임시메모(inbox)/이번주운체.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/코딩테스트 준비하기/코테 구현 Tip 모음.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/코딩테스트 준비하기/코테 Tip 모음.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Database/DataBase.md",
     "Todo/2025-04-12.md",
     "Todo/2025-04-15.md",
     "Todo/2025-04-16.md",
@@ -262,10 +267,6 @@
     "Todo/TIL/2025-12-12 TIL.md",
     "Todo/Pasted image 20250420222315.png",
     "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/Redis의 특징.md",
-    "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/Cache.md",
-    "🟨 Express 공유/🪐 우아한테크코스/level 0/최종 코딩테스트 회고.md",
-    "🟥 Capture 임시메모(inbox)/컨텍스트 로딩 시간 측정.md",
-    "🟥 Capture 임시메모(inbox)/무제 파일.md",
     "🟥 Capture 임시메모(inbox)/요청응답.canvas",
     "무제.canvas",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250526133945.png",
