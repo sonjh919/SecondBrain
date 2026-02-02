@@ -11,24 +11,12 @@
             "id": "e4d8b9e7a8502420",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/독서/책 목록/글쓰기.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Setting/20241228.png"
               },
-              "icon": "lucide-file",
-              "title": "글쓰기"
+              "icon": "lucide-image",
+              "title": "20241228"
             }
           }
         ]
@@ -63,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sorted set",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -240,8 +228,9 @@
   },
   "active": "22e62c815c87a34c",
   "lastOpenFiles": [
-    "🟧 Organize 영구노트/🟤 Archive 보관소/개발도서/개발 책 목록.md",
+    "Setting/🙌 Welcome!!.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/독서/책 목록/글쓰기.md",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/개발도서/개발 책 목록.md",
     "Todo/2025-01-17 회고 ⁚.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/토스/지연의 원인을 찾아라 (15점).md",
     "🟥 Capture 임시메모(inbox)/컨텍스트 로딩 시간 측정.md",
@@ -271,7 +260,6 @@
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/내부코드 까보기/알아두면 이해하기 편한 문법.md",
     "🟥 Capture 임시메모(inbox)/이번주운체.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/코딩테스트 준비하기/코테 구현 Tip 모음.md",
-    "🟧 Organize 영구노트/🟤 Archive 보관소/코딩테스트 준비하기/코테 Tip 모음.md",
     "Todo/Pasted image 20250420222315.png",
     "무제.canvas",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250526133945.png",
