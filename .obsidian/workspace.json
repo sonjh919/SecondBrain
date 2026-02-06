@@ -11,12 +11,24 @@
             "id": "e4d8b9e7a8502420",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Setting/20241228.png"
+                "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/독서/책 목록/글쓰기.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "20241228"
+              "icon": "lucide-file",
+              "title": "글쓰기"
             }
           }
         ]
@@ -226,8 +238,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "e4d8b9e7a8502420",
   "lastOpenFiles": [
+    "Templates/gitblog templete.md",
+    "Setting/20241228.png",
     "Setting/🙌 Welcome!!.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/독서/책 목록/글쓰기.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/개발도서/개발 책 목록.md",
@@ -259,7 +273,6 @@
     "Todo/2026 초록스터디 밋업 후기~.md",
     "🟧 Organize 영구노트/🟢 Area 장기적인 책임/내부코드 까보기/알아두면 이해하기 편한 문법.md",
     "🟥 Capture 임시메모(inbox)/이번주운체.md",
-    "🟧 Organize 영구노트/🟤 Archive 보관소/코딩테스트 준비하기/코테 구현 Tip 모음.md",
     "Todo/Pasted image 20250420222315.png",
     "무제.canvas",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250526133945.png",
@@ -276,7 +289,6 @@
     "🟠 Project/JAVA",
     "🟠 Project",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250719002102.png",
-    "🟥 Capture 임시메모(inbox)/Pasted image 20250719001850.png",
     "🟥 Capture 임시메모(inbox)/무제.canvas",
     "🟧 Organize 영구노트/🟤 Archive 보관소/개발도서/가상 면접 사례로 배우는 대규모 시스템 설계 기초",
     "Todo/TIL",
