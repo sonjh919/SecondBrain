@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "Domain model 도출"
             }
+          },
+          {
+            "id": "86ff953600f0363b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-02-23 13.20.38.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-23 13.20.38.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,17 +247,19 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "e4d8b9e7a8502420",
+  "active": "86ff953600f0363b",
   "lastOpenFiles": [
+    "🟧 Organize 영구노트/🟤 Archive 보관소/개발도서/도메인 주도 개발 시작하기/1. 도메인 모델/Domain model 도출.md",
+    "Excalidraw/Drawing 2026-02-23 13.20.38.excalidraw.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/개발도서/도메인 주도 개발 시작하기/1. 도메인 모델/도메인 언어와 유비쿼터스 언어.md",
     "Templates/Insert_Callout.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/개발도서/도메인 주도 개발 시작하기/MOC.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/개발도서/도메인 주도 개발 시작하기/DDD.canvas",
     "🟧 Organize 영구노트/🟤 Archive 보관소/개발도서/도메인 주도 개발 시작하기/1. 도메인 모델/Entity와 Value.md",
-    "🟧 Organize 영구노트/🟤 Archive 보관소/개발도서/도메인 주도 개발 시작하기/1. 도메인 모델/Domain model 도출.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/개발도서/도메인 주도 개발 시작하기/1. 도메인 모델/Domain Model.md",
     "🟧 Organize 영구노트/🔵 Project 프로젝트/독서/책 목록/글쓰기.md",
     "Templates/gitblog templete.md",
@@ -272,7 +287,6 @@
     "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/RedLock.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/데이터타입/Redis 데이터 타입.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/데이터타입/HyperLogLogs.md",
-    "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/데이터타입/Sets.md",
     "Todo/Pasted image 20250420222315.png",
     "무제.canvas",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250526133945.png",
