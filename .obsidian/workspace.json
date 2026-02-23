@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/독서/책 목록/글쓰기.md",
+                "file": "🟧 Organize 영구노트/🟤 Archive 보관소/개발도서/도메인 주도 개발 시작하기/1. 도메인 모델/Domain model 도출.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "글쓰기"
+              "title": "Domain model 도출"
             }
           }
         ]
@@ -239,10 +239,17 @@
   },
   "active": "e4d8b9e7a8502420",
   "lastOpenFiles": [
+    "🟧 Organize 영구노트/🟤 Archive 보관소/개발도서/도메인 주도 개발 시작하기/1. 도메인 모델/도메인 언어와 유비쿼터스 언어.md",
+    "Templates/Insert_Callout.md",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/개발도서/도메인 주도 개발 시작하기/MOC.md",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/개발도서/도메인 주도 개발 시작하기/DDD.canvas",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/개발도서/도메인 주도 개발 시작하기/1. 도메인 모델/Entity와 Value.md",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/개발도서/도메인 주도 개발 시작하기/1. 도메인 모델/Domain model 도출.md",
+    "🟧 Organize 영구노트/🟤 Archive 보관소/개발도서/도메인 주도 개발 시작하기/1. 도메인 모델/Domain Model.md",
+    "🟧 Organize 영구노트/🔵 Project 프로젝트/독서/책 목록/글쓰기.md",
     "Templates/gitblog templete.md",
     "Setting/20241228.png",
     "Setting/🙌 Welcome!!.md",
-    "🟧 Organize 영구노트/🔵 Project 프로젝트/독서/책 목록/글쓰기.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/개발도서/개발 책 목록.md",
     "Todo/2025-01-17 회고 ⁚.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/토스/지연의 원인을 찾아라 (15점).md",
@@ -266,12 +273,6 @@
     "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/데이터타입/Redis 데이터 타입.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/데이터타입/HyperLogLogs.md",
     "🟧 Organize 영구노트/🟤 Archive 보관소/Redis/데이터타입/Sets.md",
-    "Templates/TODO Templete.md",
-    "🟧 Organize 영구노트/🟣 Resource 관심분야/메타인지/성향.md",
-    "🟧 Organize 영구노트/🟤 Archive 보관소/Database/DataBase.md",
-    "Todo/2026 초록스터디 밋업 후기~.md",
-    "🟧 Organize 영구노트/🟢 Area 장기적인 책임/내부코드 까보기/알아두면 이해하기 편한 문법.md",
-    "🟥 Capture 임시메모(inbox)/이번주운체.md",
     "Todo/Pasted image 20250420222315.png",
     "무제.canvas",
     "🟥 Capture 임시메모(inbox)/Pasted image 20250526133945.png",
@@ -293,7 +294,6 @@
     "Todo/TIL",
     "🟧 Organize 영구노트/🟣 Resource 관심분야/메타인지",
     "🟧 Organize 영구노트/🟤 Archive 보관소/개발도서/혼공 컴구+운체/컴퓨터구조/컴퓨터구조.canvas",
-    "🟧 Organize 영구노트/🟤 Archive 보관소/개발도서/도메인 주도 개발 시작하기/DDD.canvas",
     "🟧 Organize 영구노트/🟤 Archive 보관소/Spring Framework/Spring Framework.canvas"
   ]
 }
