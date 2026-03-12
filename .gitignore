@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Obsidian - workspace 관련 (기기마다 다름)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Claude Code
+.claude/
+
+# zip files
+*.zip

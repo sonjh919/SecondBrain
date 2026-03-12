@@ -1,0 +1,534 @@
+{
+  "edges": [
+    {
+      "color": "1",
+      "fromNode": "user",
+      "fromSide": "top",
+      "id": "user-to-reservation",
+      "label": "ID 참조",
+      "toNode": "reservation",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "user",
+      "fromSide": "bottom",
+      "id": "user-to-seathold",
+      "label": "1:N",
+      "toNode": "seathold",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "show",
+      "fromSide": "right",
+      "id": "show-to-showtime",
+      "label": "1:N",
+      "toNode": "showtime",
+      "toSide": "left"
+    },
+    {
+      "color": "2",
+      "fromNode": "show",
+      "fromSide": "bottom",
+      "id": "show-to-showprice",
+      "label": "contains",
+      "toNode": "showprice",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "showtime",
+      "fromSide": "bottom",
+      "id": "showtime-to-showseat",
+      "label": "1:N",
+      "toNode": "showseat",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "seat",
+      "fromSide": "right",
+      "id": "seat-to-showseat",
+      "label": "1:N",
+      "toNode": "showseat",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromNode": "showseat",
+      "fromSide": "right",
+      "id": "showseat-to-seathold",
+      "label": "1:1 (Unique)",
+      "toNode": "seathold",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromNode": "showseat",
+      "fromSide": "bottom",
+      "id": "showseat-to-coupleseats",
+      "label": "aggregates",
+      "toNode": "coupleseats",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "seathold",
+      "fromSide": "right",
+      "id": "seathold-to-reservation",
+      "label": "이벤트 →",
+      "toNode": "reservation",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "reservation",
+      "fromSide": "right",
+      "id": "reservation-to-reservationseat",
+      "label": "1:N",
+      "toNode": "reservationseat",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "reservation",
+      "fromSide": "bottom",
+      "id": "reservation-to-payment",
+      "label": "contains",
+      "toNode": "payment",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "payment",
+      "fromSide": "right",
+      "id": "payment-to-discount",
+      "label": "1:N",
+      "toNode": "discount",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "payment",
+      "fromSide": "bottom",
+      "id": "payment-to-card",
+      "label": "uses",
+      "toNode": "card-company",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "discount",
+      "fromSide": "right",
+      "id": "discount-to-policies",
+      "label": "calculates from",
+      "toNode": "discount-policies",
+      "toSide": "bottom"
+    },
+    {
+      "color": "5",
+      "fromNode": "discount-policies",
+      "fromSide": "right",
+      "id": "policies-to-context",
+      "label": "uses",
+      "toNode": "discount-context",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "discount-policies",
+      "fromSide": "right",
+      "id": "policies-to-result",
+      "label": "produces",
+      "toNode": "discount-result",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "3",
+      "height": 935,
+      "id": "seat-context-group",
+      "label": "Seat Management Context ⭐",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1600,
+      "x": -1700,
+      "y": 100
+    },
+    {
+      "color": "4",
+      "height": 900,
+      "id": "reservation-context-group",
+      "label": "Reservation Context ⭐",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1060,
+      "x": 240,
+      "y": -800
+    },
+    {
+      "color": "2",
+      "height": 760,
+      "id": "show-context-group",
+      "label": "Show Management Context",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1100,
+      "x": -1100,
+      "y": -800
+    },
+    {
+      "color": "1",
+      "height": 350,
+      "id": "user-context-group",
+      "label": "User Context",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 450,
+      "x": -1700,
+      "y": -800
+    },
+    {
+      "color": "4",
+      "height": 350,
+      "id": "reservation",
+      "styleAttributes": {
+      },
+      "text": "## Reservation\n**Aggregate Root** ⭐\n\n### 속성\n- id: Long\n- user: User (FK)\n- showTime: ShowTime (FK)\n- seats: List<ReservationSeat>\n- reservedAt: LocalDateTime\n\n### 메서드\n+ create(...): Reservation 🏭\n+ cancel(): void\n+ getTotalAmount(): BigInteger\n\n### 역할\n결제 완료된 확정 예약",
+      "type": "text",
+      "width": 400,
+      "x": 320,
+      "y": -765
+    },
+    {
+      "color": "4",
+      "height": 370,
+      "id": "payment",
+      "styleAttributes": {
+      },
+      "text": "## Payment\n**Entity**\n\n### 속성\n- id: Long\n- reservation: Reservation (1:1)\n- originalPrice: BigInteger\n- totalDiscountAmount: BigInteger\n- finalPrice: BigInteger\n- cardCompany: CardCompany\n\n### 역할\n결제 정보 및 금액 관리",
+      "type": "text",
+      "width": 400,
+      "x": 320,
+      "y": -340
+    },
+    {
+      "color": "2",
+      "height": 350,
+      "id": "showtime",
+      "styleAttributes": {
+      },
+      "text": "## ShowTime\n**Entity**\n\n### 속성\n- id: Long\n- show: Show (FK)\n- showDate: LocalDate\n- startTime: LocalTime\n- isMorningDiscount: boolean\n\n### 메서드\n+ isMorning(): boolean\n+ hasStarted(): boolean\n\n### 역할\n특정 일시의 공연 회차",
+      "type": "text",
+      "width": 350,
+      "x": -480,
+      "y": -750
+    },
+    {
+      "color": "1",
+      "height": 300,
+      "id": "user",
+      "styleAttributes": {
+      },
+      "text": "## User\n**Aggregate Root**\n\n### 속성\n- id: Long\n- name: String\n- birthDay: LocalDate\n\n### 메서드\n+ isYouth(LocalDate): boolean\n+ getAge(LocalDate): int\n\n### 불변식\n- 이름 1자 이상\n- 생년월일 미래 불가\n\n### 역할\n사용자 정보 관리\n청소년 할인 자격 판단",
+      "type": "text",
+      "width": 400,
+      "x": -1675,
+      "y": -765
+    },
+    {
+      "color": "6",
+      "height": 320,
+      "id": "title",
+      "styleAttributes": {
+      },
+      "text": "# 공연 좌석 예약 시스템\n## 도메인 모델 Overview\n\n4개의 Bounded Context로 구성\n- User Context (사용자)\n- Show Management Context (공연/회차)\n- Seat Management Context (좌석)\n- Reservation Context (예약/결제)",
+      "type": "text",
+      "width": 600,
+      "x": -1675,
+      "y": -1320
+    },
+    {
+      "color": "2",
+      "height": 330,
+      "id": "show",
+      "styleAttributes": {
+      },
+      "text": "## Show\n**Aggregate Root**\n\n### 속성\n- id: Long\n- title: String\n- startDate: LocalDate\n- endDate: LocalDate\n\n### 메서드\n+ getPriceFor(SeatGrade): BigInteger\n+ isShowPeriod(LocalDate): boolean\n\n### 역할\n공연 작품 전체 관리",
+      "type": "text",
+      "width": 350,
+      "x": -1050,
+      "y": -765
+    },
+    {
+      "color": "2",
+      "height": 260,
+      "id": "showprice",
+      "styleAttributes": {
+      },
+      "text": "## ShowPrice\n**Value Object**\n\n### 속성\n- id: Long\n- show: Show (FK)\n- grade: SeatGrade\n- price: BigInteger\n\n### 역할\n좌석 등급별 가격 책정\n\n### 불변식\n- 가격은 양수",
+      "type": "text",
+      "width": 320,
+      "x": -1035,
+      "y": -340
+    },
+    {
+      "color": "6",
+      "height": 450,
+      "id": "discount-policies",
+      "styleAttributes": {
+      },
+      "text": "# Discount Policies\n**Domain Service** ⭐\n\n## Strategy Pattern\n\n### DiscountPolicy (인터페이스)\n- calculateDiscount(context): BigInteger\n- getOrder(): int\n\n### 구현체\n\n**1. MorningDiscountPolicy**\n- 조조 할인 (원가 10%)\n- Order: 1\n\n**2. YouthDiscountPolicy**\n- 청소년 할인 (원가 20%)\n- Order: 2\n\n**3. CardDiscountPolicy**\n- 카드사 할인 (중간금액 5%)\n- Order: 100\n\n### DiscountCalculator\n- 정책을 순차적으로 적용",
+      "type": "text",
+      "width": 450,
+      "x": 1400,
+      "y": -800
+    },
+    {
+      "color": "6",
+      "height": 640,
+      "id": "event-flow",
+      "styleAttributes": {
+      },
+      "text": "# 예약 프로세스 흐름\n\n```\n1. 사용자 → 좌석 조회\n   └─ Seat Context\n\n2. 사용자 → 좌석 임시 배정 요청\n   ├─ 가용성 검증\n   ├─ 커플석 검증\n   ├─ SeatHold 생성\n   ├─ ShowSeat.status = HOLD\n   └─ SeatsHeld 발행 🔔\n       ⏰ 10분 타이머 시작\n\n3-A. 10분 내 결제\n   ├─ 사용자 → 예약 확정\n   ├─ Reservation 생성\n   ├─ Payment 생성\n   ├─ DiscountCalculator 실행\n   ├─ ShowSeat.status = RESERVED\n   ├─ ReservationConfirmed 발행 🔔\n   └─ PaymentCompleted 발행 🔔\n\n3-B. 10분 초과\n   ├─ SeatHoldExpired 발행 🔔\n   ├─ ShowSeat.status = AVAILABLE\n   └─ SeatHold 자동 해제\n\n4. 예약 취소\n   ├─ Reservation 삭제\n   ├─ ShowSeat.status = AVAILABLE\n   └─ ReservationCancelled 발행 🔔\n```",
+      "type": "text",
+      "width": 500,
+      "x": 1920,
+      "y": 200
+    },
+    {
+      "color": "5",
+      "height": 320,
+      "id": "discount-context",
+      "styleAttributes": {
+      },
+      "text": "## DiscountContext\n**Value Object**\n\n### 속성\n- user: User\n- showTime: ShowTime\n- originalPrice: BigInteger\n- intermediatePrice: BigInteger\n- cardCompany: CardCompany\n\n### 역할\n할인 계산을 위한 컨텍스트",
+      "type": "text",
+      "width": 380,
+      "x": 1980,
+      "y": -910
+    },
+    {
+      "color": "5",
+      "height": 280,
+      "id": "discount-result",
+      "styleAttributes": {
+      },
+      "text": "## DiscountResult\n**Record (Value Object)**\n\n### 속성\n- originalPrice: BigInteger\n- totalDiscountAmount: BigInteger\n- finalPrice: BigInteger\n- discountDetails: Map<DiscountType, BigInteger>\n\n### 역할\n할인 계산 결과",
+      "type": "text",
+      "width": 380,
+      "x": 1980,
+      "y": -480
+    },
+    {
+      "color": "4",
+      "height": 295,
+      "id": "reservationseat",
+      "styleAttributes": {
+      },
+      "text": "## ReservationSeat\n**Entity**\n\n### 속성\n- id: Long\n- reservation: Reservation (FK)\n- showSeat: ShowSeat (FK)\n\n### 역할\n예약과 좌석의 N:M 관계",
+      "type": "text",
+      "width": 350,
+      "x": 910,
+      "y": -737
+    },
+    {
+      "color": "4",
+      "height": 325,
+      "id": "discount",
+      "styleAttributes": {
+      },
+      "text": "## Discount\n**Entity**\n\n### 속성\n- id: Long\n- payment: Payment (FK)\n- discountType: DiscountType\n- amount: BigInteger\n\n### 할인 타입\n- MORNING: 조조 할인 (10%)\n- YOUTH: 청소년 할인 (20%)\n- CARD: 카드사 할인 (5%)",
+      "type": "text",
+      "width": 350,
+      "x": 910,
+      "y": -317
+    },
+    {
+      "color": "6",
+      "height": 450,
+      "id": "seat-layout",
+      "styleAttributes": {
+      },
+      "text": "# 좌석 배치도\n\n```\n      1-18열(일반석) | 19-20열(커플석)\n1행   VIP VIP...    | VIP VIP  (VIP)\n2행   VIP VIP...    | VIP VIP  (VIP)\n3행   VIP VIP...    | VIP VIP  (VIP)\n4행   R R R...      | R R      (R석)\n...\n8행   R R R...      | R R      (R석)\n9행   S S S...      | S S      (S석)\n...\n14행  S S S...      | S S      (S석)\n15행  A A A...      | A A      (A석)\n...\n20행  A A A...      | A A      (A석)\n```\n\n## 등급 분포\n- VIP: 1-3행 (60석)\n- R: 4-8행 (100석)\n- S: 9-14행 (120석)\n- A: 15-20행 (120석)\n\n**총 400석** (20행 x 20열)",
+      "type": "text",
+      "width": 500,
+      "x": 2480,
+      "y": 200
+    },
+    {
+      "color": "6",
+      "height": 420,
+      "id": "state-diagram",
+      "styleAttributes": {
+      },
+      "text": "# 좌석 생명주기\n\n```\n[생성] → AVAILABLE\n          ↓\n     (사용자 임시배정)\n          ↓\n        HOLD ─────→ AVAILABLE\n          ↓        (10분 만료)\n     (결제 완료)\n          ↓\n      RESERVED ──→ AVAILABLE\n          ↓       (예약 취소)\n       (공연 종료)\n          ↓\n        [종료]\n```\n\n## HOLD 상태 특징\n- ⏰ 10분 타이머 작동\n- 🔒 같은 좌석 1개만\n- 🔔 만료 시 이벤트 발행",
+      "type": "text",
+      "width": 450,
+      "x": 3040,
+      "y": 200
+    },
+    {
+      "color": "6",
+      "height": 500,
+      "id": "discount-calculation-example",
+      "styleAttributes": {
+      },
+      "text": "# 할인 계산 예시\n\n## 시나리오\n- 좌석: VIP 2석\n- 공연: 조조 회차\n- 사용자: 17세 청소년\n- 카드: 신한카드\n- VIP 가격: 100,000원/석\n\n## 계산 과정\n\n**원가**\n= 100,000 x 2 = 200,000원\n\n**1단계: 조조 할인 (Order=1)**\n= 200,000 x 10% = 20,000원\n\n**2단계: 청소년 할인 (Order=2)**\n= 200,000 x 20% = 40,000원\n\n**중간금액**\n= 200,000 - 20,000 - 40,000 = 140,000원\n\n**3단계: 카드 할인 (Order=100)**\n= 140,000 x 5% = 7,000원\n\n**최종 금액**\n= 140,000 - 7,000 = **133,000원**\n\n**총 할인액** = 67,000원 (33.5%)",
+      "type": "text",
+      "width": 500,
+      "x": 2480,
+      "y": 750
+    },
+    {
+      "color": "3",
+      "height": 350,
+      "id": "seat",
+      "styleAttributes": {
+      },
+      "text": "## Seat\n**Aggregate Root**\n\n### 속성\n- id: Long\n- grade: SeatGrade\n- type: SeatType\n- rowNumber: int [1-20]\n- columnNumber: int [1-20]\n\n### 역할\n물리적 좌석 정보 관리",
+      "type": "text",
+      "width": 350,
+      "x": -1650,
+      "y": 150
+    },
+    {
+      "color": "3",
+      "height": 260,
+      "id": "coupleseats",
+      "styleAttributes": {
+      },
+      "text": "## CoupleSeats\n**Value Object** ⭐\n\n### 속성\n- seats: List<ShowSeat>\n\n### 검증 규칙\n- 정확히 2개의 커플 좌석\n- 19열과 20열에만 위치\n- 같은 행에 위치\n\n### 역할\n커플석 선택 검증",
+      "type": "text",
+      "width": 350,
+      "x": -1650,
+      "y": 620
+    },
+    {
+      "color": "3",
+      "height": 260,
+      "id": "seat-enums",
+      "styleAttributes": {
+      },
+      "text": "## Enumerations\n\n### SeatStatus\n- AVAILABLE (예약 가능)\n- HOLD (임시 배정)\n- RESERVED (예약 완료)\n\n### SeatGrade\n- VIP / R / S / A\n\n### SeatType\n- STANDARD / COUPLE",
+      "type": "text",
+      "width": 350,
+      "x": -1150,
+      "y": 620
+    },
+    {
+      "color": "3",
+      "height": 591,
+      "id": "seathold",
+      "styleAttributes": {
+      },
+      "text": "## SeatHold\n**Entity** ⭐\n\n### 속성\n- id: Long\n- user: User (FK)\n- showSeat: ShowSeat (FK, Unique)\n- expiresAt: LocalDateTime\n- createdAt: LocalDateTime\n\n### 메서드\n+ isExpired(): boolean\n\n### 역할\n10분간 좌석 임시 점유",
+      "type": "text",
+      "width": 350,
+      "x": -530,
+      "y": 129
+    },
+    {
+      "color": "3",
+      "height": 350,
+      "id": "showseat",
+      "styleAttributes": {
+      },
+      "text": "## ShowSeat\n**Aggregate Root** ⭐\n\n### 속성\n- id: Long\n- showTime: ShowTime (FK)\n- seat: Seat (FK)\n- status: SeatStatus\n- user: User (FK)\n\n### 메서드\n+ hold(User): void 🔔\n+ releaseHold(): void\n+ reserve(): void\n+ isAvailable(): boolean\n\n### 상태\nAVAILABLE → HOLD → RESERVED",
+      "type": "text",
+      "width": 400,
+      "x": -1150,
+      "y": 129
+    },
+    {
+      "color": "6",
+      "height": 420,
+      "id": "business-rules",
+      "styleAttributes": {
+      },
+      "text": "# 핵심 비즈니스 규칙 📋\n\n## 좌석 임시 배정 규칙\n- ⏰ 10분 제한\n- 💑 커플석은 반드시 2석 동시\n- 🔒 같은 좌석에 활성 임시배정 1개만\n\n## 예약 규칙\n- ✅ 활성 임시배정에서만 생성\n- 📦 모든 임시배정 좌석 한번에 예약\n- ❌ 부분 예약 불가\n- 🎭 공연 시작 전까지만 취소\n\n## 할인 규칙\n- 조조 + 청소년 중복 적용 ⭕\n- 카드 할인은 마지막 단계\n- 최종 금액 항상 양수\n- 할인은 Order 순서대로 적용",
+      "type": "text",
+      "width": 450,
+      "x": 3040,
+      "y": 690
+    },
+    {
+      "color": "6",
+      "height": 550,
+      "id": "architecture",
+      "styleAttributes": {
+      },
+      "text": "# 아키텍처 패턴\n\n**Hexagonal Architecture (Clean Architecture)**\n\n## 계층 구조\n\n**1. Domain Layer (도메인)**\n- Entity, Value Object\n- Repository Interface\n- Domain Service\n\n**2. Application Layer (응용)**\n- Service (비즈니스 로직)\n- DTO (Request/Response)\n\n**3. Presentation Layer (표현)**\n- Controller (REST API)\n- Exception Handler\n\n**4. Infrastructure Layer (인프라)**\n- Repository Implementation (JPA)\n- External Gateway (Payment)\n\n## 주요 패턴\n- **Repository Pattern**\n- **Strategy Pattern** (할인 정책)\n- **Builder Pattern** (엔티티 생성)\n- **State Pattern** (좌석 상태)",
+      "type": "text",
+      "width": 550,
+      "x": 245,
+      "y": 245
+    },
+    {
+      "color": "6",
+      "height": 480,
+      "id": "domain-events",
+      "styleAttributes": {
+      },
+      "text": "# 도메인 이벤트 🔔\n\n## SeatsHeld\n좌석이 임시 배정되었을 때\n- seatHoldId, seatIds, userId\n\n## SeatHoldExpired\n임시 배정이 만료되었을 때\n- seatHoldId, seatIds\n\n## ReservationConfirmed ⭐\n예약이 확정되었을 때\n- reservationId, seatIds, userId\n\n## ReservationCancelled\n예약이 취소되었을 때\n- reservationId, seatIds\n\n## PaymentCompleted\n결제가 완료되었을 때\n- paymentId, amount",
+      "type": "text",
+      "width": 450,
+      "x": 860,
+      "y": 245
+    },
+    {
+      "color": "6",
+      "height": 460,
+      "id": "aggregate-summary",
+      "styleAttributes": {
+      },
+      "text": "# Aggregate 요약\n\n## Aggregate Root (6개)\n1. **User** - 사용자\n2. **Show** - 공연\n3. **Seat** - 물리적 좌석\n4. **ShowSeat** ⭐ - 공연별 좌석 상태\n5. **Reservation** ⭐ - 예약\n6. **Payment** - 결제\n\n## 엔티티 (4개)\n1. ShowTime - 공연 회차\n2. SeatHold ⭐ - 임시 배정\n3. ReservationSeat - 예약 좌석\n4. Discount - 할인 내역\n\n## 값 객체 (6개)\n1. ShowPrice - 가격 정책\n2. **CoupleSeats** ⭐ - 커플석 검증\n3. **DiscountContext** - 할인 컨텍스트\n4. **DiscountResult** - 할인 결과\n5. CardCompany - 카드사 (Enum)\n6. SeatGrade/SeatType/SeatStatus (Enum)",
+      "type": "text",
+      "width": 500,
+      "x": 245,
+      "y": 840
+    },
+    {
+      "color": "6",
+      "height": 420,
+      "id": "context-relationships",
+      "styleAttributes": {
+      },
+      "text": "# Context 간 관계\n\n## 통합 패턴\n\n**User → Reservation**\n- Customer/Supplier\n- ID 참조\n\n**Show ↔ Seat**\n- Shared Kernel\n- ShowTime이 ShowSeat 생성\n\n**Seat → Reservation**\n- Published Language (이벤트)\n- SeatsHeld → ReservationConfirmed\n\n## 동시성 제어\n- ShowSeat: PESSIMISTIC_WRITE LOCK\n- SeatHold: Unique Constraint",
+      "type": "text",
+      "width": 450,
+      "x": 860,
+      "y": 840
+    },
+    {
+      "color": "6",
+      "height": 420,
+      "id": "domain-services",
+      "styleAttributes": {
+      },
+      "text": "# 도메인 서비스\n\n## CoupleSeatValidator\n커플석 검증 규칙\n- validate(List<ShowSeat>): void\n\n## PriceCalculator\n할인 정책 적용 및 가격 계산\n- calculate(DiscountContext): DiscountResult\n\n### 할인 순서\n1️⃣ 조조 할인 (원가의 10%)\n2️⃣ 청소년 할인 (원가의 20%)\n3️⃣ 중간금액 = 원가 - 조조 - 청소년\n4️⃣ 카드 할인 (중간금액의 5%)\n5️⃣ 최종금액 = 중간금액 - 카드\n\n## SeatHoldManager\n임시 배정 관리\n- holdSeats(User, List<ShowSeat>): SeatHold",
+      "type": "text",
+      "width": 450,
+      "x": 245,
+      "y": 1400
+    },
+    {
+      "color": "4",
+      "height": 420,
+      "id": "card-company",
+      "styleAttributes": {
+      },
+      "text": "## CardCompany\n**Enumeration**\n\n### 값\n- SHINHAN (신한)\n- KB (국민)\n- WOORI (우리)\n- OTHER (기타)\n\n### 역할\n카드사 구분 및 할인 적용",
+      "type": "text",
+      "width": 320,
+      "x": 1530,
+      "y": -60
+    }
+  ]
+}

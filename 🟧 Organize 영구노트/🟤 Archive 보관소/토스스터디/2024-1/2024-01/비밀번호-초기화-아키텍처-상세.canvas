@@ -1,0 +1,561 @@
+{
+  "edges": [
+    {
+      "fromNode": "req",
+      "fromSide": "bottom",
+      "id": "e1",
+      "label": "데이터 설계",
+      "toNode": "users",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "req",
+      "fromSide": "bottom",
+      "id": "e2",
+      "label": "데이터 설계",
+      "toNode": "history",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "req",
+      "fromSide": "bottom",
+      "id": "e3",
+      "label": "데이터 설계",
+      "toNode": "usage",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "history",
+      "fromSide": "bottom",
+      "id": "e4",
+      "label": "파티셔닝",
+      "toNode": "partition",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "history",
+      "fromSide": "bottom",
+      "id": "e5",
+      "label": "인덱스",
+      "toNode": "index",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "history",
+      "fromSide": "bottom",
+      "id": "e6",
+      "label": "검증",
+      "toNode": "val1",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "history",
+      "fromSide": "bottom",
+      "id": "e7",
+      "label": "검증",
+      "toNode": "val2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "usage",
+      "fromSide": "bottom",
+      "id": "e8",
+      "label": "검증",
+      "toNode": "val3",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "val1",
+      "fromSide": "bottom",
+      "id": "e9",
+      "toNode": "flow",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "val2",
+      "fromSide": "bottom",
+      "id": "e10",
+      "toNode": "flow",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "val3",
+      "fromSide": "bottom",
+      "id": "e11",
+      "toNode": "flow",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "val3",
+      "fromSide": "right",
+      "id": "e12",
+      "label": "활용",
+      "toNode": "bloom",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bloom",
+      "fromSide": "right",
+      "id": "e13",
+      "toNode": "bloom-work",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bloom",
+      "fromSide": "bottom",
+      "id": "e14",
+      "toNode": "bloom-rebuild",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "val3",
+      "fromSide": "bottom",
+      "id": "e15",
+      "label": "캐싱",
+      "toNode": "redis",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "redis",
+      "fromSide": "right",
+      "id": "e16",
+      "toNode": "warming",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "redis",
+      "fromSide": "bottom",
+      "id": "e17",
+      "toNode": "invalidate",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "usage",
+      "fromSide": "bottom",
+      "id": "e18",
+      "label": "업데이트",
+      "toNode": "incremental",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "incremental",
+      "fromSide": "bottom",
+      "id": "e19",
+      "label": "정합성",
+      "toNode": "batch",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "batch",
+      "fromSide": "right",
+      "id": "e20",
+      "toNode": "consistency",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "incremental",
+      "fromSide": "right",
+      "id": "e21",
+      "label": "이벤트",
+      "toNode": "event",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "incremental",
+      "fromSide": "bottom",
+      "id": "e22",
+      "label": "동시성",
+      "toNode": "dist-lock",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "incremental",
+      "fromSide": "bottom",
+      "id": "e23",
+      "label": "동시성",
+      "toNode": "opt-lock",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "batch",
+      "fromSide": "bottom",
+      "id": "e24",
+      "label": "최적화",
+      "toNode": "parallel",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "batch",
+      "fromSide": "right",
+      "id": "e25",
+      "toNode": "spring-batch",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "consistency",
+      "fromSide": "bottom",
+      "id": "e26",
+      "toNode": "monitoring",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bloom",
+      "fromSide": "bottom",
+      "id": "e27",
+      "toNode": "memory",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "redis",
+      "fromSide": "bottom",
+      "id": "e28",
+      "toNode": "performance",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "flow",
+      "fromSide": "bottom",
+      "id": "e29",
+      "toNode": "performance",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 120,
+      "id": "title",
+      "styleAttributes": {
+      },
+      "text": "# 비밀번호 초기화 아키텍처\n## 1억 계정 규모",
+      "type": "text",
+      "width": 500,
+      "x": -350,
+      "y": -1200
+    },
+    {
+      "color": "1",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/01-users-테이블.md",
+      "height": 350,
+      "id": "users",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": -1400,
+      "y": 0
+    },
+    {
+      "color": "1",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/02-password-history-테이블.md",
+      "height": 350,
+      "id": "history",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": -700,
+      "y": 0
+    },
+    {
+      "color": "1",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/03-password-usage-count-테이블.md",
+      "height": 350,
+      "id": "usage",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "1",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/04-파티셔닝-전략.md",
+      "height": 350,
+      "id": "partition",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": -1400,
+      "y": 600
+    },
+    {
+      "color": "1",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/05-인덱스-설계.md",
+      "height": 350,
+      "id": "index",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": -700,
+      "y": 600
+    },
+    {
+      "color": "2",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/06-최근-5개-검증.md",
+      "height": 350,
+      "id": "val1",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 0,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/07-3개월-이력-검증.md",
+      "height": 350,
+      "id": "val2",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": -700,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/08-100명-이상-검증.md",
+      "height": 350,
+      "id": "val3",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 700,
+      "y": 1200
+    },
+    {
+      "color": "2",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/09-검증-흐름.md",
+      "height": 350,
+      "id": "flow",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 0,
+      "y": 1800
+    },
+    {
+      "color": "4",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/10-Bloom-Filter란.md",
+      "height": 350,
+      "id": "bloom",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 1400,
+      "y": 600
+    },
+    {
+      "color": "4",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/11-Bloom-Filter-동작원리.md",
+      "height": 350,
+      "id": "bloom-work",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 2100,
+      "y": 600
+    },
+    {
+      "color": "3",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/13-Redis-캐싱.md",
+      "height": 350,
+      "id": "redis",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 1400,
+      "y": 1800
+    },
+    {
+      "color": "3",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/14-캐시-워밍.md",
+      "height": 350,
+      "id": "warming",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 2100,
+      "y": 1800
+    },
+    {
+      "color": "3",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/15-캐시-무효화.md",
+      "height": 350,
+      "id": "invalidate",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 1750,
+      "y": 2400
+    },
+    {
+      "color": "6",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/16-증분-업데이트.md",
+      "height": 350,
+      "id": "incremental",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": -1400,
+      "y": 1800
+    },
+    {
+      "color": "6",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/17-배치-재구축.md",
+      "height": 350,
+      "id": "batch",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": -1400,
+      "y": 2400
+    },
+    {
+      "color": "6",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/18-정합성-검증.md",
+      "height": 350,
+      "id": "consistency",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": -700,
+      "y": 2400
+    },
+    {
+      "color": "6",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/19-이벤트-기반-아키텍처.md",
+      "height": 350,
+      "id": "event",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 0,
+      "y": 2400
+    },
+    {
+      "color": "6",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/20-분산-락.md",
+      "height": 350,
+      "id": "dist-lock",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": -1400,
+      "y": 3000
+    },
+    {
+      "color": "6",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/21-낙관적-락.md",
+      "height": 350,
+      "id": "opt-lock",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": -700,
+      "y": 3000
+    },
+    {
+      "color": "6",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/22-병렬-배치-처리.md",
+      "height": 350,
+      "id": "parallel",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 0,
+      "y": 3000
+    },
+    {
+      "color": "6",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/23-Spring-Batch.md",
+      "height": 350,
+      "id": "spring-batch",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 700,
+      "y": 2400
+    },
+    {
+      "color": "6",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/24-모니터링-알림.md",
+      "height": 350,
+      "id": "monitoring",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 700,
+      "y": 3000
+    },
+    {
+      "color": "3",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/26-성능-지표.md",
+      "height": 1040,
+      "id": "performance",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 1400,
+      "y": 3000
+    },
+    {
+      "color": "4",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/12-Bloom-Filter-재구축.md",
+      "height": 350,
+      "id": "bloom-rebuild",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 2100,
+      "y": 1200
+    },
+    {
+      "color": "4",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/25-메모리-효율.md",
+      "height": 350,
+      "id": "memory",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 1400,
+      "y": 1200
+    },
+    {
+      "color": "5",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/2024-01/00-요구사항.md",
+      "height": 400,
+      "id": "req",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 500,
+      "x": -725,
+      "y": -720
+    }
+  ]
+}

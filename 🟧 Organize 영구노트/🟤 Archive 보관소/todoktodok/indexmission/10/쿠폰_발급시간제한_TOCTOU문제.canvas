@@ -1,0 +1,330 @@
+{
+  "edges": [
+    {
+      "color": "5",
+      "fromNode": "problem",
+      "fromSide": "right",
+      "id": "e1",
+      "toNode": "code1",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "code1",
+      "fromSide": "right",
+      "id": "e2",
+      "toNode": "code2",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "code2",
+      "fromSide": "right",
+      "id": "e3",
+      "toNode": "root-cause",
+      "toSide": "left"
+    },
+    {
+      "color": "2",
+      "fromNode": "problem",
+      "fromSide": "bottom",
+      "id": "e4",
+      "toNode": "scenario1",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "code1",
+      "fromSide": "bottom",
+      "id": "e5",
+      "toNode": "scenario2",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "code2",
+      "fromSide": "bottom",
+      "id": "e6",
+      "toNode": "scenario3",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "root-cause",
+      "fromSide": "bottom",
+      "id": "e7",
+      "toNode": "timeline",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "scenario1",
+      "fromSide": "bottom",
+      "id": "e8",
+      "toNode": "impact",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "scenario2",
+      "fromSide": "bottom",
+      "id": "e9",
+      "toNode": "solution1",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "scenario3",
+      "fromSide": "bottom",
+      "id": "e10",
+      "toNode": "solution2",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "timeline",
+      "fromSide": "bottom",
+      "id": "e11",
+      "toNode": "priority",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "impact",
+      "fromSide": "bottom",
+      "id": "e12",
+      "toNode": "flow",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "solution1",
+      "fromSide": "bottom",
+      "id": "e13",
+      "toNode": "fixed-flow",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "solution2",
+      "fromSide": "bottom",
+      "id": "e14",
+      "toNode": "test",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "priority",
+      "fromSide": "bottom",
+      "id": "e15",
+      "toNode": "reference",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "1",
+      "height": 140,
+      "id": "title",
+      "styleAttributes": {
+      },
+      "text": "# 쿠폰 발급 TOCTOU 문제\n\n**Time-of-Check to Time-of-Use Race Condition**",
+      "type": "text",
+      "width": 720,
+      "x": -360,
+      "y": -520
+    },
+    {
+      "color": "5",
+      "height": 240,
+      "id": "problem",
+      "styleAttributes": {
+      },
+      "text": "## 문제 핵심\n\n발급 제한 시간 **검증 시점**과 \n실제 **발급 시점**이 달라서\n종료 시간 이후에도 쿠폰 발급 가능",
+      "type": "text",
+      "width": 340,
+      "x": -760,
+      "y": -320
+    },
+    {
+      "color": "5",
+      "height": 240,
+      "id": "code1",
+      "styleAttributes": {
+      },
+      "text": "```java\n// Coupon.java:59\nif (this.issueEndedAt\n    .isBefore(LocalDateTime.now())) {\n  throw new Exception(\"...\");\n}\n// ⬆️ 검증 시점의 now()\n```",
+      "type": "text",
+      "width": 340,
+      "x": -360,
+      "y": -320
+    },
+    {
+      "color": "5",
+      "height": 240,
+      "id": "code2",
+      "styleAttributes": {
+      },
+      "text": "```java\n// MemberCoupon.java:54\nmemberCoupon.issuedAt = \n    LocalDateTime.now();\n// ⬆️ 기록 시점의 now()\n// 검증과 다른 시간!\n```",
+      "type": "text",
+      "width": 340,
+      "x": 60,
+      "y": -320
+    },
+    {
+      "color": "2",
+      "height": 360,
+      "id": "scenario1",
+      "styleAttributes": {
+      },
+      "text": "## 시나리오 1: 시간 경과\n\n```\n종료: 23:59:59\n━━━━━━━━━━━━━━━━━━━\n23:59:59.500\n검증 통과 ✓\n━━━━━━━━━━━━━━━━━━━\n처리 지연...\n━━━━━━━━━━━━━━━━━━━\n00:00:00.100\n발급! ❌\n```",
+      "type": "text",
+      "width": 340,
+      "x": -760,
+      "y": -20
+    },
+    {
+      "color": "2",
+      "height": 360,
+      "id": "scenario2",
+      "styleAttributes": {
+      },
+      "text": "## 시나리오 2: GC 지연\n\n```\n종료: 23:59:59\n━━━━━━━━━━━━━━━━━━━\n23:59:59.800\n검증 통과 ✓\n━━━━━━━━━━━━━━━━━━━\n⚠️ Full GC (500ms)\n스레드 일시 중지\n━━━━━━━━━━━━━━━━━━━\n00:00:00.400\nGC 완료, 발급! ❌\n```",
+      "type": "text",
+      "width": 340,
+      "x": -360,
+      "y": -20
+    },
+    {
+      "color": "2",
+      "height": 360,
+      "id": "scenario3",
+      "styleAttributes": {
+      },
+      "text": "## 시나리오 3: 트랜잭션\n\n```\n종료: 23:59:59\n━━━━━━━━━━━━━━━━━━━\n23:59:59.900\nTx 시작, 검증 ✓\nissueCount++\n━━━━━━━━━━━━━━━━━━━\n락 대기...\n━━━━━━━━━━━━━━━━━━━\n00:00:00.200\nDB 커밋 ❌\n```",
+      "type": "text",
+      "width": 340,
+      "x": 60,
+      "y": -20
+    },
+    {
+      "color": "3",
+      "height": 300,
+      "id": "impact",
+      "styleAttributes": {
+      },
+      "text": "## 비즈니스 영향\n\n❌ 종료된 쿠폰 추가 발급\n❌ 발급 수량 제한 우회\n❌ 이벤트 종료 후 불공정\n❌ 운영 정책 위반\n❌ 데이터 무결성 훼손",
+      "type": "text",
+      "width": 340,
+      "x": -760,
+      "y": 400
+    },
+    {
+      "color": "4",
+      "height": 300,
+      "id": "solution1",
+      "styleAttributes": {
+      },
+      "text": "## 해결방안 1: 시간 캡처\n\n```java\n// CouponIssuer.java\nLocalDateTime now = \n    LocalDateTime.now();\n\ncoupon.issue(now);\nmemberCoupon = \n    MemberCoupon.issue(\n        memberId, coupon, now);\n```\n\n✅ 검증과 발급이 동일 시간",
+      "type": "text",
+      "width": 340,
+      "x": -360,
+      "y": 400
+    },
+    {
+      "color": "4",
+      "height": 300,
+      "id": "solution2",
+      "styleAttributes": {
+      },
+      "text": "## 해결방안 2: DB 제약\n\n```sql\nALTER TABLE member_coupon\nADD CONSTRAINT \n  chk_issue_time_valid\nCHECK (\n  issued_at >= issue_started_at\n  AND\n  issued_at <= issue_ended_at\n);\n```\n\n✅ DB 레벨에서 강제 보장",
+      "type": "text",
+      "width": 340,
+      "x": 60,
+      "y": 400
+    },
+    {
+      "color": "6",
+      "height": 360,
+      "id": "flow",
+      "styleAttributes": {
+      },
+      "text": "## 현재 흐름\n\n```\nController\n    ↓\nCouponIssuer\n    ↓\nCoupon.issue()\n    ├─ now() ← 검증용\n    └─ 검증\n        ↓\nMemberCoupon.issue()\n    ├─ now() ← 기록용\n    └─ 저장\n```\n\n⚠️ 두 번의 now() 호출!",
+      "type": "text",
+      "width": 340,
+      "x": -760,
+      "y": 760
+    },
+    {
+      "color": "4",
+      "height": 360,
+      "id": "fixed-flow",
+      "styleAttributes": {
+      },
+      "text": "## 개선 흐름\n\n```\nController\n    ↓\nCouponIssuer\n    ├─ now = now() ← 1회만\n    ↓\nCoupon.issue(now)\n    ├─ 동일 시간으로 검증\n    ↓\nMemberCoupon.issue(now)\n    ├─ 동일 시간으로 기록\n    └─ 저장\n```\n\n✅ 단일 시간 기준!",
+      "type": "text",
+      "width": 340,
+      "x": -360,
+      "y": 760
+    },
+    {
+      "color": "4",
+      "height": 360,
+      "id": "test",
+      "styleAttributes": {
+      },
+      "text": "## 테스트 케이스\n\n```java\n@Test\nvoid 발급_종료_직후_실패() {\n  LocalDateTime end = \n      of(2025,10,31,23,59,59);\n  LocalDateTime now = \n      end.plusNanos(1);\n  \n  assertThrows(\n    () -> issue(1L, coupon, now)\n  );\n}\n```",
+      "type": "text",
+      "width": 340,
+      "x": 60,
+      "y": 760
+    },
+    {
+      "color": "5",
+      "height": 240,
+      "id": "root-cause",
+      "styleAttributes": {
+      },
+      "text": "## 근본 원인\n\n1️⃣ **LocalDateTime.now()** \n   매 호출마다 다른 값\n\n2️⃣ **검증과 발급 시점 분리**\n   시간이 계속 흐름\n\n3️⃣ **트랜잭션 처리 시간**\n   커밋까지 지연 가능",
+      "type": "text",
+      "width": 340,
+      "x": 460,
+      "y": -320
+    },
+    {
+      "color": "2",
+      "height": 360,
+      "id": "timeline",
+      "styleAttributes": {
+      },
+      "text": "## 타임라인 예시\n\n```\n발급 종료: 23:59:59.000\n━━━━━━━━━━━━━━━━━━━━━━━━━\n23:59:59.500 검증 통과 ✓\n23:59:59.600 처리 중...\n23:59:59.800 더 처리...\n00:00:00.000 ⏰ 종료 시간!\n00:00:00.100 발급 완료 ❌\n━━━━━━━━━━━━━━━━━━━━━━━━━\n\n문제: 600ms의 시간차\n```",
+      "type": "text",
+      "width": 340,
+      "x": 460,
+      "y": -20
+    },
+    {
+      "color": "1",
+      "height": 300,
+      "id": "priority",
+      "styleAttributes": {
+      },
+      "text": "## 조치 우선순위\n\n### 즉시 적용\n✅ 방안1: 시간 캡처\n✅ 단위 테스트\n\n### 향후 적용  \n✅ 방안2: DB 제약\n✅ 통합 테스트\n\n### 모니터링\n✅ 로그 분석\n✅ 알람 설정",
+      "type": "text",
+      "width": 340,
+      "x": 460,
+      "y": 400
+    },
+    {
+      "color": "6",
+      "height": 360,
+      "id": "reference",
+      "styleAttributes": {
+      },
+      "text": "## 참고\n\n**TOCTOU 취약점**\n- OWASP\n- CWE-367\n\n**심각도**: 중간\n**우선순위**: 높음\n\n작성일: 2025-10-31",
+      "type": "text",
+      "width": 340,
+      "x": 460,
+      "y": 760
+    }
+  ]
+}

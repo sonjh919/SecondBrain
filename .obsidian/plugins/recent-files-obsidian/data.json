@@ -1,0 +1,209 @@
+{
+  "recentFiles": [
+    {
+      "basename": "DDD",
+      "path": "도메인 주도 개발 시작하기/DDD.canvas"
+    },
+    {
+      "basename": "도메인 언어와 유비쿼터스 언어",
+      "path": "도메인 주도 개발 시작하기/1. 도메인 모델/도메인 언어와 유비쿼터스 언어.md"
+    },
+    {
+      "basename": "Domain Model",
+      "path": "도메인 주도 개발 시작하기/1. 도메인 모델/Domain Model.md"
+    },
+    {
+      "basename": "Domain model 도출",
+      "path": "도메인 주도 개발 시작하기/1. 도메인 모델/Domain model 도출.md"
+    },
+    {
+      "basename": "Domain",
+      "path": "도메인 주도 개발 시작하기/1. 도메인 모델/Domain.md"
+    },
+    {
+      "basename": "계층 구조 아키텍처",
+      "path": "도메인 주도 개발 시작하기/2. 아키텍처 개요/계층 구조 아키텍처.md"
+    },
+    {
+      "basename": "네 개의 영역",
+      "path": "도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md"
+    },
+    {
+      "basename": "모듈 구성",
+      "path": "도메인 주도 개발 시작하기/2. 아키텍처 개요/모듈 구성.md"
+    },
+    {
+      "basename": "인프라스트럭처 개요",
+      "path": "도메인 주도 개발 시작하기/2. 아키텍처 개요/인프라스트럭처 개요.md"
+    },
+    {
+      "basename": "Aggregate",
+      "path": "도메인 주도 개발 시작하기/2. 아키텍처 개요/Aggregate.md"
+    },
+    {
+      "basename": "Repository",
+      "path": "도메인 주도 개발 시작하기/2. 아키텍처 개요/Repository.md"
+    },
+    {
+      "basename": "Domain 영역의 주요 구성요소",
+      "path": "도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md"
+    },
+    {
+      "basename": "domainmodel2",
+      "path": "도메인 주도 개발 시작하기/img/Architecture/domainmodel2.png"
+    },
+    {
+      "basename": "domainmodel1",
+      "path": "도메인 주도 개발 시작하기/img/Architecture/domainmodel1.png"
+    },
+    {
+      "basename": "Component",
+      "path": "도메인 주도 개발 시작하기/img/Architecture/Component.png"
+    },
+    {
+      "basename": "ContextMapping",
+      "path": "도메인 주도 개발 시작하기/img/Architecture/ContextMapping.png"
+    },
+    {
+      "basename": "Command",
+      "path": "도메인 주도 개발 시작하기/img/Architecture/Command.png"
+    },
+    {
+      "basename": "BoundedContextDuduction",
+      "path": "도메인 주도 개발 시작하기/img/Architecture/BoundedContextDuduction.png"
+    },
+    {
+      "basename": "boris3",
+      "path": "도메인 주도 개발 시작하기/img/Architecture/boris3.png"
+    },
+    {
+      "basename": "boris2",
+      "path": "도메인 주도 개발 시작하기/img/Architecture/boris2.png"
+    },
+    {
+      "basename": "boris1",
+      "path": "도메인 주도 개발 시작하기/img/Architecture/boris1.png"
+    },
+    {
+      "basename": "Aggregate",
+      "path": "도메인 주도 개발 시작하기/img/Architecture/Aggregate.png"
+    },
+    {
+      "basename": "actor",
+      "path": "도메인 주도 개발 시작하기/img/Architecture/actor.png"
+    },
+    {
+      "basename": "MOC",
+      "path": "도메인 주도 개발 시작하기/MOC.md"
+    },
+    {
+      "basename": "CQRS",
+      "path": "도메인 주도 개발 시작하기/11. CQRS/CQRS.md"
+    },
+    {
+      "basename": "단일 모델의 단점",
+      "path": "도메인 주도 개발 시작하기/11. CQRS/단일 모델의 단점.md"
+    },
+    {
+      "basename": "간접 통합",
+      "path": "도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/간접 통합.md"
+    },
+    {
+      "basename": "도메인 모델과 경계",
+      "path": "도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/도메인 모델과 경계.md"
+    },
+    {
+      "basename": "직접 통합",
+      "path": "도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/직접 통합.md"
+    },
+    {
+      "basename": "Bounded Context",
+      "path": "도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Bounded Context.md"
+    },
+    {
+      "basename": "Bounded Context 간 관계",
+      "path": "도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Bounded Context 간 관계.md"
+    },
+    {
+      "basename": "Bounded Context 간 통합",
+      "path": "도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Bounded Context 간 통합.md"
+    },
+    {
+      "basename": "Bounded Context 구현",
+      "path": "도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Bounded Context 구현.md"
+    },
+    {
+      "basename": "Context Mapping",
+      "path": "도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Context Mapping.md"
+    },
+    {
+      "basename": "LockManager 인터페이스",
+      "path": "도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/LockManager 인터페이스.md"
+    },
+    {
+      "basename": "Aggregate와 Transaction",
+      "path": "도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/Aggregate와 Transaction.md"
+    },
+    {
+      "basename": "aggregatetransaction",
+      "path": "도메인 주도 개발 시작하기/img/aggregatetransaction.png"
+    },
+    {
+      "basename": "오프라인 선점 잠금",
+      "path": "도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/오프라인 선점 잠금.md"
+    },
+    {
+      "basename": "선점 잠금",
+      "path": "도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/선점 잠금.md"
+    },
+    {
+      "basename": "비선점 잠금",
+      "path": "도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/비선점 잠금.md"
+    },
+    {
+      "basename": "여러 애그리거트가 필요한 기능",
+      "path": "도메인 주도 개발 시작하기/7. 도메인 서비스/여러 애그리거트가 필요한 기능.md"
+    },
+    {
+      "basename": "도메인 서비스",
+      "path": "도메인 주도 개발 시작하기/7. 도메인 서비스/도메인 서비스.md"
+    },
+    {
+      "basename": "표현 영역과 응용 영역",
+      "path": "도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/표현 영역과 응용 영역.md"
+    },
+    {
+      "basename": "표현 영역",
+      "path": "도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/표현 영역.md"
+    },
+    {
+      "basename": "응용 서비스의 역할",
+      "path": "도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/응용 서비스의 역할.md"
+    },
+    {
+      "basename": "응용 서비스 구현",
+      "path": "도메인 주도 개발 시작하기/6. 응용 서비스와 표현 영역/응용 서비스 구현.md"
+    },
+    {
+      "basename": "검색을 위한 스펙",
+      "path": "도메인 주도 개발 시작하기/5. Spring Data JPA를 이용한 조회 기능/검색을 위한 스펙.md"
+    },
+    {
+      "basename": "Aggregate의 영속성",
+      "path": "도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/Aggregate의 영속성.md"
+    },
+    {
+      "basename": "필드 접근 방식",
+      "path": "도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/필드 접근 방식.md"
+    },
+    {
+      "basename": "모듈 위치",
+      "path": "도메인 주도 개발 시작하기/4. 리포지터리와 모델 구현/모듈 위치.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false,
+  "maxLength": 50
+}

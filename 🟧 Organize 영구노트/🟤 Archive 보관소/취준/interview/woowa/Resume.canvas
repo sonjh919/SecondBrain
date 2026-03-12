@@ -1,0 +1,375 @@
+{
+  "edges": [
+    {
+      "color": "1",
+      "fromNode": "resume-node",
+      "fromSide": "right",
+      "id": "edge1",
+      "label": "Q1: Full-Text Index란?",
+      "toNode": "q1-node",
+      "toSide": "left"
+    },
+    {
+      "color": "1",
+      "fromNode": "q1-node",
+      "fromSide": "right",
+      "id": "edge5",
+      "label": "Q5: Index Fragmentation",
+      "toNode": "q5-node",
+      "toSide": "left"
+    },
+    {
+      "color": "1",
+      "fromNode": "q5-node",
+      "fromSide": "right",
+      "id": "edge6",
+      "label": "Q6: Rebuilding 방법",
+      "toNode": "q6-node",
+      "toSide": "left"
+    },
+    {
+      "color": "1",
+      "fromNode": "q6-node",
+      "fromSide": "right",
+      "id": "edge7",
+      "label": "Q7: 모니터링 시스템",
+      "toNode": "q7-node",
+      "toSide": "left"
+    },
+    {
+      "color": "2",
+      "fromNode": "resume-node",
+      "fromSide": "right",
+      "id": "edge2",
+      "label": "Q2: 최적화 동기",
+      "toNode": "q2-node",
+      "toSide": "left"
+    },
+    {
+      "color": "2",
+      "fromNode": "q2-node",
+      "fromSide": "right",
+      "id": "edge3",
+      "label": "Q3: 최적화 과정",
+      "toNode": "q3-node",
+      "toSide": "left"
+    },
+    {
+      "color": "2",
+      "fromNode": "q3-node",
+      "fromSide": "right",
+      "id": "edge4",
+      "label": "Q4: 단일 vs 가중치",
+      "toNode": "q4-node",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromNode": "resume-node",
+      "fromSide": "right",
+      "id": "edge8",
+      "label": "Q8: Covering Index란?",
+      "toNode": "q8-node",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromNode": "q8-node",
+      "fromSide": "right",
+      "id": "edge9",
+      "label": "Q9: 쿼리 분리 전략",
+      "toNode": "q9-node",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromNode": "q9-node",
+      "fromSide": "right",
+      "id": "edge10",
+      "label": "Q10: 슬로우 쿼리 분석",
+      "toNode": "q10-node",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "resume-node",
+      "fromSide": "right",
+      "id": "edge11",
+      "label": "Q11: Unique 인덱스",
+      "toNode": "q11-node",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "q11-node",
+      "fromSide": "right",
+      "id": "edge12",
+      "label": "Q12: 인덱스 기본 개념",
+      "toNode": "q12-node",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "resume-node",
+      "fromSide": "right",
+      "id": "edge13",
+      "label": "Q13: 무중단 배포 동기",
+      "toNode": "q13-node",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "q13-node",
+      "fromSide": "right",
+      "id": "edge14",
+      "label": "Q14: 롤백 전략",
+      "toNode": "q14-node",
+      "toSide": "left"
+    },
+    {
+      "color": "orange",
+      "fromNode": "resume-node",
+      "fromSide": "right",
+      "id": "edge15",
+      "label": "Q15: Multi-Module 구조",
+      "toNode": "q15-node",
+      "toSide": "left"
+    },
+    {
+      "color": "orange",
+      "fromNode": "q15-node",
+      "fromSide": "right",
+      "id": "edge16",
+      "label": "Q16: api vs implementation",
+      "toNode": "q16-node",
+      "toSide": "left"
+    },
+    {
+      "color": "orange",
+      "fromNode": "resume-node",
+      "fromSide": "right",
+      "id": "edge17",
+      "label": "Q17: Event Storming",
+      "toNode": "q17-node",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "4",
+      "height": 850,
+      "id": "resume-node",
+      "styleAttributes": {
+      },
+      "text": "# 이력서 키워드\n\n## 토독토독 프로젝트\n- Full-Text Index\n- Index Fragmentation\n- Index Rebuilding\n- 부하 테스트 (K6)\n- Tomcat/HikariCP 최적화\n- 슬로우 쿼리 로그 분석\n- 인덱스 최적화\n- 복합 인덱스\n- Covering Index\n- 무중단 배포 (Rolling Update)\n\n## 이선좌 프로젝트\n- Multi-Module 구조\n- **Event Storming**",
+      "type": "text",
+      "width": 450,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "1",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/woowa/Full-Text Index 개념.md",
+      "height": 850,
+      "id": "q1-node",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 600,
+      "y": -2500
+    },
+    {
+      "color": "1",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/woowa/Index Fragmentation 개념과 발견.md",
+      "height": 850,
+      "id": "q5-node",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 1200,
+      "y": -2500
+    },
+    {
+      "color": "1",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/woowa/Index Rebuilding 방법과 성능 측정.md",
+      "height": 850,
+      "id": "q6-node",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 1800,
+      "y": -2500
+    },
+    {
+      "color": "1",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/woowa/Fragmentation 모니터링 시스템 구축.md",
+      "height": 850,
+      "id": "q7-node",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 2400,
+      "y": -2500
+    },
+    {
+      "color": "2",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/woowa/Tomcat-HikariCP 최적화 동기.md",
+      "height": 850,
+      "id": "q2-node",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 600,
+      "y": -1500
+    },
+    {
+      "color": "2",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/woowa/Tomcat-HikariCP 최적화 과정.md",
+      "height": 850,
+      "id": "q3-node",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 1200,
+      "y": -1500
+    },
+    {
+      "color": "2",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/woowa/단일 vs 가중치 테스트.md",
+      "height": 850,
+      "id": "q4-node",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 1800,
+      "y": -1500
+    },
+    {
+      "color": "3",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/woowa/Covering Index 개념.md",
+      "height": 850,
+      "id": "q8-node",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 600,
+      "y": -500
+    },
+    {
+      "color": "3",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/woowa/쿼리 분리와 복합 인덱스 설계.md",
+      "height": 850,
+      "id": "q9-node",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 1200,
+      "y": -500
+    },
+    {
+      "color": "3",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/woowa/슬로우 쿼리 로그 분석 방법.md",
+      "height": 850,
+      "id": "q10-node",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 1800,
+      "y": -500
+    },
+    {
+      "color": "5",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/woowa/Unique 제약조건 인덱스 최적화.md",
+      "height": 850,
+      "id": "q11-node",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 600,
+      "y": 500
+    },
+    {
+      "color": "5",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/woowa/인덱스와 클러스터링-논클러스터링 차이.md",
+      "height": 850,
+      "id": "q12-node",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 1200,
+      "y": 500
+    },
+    {
+      "color": "6",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/woowa/무중단 배포 구축 동기와 Rolling Update 선택.md",
+      "height": 850,
+      "id": "q13-node",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 600,
+      "y": 1500
+    },
+    {
+      "color": "6",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/woowa/배포 실패 감지와 롤백 전략.md",
+      "height": 850,
+      "id": "q14-node",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 1200,
+      "y": 1500
+    },
+    {
+      "color": "orange",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/woowa/Multi-Module 구조 도입.md",
+      "height": 850,
+      "id": "q15-node",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 600,
+      "y": 2500
+    },
+    {
+      "color": "orange",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/woowa/api와 implementation 차이.md",
+      "height": 850,
+      "id": "q16-node",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 1200,
+      "y": 2500
+    },
+    {
+      "color": "orange",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/woowa/Event Storming 도입.md",
+      "height": 850,
+      "id": "q17-node",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 450,
+      "x": 1800,
+      "y": 2500
+    }
+  ]
+}

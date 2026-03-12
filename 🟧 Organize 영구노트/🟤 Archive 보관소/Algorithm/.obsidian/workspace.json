@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "b0b7a20ee80fc36d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad1845bdcd53fee0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7f23fae633a9e16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문제/1138 한 줄로 서기/자기보다 큰 사람이 왼쪽에 몇 명 있었는지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21980c5fad0db8ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 개념/자료구조/그래프.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73bea7cbda55ab8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "58ff0ce58d98108f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c86a86a16d569277",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b14b44aa8237fbf9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da690b8d78c51aea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 377.5
+  },
+  "right": {
+    "id": "97a39f6a82ebab21",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b18667ad932afc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6244f740574bda0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. 개념/자료구조/그래프.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94203f9e946637ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. 개념/자료구조/그래프.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3e34ceba356f41d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "08ff627743601803",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. 개념/자료구조/그래프.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "21980c5fad0db8ef",
+  "lastOpenFiles": [
+    "arrayList_weight_graph.jpg",
+    "1. 개념/자료구조/그래프.md",
+    "arrayList_graph.jpg",
+    "1. 개념/자료구조/배열.md",
+    "1. 개념/자료구조/리스트.md",
+    "array_weight_graph.jpg",
+    "array_graph.jpg",
+    "edge_list_weight_graph.jpg",
+    "edge_list_graph.jpg",
+    "radix_sort.jpg",
+    "1. 개념/정렬/병합 정렬 (Merge Sort).md",
+    "1. 개념/정렬/퀵 정렬 (Quick Sort).md",
+    "1. 개념/정렬/선택 정렬 (Selection Sort).md",
+    "1. 개념/정렬/삽입 정렬 (Insertion Sort).md",
+    "1. 개념/정렬/버블 정렬 (Bubble Sort).md",
+    "1. 개념/정렬/기수 정렬 (radix sort).md",
+    "1. 개념/자료구조",
+    "컨셉.md",
+    "quick_sort.jpg",
+    "merge_sort_two_pointer.jpg",
+    "marge_sort.png",
+    "1. 개념/정렬",
+    "무제 파일.md",
+    "2. 아이디어/리스트",
+    "2. 아이디어/배열/값에 접근할 때에는 인덱스를 이용.md",
+    "2. 아이디어/배열",
+    "문제/1138 한 줄로 서기/자기보다 큰 사람이 왼쪽에 몇 명 있었는지.md",
+    "2. 아이디어/배열/배열은 고정 크기.md",
+    "2. 아이디어/인덱스는 몇 번째 값인지를 나타내는 방법.md",
+    "문제/1138 한 줄로 서기/1138 한 줄로 서기.md",
+    "2. 아이디어/배열/인덱스가 연속적.md",
+    "여러 아이디어",
+    "아이디어&문제 해석 엮기",
+    "문제 해석/백준 1138/백준 1138.md",
+    "문제/1138 한 줄로 서기",
+    "문제 해석",
+    "문제",
+    "2. 아이디어",
+    "Welcome.md"
+  ]
+}

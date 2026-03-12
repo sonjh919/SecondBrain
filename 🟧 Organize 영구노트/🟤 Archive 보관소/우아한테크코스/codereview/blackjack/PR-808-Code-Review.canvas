@@ -1,0 +1,363 @@
+{
+  "edges": [
+    {
+      "color": "1",
+      "fromNode": "pr-header",
+      "fromSide": "left",
+      "id": "edge-1",
+      "toNode": "author-info",
+      "toSide": "right"
+    },
+    {
+      "color": "2",
+      "fromNode": "pr-header",
+      "fromSide": "right",
+      "id": "edge-2",
+      "toNode": "reviewer-info",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromNode": "pr-header",
+      "fromSide": "bottom",
+      "id": "edge-3",
+      "toNode": "architecture",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "architecture",
+      "fromSide": "bottom",
+      "id": "edge-4",
+      "toNode": "thread-1",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "architecture",
+      "fromSide": "bottom",
+      "id": "edge-5",
+      "toNode": "thread-2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "architecture",
+      "fromSide": "bottom",
+      "id": "edge-6",
+      "toNode": "thread-3",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "architecture",
+      "fromSide": "bottom",
+      "id": "edge-7",
+      "toNode": "thread-4",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "thread-1",
+      "fromSide": "bottom",
+      "id": "edge-8",
+      "label": "캡슐화",
+      "toNode": "learning-points",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "thread-2",
+      "fromSide": "bottom",
+      "id": "edge-9",
+      "label": "함수형",
+      "toNode": "learning-points",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "thread-3",
+      "fromSide": "bottom",
+      "id": "edge-10",
+      "label": "객체지향",
+      "toNode": "learning-points",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "thread-4",
+      "fromSide": "bottom",
+      "id": "edge-11",
+      "label": "관심사분리",
+      "toNode": "learning-points",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "thread-5",
+      "fromSide": "bottom",
+      "id": "edge-12",
+      "label": "요구사항",
+      "toNode": "learning-points",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "thread-6",
+      "fromSide": "bottom",
+      "id": "edge-13",
+      "label": "DRY",
+      "toNode": "learning-points",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "thread-7",
+      "fromSide": "bottom",
+      "id": "edge-14",
+      "label": "코드품질",
+      "toNode": "learning-points",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "thread-8",
+      "fromSide": "bottom",
+      "id": "edge-15",
+      "label": "네이밍",
+      "toNode": "learning-points",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "thread-9",
+      "fromSide": "right",
+      "id": "edge-16",
+      "label": "디미터법칙",
+      "toNode": "learning-points",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "thread-3",
+      "fromSide": "bottom",
+      "id": "edge-17",
+      "toNode": "key-changes",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "thread-5",
+      "fromSide": "bottom",
+      "id": "edge-18",
+      "toNode": "key-changes",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "thread-8",
+      "fromSide": "bottom",
+      "id": "edge-19",
+      "toNode": "key-changes",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "pr-header",
+      "fromSide": "bottom",
+      "id": "edge-20",
+      "toNode": "timeline",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 300,
+      "id": "pr-header",
+      "styleAttributes": {
+      },
+      "text": "# PR #808: [1단계 - 블랙잭]\n\n**작성자**: sonjh919 (Link)\n**리뷰어**: ddaaac\n\n**기간**: 2025-03-07 ~ 2025-03-11\n**상태**: ✅ Approved (3 rounds)\n\n---\n\n**Round 1** (03-07 15:19): Changes Requested\n**Round 2** (03-09 15:28): Changes Requested\n**Round 3** (03-11 02:22): Approved",
+      "type": "text",
+      "width": 400,
+      "x": 0,
+      "y": -800
+    },
+    {
+      "color": "1",
+      "height": 300,
+      "id": "author-info",
+      "styleAttributes": {
+      },
+      "text": "## 👤 작성자: sonjh919\n\n**이름**: Link (손준형)\n\n**PR 설명**:\n전체적으로 설계를 잘 했다고 생각하며,\n전체적인 코드의 가독성이나 설계 방향에\n대해 리뷰를 요청\n\n**자체 평가**: 5/5\n객체지향 생활체조 요구사항을\n완벽하게 충족했다고 생각함",
+      "type": "text",
+      "width": 380,
+      "x": -500,
+      "y": -800
+    },
+    {
+      "color": "2",
+      "height": 300,
+      "id": "reviewer-info",
+      "styleAttributes": {
+      },
+      "text": "## 👨‍💻 리뷰어: ddaaac\n\n**리뷰 스타일**:\n- 질문을 통한 사고 유도\n- 객체지향 원칙 강조\n- 구체적인 개선 방향 제시\n\n**주요 피드백 영역**:\n- 객체 책임 분배\n- 도메인 로직 위치\n- 캡슐화와 정보 은닉\n- 요구사항 명확화",
+      "type": "text",
+      "width": 380,
+      "x": 500,
+      "y": -800
+    },
+    {
+      "color": "3",
+      "height": 300,
+      "id": "architecture",
+      "styleAttributes": {
+      },
+      "text": "## 🏗️ 아키텍처 구조\n\n```\nApplication\n    ↓\nController\n    ↓\nBlackJack (Domain)\n    ↓\n├── Participant\n│   ├── Player\n│   ├── Players\n│   └── Dealer\n├── Card\n│   ├── CardDeck\n│   └── Hand\n└── Result\n    └── MatchResult\n```",
+      "type": "text",
+      "width": 400,
+      "x": -200,
+      "y": -400
+    },
+    {
+      "color": "6",
+      "height": 550,
+      "id": "thread-1",
+      "styleAttributes": {
+      },
+      "text": "## 💬 스레드 #1: 테스트를 위한 Getter\n\n**파일**: `PlayersTest.java:55`\n**시간**: 2025-03-07 07:58\n**작성자**: sonjh919\n\n### 코드\n```java\n// assertSoftly(softly -> {\n//   softly.assertThat(\n//     playerList.getFirst()\n//       .getCardDeck().getCardsSize()\n//   ).isEqualTo(2);\n// });\n\nassertDoesNotThrow(\n  () -> players.hitCards(dealer)\n);\n```\n\n### 질문\n> getter를 사용하면 테스트를 보다 꼼꼼히 할 수 있지만,\n> 테스트만을 위한 getter를 만드는 것은 아니라고 생각합니다.\n> \n> 테스트를 위한 getter에 대해 어떻게 생각하시나요? 😄\n\n### 주제\n- 테스트 설계\n- 캡슐화 vs 테스트 용이성\n- assertDoesNotThrow 활용",
+      "type": "text",
+      "width": 400,
+      "x": -900,
+      "y": 0
+    },
+    {
+      "color": "6",
+      "height": 500,
+      "id": "thread-2",
+      "styleAttributes": {
+      },
+      "text": "## 💬 스레드 #2: Functional Interface\n\n**파일**: `BlackJack.java:24`\n**시간**: 2025-03-07 14:58\n**리뷰어**: ddaaac 👍1\n\n### 코드\n```java\npublic void drawPlayers(\n  final Function<Player, Boolean> answer,\n  final Consumer<Player> playerDeck\n) {\n  // ...\n}\n```\n\n### 리뷰 코멘트\n> 출력 타이밍 조절을 functional interface를\n> 사용해서 해주셨네요.\n> \n> 이 방법에는 어떤 장단점이 있을까요?\n\n### 주제\n- 함수형 프로그래밍\n- 의존성 역전\n- 출력 타이밍 제어\n- Function & Consumer 활용",
+      "type": "text",
+      "width": 380,
+      "x": -400,
+      "y": 0
+    },
+    {
+      "color": "6",
+      "height": 550,
+      "id": "thread-3",
+      "styleAttributes": {
+      },
+      "text": "## 💬 스레드 #3: Deck의 위치\n\n**파일**: `BlackJack.java:20`\n**시간**: 2025-03-07 14:58\n**리뷰어**: ddaaac 👍1\n\n### 코드\n```java\npublic void hitCardsToParticipant() {\n  players.hitCards(dealer);\n  dealer.addCards();\n}\n```\n\n### 리뷰 코멘트\n> 꼭 코드가 현실을 그대로 반영할 필요는 없습니다.\n> \n> \"객체지향의 사실과 오해\":\n> - 현실: 사람만 능동적으로 행동\n> - 객체 세계: 사람과 컵 모두 능동적 참여 가능\n> \n> **BlackJack이 Deck을 갖고 있다면**\n> **좀 더 시그니처가 자연스러워지지 않을까요?**\n\n### 주제\n- 객체지향의 사실과 오해\n- 책임 분배\n- 현실 vs 객체 세계\n- Deck 소유권",
+      "type": "text",
+      "width": 400,
+      "x": 50,
+      "y": 0
+    },
+    {
+      "color": "6",
+      "height": 550,
+      "id": "thread-4",
+      "styleAttributes": {
+      },
+      "text": "## 💬 스레드 #4: 도메인 로직 위치\n\n**파일**: `OutputView.java:101`\n**시간**: 2025-03-07 15:01\n**리뷰어**: ddaaac 👍1\n\n### 코드\n```java\nprivate void printDealerDeckWithHidden(\n  final Dealer dealer\n) {\n  System.out.println(\n    DEALER_CARDS + toSymbol(\n      dealer.getHand()\n        .getCards().getFirst()\n    )\n  );\n}\n```\n\n### 리뷰 코멘트\n> \"딜러는 처음에 한 장의 카드만 공개 한다\"\n> **→ 도메인 요구사항**\n> \n> 지금은 View에서 결정하고 있네요.\n> \n> 리뷰 반영하시면서 **상속/구현 관계**에 대해서도\n> 한 번 고민해보시면 좋을 것 같네요.\n\n### 주제\n- 도메인 로직 vs View 로직\n- 관심사 분리\n- 상속 구조 설계",
+      "type": "text",
+      "width": 400,
+      "x": 500,
+      "y": 0
+    },
+    {
+      "color": "6",
+      "height": 650,
+      "id": "thread-5",
+      "styleAttributes": {
+      },
+      "text": "## 💬 스레드 #5: 딜러 드로우 버그\n\n**파일**: `BlackJackController.java:37`\n**시간**: 2025-03-07 15:06\n**리뷰어**: ddaaac 👍1\n\n### 코드\n```java\nblackJack.drawDealer();\n```\n\n### 문제 상황\n```\n딜러가 2, 2, 2를 받으면?\n→ 합: 6 (16 이하)\n→ 한 장만 더 받고 멈춤\n→ 총: 8 (여전히 16 이하) ❌\n```\n\n### 리뷰 코멘트\n> 딜러가 **2, 2, 2를 연속으로 받으면** 어떻게 되나요?\n> \n> 주어진 요구사항만으로는 블랙잭 룰이\n> 완전히 설명되지 않습니다.\n> \n> **명확하지 않은 요구사항을 명확하게 만들어가는 것도**\n> **개발자의 역량입니다.**\n\n### 해결책\n```java\nwhile (dealer.isUnderThreshold()) {\n  dealer.draw(standard);\n}\n```\n\n### 주제\n- 요구사항 명확화\n- 엣지 케이스\n- 반복 로직",
+      "type": "text",
+      "width": 400,
+      "x": -900,
+      "y": 600
+    },
+    {
+      "color": "6",
+      "height": 550,
+      "id": "thread-6",
+      "styleAttributes": {
+      },
+      "text": "## 💬 스레드 #6: 중복 상수 관리\n\n**파일**: `MatchResult.java:8`\n**시간**: 2025-03-07 15:12\n**리뷰어**: ddaaac 👍1\n\n### 코드\n```java\n// MatchResult.java\nprivate static final int BLACKJACK_NUMBER = 21;\n\n// Player.java (다른 파일)\nprivate static final int BLACKJACK_NUMBER = 21;\n```\n\n### 리뷰 코멘트\n> Player에도 21이란 상수가 관리되고 있고,\n> MatchResult에도 21란 상수가 관리되고 있네요.\n> \n> **상수를 public으로 열고 싶지 않다면**\n> **어떻게 해결할 수 있을까요?**\n\n### 해결 방향\n1. Result 클래스로 통합\n2. 상수 관리 전용 클래스\n3. 메서드를 통한 캡슐화\n\n### 주제\n- 상수 중복 제거\n- 캡슐화 유지\n- DRY 원칙",
+      "type": "text",
+      "width": 400,
+      "x": -400,
+      "y": 600
+    },
+    {
+      "color": "6",
+      "height": 450,
+      "id": "thread-7",
+      "styleAttributes": {
+      },
+      "text": "## 💬 스레드 #7: 코드 포맷팅\n\n**파일**: `CardDeck.java:29`\n**시간**: 2025-03-07 15:13\n**리뷰어**: ddaaac 👍1\n\n### 코드 (Before)\n```java\nif(sum <= BONUS_THRESHOLD && hasA())sum+= ACE_BONUS;\n```\n\n### 리뷰 코멘트\n> 리포매팅 한 번 해주세요.\n\n### 코드 (After)\n```java\nif (sum <= BONUS_THRESHOLD && hasA()) {\n  sum += ACE_BONUS;\n}\n```\n\n### 주제\n- 코드 스타일\n- 가독성\n- 팀 컨벤션",
+      "type": "text",
+      "width": 350,
+      "x": 100,
+      "y": 600
+    },
+    {
+      "color": "6",
+      "height": 550,
+      "id": "thread-8",
+      "styleAttributes": {
+      },
+      "text": "## 💬 스레드 #8: 메서드 네이밍\n\n**파일**: `CardDeck.java:24`\n**시간**: 2025-03-07 15:14\n**리뷰어**: ddaaac 👍1\n\n### 코드\n```java\npublic int sum() {\n  int sum = cards.stream()\n    .mapToInt(Card::getScore)\n    .sum();\n  \n  // A를 11로 계산하는 특수 로직\n  if (sum <= BONUS_THRESHOLD && hasA()) {\n    sum += ACE_BONUS;\n  }\n  \n  return sum;\n}\n```\n\n### 리뷰 코멘트\n> 로직은 단순 sum이 아닌 것 같아요.\n> 적절하게 메서드명을 바꿔도 좋을 것 같네요.\n\n### 제안\n- `sumWithAce()`\n- `calculateScore()`\n- `calculateScoreWithAceBonus()`\n\n### 주제\n- 의도를 드러내는 네이밍\n- 메서드명과 구현의 일치",
+      "type": "text",
+      "width": 400,
+      "x": 500,
+      "y": 600
+    },
+    {
+      "color": "6",
+      "height": 600,
+      "id": "thread-9",
+      "styleAttributes": {
+      },
+      "text": "## 💬 스레드 #9: 디미터 법칙\n\n**파일**: `OutputView.java:117`\n**시간**: 2025-03-07 15:15\n**리뷰어**: ddaaac 👍1\n\n### 코드 (Before)\n```java\n// OutputView에서 깊은 접근\ndealer.getHand().getCards()\nplayer.getHand().getCards()\n```\n\n### 리뷰 코멘트\n> OutputView가 참가자들의 구조를\n> 모두 알고 있는 형태인데,\n> \n> **Dealer, Player가 필요한 정보를**\n> **제공해주는 편이 더 나은 설계가 아닐까요?**\n\n### 개선 방향\n```java\n// Dealer에 메서드 추가\npublic Card getVisibleCard() {\n  return hand.getFirstCard();\n}\n\npublic List<Card> getAllCards() {\n  return hand.getCards();\n}\n```\n\n### 주제\n- 디미터 법칙 (Law of Demeter)\n- Tell, Don't Ask\n- 캡슐화",
+      "type": "text",
+      "width": 400,
+      "x": -900,
+      "y": 1300
+    },
+    {
+      "color": "4",
+      "height": 600,
+      "id": "key-changes",
+      "styleAttributes": {
+      },
+      "text": "## 📝 주요 변경사항\n\n### Before → After\n\n**1. Deck 소유권**\n```\nDealer가 Deck 보유\n  ↓\nBlackJack이 Deck 보유\n```\n\n**2. 딜러 드로우**\n```\n한 번만 카드 추가\n  ↓\n16 이하면 반복 추가\n```\n\n**3. 카드 공개 로직**\n```\nView에서 결정\n  ↓\nDealer.getVisibleCard()\n```\n\n**4. 메서드명**\n```\nsum()\n  ↓\nsumWithAce()\n```\n\n**5. 상수 관리**\n```\n여러 곳에 BLACKJACK_NUMBER\n  ↓\nResult 클래스로 통합\n```\n\n**6. OutputView**\n```\ngetHand().getCards()\n  ↓\ngetAllCards()\n```",
+      "type": "text",
+      "width": 380,
+      "x": -400,
+      "y": 1300
+    },
+    {
+      "color": "4",
+      "height": 850,
+      "id": "learning-points",
+      "styleAttributes": {
+      },
+      "text": "## 🎓 핵심 학습 포인트\n\n### 1. 객체지향 설계 원칙\n\n**현실 ≠ 객체 세계**\n- 현실의 비유는 이해를 돕지만\n- 객체 세계에서는 모든 객체가 능동적\n- 책임의 적절한 분배가 중요\n\n**책임과 역할**\n- 도메인 로직은 도메인에\n- View는 표현만 담당\n- 관심사의 명확한 분리\n\n### 2. 캡슐화와 정보 은닉\n\n**디미터 법칙**\n```\n❌ object.getX().getY().getZ()\n✅ object.doSomething()\n```\n\n**Tell, Don't Ask**\n- 객체의 상태를 물어보지 말고\n- 객체에게 행동을 요청하라\n\n**테스트 vs 캡슐화**\n- 테스트만을 위한 getter?\n- assertDoesNotThrow 같은 대안\n- 행위 기반 테스트 고려\n\n### 3. 요구사항 명확화\n\n**개발자의 역량**\n- 불명확한 요구사항 발견\n- 도메인 규칙 학습\n- 엣지 케이스 고려\n- 명확하게 만들어가기\n\n### 4. 코드 품질\n\n**의도를 드러내는 코드**\n- 명확한 메서드명\n- 적절한 추상화\n- 일관된 코드 스타일\n\n**중복 제거**\n- DRY 원칙\n- 캡슐화 유지하며 중복 제거\n- 상수/로직 통합\n\n### 5. 함수형 프로그래밍\n\n**Function & Consumer**\n- 의존성 역전\n- 타이밍 제어\n- 테스트 용이성\n\n장점과 단점을 고민하며 사용",
+      "type": "text",
+      "width": 400,
+      "x": 100,
+      "y": 1300
+    },
+    {
+      "color": "5",
+      "height": 600,
+      "id": "timeline",
+      "styleAttributes": {
+      },
+      "text": "## ⏱️ 리뷰 타임라인\n\n**2025-03-07**\n```\n07:58 - sonjh919: 테스트 getter 질문\n14:58 - ddaaac: Functional Interface\n14:58 - ddaaac: Deck 위치\n15:01 - ddaaac: 도메인 로직 위치\n15:06 - ddaaac: 딜러 드로우 버그\n15:12 - ddaaac: 중복 상수\n15:13 - ddaaac: 포맷팅\n15:14 - ddaaac: 메서드 네이밍\n15:15 - ddaaac: 디미터 법칙\n15:19 - ❌ Changes Requested (R1)\n```\n\n**2025-03-08**\n```\n09:41~12:10 - sonjh919: 리뷰 반영\n```\n\n**2025-03-09**\n```\n15:28 - ❌ Changes Requested (R2)\n```\n\n**2025-03-10**\n```\n00:43~08:00 - sonjh919: 추가 수정\n```\n\n**2025-03-11**\n```\n02:22 - ✅ Approved (R3)\n```",
+      "type": "text",
+      "width": 350,
+      "x": 550,
+      "y": 1300
+    }
+  ]
+}

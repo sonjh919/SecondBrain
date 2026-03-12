@@ -1,0 +1,106 @@
+{
+	"edges":[
+		{"fromNode":"overview","fromSide":"bottom","id":"edge1","label":"문제 발견","toNode":"necessity","toSide":"top"},
+		{"fromNode":"overview","fromSide":"right","id":"edge2","label":"조각화 확인","toNode":"check-fragmentation","toSide":"left"},
+		{"fromNode":"check-fragmentation","fromSide":"bottom","id":"edge3","label":"비율 계산","toNode":"calculate-ratio","toSide":"top"},
+		{"fromNode":"calculate-ratio","fromSide":"right","id":"edge4","label":"리빌딩 실행","toNode":"rebuild-method","toSide":"left"},
+		{"fromNode":"necessity","fromSide":"right","id":"edge5","label":"판단 기준","toNode":"calculate-ratio","toSide":"left"},
+		{"fromNode":"rebuild-method","fromSide":"bottom","id":"edge6","label":"특수 케이스","toNode":"fulltext-feature","toSide":"top"},
+		{"fromNode":"necessity","fromSide":"bottom","id":"edge7","label":"실제 적용","toNode":"analysis-result","toSide":"top"},
+		{"fromNode":"calculate-ratio","fromSide":"bottom","id":"edge8","label":"효과 분석","toNode":"low-fragmentation","toSide":"top"},
+		{"fromNode":"fulltext-feature","fromSide":"bottom","id":"edge9","label":"지속 관리","toNode":"monitoring","toSide":"top"},
+		{"fromNode":"analysis-result","fromSide":"right","id":"edge10","label":"비교 분석","toNode":"low-fragmentation","toSide":"left"}
+	],
+	"nodes":[
+		{
+			"file":"🟧 Organize 영구노트/🟤 Archive 보관소/todoktodok/index rebuilding/인덱스 리빌딩 개요.md",
+			"height":280,
+			"id":"overview",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":-340,
+			"y":-380
+		},
+		{
+			"file":"🟧 Organize 영구노트/🟤 Archive 보관소/todoktodok/index rebuilding/인덱스 리빌딩의 필요성.md",
+			"height":320,
+			"id":"necessity",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":-340,
+			"y":0
+		},
+		{
+			"file":"🟧 Organize 영구노트/🟤 Archive 보관소/todoktodok/index rebuilding/인덱스 조각화 확인 방법.md",
+			"height":300,
+			"id":"check-fragmentation",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":180,
+			"y":-380
+		},
+		{
+			"file":"🟧 Organize 영구노트/🟤 Archive 보관소/todoktodok/index rebuilding/단편화 비율 계산.md",
+			"height":340,
+			"id":"calculate-ratio",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":180,
+			"y":20
+		},
+		{
+			"file":"🟧 Organize 영구노트/🟤 Archive 보관소/todoktodok/index rebuilding/InnoDB 인덱스 리빌딩 방법.md",
+			"height":340,
+			"id":"rebuild-method",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":700,
+			"y":-380
+		},
+		{
+			"file":"🟧 Organize 영구노트/🟤 Archive 보관소/todoktodok/index rebuilding/전문 검색 인덱스의 특성.md",
+			"height":340,
+			"id":"fulltext-feature",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":700,
+			"y":80
+		},
+		{
+			"file":"🟧 Organize 영구노트/🟤 Archive 보관소/todoktodok/index rebuilding/실제 테이블 분석 결과.md",
+			"height":280,
+			"id":"analysis-result",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":-340,
+			"y":440
+		},
+		{
+			"file":"🟧 Organize 영구노트/🟤 Archive 보관소/todoktodok/index rebuilding/낮은 단편화 비율과 리빌딩 효과.md",
+			"height":320,
+			"id":"low-fragmentation",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":180,
+			"y":480
+		},
+		{
+			"file":"🟧 Organize 영구노트/🟤 Archive 보관소/todoktodok/index rebuilding/모니터링 포인트.md",
+			"height":300,
+			"id":"monitoring",
+			"styleAttributes":{},
+			"type":"file",
+			"width":400,
+			"x":700,
+			"y":540
+		}
+	]
+}

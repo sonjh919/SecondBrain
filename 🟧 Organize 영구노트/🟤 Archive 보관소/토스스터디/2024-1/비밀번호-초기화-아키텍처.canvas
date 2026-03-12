@@ -1,0 +1,352 @@
+{
+  "edges": [
+    {
+      "color": "2",
+      "fromNode": "data-model",
+      "fromSide": "right",
+      "id": "e1",
+      "label": "데이터 제공",
+      "toNode": "validation",
+      "toSide": "left"
+    },
+    {
+      "color": "2",
+      "fromNode": "validation",
+      "fromSide": "right",
+      "id": "e2",
+      "label": "캐시 활용",
+      "toNode": "caching",
+      "toSide": "left"
+    },
+    {
+      "color": "2",
+      "fromNode": "bloom",
+      "fromSide": "left",
+      "id": "e3",
+      "label": "재구축",
+      "toNode": "batch",
+      "toSide": "right"
+    },
+    {
+      "color": "4",
+      "fromNode": "caching",
+      "fromSide": "bottom",
+      "id": "e4",
+      "label": "Bloom Filter",
+      "toNode": "bloom",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "validation",
+      "fromSide": "bottom",
+      "id": "e5",
+      "label": "이벤트",
+      "toNode": "batch",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "data-model",
+      "fromSide": "bottom",
+      "id": "e6",
+      "label": "스키마",
+      "toNode": "bloom",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "batch",
+      "fromSide": "left",
+      "id": "e7",
+      "label": "동기화",
+      "toNode": "data-model",
+      "toSide": "bottom"
+    },
+    {
+      "color": "2",
+      "fromNode": "validation",
+      "fromSide": "top",
+      "id": "e8",
+      "toNode": "flow1",
+      "toSide": "left"
+    },
+    {
+      "color": "2",
+      "fromNode": "flow1",
+      "fromSide": "bottom",
+      "id": "e9",
+      "toNode": "flow2",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "caching",
+      "fromSide": "right",
+      "id": "e10",
+      "toNode": "cache-flow",
+      "toSide": "left"
+    },
+    {
+      "color": "1",
+      "fromNode": "data-model",
+      "fromSide": "left",
+      "id": "e11",
+      "toNode": "db-tables",
+      "toSide": "right"
+    },
+    {
+      "color": "6",
+      "fromNode": "batch",
+      "fromSide": "bottom",
+      "id": "e12",
+      "toNode": "batch-jobs",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "bloom",
+      "fromSide": "bottom",
+      "id": "e13",
+      "toNode": "bloom-detail",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "req1",
+      "fromSide": "right",
+      "id": "e14",
+      "toNode": "data-model",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "req2",
+      "fromSide": "right",
+      "id": "e15",
+      "toNode": "data-model",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "req3",
+      "fromSide": "left",
+      "id": "e16",
+      "toNode": "bloom",
+      "toSide": "right"
+    },
+    {
+      "color": "3",
+      "fromNode": "cache-flow",
+      "fromSide": "bottom",
+      "id": "e17",
+      "toNode": "performance",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "2",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/02-비밀번호-검증-로직.md",
+      "height": 400,
+      "id": "validation",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -480,
+      "y": -270
+    },
+    {
+      "color": "1",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/01-데이터-모델-설계.md",
+      "height": 400,
+      "id": "data-model",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -1130,
+      "y": -270
+    },
+    {
+      "color": "1",
+      "height": 200,
+      "id": "db-tables",
+      "styleAttributes": {
+      },
+      "text": "**핵심 테이블**\n• users\n• password_history\n• password_usage_count",
+      "type": "text",
+      "width": 220,
+      "x": -1460,
+      "y": -170
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "req1",
+      "styleAttributes": {
+      },
+      "text": "**요구사항 1**\n최근 5개\n비밀번호 금지",
+      "type": "text",
+      "width": 200,
+      "x": -1460,
+      "y": 150
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "req2",
+      "styleAttributes": {
+      },
+      "text": "**요구사항 2**\n3개월 이내\n비밀번호 금지",
+      "type": "text",
+      "width": 200,
+      "x": -1460,
+      "y": 290
+    },
+    {
+      "color": "4",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/04-Bloom-Filter-구현.md",
+      "height": 400,
+      "id": "bloom",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 160,
+      "y": 410
+    },
+    {
+      "color": "4",
+      "height": 180,
+      "id": "bloom-detail",
+      "styleAttributes": {
+      },
+      "text": "**Bloom Filter**\n• 메모리: 120KB\n• 오탐율: 1%\n• 10만 비밀번호",
+      "type": "text",
+      "width": 220,
+      "x": 250,
+      "y": 900
+    },
+    {
+      "color": "5",
+      "height": 80,
+      "id": "title",
+      "styleAttributes": {
+      },
+      "text": "# 비밀번호 초기화 아키텍처",
+      "type": "text",
+      "width": 400,
+      "x": -480,
+      "y": -840
+    },
+    {
+      "height": 60,
+      "id": "overview",
+      "styleAttributes": {
+      },
+      "text": "## 1억 계정 규모 시스템",
+      "type": "text",
+      "width": 400,
+      "x": -480,
+      "y": -720
+    },
+    {
+      "color": "2",
+      "height": 200,
+      "id": "flow1",
+      "styleAttributes": {
+      },
+      "text": "**요청 흐름**\n1. 비밀번호 초기화 요청\n2. 검증 로직 실행\n3. DB 업데이트",
+      "type": "text",
+      "width": 300,
+      "x": 160,
+      "y": -760
+    },
+    {
+      "color": "2",
+      "height": 200,
+      "id": "flow2",
+      "styleAttributes": {
+      },
+      "text": "**검증 단계**\n1. 최근 5개 확인\n2. 3개월 이력 확인\n3. 100명 이상 사용 확인",
+      "type": "text",
+      "width": 300,
+      "x": 160,
+      "y": -520
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "req3",
+      "styleAttributes": {
+      },
+      "text": "**요구사항 3**\n100명 이상\n사용 비밀번호 금지",
+      "type": "text",
+      "width": 200,
+      "x": 700,
+      "y": 550
+    },
+    {
+      "color": "6",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/05-배치-처리-및-동기화.md",
+      "height": 400,
+      "id": "batch",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -730,
+      "y": 410
+    },
+    {
+      "color": "6",
+      "height": 160,
+      "id": "batch-jobs",
+      "styleAttributes": {
+      },
+      "text": "**배치 작업**\n• 매일 02:00 재구축\n• 매시 캐시 갱신\n• 매주 정합성 검증",
+      "type": "text",
+      "width": 280,
+      "x": -670,
+      "y": 900
+    },
+    {
+      "color": "3",
+      "height": 180,
+      "id": "cache-flow",
+      "styleAttributes": {
+      },
+      "text": "**캐시 계층**\nBloom Filter (μs)\n↓\nRedis (ms)\n↓\nDatabase (10ms)",
+      "type": "text",
+      "width": 300,
+      "x": 700,
+      "y": -140
+    },
+    {
+      "color": "3",
+      "height": 180,
+      "id": "performance",
+      "styleAttributes": {
+      },
+      "text": "**성능 지표**\n• 검증 시간: 0.5ms\n• 캐시 히트율: 95%\n• DB 부하: 85% 감소",
+      "type": "text",
+      "width": 300,
+      "x": 700,
+      "y": 80
+    },
+    {
+      "color": "3",
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/2024-1/03-캐싱-전략.md",
+      "height": 400,
+      "id": "caching",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 160,
+      "y": -270
+    }
+  ]
+}

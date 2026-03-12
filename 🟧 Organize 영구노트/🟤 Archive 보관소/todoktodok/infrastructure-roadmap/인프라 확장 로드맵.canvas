@@ -1,0 +1,404 @@
+{
+  "edges": [
+    {
+      "color": "2",
+      "fromNode": "stage-1",
+      "fromSide": "bottom",
+      "id": "e1",
+      "toNode": "lb-1",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "stage-1",
+      "fromSide": "bottom",
+      "id": "e2",
+      "toNode": "cache-1",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "stage-1",
+      "fromSide": "bottom",
+      "id": "e3",
+      "toNode": "db-1",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "stage-2",
+      "fromSide": "bottom",
+      "id": "e4",
+      "toNode": "app-1",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "stage-2",
+      "fromSide": "bottom",
+      "id": "e5",
+      "toNode": "async-1",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "stage-2",
+      "fromSide": "bottom",
+      "id": "e6",
+      "toNode": "monitor-1",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "stage-3",
+      "fromSide": "bottom",
+      "id": "e7",
+      "toNode": "search-1",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "stage-3",
+      "fromSide": "bottom",
+      "id": "e8",
+      "toNode": "security-1",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "lb-1",
+      "fromSide": "bottom",
+      "id": "e9",
+      "toNode": "priority-1",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "app-1",
+      "fromSide": "bottom",
+      "id": "e10",
+      "toNode": "priority-2",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "search-1",
+      "fromSide": "bottom",
+      "id": "e11",
+      "toNode": "priority-3",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "priority-1",
+      "fromSide": "bottom",
+      "id": "e12",
+      "toNode": "tech-1",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "priority-2",
+      "fromSide": "bottom",
+      "id": "e13",
+      "toNode": "tech-2",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "priority-3",
+      "fromSide": "bottom",
+      "id": "e14",
+      "toNode": "tech-3",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "tech-1",
+      "fromSide": "bottom",
+      "id": "e15",
+      "toNode": "metrics-1",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "tech-2",
+      "fromSide": "bottom",
+      "id": "e16",
+      "toNode": "metrics-2",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "tech-3",
+      "fromSide": "bottom",
+      "id": "e17",
+      "toNode": "metrics-3",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "stage-1",
+      "fromSide": "right",
+      "id": "e18",
+      "label": "성장",
+      "toNode": "stage-2",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "stage-2",
+      "fromSide": "right",
+      "id": "e19",
+      "label": "확장",
+      "toNode": "stage-3",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 140,
+      "id": "header",
+      "styleAttributes": {
+      },
+      "text": "# 인프라 확장 로드맵\n## 1만 → 10만 → 1000만",
+      "type": "text",
+      "width": 800,
+      "x": -400,
+      "y": -540
+    },
+    {
+      "color": "2",
+      "height": 150,
+      "id": "stage-1",
+      "styleAttributes": {
+      },
+      "text": "## 🟢 1만 명\n**스케일아웃 고려 시점**\n- 서비스 초기 홍보 성공\n- 단일 인스턴스 최적화",
+      "type": "text",
+      "width": 300,
+      "x": -1000,
+      "y": -350
+    },
+    {
+      "color": "3",
+      "height": 150,
+      "id": "stage-2",
+      "styleAttributes": {
+      },
+      "text": "## 🟡 10만 명\n**본격적인 성장 시점**\n- 1년 내 50-100만 예상\n- 스케일업 고려\n- 분산 시스템 도입",
+      "type": "text",
+      "width": 300,
+      "x": -100,
+      "y": -350
+    },
+    {
+      "color": "1",
+      "height": 150,
+      "id": "stage-3",
+      "styleAttributes": {
+      },
+      "text": "## 🔴 1000만 명\n**대규모 서비스**\n- 마이크로서비스 필수\n- 글로벌 인프라\n- 완전한 분산 아키텍처",
+      "type": "text",
+      "width": 300,
+      "x": 800,
+      "y": -350
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/todoktodok/infrastructure-roadmap/01-로드밸런서 진화.md",
+      "height": 150,
+      "id": "lb-1",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 300,
+      "x": -1200,
+      "y": -100
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/todoktodok/infrastructure-roadmap/02-캐싱 전략.md",
+      "height": 150,
+      "id": "cache-1",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 300,
+      "x": -1200,
+      "y": 100
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/todoktodok/infrastructure-roadmap/03-데이터베이스 확장.md",
+      "height": 150,
+      "id": "db-1",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 300,
+      "x": -1200,
+      "y": 300
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/todoktodok/infrastructure-roadmap/04-애플리케이션 서버 확장.md",
+      "height": 150,
+      "id": "app-1",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 300,
+      "x": -400,
+      "y": -100
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/todoktodok/infrastructure-roadmap/05-비동기 처리.md",
+      "height": 150,
+      "id": "async-1",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 300,
+      "x": -400,
+      "y": 100
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/todoktodok/infrastructure-roadmap/06-모니터링과 관찰성.md",
+      "height": 150,
+      "id": "monitor-1",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 300,
+      "x": -400,
+      "y": 300
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/todoktodok/infrastructure-roadmap/07-검색 엔진.md",
+      "height": 150,
+      "id": "search-1",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 300,
+      "x": 500,
+      "y": -100
+    },
+    {
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/todoktodok/infrastructure-roadmap/08-보안과 안정성.md",
+      "height": 150,
+      "id": "security-1",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 300,
+      "x": 500,
+      "y": 100
+    },
+    {
+      "color": "4",
+      "height": 200,
+      "id": "priority-1",
+      "styleAttributes": {
+      },
+      "text": "### 최우선 과제\n1. **Redis 캐싱**\n2. ALB 전환\n3. Connection Pool 최적화\n4. 인덱스 최적화",
+      "type": "text",
+      "width": 280,
+      "x": -1200,
+      "y": 500
+    },
+    {
+      "color": "4",
+      "height": 200,
+      "id": "priority-2",
+      "styleAttributes": {
+      },
+      "text": "### 최우선 과제\n1. **Read Replica**\n2. 스케일 아웃 (3-5개)\n3. APM 도입\n4. 비동기 처리 (RabbitMQ)",
+      "type": "text",
+      "width": 280,
+      "x": -400,
+      "y": 500
+    },
+    {
+      "color": "4",
+      "height": 200,
+      "id": "priority-3",
+      "styleAttributes": {
+      },
+      "text": "### 최우선 과제\n1. **샤딩 (Sharding)**\n2. Kafka 이벤트 드리븐\n3. 마이크로서비스 전환\n4. Elasticsearch Cluster",
+      "type": "text",
+      "width": 280,
+      "x": 520,
+      "y": 500
+    },
+    {
+      "color": "6",
+      "height": 180,
+      "id": "tech-1",
+      "styleAttributes": {
+      },
+      "text": "### 핵심 기술스택\n- Nginx → **ALB**\n- **Redis** (단일)\n- MySQL (단일)\n- Spring Boot\n- Logback",
+      "type": "text",
+      "width": 280,
+      "x": -1200,
+      "y": 750
+    },
+    {
+      "color": "6",
+      "height": 180,
+      "id": "tech-2",
+      "styleAttributes": {
+      },
+      "text": "### 핵심 기술스택\n- ALB + Auto Scaling\n- **Redis Session**\n- **MySQL Replica**\n- Prometheus + Grafana\n- RabbitMQ",
+      "type": "text",
+      "width": 280,
+      "x": -400,
+      "y": 750
+    },
+    {
+      "color": "6",
+      "height": 180,
+      "id": "tech-3",
+      "styleAttributes": {
+      },
+      "text": "### 핵심 기술스택\n- **Multi-Region ALB**\n- **Redis Cluster**\n- **MySQL Sharding**\n- **Kafka**\n- **Elasticsearch Cluster**\n- Kubernetes",
+      "type": "text",
+      "width": 280,
+      "x": 520,
+      "y": 750
+    },
+    {
+      "color": "5",
+      "height": 150,
+      "id": "metrics-1",
+      "styleAttributes": {
+      },
+      "text": "### 예상 지표\n- RPS: ~100\n- DB Connections: ~10\n- Cache Hit Rate: 70%\n- 응답시간: <200ms",
+      "type": "text",
+      "width": 280,
+      "x": -1200,
+      "y": 980
+    },
+    {
+      "color": "5",
+      "height": 150,
+      "id": "metrics-2",
+      "styleAttributes": {
+      },
+      "text": "### 예상 지표\n- RPS: ~1,000\n- DB Connections: ~50\n- Cache Hit Rate: 85%\n- 응답시간: <300ms",
+      "type": "text",
+      "width": 280,
+      "x": -400,
+      "y": 980
+    },
+    {
+      "color": "5",
+      "height": 150,
+      "id": "metrics-3",
+      "styleAttributes": {
+      },
+      "text": "### 예상 지표\n- RPS: ~10,000+\n- DB Connections: 분산\n- Cache Hit Rate: 90%+\n- 응답시간: <500ms (P99)",
+      "type": "text",
+      "width": 280,
+      "x": 520,
+      "y": 980
+    }
+  ]
+}

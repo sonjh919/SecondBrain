@@ -1,0 +1,297 @@
+{
+  "edges": [
+    {
+      "fromNode": "problem-title",
+      "fromSide": "bottom",
+      "id": "edge-1",
+      "label": "호출 흐름",
+      "toNode": "flow-diagram",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "problem-title",
+      "fromSide": "bottom",
+      "id": "edge-2",
+      "label": "원인 1",
+      "toNode": "cause-1",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "problem-title",
+      "fromSide": "bottom",
+      "id": "edge-3",
+      "label": "원인 2",
+      "toNode": "cause-2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "problem-title",
+      "fromSide": "bottom",
+      "id": "edge-4",
+      "label": "원인 3",
+      "toNode": "cause-3",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "cause-1",
+      "fromSide": "bottom",
+      "id": "edge-5",
+      "label": "AOP 원리",
+      "toNode": "aop-proxy-diagram",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "cause-1",
+      "fromSide": "bottom",
+      "id": "edge-6",
+      "label": "해결책",
+      "toNode": "solution-1",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "cause-1",
+      "fromSide": "bottom",
+      "id": "edge-7",
+      "label": "대안",
+      "toNode": "solution-2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "cause-2",
+      "fromSide": "bottom",
+      "id": "edge-8",
+      "label": "해결책",
+      "toNode": "solution-3",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "solution-3",
+      "fromSide": "right",
+      "id": "edge-9",
+      "label": "참고",
+      "toNode": "propagation-table",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "solution-1",
+      "fromSide": "bottom",
+      "id": "edge-10",
+      "label": "권장",
+      "toNode": "final-solution",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "solution-3",
+      "fromSide": "bottom",
+      "id": "edge-11",
+      "label": "조합",
+      "toNode": "final-solution",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "final-solution",
+      "fromSide": "right",
+      "id": "edge-12",
+      "label": "검증",
+      "toNode": "verification",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "final-solution",
+      "fromSide": "bottom",
+      "id": "edge-13",
+      "label": "학습",
+      "toNode": "key-points",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "flow-diagram",
+      "fromSide": "bottom",
+      "id": "edge-14",
+      "label": "코드 위치",
+      "toNode": "code-location",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "#ff6b6b",
+      "height": 150,
+      "id": "problem-title",
+      "styleAttributes": {
+      },
+      "text": "# 쿠폰 발급 트랜잭션 미동작 문제\n\n**MemberCouponController**에서 쿠폰 발급 시 트랜잭션이 제대로 동작하지 않는 문제 분석",
+      "type": "text",
+      "width": 600,
+      "x": 0,
+      "y": -500
+    },
+    {
+      "color": "#4dabf7",
+      "height": 500,
+      "id": "flow-diagram",
+      "styleAttributes": {
+      },
+      "text": "## 호출 흐름\n\n```\nMemberCouponController.issueCoupon()\n  ↓ (트랜잭션 없음 ⚠️)\nCouponIssuer.issueCoupon() [@Transactional]\n  ↓\n  ├─ MemberService.getMember()\n  │   [@Transactional(readOnly=true)] ⚠️\n  │\n  ├─ CouponService.getCouponWithLock()\n  │   [@Transactional]\n  │\n  ├─ issueMemberCoupon() ⚠️\n  │   [@Transactional] ← AOP 미작동!\n  │   └─ MemberCoupon.issue()\n  │   └─ repository.save()\n  │\n  └─ observers.forEach()\n```",
+      "type": "text",
+      "width": 400,
+      "x": -600,
+      "y": -300
+    },
+    {
+      "color": "#fa5252",
+      "height": 500,
+      "id": "cause-1",
+      "styleAttributes": {
+      },
+      "text": "## 🔴 원인 1: 내부 메서드 호출\n\n**Same Class Method Call**\n\n```java\n// CouponIssuer.java\n@Transactional\npublic MemberCoupon issueCoupon(...) {\n    // this.issueMemberCoupon() 호출\n    MemberCoupon mc = issueMemberCoupon(...);\n    return mc;\n}\n\n@Transactional  // ❌ 적용 안 됨!\npublic MemberCoupon issueMemberCoupon(...) {\n    // ...\n}\n```\n\n**문제:**\n- 같은 클래스 내 메서드 호출\n- AOP 프록시 우회\n- @Transactional 무시됨",
+      "type": "text",
+      "width": 400,
+      "x": 50,
+      "y": -300
+    },
+    {
+      "color": "#fa5252",
+      "height": 500,
+      "id": "cause-2",
+      "styleAttributes": {
+      },
+      "text": "## 🔴 원인 2: readOnly 충돌\n\n**Transaction Propagation Conflict**\n\n```java\n// Write 트랜잭션\n@Transactional\npublic MemberCoupon issueCoupon(...) {\n    // Read-only 트랜잭션 호출 ⚠️\n    Member member = memberService.getMember(...);\n    // ...\n}\n\n// MemberService.java\n@Transactional(readOnly = true)\npublic Member getMember(Long id) {\n    // ...\n}\n```\n\n**문제:**\n- Write 트랜잭션 내에서 readOnly 호출\n- 트랜잭션 속성 충돌 가능\n- 롤백 실패 위험",
+      "type": "text",
+      "width": 400,
+      "x": 500,
+      "y": -300
+    },
+    {
+      "color": "#fa5252",
+      "height": 500,
+      "id": "cause-3",
+      "styleAttributes": {
+      },
+      "text": "## 🔴 원인 3: Dirty Checking 실패\n\n**Entity State Not Tracked**\n\n```java\n// Coupon.java\npublic void issue() {\n    // 상태 변경\n    this.issueCount++;\n}\n```\n\n**문제:**\n- 트랜잭션 경계 불명확\n- 영속성 컨텍스트 별도 관리\n- Dirty Checking 미작동 가능\n- DB에 반영되지 않을 수 있음",
+      "type": "text",
+      "width": 400,
+      "x": 950,
+      "y": -300
+    },
+    {
+      "color": "#748ffc",
+      "height": 500,
+      "id": "aop-proxy-diagram",
+      "styleAttributes": {
+      },
+      "text": "## Spring AOP 프록시 동작 원리\n\n**외부 호출 (정상):**\n```\nClient → Proxy(CouponIssuer) → Real CouponIssuer\n         [트랜잭션 시작]         [비즈니스 로직]\n                               [트랜잭션 커밋]\n```\n\n**내부 호출 (문제):**\n```\nProxy → Real CouponIssuer.issueCoupon()\n        [트랜잭션 시작]\n           ↓\n        this.issueMemberCoupon() ← 프록시 우회!\n        [@Transactional 무시됨]\n```\n\n**핵심:**\n- 프록시는 외부 호출에만 적용\n- 내부 메서드 호출은 `this` 참조\n- AOP 적용 안 됨",
+      "type": "text",
+      "width": 450,
+      "x": -600,
+      "y": 250
+    },
+    {
+      "color": "#51cf66",
+      "height": 500,
+      "id": "solution-1",
+      "styleAttributes": {
+      },
+      "text": "## ✅ 해결 1: 내부 호출 제거 (권장)\n\n**Before:**\n```java\n@Transactional\npublic MemberCoupon issueCoupon(...) {\n    MemberCoupon mc = issueMemberCoupon(...);\n    return mc;\n}\n\n@Transactional\npublic MemberCoupon issueMemberCoupon(...) {\n    MemberCoupon mc = MemberCoupon.issue(...);\n    repository.save(mc);\n    return mc;\n}\n```\n\n**After:**\n```java\n@Transactional\npublic MemberCoupon issueCoupon(...) {\n    // 직접 구현\n    MemberCoupon mc = MemberCoupon.issue(...);\n    repository.save(mc);\n    return mc;\n}\n// issueMemberCoupon() 제거\n```",
+      "type": "text",
+      "width": 450,
+      "x": -100,
+      "y": 250
+    },
+    {
+      "color": "#51cf66",
+      "height": 500,
+      "id": "solution-2",
+      "styleAttributes": {
+      },
+      "text": "## ✅ 해결 2: Self Injection\n\n```java\n@Component\npublic class CouponIssuer {\n\n    @Autowired\n    @Lazy\n    private CouponIssuer self;\n\n    @Transactional\n    public MemberCoupon issueCoupon(...) {\n        // self 사용으로 프록시 통해 호출\n        MemberCoupon mc = self.issueMemberCoupon(...);\n        return mc;\n    }\n\n    @Transactional\n    public MemberCoupon issueMemberCoupon(...) {\n        // 이제 @Transactional 적용됨!\n        // ...\n    }\n}\n```\n\n**장점:** @Transactional 정상 작동\n**단점:** 순환 참조, 코드 복잡도 증가",
+      "type": "text",
+      "width": 450,
+      "x": 400,
+      "y": 250
+    },
+    {
+      "color": "#51cf66",
+      "height": 500,
+      "id": "solution-3",
+      "styleAttributes": {
+      },
+      "text": "## ✅ 해결 3: Propagation 명시\n\n**MemberService:**\n```java\n// SUPPORTS: 외부 트랜잭션 있으면 참여\n@Transactional(\n    readOnly = true,\n    propagation = Propagation.SUPPORTS\n)\npublic Member getMember(Long id) {\n    // ...\n}\n```\n\n**CouponService:**\n```java\n// MANDATORY: 외부 트랜잭션 필수\n@Transactional(\n    propagation = Propagation.MANDATORY\n)\npublic Coupon getCouponWithLock(Long id) {\n    // 락은 반드시 트랜잭션 내에서!\n}\n```\n\n**효과:**\n- 트랜잭션 경계 명확화\n- readOnly 충돌 방지",
+      "type": "text",
+      "width": 450,
+      "x": 900,
+      "y": 250
+    },
+    {
+      "color": "#ffd43b",
+      "height": 500,
+      "id": "propagation-table",
+      "styleAttributes": {
+      },
+      "text": "## 트랜잭션 전파 레벨\n\n| 레벨 | 외부 트랜잭션 있음 | 외부 트랜잭션 없음 |\n|------|-------------------|-------------------|\n| **REQUIRED** | 참여 | 새로 생성 |\n| **SUPPORTS** | 참여 | 없이 실행 |\n| **MANDATORY** | 참여 | 예외 발생 |\n| **REQUIRES_NEW** | 새로 생성 | 새로 생성 |\n| **NOT_SUPPORTED** | 중단 | 없이 실행 |\n| **NEVER** | 예외 발생 | 없이 실행 |\n\n**권장:**\n- 조회: `SUPPORTS`\n- 락 획득: `MANDATORY`\n- 독립 작업: `REQUIRES_NEW`",
+      "type": "text",
+      "width": 450,
+      "x": 1400,
+      "y": 250
+    },
+    {
+      "color": "#51cf66",
+      "height": 500,
+      "id": "final-solution",
+      "styleAttributes": {
+      },
+      "text": "## 최종 권장 해결책\n\n```java\n@Component\npublic class CouponIssuer {\n\n    @Transactional\n    public MemberCoupon issueCoupon(Long couponId, Long memberId) {\n        // 1. 회원 조회 (SUPPORTS)\n        Member member = memberService.getMember(memberId);\n\n        // 2. 쿠폰 조회 + 락 (MANDATORY)\n        Coupon coupon = couponService.getCouponWithLock(couponId);\n\n        // 3. 발급 (내부 메서드 호출 제거)\n        MemberCoupon memberCoupon = MemberCoupon.issue(\n            member.getId(), coupon\n        );\n        memberCouponRepository.save(memberCoupon);\n\n        // 4. 옵저버 실행\n        observers.forEach(obs -> obs.onIssue(memberCoupon.getId()));\n\n        return memberCoupon;\n    }\n\n    // issueMemberCoupon() 제거\n}\n```",
+      "type": "text",
+      "width": 700,
+      "x": -200,
+      "y": 850
+    },
+    {
+      "color": "#4dabf7",
+      "height": 500,
+      "id": "verification",
+      "styleAttributes": {
+      },
+      "text": "## 검증 방법\n\n### 1. 로깅 설정\n```yaml\nlogging:\n  level:\n    org.springframework.transaction: DEBUG\n    org.hibernate.SQL: DEBUG\n```\n\n### 2. 확인 사항\n✅ 트랜잭션 시작/커밋 로그\n✅ SQL 실행 순서\n✅ 락 획득 시점\n✅ Dirty Checking 동작\n\n### 3. 테스트 코드\n```java\n@Test\nvoid 롤백_동작_확인() {\n    // 예외 발생 시 issueCount 증가 안 함\n    assertThrows(Exception.class, () -> {\n        couponIssuer.issueCoupon(1L, 999L);\n    });\n\n    Long count = coupon.getIssueCount();\n    assertThat(count).isEqualTo(0);\n}\n```",
+      "type": "text",
+      "width": 600,
+      "x": 550,
+      "y": 850
+    },
+    {
+      "color": "#ffd43b",
+      "height": 500,
+      "id": "key-points",
+      "styleAttributes": {
+      },
+      "text": "## 핵심 학습 포인트\n\n### 1. Spring AOP는 프록시 기반\n- 외부 호출에만 적용\n- 내부 메서드 호출 시 우회\n- `this` vs `프록시 객체`\n\n### 2. 트랜잭션 전파 명시 필수\n- 기본값(REQUIRED)에 의존 금지\n- 메서드별 역할에 맞게 설정\n- readOnly 충돌 주의\n\n### 3. 비관적 락은 트랜잭션 내\n- MANDATORY 사용 권장\n- 트랜잭션 없으면 예외 발생\n- 데드락 위험 인지\n\n### 4. 단순함이 최고\n- 불필요한 메서드 분리 지양\n- 트랜잭션 경계 명확히\n- 테스트로 검증",
+      "type": "text",
+      "width": 500,
+      "x": 1200,
+      "y": 850
+    },
+    {
+      "color": "#ff8787",
+      "height": 400,
+      "id": "code-location",
+      "styleAttributes": {
+      },
+      "text": "## 문제 발생 코드 위치\n\n### MemberCouponController.java:37-38\n```java\npublic Long issueCoupon(@RequestBody IssueCouponRequest request) {\n    return couponIssuer.issueCoupon(\n        request.couponId(),\n        request.memberId()\n    ).getId();\n}\n```\n\n### CouponIssuer.java:31-44\n```java\n@Transactional\npublic MemberCoupon issueCoupon(Long couponId, Long memberId) {\n    Member member = memberService.getMember(memberId);\n    Coupon coupon = couponService.getCouponWithLock(couponId);\n    MemberCoupon mc = issueMemberCoupon(member, coupon); // ⚠️\n    observers.forEach(obs -> obs.onIssue(mc.getId()));\n    return mc;\n}\n```",
+      "type": "text",
+      "width": 500,
+      "x": -600,
+      "y": 850
+    },
+    {
+      "height": 60,
+      "id": "0dc3090f1aebf2a7",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 260,
+      "x": -300,
+      "y": 40
+    }
+  ]
+}

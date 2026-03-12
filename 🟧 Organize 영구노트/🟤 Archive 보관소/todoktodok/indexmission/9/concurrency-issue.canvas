@@ -1,0 +1,137 @@
+{
+	"edges":[
+		{"fromNode":"overview","fromSide":"bottom","id":"edge1","label":"문제 분석","toNode":"problem","toSide":"top"},
+		{"fromNode":"overview","fromSide":"bottom","id":"edge2","label":"해결 과정","toNode":"solution","toSide":"top"},
+		{"fromNode":"problem","fromSide":"bottom","id":"edge3","label":"기술 상세","toNode":"technical","toSide":"top"},
+		{"fromNode":"solution","fromSide":"bottom","id":"edge4","label":"배운 점","toNode":"lessons","toSide":"top"},
+		{"fromNode":"race-condition","fromSide":"right","id":"edge5","label":"원인","toNode":"problem","toSide":"left"},
+		{"fromNode":"solution","fromSide":"right","id":"edge6","label":"사용 기술","toNode":"pessimistic-lock","toSide":"left"},
+		{"fromNode":"lessons","fromSide":"right","id":"edge7","label":"핵심 요약","toNode":"key-learning","toSide":"left"},
+		{"fromNode":"test-scenario","fromSide":"bottom","id":"edge8","label":"발견","toNode":"overview","toSide":"top"},
+		{"fromNode":"technical","fromSide":"left","id":"edge9","label":"구현","toNode":"final-solution","toSide":"right"},
+		{"fromNode":"entity-structure","fromSide":"right","id":"edge10","label":"구조","toNode":"race-condition","toSide":"left"}
+	],
+	"nodes":[
+		{
+			"color":"5",
+			"file":"🟧 Organize 영구노트/🟤 Archive 보관소/todoktodok/indexmission/9/overview.md",
+			"height":800,
+			"id":"overview",
+			"styleAttributes":{},
+			"type":"file",
+			"width":620,
+			"x":-280,
+			"y":-860
+		},
+		{
+			"color":"1",
+			"height":260,
+			"id":"test-scenario",
+			"styleAttributes":{},
+			"text":"## 테스트 시나리오\n\n- 5개 스레드 병렬 실행\n- 각 20개 쿠폰 사용 시도\n- useLimit = 5\n\n**기대**: 5번만 성공\n**실제**: 20~24번 성공 ❌",
+			"type":"text",
+			"width":400,
+			"x":-170,
+			"y":-1200
+		},
+		{
+			"color":"2",
+			"file":"🟧 Organize 영구노트/🟤 Archive 보관소/todoktodok/indexmission/9/lessons-learned.md",
+			"height":520,
+			"id":"lessons",
+			"styleAttributes":{},
+			"type":"file",
+			"width":930,
+			"x":-25,
+			"y":1020
+		},
+		{
+			"color":"2",
+			"height":190,
+			"id":"key-learning",
+			"styleAttributes":{},
+			"text":"## 핵심 교훈\n\n1. @Transactional만으론 부족\n2. 연관 엔티티도 락 필요\n3. SQL 로그 확인 필수\n4. EntityManager.lock() 활용",
+			"type":"text",
+			"width":340,
+			"x":1120,
+			"y":1185
+		},
+		{
+			"color":"1",
+			"file":"🟧 Organize 영구노트/🟤 Archive 보관소/todoktodok/indexmission/9/problem-analysis.md",
+			"height":720,
+			"id":"problem",
+			"styleAttributes":{},
+			"type":"file",
+			"width":710,
+			"x":-850,
+			"y":60
+		},
+		{
+			"color":"4",
+			"file":"🟧 Organize 영구노트/🟤 Archive 보관소/todoktodok/indexmission/9/technical-details.md",
+			"height":600,
+			"id":"technical",
+			"styleAttributes":{},
+			"type":"file",
+			"width":805,
+			"x":-897,
+			"y":980
+		},
+		{
+			"color":"1",
+			"height":200,
+			"id":"race-condition",
+			"styleAttributes":{},
+			"text":"## Race Condition\n\n여러 스레드가 동시에\n같은 데이터를 읽고 수정\n\n→ Lost Update 발생",
+			"type":"text",
+			"width":280,
+			"x":-1350,
+			"y":320
+		},
+		{
+			"color":"6",
+			"height":290,
+			"id":"entity-structure",
+			"styleAttributes":{},
+			"text":"## 엔티티 구조\n\n```\nCoupon\n├── useLimit: 5\n├── useCount: 0\n└── 참조됨\n    ├── MemberCoupon 1\n    ├── MemberCoupon 2\n    └── MemberCoupon 3...\n```",
+			"type":"text",
+			"width":300,
+			"x":-1800,
+			"y":275
+		},
+		{
+			"color":"3",
+			"height":390,
+			"id":"final-solution",
+			"styleAttributes":{},
+			"text":"## 최종 해결책\n\n```java\n// 1. MemberCoupon 락\nrepository.findByIdWithLock(id)\n\n// 2. Coupon 락\nentityManager.lock(\n  coupon, \n  PESSIMISTIC_WRITE\n)\n```\n\n✅ 테스트 통과!\n✅ useCount = 5",
+			"type":"text",
+			"width":680,
+			"x":-1800,
+			"y":1085
+		},
+		{
+			"color":"3",
+			"file":"🟧 Organize 영구노트/🟤 Archive 보관소/todoktodok/indexmission/9/solution-steps.md",
+			"height":720,
+			"id":"solution",
+			"styleAttributes":{},
+			"type":"file",
+			"width":740,
+			"x":120,
+			"y":60
+		},
+		{
+			"color":"3",
+			"height":210,
+			"id":"pessimistic-lock",
+			"styleAttributes":{},
+			"text":"## Pessimistic Lock\n\n`SELECT ... FOR UPDATE`\n\n데이터 접근 시\n락을 획득하여 차단",
+			"type":"text",
+			"width":310,
+			"x":1120,
+			"y":315
+		}
+	]
+}

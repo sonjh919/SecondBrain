@@ -1,0 +1,244 @@
+{
+  "edges": [
+    {
+      "color": "3",
+      "fromNode": "0ffd284906dd29bb",
+      "fromSide": "right",
+      "id": "edge-resume-to-fulltext",
+      "label": "Performance Optimization",
+      "toNode": "fulltext-index-question",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromNode": "fulltext-index-question",
+      "fromSide": "bottom",
+      "id": "edge-fulltext-to-fragmentation",
+      "label": "Deep Dive",
+      "toNode": "fragmentation-monitoring",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "fragmentation-monitoring",
+      "fromSide": "bottom",
+      "id": "edge-fragmentation-to-optimize",
+      "label": "Deep Dive",
+      "toNode": "optimize-table-strategy",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "optimize-table-strategy",
+      "fromSide": "bottom",
+      "id": "edge-optimize-to-metrics",
+      "label": "Deep Dive",
+      "toNode": "performance-metrics",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "0ffd284906dd29bb",
+      "fromSide": "right",
+      "id": "edge-resume-to-tomcat",
+      "label": "Load Testing",
+      "toNode": "tomcat-hikaricp-optimization",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "tomcat-hikaricp-optimization",
+      "fromSide": "right",
+      "id": "edge-tomcat-to-config",
+      "label": "Deep Dive",
+      "toNode": "optimal-config-decision",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "tomcat-hikaricp-optimization",
+      "fromSide": "right",
+      "id": "edge-tomcat-to-scenario",
+      "label": "Deep Dive",
+      "toNode": "k6-test-scenarios",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "tomcat-hikaricp-optimization",
+      "fromSide": "right",
+      "id": "edge-tomcat-to-weighted",
+      "label": "Deep Dive",
+      "toNode": "single-vs-weighted-test",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "tomcat-hikaricp-optimization",
+      "fromSide": "right",
+      "id": "edge-tomcat-to-grafana",
+      "label": "Deep Dive",
+      "toNode": "grafana-metrics-monitoring",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fulltext-index-question",
+      "fromSide": "top",
+      "id": "ee501728b7f9c99b",
+      "styleAttributes": {
+      },
+      "toNode": "af7db260922155a9",
+      "toSide": "bottom"
+    }
+  ],
+  "nodes": [
+    {
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/Resume.md",
+      "height": 1960,
+      "id": "0ffd284906dd29bb",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 935,
+      "x": -760,
+      "y": -960
+    },
+    {
+      "color": "3",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/Full-Text Index 설명.md",
+      "height": 850,
+      "id": "fulltext-index-question",
+      "styleAttributes": {
+        "border": "3px solid",
+        "borderColor": "#3b82f6"
+      },
+      "type": "file",
+      "width": 450,
+      "x": 400,
+      "y": -500
+    },
+    {
+      "color": "3",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/Index Fragmentation 모니터링.md",
+      "height": 850,
+      "id": "fragmentation-monitoring",
+      "styleAttributes": {
+        "border": "3px solid",
+        "borderColor": "#3b82f6"
+      },
+      "type": "file",
+      "width": 450,
+      "x": 400,
+      "y": 500
+    },
+    {
+      "color": "3",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/OPTIMIZE TABLE 실행 전략.md",
+      "height": 850,
+      "id": "optimize-table-strategy",
+      "styleAttributes": {
+        "border": "3px solid",
+        "borderColor": "#3b82f6"
+      },
+      "type": "file",
+      "width": 450,
+      "x": 400,
+      "y": 1500
+    },
+    {
+      "color": "3",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/재구성 성능 측정 메트릭.md",
+      "height": 850,
+      "id": "performance-metrics",
+      "styleAttributes": {
+        "border": "3px solid",
+        "borderColor": "#3b82f6"
+      },
+      "type": "file",
+      "width": 450,
+      "x": 400,
+      "y": 2500
+    },
+    {
+      "color": "5",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/Tomcat-HikariCP 최적화.md",
+      "height": 850,
+      "id": "tomcat-hikaricp-optimization",
+      "styleAttributes": {
+        "border": "3px solid",
+        "borderColor": "#a855f7"
+      },
+      "type": "file",
+      "width": 450,
+      "x": 1100,
+      "y": 500
+    },
+    {
+      "color": "5",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/최적 설정값 결정 근거.md",
+      "height": 850,
+      "id": "optimal-config-decision",
+      "styleAttributes": {
+        "border": "3px solid",
+        "borderColor": "#a855f7"
+      },
+      "type": "file",
+      "width": 450,
+      "x": 1800,
+      "y": -500
+    },
+    {
+      "color": "5",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/K6 테스트 시나리오 설계.md",
+      "height": 850,
+      "id": "k6-test-scenarios",
+      "styleAttributes": {
+        "border": "3px solid",
+        "borderColor": "#a855f7"
+      },
+      "type": "file",
+      "width": 450,
+      "x": 1800,
+      "y": 500
+    },
+    {
+      "color": "5",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/단일 테스트 vs 가중치 테스트.md",
+      "height": 850,
+      "id": "single-vs-weighted-test",
+      "styleAttributes": {
+        "border": "3px solid",
+        "borderColor": "#a855f7"
+      },
+      "type": "file",
+      "width": 450,
+      "x": 1800,
+      "y": 1500
+    },
+    {
+      "color": "5",
+      "file": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/interview/Grafana 메트릭 모니터링.md",
+      "height": 850,
+      "id": "grafana-metrics-monitoring",
+      "styleAttributes": {
+        "border": "3px solid",
+        "borderColor": "#a855f7"
+      },
+      "type": "file",
+      "width": 450,
+      "x": 1800,
+      "y": 2500
+    },
+    {
+      "height": 440,
+      "id": "af7db260922155a9",
+      "styleAttributes": {
+      },
+      "text": "10초인데 더 개선 방안은?\n\n여러 시도를 해봤지만 결국 MySQL Full-text 인덱스의 구조적 한계로 생각하고 있습니다. Full-text 인덱스는 일반 B-Tree 인덱스보다 크기가 크고, 토론방 제목과 책 제목을 각각 검색한 후 결과를 병합하는 과정에서 인덱스 스캔과 결과 처리에 상당한 시간이 소요되어 병목이 발생합니다. 또한 MySQL Full-text는 한글 형태소 분석이 제한적이고 관련성 기반 필터링도 약해서, 검색 품질과 성능을 모두 개선하려면 Elasticsearch 도입이 필요해 보입니다. \n다만 ELK 도입 전에 시간 기반 파티셔닝이나 Redis 캐싱으로 당장의 성능 문제를 해결하고, 실제 검색 패턴을 분석한 후 단계적으로 진행하는 것이 리스크 관리 측면에서 더 안전할 것 같습니다.\n",
+      "type": "text",
+      "width": 500,
+      "x": 820,
+      "y": -1220
+    }
+  ]
+}

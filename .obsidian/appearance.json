@@ -1,0 +1,16 @@
+{
+  "accentColor": "#d89bee",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "color-extend",
+    "extended-colorschemes",
+    "custom-admonitions.4efbfe",
+    "obsidian-css",
+    "list_line"
+  ],
+  "theme": "obsidian",
+  "interfaceFontFamily": "맑은 고딕",
+  "textFontFamily": "고도 M",
+  "monospaceFontFamily": "G마켓 산스",
+  "baseFontSize": 16
+}

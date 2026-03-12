@@ -1,0 +1,1421 @@
+{
+  "edges": [
+    {
+      "fromNode": "2d27debc6ad63e4a",
+      "fromSide": "right",
+      "id": "0d90570804d9f6f8",
+      "label": "접속 API",
+      "styleAttributes": {
+      },
+      "toNode": "c0c42a7ca232d7a8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "57c2aff0b243c0bc",
+      "fromSide": "right",
+      "id": "716ad00f7d980aea",
+      "styleAttributes": {
+      },
+      "toNode": "c0c42a7ca232d7a8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c0c42a7ca232d7a8",
+      "fromSide": "right",
+      "id": "a3bc72af8fa1451d",
+      "styleAttributes": {
+      },
+      "toNode": "e4b5109b229c2909",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e4b5109b229c2909",
+      "fromSide": "right",
+      "id": "0abfef9a85aef570",
+      "styleAttributes": {
+      },
+      "toNode": "48c31c233c7116cc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "48c31c233c7116cc",
+      "fromSide": "right",
+      "id": "1c73509a50927fb8",
+      "styleAttributes": {
+      },
+      "toNode": "99c022b080d9361e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "99c022b080d9361e",
+      "fromSide": "right",
+      "id": "951feb2dd43c5960",
+      "styleAttributes": {
+      },
+      "toNode": "a0f8d3d271eb484e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a0f8d3d271eb484e",
+      "fromSide": "right",
+      "id": "a65f0a9f5de60547",
+      "label": "핸들러 API",
+      "styleAttributes": {
+      },
+      "toNode": "5cb3202c95771f04",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "99c022b080d9361e",
+      "fromSide": "bottom",
+      "id": "1c9d11b695dbe55a",
+      "styleAttributes": {
+      },
+      "toNode": "7ca843e136cbc786",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "5cb3202c95771f04",
+      "fromSide": "right",
+      "id": "742231ffdce1cef4",
+      "styleAttributes": {
+      },
+      "toNode": "60b61580c83dd69c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e4b5109b229c2909",
+      "fromSide": "bottom",
+      "id": "063e0e0b7e907d7f",
+      "styleAttributes": {
+      },
+      "toNode": "00d753da3c51fa71",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "48c31c233c7116cc",
+      "fromSide": "bottom",
+      "id": "452a72e5dcf84b3b",
+      "styleAttributes": {
+      },
+      "toNode": "c28560b1ac4a195a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "00d753da3c51fa71",
+      "fromSide": "left",
+      "id": "493f6c7741d3e2de",
+      "styleAttributes": {
+      },
+      "toNode": "c59d9188f3bd8434",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "a0f8d3d271eb484e",
+      "fromSide": "bottom",
+      "id": "ff0c8aa6a37ba8fa",
+      "styleAttributes": {
+      },
+      "toNode": "d5a592d0ec068186",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "15264217877ce62f",
+      "fromSide": "left",
+      "id": "58e9bd23145e5291",
+      "styleAttributes": {
+      },
+      "toNode": "086f740f7a454eb8",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "5cb3202c95771f04",
+      "fromSide": "top",
+      "id": "2aa6f060c56ccc95",
+      "styleAttributes": {
+      },
+      "toNode": "46cf86cf043dff0c",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "60b61580c83dd69c",
+      "fromSide": "top",
+      "id": "9dd2673b4d412efd",
+      "styleAttributes": {
+      },
+      "toNode": "ec598281e446e30e",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "a33ab2ddffc66985",
+      "fromSide": "top",
+      "id": "b790358abf7360fd",
+      "styleAttributes": {
+      },
+      "toNode": "49200cba6e45a756",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "49200cba6e45a756",
+      "fromSide": "right",
+      "id": "64ad2c27da6ab66c",
+      "styleAttributes": {
+      },
+      "toNode": "8440fb35b13ec33b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "49200cba6e45a756",
+      "fromSide": "right",
+      "id": "2725a72846d915ec",
+      "styleAttributes": {
+      },
+      "toNode": "5a8a62c8f54c682d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a33ab2ddffc66985",
+      "fromSide": "bottom",
+      "id": "054f5120510f932c",
+      "styleAttributes": {
+      },
+      "toNode": "086f740f7a454eb8",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "46419867341fe7c8",
+      "fromSide": "right",
+      "id": "4d1f4e774c117e11",
+      "styleAttributes": {
+      },
+      "toNode": "4c6b92af73161c9f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "46419867341fe7c8",
+      "fromSide": "bottom",
+      "id": "aac81efc06e914db",
+      "styleAttributes": {
+      },
+      "toNode": "96ea718f3921e432",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "46419867341fe7c8",
+      "fromSide": "right",
+      "id": "888b104ea287c1c3",
+      "styleAttributes": {
+      },
+      "toNode": "887a440b483d7da3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "887a440b483d7da3",
+      "fromSide": "right",
+      "id": "9e3b7d92ed52a21d",
+      "styleAttributes": {
+      },
+      "toNode": "6f1ca0d85733ecb3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "887a440b483d7da3",
+      "fromSide": "bottom",
+      "id": "9948ecb99612eb28",
+      "styleAttributes": {
+      },
+      "toNode": "a5954c840ba1a56d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "887a440b483d7da3",
+      "fromSide": "bottom",
+      "id": "5472d3ecd93a297a",
+      "styleAttributes": {
+      },
+      "toNode": "4aaf041bc76d802a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "887a440b483d7da3",
+      "fromSide": "top",
+      "id": "76f5555e3cc09cea",
+      "styleAttributes": {
+      },
+      "toNode": "1f24d946ae4418ca",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1f24d946ae4418ca",
+      "fromSide": "right",
+      "id": "4858187db4d60f92",
+      "styleAttributes": {
+      },
+      "toNode": "8345edc5b61e9cfe",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1f24d946ae4418ca",
+      "fromSide": "bottom",
+      "id": "c9122414a26a406b",
+      "styleAttributes": {
+      },
+      "toNode": "ae5a8046d6c4e482",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8345edc5b61e9cfe",
+      "fromSide": "right",
+      "id": "4d041cd9b57dc453",
+      "styleAttributes": {
+      },
+      "toNode": "780406205abb6eaf",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ae5a8046d6c4e482",
+      "fromSide": "right",
+      "id": "6d1635f4b8e5852f",
+      "styleAttributes": {
+      },
+      "toNode": "780406205abb6eaf",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "887a440b483d7da3",
+      "fromSide": "bottom",
+      "id": "bc51dac20d6396a2",
+      "styleAttributes": {
+      },
+      "toNode": "8386f53d9a2621be",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "887a440b483d7da3",
+      "fromSide": "top",
+      "id": "60ebf5919d16062e",
+      "styleAttributes": {
+      },
+      "toNode": "459cb51d03a0a0ed",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "887a440b483d7da3",
+      "fromSide": "bottom",
+      "id": "4f0b5cea37ef94a0",
+      "styleAttributes": {
+      },
+      "toNode": "1dbf64834f6b38cd",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4aaf041bc76d802a",
+      "fromSide": "bottom",
+      "id": "089d6adf8ceb8e28",
+      "styleAttributes": {
+      },
+      "toNode": "bd48557ba7cdf339",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "00ed7368b8cc732d",
+      "fromSide": "right",
+      "id": "ca1bdc126d647c23",
+      "styleAttributes": {
+      },
+      "toNode": "b419ac5b47ab7d78",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b419ac5b47ab7d78",
+      "fromSide": "right",
+      "id": "10ddd411a334e9c4",
+      "styleAttributes": {
+      },
+      "toNode": "26205248e77645b3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "00ed7368b8cc732d",
+      "fromSide": "top",
+      "id": "f43c79fa21b80ce9",
+      "styleAttributes": {
+      },
+      "toNode": "4c9cc180773a1552",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4c9cc180773a1552",
+      "fromSide": "top",
+      "id": "b01400d75afbe670",
+      "styleAttributes": {
+      },
+      "toNode": "a5954c840ba1a56d",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "4c9cc180773a1552",
+      "fromSide": "right",
+      "id": "30f4915ebf276f9e",
+      "styleAttributes": {
+      },
+      "toNode": "fe30faa684451590",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "4c9cc180773a1552",
+      "fromSide": "right",
+      "id": "6769cbaf2fec8fd9",
+      "styleAttributes": {
+      },
+      "toNode": "aa1ab4867e1e66ff",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "26205248e77645b3",
+      "fromSide": "bottom",
+      "id": "ecb13c64e3b29f37",
+      "styleAttributes": {
+      },
+      "toNode": "68f45cc54f3fc06c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "887a440b483d7da3",
+      "fromSide": "bottom",
+      "id": "ea55b0db1f88aed3",
+      "styleAttributes": {
+      },
+      "toNode": "c0646d0632f4d7f6",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "887a440b483d7da3",
+      "fromSide": "bottom",
+      "id": "785f5ac649b9e1e9",
+      "styleAttributes": {
+      },
+      "toNode": "925fe242b637a268",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "925fe242b637a268",
+      "fromSide": "right",
+      "id": "b75a96c7a4cd4728",
+      "styleAttributes": {
+      },
+      "toNode": "dafe8c97f1031958",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "dafe8c97f1031958",
+      "fromSide": "top",
+      "id": "b79bf1ca6a7d49d0",
+      "styleAttributes": {
+      },
+      "toNode": "780406205abb6eaf",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "887a440b483d7da3",
+      "fromSide": "bottom",
+      "id": "587f5f5777223bfd",
+      "styleAttributes": {
+      },
+      "toNode": "3e9eeba9cf3d12b1",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "00ed7368b8cc732d",
+      "fromSide": "bottom",
+      "id": "f68156440044a53d",
+      "styleAttributes": {
+      },
+      "toNode": "be1883c99cd5b0a8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "be1883c99cd5b0a8",
+      "fromSide": "top",
+      "id": "51d3becec0b39158",
+      "styleAttributes": {
+      },
+      "toNode": "c0646d0632f4d7f6",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "3e9eeba9cf3d12b1",
+      "fromSide": "bottom",
+      "id": "d8d98de138ca680d",
+      "styleAttributes": {
+      },
+      "toNode": "be1883c99cd5b0a8",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "00ed7368b8cc732d",
+      "fromSide": "bottom",
+      "id": "041cd9838291e7b8",
+      "styleAttributes": {
+      },
+      "toNode": "c430dcb7acbf52e5",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "887a440b483d7da3",
+      "fromSide": "bottom",
+      "id": "06728a169148dfa3",
+      "styleAttributes": {
+      },
+      "toNode": "c3f743e22ee1a8d8",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c3f743e22ee1a8d8",
+      "fromSide": "left",
+      "id": "e9a0a57fd3e1a3cb",
+      "styleAttributes": {
+      },
+      "toNode": "f9b486f4050cfded",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "c3f743e22ee1a8d8",
+      "fromSide": "bottom",
+      "id": "c144dd26fd78b0a4",
+      "styleAttributes": {
+      },
+      "toNode": "96d16458dc730cd6",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c3f743e22ee1a8d8",
+      "fromSide": "bottom",
+      "id": "aab5e978803ae5aa",
+      "styleAttributes": {
+      },
+      "toNode": "48d2c36ec7bf03c4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4aaf041bc76d802a",
+      "fromSide": "left",
+      "id": "24f110f22b1692de",
+      "styleAttributes": {
+      },
+      "toNode": "852e2a205295b73f",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "852e2a205295b73f",
+      "fromSide": "bottom",
+      "id": "cab52f668fd07b0c",
+      "styleAttributes": {
+      },
+      "toNode": "278798618e9806c9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "c3f743e22ee1a8d8",
+      "fromSide": "top",
+      "id": "a02707ff203d5b56",
+      "styleAttributes": {
+      },
+      "toNode": "0d2b5995e8a188b2",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "c3f743e22ee1a8d8",
+      "fromSide": "top",
+      "id": "30ad324b29558ae5",
+      "styleAttributes": {
+      },
+      "toNode": "51347a3a57dea57e",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "c3f743e22ee1a8d8",
+      "fromSide": "left",
+      "id": "cfc1e5d3dd53a624",
+      "styleAttributes": {
+      },
+      "toNode": "9f5ccdd28eb43071",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "c3f743e22ee1a8d8",
+      "fromSide": "left",
+      "id": "bde244f4ab93f9e7",
+      "styleAttributes": {
+      },
+      "toNode": "247f907486a28cbd",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "887a440b483d7da3",
+      "fromSide": "bottom",
+      "id": "33ed9752562122d0",
+      "styleAttributes": {
+      },
+      "toNode": "63946831cce342d8",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "00ed7368b8cc732d",
+      "fromSide": "left",
+      "id": "352244c37fbc2c20",
+      "styleAttributes": {
+      },
+      "toNode": "9c7b83bb2ed64736",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "9c7b83bb2ed64736",
+      "fromSide": "right",
+      "id": "5ed1a31b0e1fdc06",
+      "styleAttributes": {
+      },
+      "toNode": "be1883c99cd5b0a8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "51347a3a57dea57e",
+      "fromSide": "left",
+      "id": "6627ecca38822ff1",
+      "styleAttributes": {
+      },
+      "toNode": "336dcb70ee7b9ee4",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "51347a3a57dea57e",
+      "fromSide": "left",
+      "id": "9287847cd400e851",
+      "styleAttributes": {
+      },
+      "toNode": "c4b9b797e3838aec",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "3e9eeba9cf3d12b1",
+      "fromSide": "right",
+      "id": "7d57866d1d0ed36b",
+      "styleAttributes": {
+      },
+      "toNode": "f44290ab575ef3d6",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 240,
+      "id": "66ce5c9f12d2e3d4",
+      "label": "MySQL 엔진",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 820,
+      "x": -160,
+      "y": -410
+    },
+    {
+      "color": "6",
+      "height": 250,
+      "id": "5cb3202c95771f04",
+      "label": "Storage Engine",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 370,
+      "x": 820,
+      "y": -420
+    },
+    {
+      "color": "2",
+      "height": 250,
+      "id": "60b61580c83dd69c",
+      "label": "OS, 하드웨어 (디스크)",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 360,
+      "x": 1280,
+      "y": -420
+    },
+    {
+      "color": "4",
+      "height": 220,
+      "id": "3c8b18459f909d84",
+      "label": "MySQL 접속 클라이언트",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 340,
+      "x": -660,
+      "y": -400
+    },
+    {
+      "height": 2140,
+      "id": "be1883c99cd5b0a8",
+      "styleAttributes": {
+      },
+      "text": "### Extra\n\nExtra 칼럼에는 쿼리의 실행 계획에서 성능에 관련된 중요한 내용이 표시된다.\n내부적인 처리 알고리즘에 대해 조금 더 깊은 내용을 포함한다.\n\n#### Using where\nInnoDB 스토리지 엔진을 통해 테이블에서 행을 가져온 뒤, MySQL 엔진에서 추가적인 체크 조건을 활용하여 행의 범위를 축소한 것.\n\n![[Pasted image 20250921134121.png]]\n\nex) type을 기반으로 생성된 인덱스를 통해서 InnoDB 스토리지 엔진이 \n1. 조건을 활용해서 인덱스 필터링을 거치고\n2. 500612개의 데이터를 Mysql 엔진으로 전달한다.\n3. Mysql 엔진은 인덱스로 걸지 않은 생성일(created_at)을 기반으로 체크 조건을 통해서 9061개의 데이터를 필터링해서 사용자에게 전달.\n\n결국, InnoDB 스토리지 엔진은 불필요하게 너무 많은 데이터를 디스크에서 읽어버림!!\n\n-> 복합 인덱스를 통해서 개선 가능!!\n\nALTER TABLE study_log ADD INDEX idx_study_log_type_created_at (type, created_at);\n\nrange scan으로 바뀜\n![[Pasted image 20250921134549.png]]\n\n#### Using index condition\nExtra 컬럼의 Using Index Condition은 인덱스 컨디션 푸시다운으로 인해 표시된다.\n\n인덱스 컨디션 푸시다운(ICP, Index Condition Pushdown)이란 **Mysql이 인덱스를 사용하여 테이블에서 행을 검색하는 경우의 최적화**를 의미한다.\n\nICP를 활성화하고 인덱스의 컬럼만 사용하여 WHERE 조건의 일부를 평가할 수 있는 경우 MYSQL 엔진은 WHERE 조건 부분을 스토리지 엔진으로 푸시한다.\n\nICP는 최신 버전의 MYSQL을 사용할 경우 기본적으로 활성화된다.\n\n\n사용 후 (인덱스 컨디션 푸시다운을 탔을 때)\n![[Pasted image 20250921134942.png]]\n\n**실행 계획을 판단할 때, 단순히 type만 보고 이 실행 계획이 인덱스를 탔다 안 탔다 판단하는 것보다 Extra 컬럼까지 함께 고려해서 인덱스가 적절히 탔는지 함께 고려해줘야 한다.**\n",
+      "type": "text",
+      "width": 880,
+      "x": 2080,
+      "y": 5060
+    },
+    {
+      "height": 1100,
+      "id": "3e9eeba9cf3d12b1",
+      "styleAttributes": {
+      },
+      "text": "### 인덱스 컨디션 푸시다운\n\n![[Pasted image 20250921133518.png]]\n\n![[Pasted image 20250921133550.png]]\n\n#### 실행 계획\n![[Pasted image 20250921133614.png]]\n\n인덱스를 탄 것 확인 가능 -> \"한 가지 함정이 있다!!\" -> extra의 **Using where**\n\n",
+      "type": "text",
+      "width": 800,
+      "x": 3280,
+      "y": 3520
+    },
+    {
+      "height": 540,
+      "id": "dafe8c97f1031958",
+      "styleAttributes": {
+      },
+      "text": "### 커버링 인덱스의 비밀\n\nSELECT id, nickname, track\nFROM crew\nWHERE nickname BETWEEN 'a' AND 'd' AND track = 'BACKEND';\n\n프라이머리 키인 id를 함께 조회하는 쿼리는 pk를 복합 인덱스를 설정하지 않아도 커버링 인덱스를 탄다.\n\n![[Pasted image 20250921133005.png]]\n\n",
+      "type": "text",
+      "width": 510,
+      "x": 2440,
+      "y": 4080
+    },
+    {
+      "height": 550,
+      "id": "68f45cc54f3fc06c",
+      "styleAttributes": {
+      },
+      "text": "### 어디에 인덱스를 걸어야 할까?\n![[Pasted image 20250921125752.png]]",
+      "type": "text",
+      "width": 700,
+      "x": 610,
+      "y": 5640
+    },
+    {
+      "height": 1040,
+      "id": "f44290ab575ef3d6",
+      "styleAttributes": {
+      },
+      "text": "`EXPLAIN` 결과에서 `Extra` 컬럼에 `Using where`가 나타난 것은 인덱스 조건 푸시다운(Index Condition Pushdown, ICP)과는 다릅니다. `Using where`는 MySQL이 해당 조건을 인덱스 스캔 후에 필터링을 추가로 수행했다는 뜻입니다.\n\n\n- **Using where**  \n    인덱스를 통해 데이터 접근은 하지만, WHERE 조건의 일부를 인덱스만으로는 처리하지 못해 테이블 또는 인덱스 스캔 후 추가 필터링을 수행한다는 의미입니다.  \n    즉, 인덱스를 전부 활용하지 못했다는 신호일 수 있습니다.\n    \n- **인덱스 조건 푸시다운(ICP)**  \n    `Using index condition` 또는 `Using index condition; Using where` 와 같이 나타나며, 인덱스 레벨에서 조건 일부를 미리 필터링해 읽는 데이터량을 줄이는 최적화 기술입니다.  \n    이 경우 인덱스 사용 효율이 더 높습니다.\n## 전문 검색 인덱스 특성과 상황\n\n- Full-text 검색(`MATCH() AGAINST()`)은 MySQL 내부적으로 Full-Text 인덱스를 활용하지만,\n    \n- 일부 조건(`deleted_at IS NULL`)은 Full-Text 인덱스가 아닌 일반 인덱스 또는 테이블 데이터를 참조하므로, 결과를 필터링하기 위해 `Using where`가 발생할 수 있습니다.\n    \n- `UNION` 쿼리는 두 쿼리의 결과를 합치는 연산이기 때문에, 두 부분 각각에서 별도의 인덱스 활용과 추가 필터링이 발생할 수 있습니다.\n## 결론\n\n- `Using where`가 있다고 해서 인덱스를 전혀 활용하지 않는 것은 아니지만, 인덱스 조건을 전부 활용하지 못하고 후처리 필터링이 있다는 의미입니다.\n    \n- Full-Text 검색 + 일반 컬럼 조건 혼합 시에는 어느 정도 필터링이 후처리로 발생하는 것은 불가피합니다.\n    \n- 인덱스 활용을 더 최적화하려면 `deleted_at IS NULL` 조건에 대해서도 별도 인덱스 추가 등을 고려하거나 쿼리 구조 개선도 검토할 수 있습니다.\n    \n\n---\n\n정리하면, `Extra`에 `Using where`는 인덱스 컨디션 푸시다운과는 다르며, 일부 필터링이 인덱스 외에서 수행된다는 뜻입니다. 완전히 인덱스를 활용하지 못한 부분이 있으나, 이는 Full-Text 검색과 여러 조건 혼합 시 흔한 현상입니다",
+      "type": "text",
+      "width": 660,
+      "x": 4280,
+      "y": 4100
+    },
+    {
+      "height": 380,
+      "id": "3480e39c7e5522c5",
+      "styleAttributes": {
+      },
+      "text": "token_size 2\n\nabcd\n\nab bc cd\n\nbc cd\n\n--\n\nelk\n\nrdb nosql-> elk tokenizer\nleg",
+      "type": "text",
+      "width": 680,
+      "x": 4260,
+      "y": 3560
+    },
+    {
+      "color": "1",
+      "height": 260,
+      "id": "c430dcb7acbf52e5",
+      "styleAttributes": {
+      },
+      "text": "TODO\n옵티마이저",
+      "type": "text",
+      "width": 260,
+      "x": -400,
+      "y": 5040
+    },
+    {
+      "height": 820,
+      "id": "247f907486a28cbd",
+      "styleAttributes": {
+      },
+      "text": "### 멀티 밸류 인덱스\n\n멀티 밸류 인덱스란 하나의 데이터 레코드가 여러 개의 인덱스 키 값을 가질 수 있는 형태의 인덱스를 의미한다. 일반적인 인덱스는 한 레코드 당 하나의 키 값만 가지지만, 멀티 밸류 인덱스는 JSON 배열 같은 컬럼에 여러 값을 저장하고, 이 각각의 값에 대해 인덱스를 걸어 빠른 검색을 가능하게 한다. \n\nex) JSON 타입 칼럼 내 배열에 저장된 여러 원소 각각을 인덱스 키로 활용할 수 있는 것.\n\nMySQL 8.0 이상에서 JSON 배열을 대상으로 다음과 같이 멀티 밸류 인덱스를 생성할 수 있다.\nsql\n\n`CREATE TABLE user (   user_id BIGINT AUTO_INCREMENT PRIMARY KEY,   first_name VARCHAR(10),   last_name VARCHAR(10),   credit_info JSON,   INDEX mx_creditscores ((CAST(credit_info->'$.credit_scores' AS UNSIGNED ARRAY))) );`\n\n이때 인덱스를 활용한 검색은 일반 조건이 아닌 다음과 같은 특수 함수를 이용해야 옵티마이저가 인덱스를 사용할 수 있다.\n\n- MEMBER OF(): JSON 배열 내에 특정 값이 포함되어 있는지 확인\n- JSON_CONTAINS(): JSON 문서가 특정 값을 포함하는지 확인\n- JSON_OVERLAPS(): 두 JSON 배열 간 공통 요소가 있는지 확인\n\n예로, 특정 점수 360이 포함된 레코드를 검색하는 쿼리는 다음과 같다.\n\nsql\n\n`SELECT * FROM user WHERE 360 MEMBER OF (credit_info->'$.credit_scores');`\n\n이처럼 멀티 밸류 인덱스는 JSON 배열 데이터에 대해 효율적인 검색을 지원하며, 일반 인덱스와 다르게 하나의 레코드가 여러 키 값을 가지는 특성이 있다.\n",
+      "type": "text",
+      "width": 720,
+      "x": -2500,
+      "y": 2400
+    },
+    {
+      "height": 1240,
+      "id": "9f5ccdd28eb43071",
+      "styleAttributes": {
+      },
+      "text": "### 함수 기반 인덱스\n일반적인 인덱스는 칼럼의 값 일부(칼럼의 값 앞부분) 또는 전체에 대해서만 인덱스 생성이 허용된다.\n\n하지만 때로는 칼럼의 값을 변형해서 만들어진 값에 대해 인덱스를 구축해야 할 때도 있는데, 이러한 경우 함수 기반의 인덱스를 활용 가능하다.\n\n2가지로 구분 가능.\n+ 가상 칼럼을 이용한 인덱스\n+ 함수를 이용한 인덱스\n\n## 가상 칼럼을 이용한 인덱스 예시\n\n테이블에 기존 칼럼(first_name, last_name)이 있고, 두 칼럼을 합쳐서 검색하기 위해 가상 칼럼(full_name)을 추가하고 그 칼럼에 인덱스를 생성하는 경우.\n\nsql\n\n`ALTER TABLE user ADD full_name VARCHAR(30) AS (CONCAT(first_name, ' ', last_name)) VIRTUAL, ADD INDEX ix_fullname (full_name);`\n\n여기서 `full_name`은 실제로 저장되지 않고 읽을 때 계산되는 가상 칼럼이며, 이 가상 칼럼에 인덱스를 생성하여 성능 향상을 꾀할 수 있다. 다만 이 방식은 테이블 구조가 변경된다는 점이 단점이다.\n\n---\n\n## 함수를 이용한 인덱스 예시\n\n기존 테이블이 있고, 할인 가격 계산식을 그대로 인덱스 식으로 사용해서 인덱스를 생성하는 경우.\n\nsql\n\n`CREATE TABLE Products (   id INT,   Category VARCHAR(50),   Subcategory VARCHAR(50),   ProductName VARCHAR(100),   Price INT,   Discount INT,   PRIMARY KEY(id) ); CREATE INDEX idx_discounted_price ON Products ((Price - (Price * Discount / 100)));`\n\n이 방식은 인덱스를 생성할 때 직접 함수(연산식)를 인덱스 식으로 명시하며, where 절에서도 이 함수 식을 그대로 사용해야 인덱스가 활용된다. 성능상 가상 칼럼 방식과 동일한 효과를 낸다.\n\n---\n\n이 두 방식 모두 MySQL 8.0 이상에서 지원하며 내부적으로는 Virtual Generated Column을 생성 후 인덱싱하는 차이가 있지만, 실제 사용자는 가상 칼럼을 명시적으로 관리하는 것과 함수 인덱스를 직접 생성하는 방식으로 나뉜다.",
+      "type": "text",
+      "width": 700,
+      "x": -2500,
+      "y": 1100
+    },
+    {
+      "height": 280,
+      "id": "96ea718f3921e432",
+      "styleAttributes": {
+      },
+      "text": "### 인덱스 특징\n인덱스는 항상 최신의 정렬상태를 유지\n인덱스도 하나의 데이터베이스 객체\n데이터베이스 크기의 약 10% 정도의 저장공간 필요",
+      "type": "text",
+      "width": 260,
+      "x": -660,
+      "y": 1420
+    },
+    {
+      "height": 160,
+      "id": "0d2b5995e8a188b2",
+      "styleAttributes": {
+      },
+      "text": "### 공간 인덱스\n공간 데이터에 해당하는 2차원 데이터 값에 대해 인덱스를 거는 것.",
+      "type": "text",
+      "width": 260,
+      "x": -1140,
+      "y": 1480
+    },
+    {
+      "height": 605,
+      "id": "1f24d946ae4418ca",
+      "styleAttributes": {
+      },
+      "text": "### 인덱스 종류\n1. 클러스터링 인덱스\n2. 논-클러스터링 인덱스(= 보조 인덱스, 세컨더리 인덱스)\n\n#### Cluster(클러스터)\n무리 / 군집, 무리를 이루다\n\n#### ex)\ncreate table member(\n\tid int primary key\n\tname varchar(255),\n\temail varchar(255) unique\n)\n\npk는 클러스터링 인덱스 자동 생성\nunique는 논-클러스터링 인덱스 자동 생성",
+      "type": "text",
+      "width": 600,
+      "x": 775,
+      "y": 938
+    },
+    {
+      "height": 140,
+      "id": "6f1ca0d85733ecb3",
+      "styleAttributes": {
+      },
+      "text": "### 페이지\n데이터가 저장되는 단위(16Kbyte)",
+      "type": "text",
+      "width": 260,
+      "x": 300,
+      "y": 1200
+    },
+    {
+      "height": 60,
+      "id": "887a440b483d7da3",
+      "styleAttributes": {
+      },
+      "text": "인덱스 알고리즘",
+      "type": "text",
+      "width": 260,
+      "x": -200,
+      "y": 1240
+    },
+    {
+      "height": 640,
+      "id": "46419867341fe7c8",
+      "styleAttributes": {
+      },
+      "text": "### 인덱스\n= 색인\n= 쉽게 찾아볼 수 있도록 일정한 순서에 따라 놓은 목록.\n= 원하는 값을 빠르게 찾는다!!\n+ 데이터가 특정 기준으로 정렬되어 있다면 검색을 빠르게 할 수 있다!\n\n데이터베이스 테이블에 대한 검색 성능을 향상시키는 자료 구조.\nwhere절 등을 통해 활용된다.\n\n공식문서\n인덱스는 특정 열 값의 행을 빠르게 찾는 데 사용된다.\n테이블에 인덱스가 있다면 mysql은 모든 데이터를 보지 않고도 원하는 데이터의 위치를 빠르게 찾을 수 있다",
+      "type": "text",
+      "width": 260,
+      "x": -660,
+      "y": 640
+    },
+    {
+      "height": 1380,
+      "id": "63946831cce342d8",
+      "styleAttributes": {
+      },
+      "text": "### 외래키와 인덱스\nMySQL InnoDB에서는 외래키 제약이 설정되면 자동으로 연관된 자식 테이블의 외래키 컬럼에 인덱스가 생성된다. 이 인덱스는 외래키 참조 무결성을 신속하게 검사하기 위한 것으로, 외래키가 삭제되기 전까지는 자동 생성된 인덱스를 직접 삭제할 수 없다.\n \nCREATE TABLE parent (\n  id INT NOT NULL PRIMARY KEY,\n  name VARCHAR(50)\n) ENGINE=InnoDB;\n\nCREATE TABLE child (\n  id INT NOT NULL PRIMARY KEY,\n  parent_id INT,\n  name VARCHAR(50),\n  CONSTRAINT fk_child_parent FOREIGN KEY (parent_id) REFERENCES parent(id)\n) ENGINE=InnoDB;\n\n- 위에서 `child` 테이블에 외래키 `parent_id`가 설정되었고, 이 컬럼에 자동으로 인덱스가 생성된다.\n- 생성된 인덱스는 이름이 보통 외래키 제약 이름과 연결되어 관리된다.\n- 자동 생성된 인덱스는 외래키 제약이 존재하는 동안은 삭제가 불가능하다.\n\n---\n-- 인덱스 조회\nSHOW INDEX FROM child;\n\n|Table|Non_unique|Key_name|Seq_in_index|Column_name|Collation|Cardinality|Sub_part|Packed|Null|Index_type|Comment|\n|---|---|---|---|---|---|---|---|---|---|---|---|\n|child|0|PRIMARY|1|id|A|(숫자)|NULL|NULL||BTREE||\n|child|1|fk_child_parent|1|parent_id|A|(숫자)|NULL|NULL|YES|BTREE|외래키 때문에 자동 생성|\n- `Non_unique` : 0은 유니크(고유) 인덱스, 1은 비유니크 인덱스.\n- `Key_name` : 인덱스 이름. 외래키 자동 생성 시 외래키 이름과 동일하거나 비슷한 이름이 생성됨.\n- `Column_name` : 인덱스가 걸린 컬럼 이름.\n\n-- 인덱스 삭제 시도 (오류 발생)\nALTER TABLE child DROP INDEX fk_child_parent;  -- 오류: 외래키 제약으로 인덱스를 삭제할 수 없음\n\n-- 외래키 제약 삭제\nALTER TABLE child DROP FOREIGN KEY fk_child_parent;\n\n-- 인덱스 삭제 가능\nALTER TABLE child DROP INDEX fk_child_parent;\n",
+      "type": "text",
+      "width": 500,
+      "x": -1390,
+      "y": -160
+    },
+    {
+      "height": 360,
+      "id": "4c6b92af73161c9f",
+      "styleAttributes": {
+      },
+      "text": "ex)\nSELECT * FROM member\nWHERE email = 'qwer@gmail.com'\n\n1. 인덱스가 적용된 대상을\n2. where절을 통해 검색\n\nSELECT * FROM member\n1. where절을 통한 검색 x\n2. 인덱스가 사용되지 않음",
+      "type": "text",
+      "width": 500,
+      "x": -320,
+      "y": 700
+    },
+    {
+      "height": 440,
+      "id": "459cb51d03a0a0ed",
+      "styleAttributes": {
+      },
+      "text": "### 주의사항\n1. 잘 활용되지 않는 인덱스는 제거\n2. 데이터 중복도가 높은 컬럼은 인덱스 효과가 적다\n3. 자주 사용되더라도 insert/update/delete가 자주 일어나는지 고려해야 한다.\n\t1. 일반적인 웹 서비스과 같은 온라인 트랜잭션 환경에서 쓰기와 읽기 비율은 2:8 또는 1:9이다.\n\t2. 조금 느린 쓰기를 감수하고 빠른 읽기를 선택하는 것도 하나의 방법이다.",
+      "type": "text",
+      "width": 260,
+      "x": 260,
+      "y": 640
+    },
+    {
+      "height": 680,
+      "id": "c4b9b797e3838aec",
+      "styleAttributes": {
+      },
+      "text": "### 주의사항 및 한계점\n\n#### 비 실시간성 index 갱신\n트랜잭션 commit 이전에는 full-text index가 바로 갱신되지 않음\n\n![[Pasted image 20250922125540.png]]\n\n----\n#### 많은 토큰 생성 (쓰기 부하)\nN-gram 방식은 텍스트를 기계적으로 분해하므로, 짧은 텍스트에서도 많은 수의 토큰이 생성됨.\n토큰의 양이 많아져 인덱스 쓰기(INSERT/UPDATE) 작업에 부하를 줄 수 있음\n\n100만건 데이터 인덱싱 -> 약 728만 건의 토큰 생성",
+      "type": "text",
+      "width": 620,
+      "x": -3340,
+      "y": 100
+    },
+    {
+      "height": 1940,
+      "id": "51347a3a57dea57e",
+      "styleAttributes": {
+      },
+      "text": "### 전문 검색 인덱스\nMysql 서버의 전문 검색 인덱스는 다음과 같은 두 가지 중요한 작업을 거쳐 색인 작업이 수행된다.\n1. 불용어(Stop Word) 처리: 검색에서 가치 없는 단어 필터링\n2. 어근 분석(Stemming) ex) n-gram, edge-n-gram 등등..\n\n---\n\n### 전문 검색 기능(Full Text Search)\n텍스트 본문의 내용을 단어와 의미를 기반으로 빠르고 관련성 높게 찾아주는 기능\n\n2가지 분석 기법\n#### 형태소/어근 분석\n단어의 변형을 명사 또는 어근으로 변환하여 분석\nex) '달리다', '달리고' -> '달리다' (어간)\n장점: 검색 정확도가 매우 높음.\n단점: 언어별 '분석기' 설정 필요\n\n#### N-gram 분석\n글자 수 단위로 텍스트를 분해하여 분석\nex) '안녕하세요' -> '안녕', '녕하', '하세'...\n장점: 모든 언어에 범용적으로 적용 가능\n단점: 의미 없는 토큰이 생성될 수 있음\n\nex) N = 2\n\n1. 공백을 기준으로 분해\n\"전문 검색 기능\"\n전문, 검색, 기능\n\n2. N을 기준으로 분해\n\"전문검색기능\"\n전문, 문검, 검색, 색기, 기능\n\n### 역인덱스(Inverted Index)\n텍스트를 토큰 단위로 분해하여, 각 토큰이 어느 문서에 포함되는지 빠르게 검색할 수 있는 데이터 구조\n\n#### mysql 사용 조건\nInnoDB\n데이터 타입: CHAR, VARCHAR, TEXT 등 \"문자형\"만 가능\n\n### FULL TEXT INDEX 생성 문법\nCREATE TABLE question (\nid BIGINT PRIMARY KEY AUTO_INCREMENT,\ntitle VARCHAR(255) NOT NULL,\ncontent TEXT NOT NULL,\nFULLTEXT INDEX idx_title (title) WITH PARSER ngram\n) ENGINE=InnoDB\nDEFAULT CHARSET=utf8mb4\nCOLLATE=utf8mb4_unicode_ci;\n\n### 사용 문법\nSELECT *\nFROM TABLE\nWHERE MATCH (열 이름) AGAINST ('키워드' {검색 모드});",
+      "type": "text",
+      "width": 560,
+      "x": -2460,
+      "y": -1160
+    },
+    {
+      "height": 820,
+      "id": "086f740f7a454eb8",
+      "styleAttributes": {
+      },
+      "text": "InnoDB\n특징\n\n#### 1. 프라이머리 키에 의한 클러스터링 \nPK를 기준으로 데이터를 묶어서 저장하는 것\n다시 말해서, PK 순서대로 레코드를 정렬해서 디스크에 저장하는 것\n\nInnoDB에서는 PK를 통해서 데이터 파일에 접근함.\nInnoDB에서는 PK에 대한 인덱스를 자동으로 생성해줌.\n\n클러스터링을 하면 PK 기반 범위 검색 속도가 매우 빨라진다. PK를 기준으로 데이터가 정렬되고 묶여서 한 군데 저장되어있기 때문이다!!\n\n하지만 쓰기 성능은 저하됨!\nPK값이 바뀌면, 그에 따라 레코드의 물리적 순서도 하나씩 바꿔줘야 하기 때문이다.\n\n일반적인 웹 서비스는 쓰기보다 읽기 요청이 훨씬 많기 떄문에 **쓰기 성능을 희생하고 읽기 성능을 얻는 클러스터링을 하는 것이 합리적!**\n\nInnoDB에서 PK를 지정하지 않으면, \n내부적으로 PK를 자동 생성해서 클러스터링을 진행한다.\n내부적으로 생성된 PK는 사용자가 직접 사용할 수 없기 때문에 InnoDB에서 테이블 설계 시에는 PK를 직접 설정해주는 것이 좋다.\n",
+      "type": "text",
+      "width": 370,
+      "x": 890,
+      "y": -100
+    },
+    {
+      "height": 460,
+      "id": "7ca843e136cbc786",
+      "styleAttributes": {
+      },
+      "text": "Optimizer\n+ 요청된 SQL을 최적화해서 실행 계획을 수립 (최적화 방법 2가지)\n+ 1. 규칙 기반 최적화 -> 옵티마이저에 내장된 우선순위에 따라 점수를 매겨 실행 계획 수립\n+ 2. 비용 기반 최적화 -> 작업의 비용과 대상 테이블의 통계 정보를 활용해서 실행 계획 수립\n+ sql을 처리하는 다양한 방법을 마련해두고, 각 방법의 비용과 테이블 통계 정보를 통해서 실행 계획을 수립하는 방법",
+      "type": "text",
+      "width": 260,
+      "x": 290,
+      "y": -20
+    },
+    {
+      "height": 200,
+      "id": "c28560b1ac4a195a",
+      "styleAttributes": {
+      },
+      "text": "전처리기\n+ Parse Tree를 기반으로 SQL 문장 구조 체크\n+ Parse Tree의 토큰이 유효한지 체크",
+      "type": "text",
+      "width": 260,
+      "x": 0,
+      "y": 220
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/RealMySQL/img/Pasted image 20250917215507.png",
+      "height": 190,
+      "id": "15264217877ce62f",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1360,
+      "y": 215
+    },
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/RealMySQL/img/KakaoTalk_Photo_2025-09-17-21-19-41.jpeg",
+      "height": 300,
+      "id": "c59d9188f3bd8434",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 280,
+      "x": -420,
+      "y": -125
+    },
+    {
+      "height": 310,
+      "id": "00d753da3c51fa71",
+      "styleAttributes": {
+      },
+      "text": "\bQuery Parser\n+ SQL 문장을 토큰으로 쪼개서 트리로 만듬.(Parse Tree)\n+ 쿼리 문장의 기본 문법 오류 체크",
+      "type": "text",
+      "width": 260,
+      "x": -100,
+      "y": -130
+    },
+    {
+      "height": 1460,
+      "id": "780406205abb6eaf",
+      "styleAttributes": {
+      },
+      "text": "### 클러스터링 인덱스와 논-클러스터링 인덱스 함께 적용하기\n\n![[Pasted image 20250920161045.png]]\n\n\n### ex)\nSELECT * FROM member\nWHERE name = '라라'\n\n1. name 인덱스 페이지에서 라라 검색\n2. 12를 id 인덱스 페이지에서 검색\n\n![[Pasted image 20250920164518.png]]\n\n만약 주소로 저장되어 있다면 데이터 삽입,삭제 시 계속 변경이 필요하기 때문!!\n###  같이 사용할 때 특징\n하나빼고 다 같음.\n\n논-클러스터링 인덱스는 리프 페이지에 실제 데이터 페이지 주소가 존재하는 것이 아니라 **클러스터링 인덱스가 적용된 컬럼의 실제 값**이 존재한다.",
+      "type": "text",
+      "width": 800,
+      "x": 2660,
+      "y": 1380
+    },
+    {
+      "height": 100,
+      "id": "d5a592d0ec068186",
+      "styleAttributes": {
+      },
+      "text": "Optimizer가 만든 실행 계획대로 스토리지 엔진을 호출해서 레코드를 읽고 씀(쿼리 수행)",
+      "type": "text",
+      "width": 260,
+      "x": 580,
+      "y": 20
+    },
+    {
+      "height": 1200,
+      "id": "336dcb70ee7b9ee4",
+      "styleAttributes": {
+      },
+      "text": "### 전문 검색 기능 모드\n\n### 1. 자연어 모드 (Natural Language Mode)\n\n\"관련성 점수\"를 기반으로 검색하는 모드\n\n#### 관련성 점수?\n문서와 검색어 간의 연관도를 나타내는 점수.\n이 문서에 토큰이 자주 나올수록, 그 토큰이 전체에서 희귀할수록 관련성 점수가 높게 측정된다.\n\n#### 관련성 점수 계산\nMATCH_AGAINST를 SELECT절에 넣으면 점수 출력 가능!!\n\n![[Pasted image 20250922124948.png]]\n\nORDER BY 절이 없어도 관련성 점수가 높은 순서로 자동 정렬된다.\n\n---\n\n### 2. 불린 모드 ( Boolen Mode)\n\"논리 연산자\"를 사용하여 조건 기반으로 검색하는 모드\n\n| 연산자 | 의미  | 예시      |\n| --- | --- | ------- |\n| +   | AND | +스프링    |\n| -   | NOT | 스프링-JPA |\n<, >, * 등 상세한 조건 설정을 위한 논리 연산자 존재\n\n![[Pasted image 20250922125406.png]]\n\n",
+      "type": "text",
+      "width": 640,
+      "x": -3340,
+      "y": -1160
+    },
+    {
+      "height": 80,
+      "id": "57c2aff0b243c0bc",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "MySQL Shell (Scripting)",
+      "type": "text",
+      "width": 300,
+      "x": -640,
+      "y": -280
+    },
+    {
+      "height": 200,
+      "id": "48c31c233c7116cc",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "전처리기",
+      "type": "text",
+      "width": 120,
+      "x": 200,
+      "y": -390
+    },
+    {
+      "height": 200,
+      "id": "c0c42a7ca232d7a8",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Connection Handler",
+      "type": "text",
+      "width": 140,
+      "x": -140,
+      "y": -390
+    },
+    {
+      "height": 200,
+      "id": "99c022b080d9361e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Optimizer",
+      "type": "text",
+      "width": 120,
+      "x": 360,
+      "y": -390
+    },
+    {
+      "height": 60,
+      "id": "ed5faa8dbaba9a28",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "로그 파일",
+      "type": "text",
+      "width": 320,
+      "x": 1300,
+      "y": -270
+    },
+    {
+      "height": 60,
+      "id": "033ea7d3f290ef31",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Memory",
+      "type": "text",
+      "width": 320,
+      "x": 840,
+      "y": -240
+    },
+    {
+      "height": 200,
+      "id": "e4b5109b229c2909",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Query Parser",
+      "type": "text",
+      "width": 120,
+      "x": 40,
+      "y": -390
+    },
+    {
+      "height": 200,
+      "id": "a0f8d3d271eb484e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "쿼리 실행기",
+      "type": "text",
+      "width": 120,
+      "x": 520,
+      "y": -390
+    },
+    {
+      "height": 60,
+      "id": "fdbe88bd22a77425",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "MyISAM",
+      "type": "text",
+      "width": 320,
+      "x": 840,
+      "y": -320
+    },
+    {
+      "height": 80,
+      "id": "2d27debc6ad63e4a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "MySQL Connectors (Application)\nex) JDBC",
+      "type": "text",
+      "width": 300,
+      "x": -640,
+      "y": -380
+    },
+    {
+      "height": 60,
+      "id": "30bf06383207b699",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "데이터 파일",
+      "type": "text",
+      "width": 320,
+      "x": 1300,
+      "y": -370
+    },
+    {
+      "height": 60,
+      "id": "a33ab2ddffc66985",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "InnoDB",
+      "type": "text",
+      "width": 320,
+      "x": 840,
+      "y": -400
+    },
+    {
+      "height": 200,
+      "id": "ec598281e446e30e",
+      "styleAttributes": {
+      },
+      "text": "OS, 하드웨어 (디스크)\n+ 실제 테이블의 데이터와 로그 데이터를 파일로 저장하는 운영체제 파일 시스템, 하드웨어 부분",
+      "type": "text",
+      "width": 260,
+      "x": 1460,
+      "y": -770
+    },
+    {
+      "height": 370,
+      "id": "46cf86cf043dff0c",
+      "styleAttributes": {
+      },
+      "text": "+ 쿼리 실행 엔진이 요청하는 대로 데이터를 디스크에 저장하고 읽어오는 **데이터 관리자**\n+ 데이터의 저장 형식과 인덱스 구조, 읽기·쓰기 동작 방식을 담당하는 DBMS의 핵심 컴포넌트이다. \n+ Optimizer가 생성한 실행 계획에 따라 호출되며, 내부적으로는 **핸들러 API**를 통해 동작한다. \n+ 원래는 플러그인 형태로 제공되었으나, 플러그인 간 통신 불가와 캡슐화 위반 문제로 인해 MySQL 8.0부터는 **컴포넌트 아키텍처** 기반으로 제공된다.\n+ 기본 스토리지 엔진으로는 **InnoDB**가 사용된다.",
+      "type": "text",
+      "width": 370,
+      "x": 455,
+      "y": -955
+    },
+    {
+      "height": 220,
+      "id": "5a8a62c8f54c682d",
+      "styleAttributes": {
+      },
+      "text": "#### 3. InnoDB 버퍼불 & addaptive hash index\n버퍼풀 : 디스크의 데이터 파일이나 인덱스 정보를 메모리에 캐싱해두는 공간\n\n버퍼불은 쓰기 작업을 지연시켜서 일괄적으로 작업을 처리해주기도 함.(= 쓰기 지연 버퍼, JPA 영속 컨텍스트의 쓰기 지연 SQL저장소랑 비슷함.)\n\n데이터 캐싱: \nsql 요청 결과를 일정한 크기의 페이지 단위로 캐싱함. 운영체제가 가상 메모리를 효율적으로 사용하기 위해 페이징을 하는 것처럼 데이터베이스도 테이블 데이터에 대해 페이징을 한다.\nInnoDB는 페이지 교체 알고리즘으로 LRU 알고리즘을 사용하고 있다.\nInsert,update,delete명령으로 변경된 페이지 -> 더티 페이지.\nInnoDB는 더티 페이지들을 모아뒀다가 주기적으로 이벤트를 발생시켜서 한 번에 디스크에 반영한다. 변경된 데이터를 한 번에 모았다가 처리하는 이유는 랜덤 I/O를 줄이기 위해서!\n\n어댑티브 해시 인덱스\n페이지에 빠르게 접근하기 위한 해시 자료구조 기반 인덱스\n<인덱스 키, 페이지 주소값> 쌍으로 구성되는 인덱스\n자주 요청되는 페이지에 대해 InnoDB가 자동으로 생성하는 인덱스",
+      "type": "text",
+      "width": 260,
+      "x": 1360,
+      "y": -1100
+    },
+    {
+      "height": 235,
+      "id": "49200cba6e45a756",
+      "styleAttributes": {
+      },
+      "text": "### InnoDB 특징\n1. 프라이머리 키에 의한 클러스터링\n2. 트랜잭션 지원(MVCC)\n3.  InnoDB 버퍼불 & addaptive hash index",
+      "type": "text",
+      "width": 260,
+      "x": 1000,
+      "y": -1251
+    },
+    {
+      "height": 218,
+      "id": "8440fb35b13ec33b",
+      "styleAttributes": {
+      },
+      "text": "#### 2. 트랜잭션 지원(MVCC)\nMVCC(Multi Version Concurrency Control)\n레코드에 잠금을 걸지 않아도, 트랜잭션 격리 레벨에 따라 일관된 읽기 가능 (레코드 단위잠금)",
+      "type": "text",
+      "width": 260,
+      "x": 1360,
+      "y": -1360
+    },
+    {
+      "height": 1960,
+      "id": "9c7b83bb2ed64736",
+      "styleAttributes": {
+      },
+      "text": "### EXPLAIN\n\n쿼리 실행 계획 보기\n\n분류\n#### id\n각 SELECT 쿼리별로 부여되는 식별자 값으로 실행 순서를 표시한다. 값이 같으면 그 단계에서 조인이 이루어지고, 값이 크면 그 SELECT 쿼리부터 실행된다.\n\n#### select_type\n각 SELECT의 유형을 표시\u001f한다. 대표적으로 SIMPLE(단순 SELECT), PRIMARY(최상위 SELECT, 서브쿼리·UNION 존재 시), UNION(UNION의 두 번째 이후 SELECT), SUBQUERY(서브쿼리), DERIVED(FROM절의 인라인 뷰) 등이 있다.\n\n#### table\n해당 행이 참조하는 테이블 또는 임시테이블(파생테이블 · `<derived N>`).\n\n#### partitions\n테이블이 파티셔닝되어 있다면 접근하는 파티션 이름을 표시한다.\n\n#### type\n레코드를 읽는 접근 방식(조인 타입)을 의미한다. 주요 값은\n'ALL'(풀스캔)\n'index'(인덱스 전체스캔)\n'range'(인덱스 범위검색)\n'ref'(인덱스 사용, 단일값 비교)\n'eq_ref'(기본키 등 반드시 하나만)\n'const'(상수)\n'system'(테이블내 1행)\n\n#### possible_keys\n쿼리에서 사용될 수 있는 인덱스 목록을 보여주며, 실제 사용된 인덱스와 다를 수 있습니다.\n\n#### key\n실제로 사용된 인덱스 이름을 제공\n\n#### key_len\n사용된 인덱스의 길이를 바이트 단위로 표시한다. 조합키의 각 컬럼 길이가 합산된 값을 볼 수 있다.\n\n#### ref\n조인 시 어떤 컬럼이나 상수로 인덱스를 참조했는지 표시\n\n#### rows\n옵티마이저가 예측한 해당 실행 단계에서 읽을 행의 개수를 추정한다. 정확하지는 않지만 쿼리 효율성 판단에 참고한다.\n\n#### filtered\n조건에 의해 어느 정도 비율로 데이터가 제거됐는지를 의미한다. (%)로 기록되며, rows 값과 함께 실효 행 수를 판단할 수 있다.\n\n#### Extra\n옵티마이저의 추가 동작이나 힌트",
+      "type": "text",
+      "width": 560,
+      "x": -1135,
+      "y": 4455
+    },
+    {
+      "height": 250,
+      "id": "c3f743e22ee1a8d8",
+      "styleAttributes": {
+      },
+      "text": "### 인덱스 종류\n인덱스 스킵 스캔\n루스 인덱스 스캔\n유니크 인덱스\n전문 검색 인덱스\n함수 기반 인덱스",
+      "type": "text",
+      "width": 260,
+      "x": -940,
+      "y": 1760
+    },
+    {
+      "color": "1",
+      "height": 120,
+      "id": "1dbf64834f6b38cd",
+      "styleAttributes": {
+      },
+      "text": "temp: \nanalyze table, sql최적화",
+      "type": "text",
+      "width": 300,
+      "x": -660,
+      "y": 1860
+    },
+    {
+      "height": 1205,
+      "id": "8345edc5b61e9cfe",
+      "styleAttributes": {
+      },
+      "text": "### 클러스터링 인덱스\n-> 실제 데이터와 무리를 이룸\n+ 실제 데이터와 같은 무리의 인덱스\n+ 실제 데이터가 정렬된 사전\n\n### 적용 방법\n1. pk설정 -> 자동으로 클러스터링 인덱스 생성\nALTER TABLE member\nADD CONSTRAINT pk_id PRIMARY KEY (id);\n2. 컬럼에 not null + unique 같이 적용\nALTER TABLE member MODIFY COLUMN id int NOT NULL;\nALTER TABLE member ADD CONSTRAINT nuq_id UNIQUE (id);\n\n\n### 인덱스 구성 후\n1. 클러스터링 인덱스를 적용한 id 컬럼을 기준으로 데이터 정렬\n2. 정렬된 데이터 기준으로 Root 페이지가 생성됨! -> b-tree 구조\n\tmap<index, leaf페이지 주소>\n![[Pasted image 20250920151753.png]]\n\n\n리프 페이지=데이터 페이지, 실제 데이터가 저장된 곳 = 실제 정렬된 사전과 같은 역할\n\n실제 조회 방식: 태블릿참고\n\n### 클러스터링 인덱스 특징\n1. **실제 데이터 자체가 정렬**\n2. 테이블당 1개만 존재 가능\n3. 리프 페이지가 데이터 페이지\n4. 아래 제약조건 시 자동 생성\n\t1. pk (우선순위)\n\t2. unique + not null",
+      "type": "text",
+      "width": 620,
+      "x": 1600,
+      "y": 638
+    },
+    {
+      "height": 150,
+      "id": "f9b486f4050cfded",
+      "styleAttributes": {
+      },
+      "text": "### 인덱스를 사용한다 의 의미\n1. 인덱스 레인지 스캔 방식으로 인덱스를 사용한다.\n2. 루스 인덱스 스캔 방식으로 인덱스를 사용한다.",
+      "type": "text",
+      "width": 540,
+      "x": -1550,
+      "y": 1810
+    },
+    {
+      "height": 1480,
+      "id": "925fe242b637a268",
+      "styleAttributes": {
+      },
+      "text": "### 커버링 인덱스\n인덱스를 사용하여 처리하는 쿼리 중에 가장 큰 부하를 차지하는 부분?\n-> 인덱스 검색에서 일치하는 키 값의 레코드를 읽는 것.\n![[Pasted image 20250921130742.png]]\n\nN개의 인덱스를 검색할 때 최악의 경우 N번의 디스크 I/O 발생!!\n\n쿼리 최적화의 가장 큰 목적은 디스크 I/O를 줄이는 것!!\n\n#### ex)\n\nSELECT *\nFROM crew\nWHERE nickname BETWEEN 'a' AND 'd' AND track = 'BACKEND'\n\n원활한 조회를 위해 nickname과 track에 복합 인덱스 설정.\nALTER TABLE crew ADD INDEX idx_crew_nickname_track (nickname, track);\n![[Pasted image 20250921131331.png]]\n-> 옵티마이저는 전체 데이터의 20~25% 이상을 조회하는 경우 인덱스를 통해 조회하는 것 보다 데이터 파일을 바로 읽는 것(Full Table Scan)이 효율적이라 판단한다. -> Full Table Scan 발생\n\n-> **커버링 인덱스를 통해 개선 가능!!**\n\n### 커버링 인덱스\n인덱스로 설정한 컬럼만 읽어 쿼리를 모두 처리할 수 있는 인덱스\n불필요한 디스크 I/O를 줄여 조회 시간을 단축!\n\n![[Pasted image 20250921132611.png]]\n\n데이터 파일을 읽지 않고 인덱스만 읽어 불필요한 디스크 I/O 시간 단축\n\n**커버링 인덱스를 타게 되면 Extra 컬럼에 'Using Index'가 표시됨**\n\n",
+      "type": "text",
+      "width": 510,
+      "x": 1400,
+      "y": 3340
+    },
+    {
+      "height": 1220,
+      "id": "26205248e77645b3",
+      "styleAttributes": {
+      },
+      "text": "### 인덱스 이점\n\n#### ORDER BY\nSELECT *\nFROM crew\nWHERE nickname >= \"매트\" AND nickname <= \"토르\"\nORDER BY nickname;\n\n인덱스가 없었다면 데이터를 다 읽어 와서 DB에서 직접 정렬해야 함!!\n하지만 인덱스는 이미 정렬되어 있기 때문에 인덱스 순서대로 파일을 읽기만 하면 됨!!\n\n#### GROUP BY\nCREATE INDEX idx_crew_track_nickname ON crew(track, nickname);\nSELECT track, MIN(nickname) FROM crew GROUP BY track;\n\n-> 각 트랙별로 하나씩만 읽으면 됨. \n![[Pasted image 20250920192845.png]]",
+      "type": "text",
+      "width": 460,
+      "x": 730,
+      "y": 4140
+    },
+    {
+      "height": 730,
+      "id": "b419ac5b47ab7d78",
+      "styleAttributes": {
+      },
+      "text": "### 조회 성능 개선\nDB에서 성능 최적화는 디스크 I/O와 관련이 많다.\n![[Pasted image 20250920190803.png]]\n원하는 곳에 있는 데이터를 읽기 위해 실제로 디스크가 돌아야 하고 -> 헤더가 움직여야 함. -> 물리적인 움직임이기 때문에 데이터의 입출력이 느리다.\n실제로 하드디스크 I/O와 메모리 I/O의 차이는 10만~15만 배!!\n\n**디스크 I/O를 줄이는 것이 핵심**\n\n인덱스를 쓰면 조회에 이득, 수정/삭제에 손해 -> R과 CUD 호출 비율은 8:2~9:1",
+      "type": "text",
+      "width": 260,
+      "x": 370,
+      "y": 4385
+    },
+    {
+      "height": 260,
+      "id": "c0646d0632f4d7f6",
+      "styleAttributes": {
+      },
+      "text": "### 복합 인덱스\n**두 개 이상의 칼럼**을 합쳐서 인덱스를 만드는 것.\n하나의 칼럼으로 인덱스를 만들었을 때 보다 **더 적은 데이터 분표**를 보여 탐색할 데이터 수가 줄어듬.\n(= 결합 인덱스, 다중 컬럼 인덱스, Composite Index)\n\nex)\nSELECT * FROM crew WHERE age >= 26 AND nickname >= '토르';",
+      "type": "text",
+      "width": 680,
+      "x": 1960,
+      "y": 3720
+    },
+    {
+      "height": 440,
+      "id": "00ed7368b8cc732d",
+      "styleAttributes": {
+      },
+      "text": "mysql 성능 최적화\nex) track: frontend, backend\n![[Pasted image 20250920185712.png]]",
+      "type": "text",
+      "width": 560,
+      "x": -350,
+      "y": 4455
+    },
+    {
+      "height": 700,
+      "id": "fe30faa684451590",
+      "styleAttributes": {
+      },
+      "text": "### Range Scan\n이상적으로 인덱스를 잘 걸었을 때 발생하는 실행 계획\n![[Pasted image 20250921123138.png]]\n\n필요한 부분만 데이터를 읽게 됨. -> 탐색할 데이터를 줄이기 때문에 디스크 I/O를 줄일 수 있다.\n\n",
+      "type": "text",
+      "width": 260,
+      "x": 800,
+      "y": 2900
+    },
+    {
+      "height": 700,
+      "id": "aa1ab4867e1e66ff",
+      "styleAttributes": {
+      },
+      "text": "### index\n\nindex라고 하면 Index Full Scan이기 때문에 전체 인덱스를 다 읽게 된다.\n![[Pasted image 20250921124115.png]]\n\nfull table scan보다는 물론 성능이 좋다(전체 데이터의 25% 이하를 조회할 때) -> 인덱스는 데이터 파일보다는 크기가 작기 때문\n\n그래도 range scan보다는 성능이 안좋음!!",
+      "type": "text",
+      "width": 260,
+      "x": 1080,
+      "y": 2900
+    },
+    {
+      "height": 1400,
+      "id": "ae5a8046d6c4e482",
+      "styleAttributes": {
+      },
+      "text": "### 논-클러스터링 인덱스\n-> 실제 데이터와 무리를 이루지 않음\n+ 실제 데이터와 다른 무리의 별도의 인덱스\n+ 실제 데이터 탐색에 도움을 주는 별도의 찾아보기 페이지\n\n### 적용 방법\n1. unique 제약조건 걸기\nALTER TABLE member\nADD CONSTRAINT unq_name UNIQUE (name);\n2. 중복 허용 없이 인덱스 생성하기(unique index)\nCREATE UNIQUE INDEX unq_inx_name\nON member (name);\n3. 중복 허용하는 인덱스 생성하기\nCREATE INDEX idx_name\nON member (name);\n2,3 -> 인덱스를 직접 생성하면 논-클러스터링 인덱스가 생성된다.\n\n### 인덱스 구성 후\n+ 별도의 인덱스 페이지 추가\n+ b-tree는 동일함\n+ 별도의 찾아보기 페이지\n![[Pasted image 20250920155801.png]]\n\n1002 + #3 뜻\n실제 데이터 페이지 주소 + 몇번째에 존재하는지\n즉, 1002번째 페이지의 3번째에 있다.\n\n### 논-클러스터링 인덱스 특징\n1. 실제 데이터 페이지는 그대로\n2. 별도의 인덱스 페이지 생성 -> 추가 공간 필요\n3. 테이블당 여러 개 존재\n4. 리프 페이지에 실제 데이터 페이지 주소를 담고 있음\n5. unique 제약조건 적용시 자동 생성\n6. 직접 index 생성 시 논-클러스터링 인덱스 생성",
+      "type": "text",
+      "width": 620,
+      "x": 1600,
+      "y": 1880
+    },
+    {
+      "height": 1000,
+      "id": "278798618e9806c9",
+      "styleAttributes": {
+      },
+      "text": "### 인덱스 정렬\nMysql 8.0 버전부터는 다음과 같은 형태의 정렬 순서를 혼합한 인덱스도 생성 가능한다.\n\nCREATE INDEX ix_teamname_userscore ON employees (team_name ASC, user_score DESC);\n\n---\n\n### 인덱스 정렬 종류\n+ 오름차순 인덱스(Ascending index): 작은 값의 키가 B-Tree의 왼쪽으로 정렬된 인덱스\n+ 내림차순 인덱스(Descending index): 큰 값의 인덱스 키가 B-Tree의 왼쪽으로 정렬된 인덱스\n+ 인덱스 정순 스캔(Forward index scan): 인덱스 키의 크고 작음에 관계없이 인덱스 리프 노드의 왼쪽 페이지부터 오른쪽으로 스캔\n+ 인덱스 역순 스캔(Backward index scan): 인덱스 키의 크고 작음에 관계없이 인덱스 리프 노드의 오른쪽 페이지부터 왼쪽으로 스캔\n\ninnoDB에서는 인덱스 역순 스캔이 인덱스 정순 스캔보다 느림!!\n1. 페이지 잠금이 인덱스 정순 스캔에 적합한 구조\n2. 페이지 내에서 인덱스 레코드가 단방향으로만 연결된 구조\n\n---\n### 정렬에 따른 인덱스 고려\nORDER BY DESC하는 쿼리가 소량의 레코드에 드물게 실행되는 경우라면 굳이 내림차순 인덱스를 고려할 필요는 없음.\n쿼리에서 자주 사용되는 정렬 순서대로 인덱스 생성하기.",
+      "type": "text",
+      "width": 410,
+      "x": -855,
+      "y": 3300
+    },
+    {
+      "height": 640,
+      "id": "8386f53d9a2621be",
+      "styleAttributes": {
+      },
+      "text": "### 인덱스 적용 기준\n\n어떤 컬럼에 인덱스를 적용하는 것이 좋을까 -> 카디널리티(Cardinality)\n\n### 카디널리티\n그룹 내 요소의 개수\n\n#### 어떤 컬럼에 인덱스를 적용하는 것이 좋을까\n카디널리티(그룹 내 요소의 개수)가 높은 것 == 중복 수치가 낮은 것!!\nex) id, email, 주민번호\n\n1. 카디널리티가 높은(중복도가 낮은) 컬럼\n2. WHERE, JOIN, ORDER BY 절에 자주 사용되는 컬럼\n\t1. 인덱스는 추가 공간을 필요로 한다.\n\t2. 조건 절이 없다면 인덱스가 사용되지 않는다.\n3. INSERT, UPDATE, DELETE가 자주 발생하지 않는 컬럼\n4. 규모가 작지 않은 테이블\n \n",
+      "type": "text",
+      "width": 700,
+      "x": 560,
+      "y": 2060
+    },
+    {
+      "height": 380,
+      "id": "852e2a205295b73f",
+      "styleAttributes": {
+      },
+      "text": "### 인덱스 정렬 및 스캔 방향\n인덱스를 생성할 때 설정한 정렬 규칙에 따라서 인덱스 키 값은 항상 오름차순이거나 내림차순으로 정렬되어 저장된다.\n\n어떤 인덱스가 오름차순으로 생성됐다고 해서 그 인덱스를 오름차순으로만 읽을 수 있다는 뜻은 아니다. -> 거꾸로 읽으면 내림차순!!\n\n인덱스를 어느 방향으로 읽을지는(정순 or 역순) 쿼리에 따라 옵티마이저가 실시간으로 만들어내는 실행 계획에 따라 결정된다.",
+      "type": "text",
+      "width": 400,
+      "x": -850,
+      "y": 2840
+    },
+    {
+      "height": 1800,
+      "id": "4aaf041bc76d802a",
+      "styleAttributes": {
+      },
+      "text": "탐색하기 -> 일일히 찾으면 O(N) -> 너무 느려요 -> bst 등장\n\n### BST(이진 탐색 트리)\n균형 있는 BST의 경우 시간 복잡도는 **O(Log N)** 이지만, 균형 없는 BST의 경우 시간 복잡도는 **O(N)** 이 된다.\n\n-> 단점 극복 위해 B-Tree 등장.\n\n### B-Tree(Balanced-Tree)\n![[Pasted image 20250920171717.png]]\n1. 트리의 높이가 같음\n2. 자식 노드를 2개 이상 가질 수 있음\n3. 키가 항상 정렬되어 저장됨\n\n### select\n\n![[Pasted image 20250920144123.png]]\n\n![[Pasted image 20250920144231.png]]\n\n-> select는 성능 향상!!\n\n### Insert\n페이지 분할 -> 성능 하락\n### Delete\n인덱스의 데이터를 실제로 지우지 않고 사용안함 표시(soft delete)\n### Update\nDelete하고 -> Insert하기\n\n### 정리\nselect는 성능 향상.\ninsert/delete/update는 페이지 분할과 사용안함 표시로 **인덱스 조각화**(디스크 상에 페이지들이 연속으로 위치해 있지 않고 공간이 떨어져 있는 현상)이 심해져 성능 하락.\n\n### b-tree 문제점\n범위 검색에 약함!!\n![[Pasted image 20250920173053.png]]\n10, 11 찾고 13 찾기 위해서는 다시 root부터 접근해야 함.\n\n-> b+tree 등장!!\n",
+      "type": "text",
+      "width": 460,
+      "x": -300,
+      "y": 1400
+    },
+    {
+      "height": 600,
+      "id": "96d16458dc730cd6",
+      "styleAttributes": {
+      },
+      "text": "### 루스(Loose) 인덱스 스캔\n인덱스 레인지 스캔과 인덱스 풀 스캔은 루스 인덱스 스캔과는 상반댄 의미에서 \"타이트\" 인덱스 스캔으로 분류한다.\n\n루스 인덱스 스캔이란, 말 그대로 느슨하게 또는 듬성듬성하게 인덱스를 읽는 것을 의미한다.\n\n인덱스 레인지 스캔과 비슷하게 작동하지만, 중간에 필요치 않은 인덱스 키 값은 무시(skip)하고 다음으로 넘어가는 형태로 처리.\n\n일반적으로 GROUP BY 또는 집합 함수 가운데 MAX() 또는 MIN() 함수에 대해 최적화를 하는 경우에 사용된다.\n\nex)\nSELECT dept_no, MIN(emp_no)\nFROM dept_emp\nWHERE dep_no BETWEEN 'd002' AND 'd004'\nGROUP BY dept_no;\n\n루스 인덱스 스캔 사용하려면 여러 조건을 만족해야 함.",
+      "type": "text",
+      "width": 460,
+      "x": -910,
+      "y": 2100
+    },
+    {
+      "height": 1620,
+      "id": "48d2c36ec7bf03c4",
+      "styleAttributes": {
+      },
+      "text": "### 인덱스 스킵 스캔\n- 인덱스 선두 컬럼이 조건절에 없어도 선두 컬럼을 스킵하며 인덱스 레인지 스캔 하는 것\n- MySQL 8.0 버전부터 도입\n\n\nmysql> ALTER TABLE employees \n ADD INDEX ix_gender_birthdate (gender, birth_date);\n\n-- 선두 컬럼: gender\n인덱스 레인지 스캔할 수 있는 쿼리와 레인지 스캔 할 수 없는 쿼리 예시\n\n#### 원래대로라면?\n-- 인덱스를 사용하지 못하는 쿼리: 인덱스 선두 컬럼인 gender 컬럼이 where절에 없다.\nmysql> SELECT * FROM employees WHERE birth_date >= '1965-02-01';\n\n-- 인덱스를 사용할 수 있는 쿼리: 인덱스 선두 컬럼인 gendor 컬럼이 where절에 있다.\nmysql> SELECT * FROM employees WHERE gender = 'M' AND birth_date >= '1965-02-01';\n\n하지만 **인덱스 레인지 스캔의 도입으로 gender 컬럼 없이도 인덱스 레인지 스캔**이 가능하다.\n\n- 아래 그림 처럼 **성별 Male에서 데이터를 레인지 스캔 한 후** 나머지 데이터는 스킵하여 **Female의 데이터 시작점을 찾고 레인지 스캔**해서 결과를 반환한다.\n\n![[Pasted image 20250921205533.png]]\n\n\n### 단점\n+ where 조건절에 조건이 없는 인덱스의 선행 칼럼의 유니크한 값의 개수가 적어야 한다.\n+ 쿼리가 인덱스에 존재하는 칼럼만으로 처리 가능해야 한다.(커버링 인덱스)\n\n",
+      "type": "text",
+      "width": 590,
+      "x": -1565,
+      "y": 2100
+    },
+    {
+      "height": 240,
+      "id": "4c9cc180773a1552",
+      "styleAttributes": {
+      },
+      "text": "### 실행 계획\n**all** : 테이블 전체를 스캔할 때\n**range**: 인덱스를 이용하여 범위 검색을 할 때\n**index**: 인덱스 전체를 스캔할 때",
+      "type": "text",
+      "width": 260,
+      "x": 460,
+      "y": 3800
+    },
+    {
+      "height": 480,
+      "id": "bd48557ba7cdf339",
+      "styleAttributes": {
+      },
+      "text": "### b+tree\n+ 리프 노드에 모든 키가 존재\n+ 키와 연결된 레코드에 대한 주소를 리프 노드에서만 가짐\n+ **같은 높이의 노드들은 서로 연결되어 있음**\n![[Pasted image 20250920173410.png]]",
+      "type": "text",
+      "width": 460,
+      "x": -300,
+      "y": 3300
+    },
+    {
+      "height": 720,
+      "id": "a5954c840ba1a56d",
+      "styleAttributes": {
+      },
+      "text": "### Full Table Scan\n순차적으로, 처음부터 쭉 찾기\n\n순차적으로 접근 -> 접근 비용 감소\n\n#### 언제 사용되나?\n1. 적용 가능한 인덱스가 없는 경우\n2. 인덱스 처리 범위가 넓은 경우\n3. 크기가 작은 테이블에 엑세스하는 경우 -> 데이터 전체의 개수가 많지 않거나 읽고자 하는 데이터가 전체 제이터의 25%를 넘어가는 경우\n\n2,3 -> db가 인덱스를 적용하여도 성능상의 이슈가 별로 이점이 없다고 판단했을 때\n\n성능 안좋음!!\n![[Pasted image 20250921122054.png]]",
+      "type": "text",
+      "width": 380,
+      "x": 400,
+      "y": 2900
+    }
+  ]
+}

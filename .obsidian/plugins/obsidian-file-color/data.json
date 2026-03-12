@@ -1,0 +1,75 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "B6yK8i9vYH8usBQcDgXxX",
+      "name": "Red",
+      "value": "#e98c94"
+    },
+    {
+      "id": "cBSR5HZ3RmdykParwbLC9",
+      "name": "Orange",
+      "value": "#efb08a"
+    },
+    {
+      "id": "yK7OcCyI0BDNFE5dmUTDW",
+      "name": "Yellow",
+      "value": "#f3ed85"
+    },
+    {
+      "id": "Sg9VRzKlbcALDOyhBnv_O",
+      "name": "Green",
+      "value": "#8dda8a"
+    },
+    {
+      "id": "eI_CpJy4hytR1r4kJJ_0P",
+      "name": "Blue",
+      "value": "#84b8e2"
+    },
+    {
+      "id": "fkuuakuX7xV7ML8Z7rIBt",
+      "name": "Purple",
+      "value": "#bfb3e8"
+    },
+    {
+      "id": "YBFjQYtz_88l4Yqh7WHUJ",
+      "name": "Brown",
+      "value": "#c2aa99"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "🟥 Capture 임시메모(inbox)",
+      "color": "B6yK8i9vYH8usBQcDgXxX"
+    },
+    {
+      "path": "🟧 Organize 영구노트",
+      "color": "cBSR5HZ3RmdykParwbLC9"
+    },
+    {
+      "path": "🟨 Express 공유",
+      "color": "yK7OcCyI0BDNFE5dmUTDW"
+    },
+    {
+      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트",
+      "color": "eI_CpJy4hytR1r4kJJ_0P"
+    },
+    {
+      "path": "🟧 Organize 영구노트/🟢 Area 장기적인 책임",
+      "color": "Sg9VRzKlbcALDOyhBnv_O"
+    },
+    {
+      "path": "🟧 Organize 영구노트/🟣 Resource 관심분야",
+      "color": "fkuuakuX7xV7ML8Z7rIBt"
+    },
+    {
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소",
+      "color": "YBFjQYtz_88l4Yqh7WHUJ"
+    },
+    {
+      "path": "Todo",
+      "color": "fkuuakuX7xV7ML8Z7rIBt"
+    }
+  ]
+}

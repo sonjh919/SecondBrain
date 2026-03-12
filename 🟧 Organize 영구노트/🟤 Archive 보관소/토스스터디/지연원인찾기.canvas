@@ -1,0 +1,304 @@
+{
+  "edges": [
+    {
+      "fromNode": "e8627b9039ddbc6b",
+      "fromSide": "right",
+      "id": "605b2611e81c8b4b",
+      "label": "서버는 이상 없음!\nDB 트랜잭션을 사용\n-> DB 문제?",
+      "styleAttributes": {
+      },
+      "toNode": "848bcc27d8602789",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "848bcc27d8602789",
+      "fromSide": "right",
+      "id": "5ed5227db64d618d",
+      "label": "Connection Pool 확인",
+      "styleAttributes": {
+      },
+      "toNode": "5003ce996216f1c1",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "848bcc27d8602789",
+      "fromSide": "bottom",
+      "id": "18682300c7e9e3c4",
+      "label": "explain ㄱㄱ",
+      "styleAttributes": {
+      },
+      "toNode": "6026e70a7117fad4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "6026e70a7117fad4",
+      "fromSide": "right",
+      "id": "45123084778c8e8d",
+      "label": "시간이 오래 걸린다면?",
+      "styleAttributes": {
+      },
+      "toNode": "ca33b03d02082f28",
+      "toSide": "left"
+    },
+    {
+      "color": "1",
+      "fromNode": "ca33b03d02082f28",
+      "fromSide": "right",
+      "id": "69bb05a153383a45",
+      "label": "이미 인덱스 쓰고 있다면?",
+      "styleAttributes": {
+      },
+      "toNode": "88d75d060026abb6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ca33b03d02082f28",
+      "fromSide": "bottom",
+      "id": "1099fd02ee63e270",
+      "label": "db 용량 확인",
+      "styleAttributes": {
+      },
+      "toNode": "6d53aea8b7daeab0",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "88d75d060026abb6",
+      "fromSide": "right",
+      "id": "186d7f07dd6ff76d",
+      "styleAttributes": {
+      },
+      "toNode": "157d7fee0331c255",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "157d7fee0331c255",
+      "fromSide": "bottom",
+      "id": "69e71569295fcf1c",
+      "styleAttributes": {
+      },
+      "toNode": "55276dc05e107ce9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "55276dc05e107ce9",
+      "fromSide": "bottom",
+      "id": "ea2cd869654cf414",
+      "styleAttributes": {
+      },
+      "toNode": "be18e43a71e2fc76",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "be18e43a71e2fc76",
+      "fromSide": "bottom",
+      "id": "5ffcabef9265d34e",
+      "label": "그래서, 조각화 어떻게 확인함?",
+      "styleAttributes": {
+      },
+      "toNode": "d0934b2b7cdf5342",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "d0934b2b7cdf5342",
+      "fromSide": "bottom",
+      "id": "9f6983e4f21187a5",
+      "label": "단편화 비율 계산!",
+      "styleAttributes": {
+      },
+      "toNode": "97d761893ecc86b2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "97d761893ecc86b2",
+      "fromSide": "right",
+      "id": "882c822a4a398229",
+      "label": "그래서 리빌딩 방법은?",
+      "styleAttributes": {
+      },
+      "toNode": "2efa782288f0bdc8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d0934b2b7cdf5342",
+      "fromSide": "left",
+      "id": "d68b47536bf60f75",
+      "styleAttributes": {
+      },
+      "toNode": "51f7a6936ef251ac",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {
+  },
+  "nodes": [
+    {
+      "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/토스스터디/지연의 원인을 찾아라 (15점).md",
+      "height": 1060,
+      "id": "e8627b9039ddbc6b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 900,
+      "x": -240,
+      "y": -320
+    },
+    {
+      "color": "1",
+      "height": 200,
+      "id": "5003ce996216f1c1",
+      "styleAttributes": {
+      },
+      "text": "**활성 커넥션 수와 최대 커넥션 수 비교:** 커넥션 풀의 최대치(maximumPoolSizemaximumPoolSize)에 근접하거나 도달한 상태에서 active connection이 계속 가득 차 있다면 부족\n\n-> ConnectionPool 늘리기!!\n\n(즉각적인 방법)",
+      "type": "text",
+      "width": 440,
+      "x": 1840,
+      "y": 110
+    },
+    {
+      "height": 260,
+      "id": "848bcc27d8602789",
+      "styleAttributes": {
+      },
+      "text": "### DB에서 문제가 있는지 확인하는 방법\n\n1. 트래픽이 집중될 때 P95 응답 시간이 급증하면, DB ConnectionPool이 모자른 것이 아닐까?\n2. 쿼리 실행 속도가 느릴 수도 있을 것 같다.",
+      "type": "text",
+      "width": 480,
+      "x": 1060,
+      "y": 80
+    },
+    {
+      "height": 100,
+      "id": "6026e70a7117fad4",
+      "styleAttributes": {
+      },
+      "text": "쿼리 실행 시간 봐서 slow query 잡아내기!!",
+      "type": "text",
+      "width": 260,
+      "x": 1170,
+      "y": 520
+    },
+    {
+      "color": "1",
+      "height": 100,
+      "id": "ca33b03d02082f28",
+      "styleAttributes": {
+      },
+      "text": "인덱스 확인.\nexplain으로 스캔 범위 잡아낸다음에 range로 들어갈 수 있게 하기",
+      "type": "text",
+      "width": 260,
+      "x": 1840,
+      "y": 520
+    },
+    {
+      "color": "1",
+      "height": 100,
+      "id": "88d75d060026abb6",
+      "styleAttributes": {
+      },
+      "text": "인덱스 조각화 비율 체크해서 인덱스를 리빌딩할 필요성이 있는지 확인해보고, 필요하면 리빌딩하기.",
+      "type": "text",
+      "width": 260,
+      "x": 2400,
+      "y": 520
+    },
+    {
+      "height": 60,
+      "id": "55276dc05e107ce9",
+      "styleAttributes": {
+      },
+      "text": "인덱스는 16KB 고정 크기의 페이지 단위로 관리되며, 인덱스 키 크기가 커져서 한 페이지에 인덱스 키를 많이 저장하지 못하면 여러 페이지에 나눠 저장",
+      "type": "text",
+      "width": 980,
+      "x": 2270,
+      "y": 880
+    },
+    {
+      "height": 60,
+      "id": "157d7fee0331c255",
+      "styleAttributes": {
+      },
+      "text": "페이지: 데이터 저장과 인덱스 관리를 위한 기본 단위, 기본 16kb.\n\n",
+      "type": "text",
+      "width": 460,
+      "x": 2530,
+      "y": 700
+    },
+    {
+      "height": 60,
+      "id": "be18e43a71e2fc76",
+      "styleAttributes": {
+      },
+      "text": "데이터가 여러 페이지에 흩어져 저장되면 인덱스 조각화(Fragmentation)가 발생할 수 있다. \n조각화가 심해지면 **인덱스 탐색 및 데이터 접근 성능 저하가 발생**한다.",
+      "type": "text",
+      "width": 980,
+      "x": 2270,
+      "y": 1020
+    },
+    {
+      "height": 440,
+      "id": "d0934b2b7cdf5342",
+      "styleAttributes": {
+      },
+      "text": "```sql\nSELECT * FROM information_schema.tables WHERE table_schema = '데이터베이스명';\n```\n\n![[Pasted image 20250928224044.png]]",
+      "type": "text",
+      "width": 1690,
+      "x": 1915,
+      "y": 1240
+    },
+    {
+      "height": 1360,
+      "id": "97d761893ecc86b2",
+      "styleAttributes": {
+      },
+      "text": "### 단편화 비율 구하는 공식\n\n#### 단편화란?\n- **단편화(fragmentation)**는 저장 공간이 연속적으로 사용되지 않고, 중간중간에 빈 공간(사용되지 않는 공간)이 생기는 현상\n- 예를 들어, 테이블에서 데이터를 여러 번 삭제하거나 갱신하면, 실제 데이터가 차지하는 공간 사이사이에 **쓸 수 없는 빈 공간**이 남게 된다.\n\n단편화 비율(%) = (data_free / (data_length + index_length)) * 100\n\n- data_length는 데이터가 차지하는 공간 크기(바이트 단위)\n- index_length는 인덱스가 차지하는 공간 크기(바이트 단위)\n- data_free는 예약되어 있지만 실제로 사용되지 않는 공간 크기(바이트 단위)-> 삭제될때 마킹되는 공간(soft delete)\n\n**테이블 전체 공간 대비 빈 공간, 즉 사용되지 않는 공간이 차지하는 비율을 백분율로 산출**\n-> 단편화 비율이 높다는 것은 테이블 내에 상당한 양의 비효율적 공간이 존재함을 의미\n\n![[Pasted image 20250928224151.png]]\n\n```sql\nSELECT \n  table_schema, \n  table_name, \n  data_length, \n  index_length, \n  data_free, \n  (data_free / (data_length + index_length)) * 100 AS fragmentation_ratio \nFROM information_schema.tables \nWHERE table_schema = 'your_database' \n  AND table_name = 'your_table';\n\n```\n\n보통 조각화가 10%가 넘으면 효과가 확실하고, 5%면 고려할 수 있다.\n그러나, 전문 검색 인덱스라면 다음과 같은 이유로 5% 이하에서도 효과가 있을 수 있음!!\n\n1. 데이터 변경이 많음\n2. 인덱스 크기가 큼\n3. 삭제/갱신 후 인덱스 비효율\n-> 조각화가 빠르게 진행됨!!",
+      "type": "text",
+      "width": 710,
+      "x": 2405,
+      "y": 1840
+    },
+    {
+      "height": 340,
+      "id": "51f7a6936ef251ac",
+      "styleAttributes": {
+      },
+      "text": "### 조각화?단편화?\n- **단편화(fragmentation)**는 저장 공간이 연속적으로 사용되지 않고, 중간중간에 빈 공간이 생기는 현상입니다. 이는 데이터뿐 아니라 인덱스에도 발생할 수 있습니다.\n    \n- **인덱스 조각화(index fragmentation)**는 인덱스(B+Tree 등) 페이지 내부에 데이터가 불균형하게 분포하거나, 삭제/갱신으로 인해 빈 공간이 많아져 인덱스가 여러 \"조각\"으로 나뉘는 현상을 말합니다\n\n\n-> **인덱스 조각화**는 인덱스에서 발생하는 단편화의 한 형태",
+      "type": "text",
+      "width": 560,
+      "x": 1300,
+      "y": 1760
+    },
+    {
+      "height": 780,
+      "id": "2efa782288f0bdc8",
+      "styleAttributes": {
+      },
+      "text": "## OPTIMIZE TABLE (InnoDB)\n\n- InnoDB에서는 OPTIMIZE TABLE 명령어가 사실상 `ALTER TABLE ... FORCE` 명령과 동일하게 동작하여 테이블을 재구성합니다.\n- 테이블 데이터를 클러스터형 인덱스(Primary Key) 순서대로 재배치하여 단편화된 데이터와 인덱스를 정리하고, 삭제나 업데이트로 인해 남은 불필요한 공간을 회수합니다.\n- 인덱스 통계 정보도 갱신되어 옵티마이저가 최신 통계 기반으로 쿼리 계획을 세울 수 있게 돕습니다.\n- 작업 도중 임시 테이블을 생성해 데이터를 복제하며, 마지막에 원본 테이블을 교체하는 방식이라 락과 많은 I/O가 발생할 수 있습니다.    \n- InnoDB는 MVCC 구조이며 페이지 할당 방식 때문에 조각화 발생 빈도가 상대적으로 낮지만, 대량 삭제/갱신 이후 수동 최적화가 필요할 수 있습니다.\n\n```sql\nOPTIMIZE TABLE discussion;\n```\n    \n\n## 인덱스 리빌딩 (InnoDB)\n\n- 인덱스 리빌딩은 특정 인덱스(또는 모든 인덱스)를 재생성하는 작업으로, 단편화된 인덱스 페이지를 재정렬해 검색 성능을 개선합니다.\n- MySQL은 별도의 인덱스 리빌드 명령이 없으며, 인덱스 리빌드는 보통 ALTER TABLE을 통해 테이블 전체를 재생성하거나 DROP INDEX 후 ADD INDEX를 실행하는 방식으로 수행합니다.\n- 인덱스 리빌딩은 인덱스만 다시 만드는 것이지만, InnoDB에서 테이블 재빌드 작업은 자동으로 인덱스를 포함하여 전체 데이터를 재정렬하는 효과를 냅니다.\n- 인덱스 리빌딩은 OPTIMIZE TABLE의 하위 개념으로 볼 수 있으며, OPTIMIZE TABLE은 테이블 데이터와 인덱스를 통합적으로 최적화합니다.\n\n(단일)\n```sql\nALTER TABLE discussion DROP INDEX idx_discussion_date, ADD INDEX idx_discussion_date (discussion_date);\n```\n\n(전체)\n```sql\nALTER TABLE discussion ENGINE=InnoDB;\n```\n",
+      "type": "text",
+      "width": 960,
+      "x": 3580,
+      "y": 1940
+    },
+    {
+      "height": 140,
+      "id": "6d53aea8b7daeab0",
+      "styleAttributes": {
+      },
+      "text": "샤딩/파티셔닝\n스케일 아웃/스케일 업 등등?\n\n돈들어서 별로일듯",
+      "type": "text",
+      "width": 260,
+      "x": 1660,
+      "y": 800
+    },
+    {
+      "color": "5",
+      "height": 1400,
+      "id": "summary_final_2025",
+      "styleAttributes": {
+      },
+      "text": "## 📋 전체 흐름 정리\n\n### 🔍 문제 진단 프로세스\n\n**1단계: 초기 분석**\n- 서버 상태 정상 확인 ✓\n- DB 트랜잭션 사용 확인 → DB 문제 의심\n\n**2단계: DB 문제 원인 파악**\n\n📌 **Connection Pool 확인**\n- 활성 커넥션 수 vs 최대 커넥션 수 비교\n- maximumPoolSize 근접 시 부족 판단\n- 즉각 대응: Connection Pool 크기 증가\n\n📌 **Slow Query 탐지**\n- 쿼리 실행 시간 측정\n- EXPLAIN으로 실행 계획 분석\n\n**3단계: 인덱스 최적화**\n- 인덱스 존재 여부 확인\n- EXPLAIN으로 스캔 타입 확인\n- range 스캔으로 최적화\n\n**4단계: 조각화 진단**\n- 인덱스 조각화(단편화) 비율 계산\n- 기준: 일반 테이블 10%, 전문검색 5%\n\n**5단계: 최적화 실행**\n- OPTIMIZE TABLE: 전체 테이블 최적화\n- 인덱스 리빌딩: 특정/전체 인덱스 재생성\n\n---\n\n### 💡 핵심 개념\n\n**페이지(Page)**\n- 데이터/인덱스 저장 기본 단위\n- 고정 크기: 16KB\n\n**조각화(Fragmentation)**\n- 저장 공간의 빈 공간 발생\n- 삭제/갱신 작업 시 발생\n- 성능 저하의 주요 원인\n\n**단편화 비율 공식**\n```\n(data_free / (data_length + index_length)) × 100\n```\n\n---\n\n### 🔧 최적화 SQL\n\n**단편화 비율 확인**\n```sql\nSELECT \n  table_schema, table_name,\n  data_length, index_length, data_free,\n  (data_free / (data_length + index_length)) * 100 \n    AS fragmentation_ratio \nFROM information_schema.tables \nWHERE table_schema = 'your_database';\n```\n\n**전체 테이블 최적화**\n```sql\nOPTIMIZE TABLE table_name;\n```\n\n**인덱스 리빌딩**\n```sql\n-- 단일 인덱스\nALTER TABLE table_name \nDROP INDEX idx_name, \nADD INDEX idx_name (column);\n\n-- 전체 재구성\nALTER TABLE table_name ENGINE=InnoDB;\n```\n\n---\n\n### ⚠️ 주의사항\n\n- OPTIMIZE TABLE은 **락 발생 + 높은 I/O 부하**\n- 운영 시간대 피해서 실행 권장\n- InnoDB는 조각화 발생 빈도 낮음\n- 대량 삭제/갱신 후 점검 필수\n- 임시 테이블 생성으로 디스크 공간 필요",
+      "type": "text",
+      "width": 950,
+      "x": 4800,
+      "y": -100
+    }
+  ]
+}

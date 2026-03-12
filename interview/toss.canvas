@@ -1,0 +1,282 @@
+{
+  "edges": [
+    {
+      "color": "4",
+      "fromNode": "resume-tsid",
+      "fromSide": "right",
+      "id": "edge-resume-q1",
+      "label": "첫 질문",
+      "toNode": "q1-tsid",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "q1-tsid",
+      "fromSide": "right",
+      "id": "edge-q1-q2",
+      "label": "깊이 1",
+      "toNode": "q2-snowflake-vs-tsid",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "q2-snowflake-vs-tsid",
+      "fromSide": "right",
+      "id": "edge-q2-q3",
+      "label": "깊이 2",
+      "toNode": "q3-tsid-scaling",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "q3-tsid-scaling",
+      "fromSide": "right",
+      "id": "edge-q3-q4",
+      "label": "깊이 3",
+      "toNode": "q4-autoscaling",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "q4-autoscaling",
+      "fromSide": "right",
+      "id": "edge-q4-q5",
+      "label": "깊이 4",
+      "toNode": "q5-db-insert-performance",
+      "toSide": "left"
+    },
+    {
+      "color": "4",
+      "fromNode": "q5-db-insert-performance",
+      "fromSide": "right",
+      "id": "edge-q5-q6",
+      "label": "깊이 5",
+      "toNode": "q6-clustered-secondary",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "resume-index-skip-scan",
+      "fromSide": "right",
+      "id": "edge-resume-index-q7",
+      "label": "첫 질문",
+      "toNode": "q7-index-skip-scan",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "q7-index-skip-scan",
+      "fromSide": "right",
+      "id": "edge-q7-q8",
+      "label": "깊이 1",
+      "toNode": "q8-skip-scan-condition",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "q8-skip-scan-condition",
+      "fromSide": "right",
+      "id": "edge-q8-q9",
+      "label": "깊이 2",
+      "toNode": "q9-skip-scan-vs-covering",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "q9-skip-scan-vs-covering",
+      "fromSide": "right",
+      "id": "edge-q9-q10",
+      "label": "깊이 3",
+      "toNode": "q10-mock-data-distribution",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "q10-mock-data-distribution",
+      "fromSide": "right",
+      "id": "edge-q10-q11",
+      "label": "깊이 4",
+      "toNode": "q11-p95-reason",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "q11-p95-reason",
+      "fromSide": "right",
+      "id": "edge-q11-q12",
+      "label": "깊이 5",
+      "toNode": "q12-gc-algorithm",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "4",
+      "height": 850,
+      "id": "resume-tsid",
+      "styleAttributes": {
+      },
+      "text": "# 📄 이력서 키워드\n## TSID (Time-sorted Unique ID)\n\n**프로젝트**: 아인슈타임\n\n**문제**\n- UUID v4 사용 중 URL 길이 문제\n- 시간순 정렬 불가\n\n**결과**\n- 식별자 길이 36자 → 13자\n- DB 삽입 시간 16x 단축\n- ID 생성 시간 5x 단축",
+      "type": "text",
+      "width": 450,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "color": "4",
+      "height": 850,
+      "id": "q1-tsid",
+      "styleAttributes": {
+      },
+      "text": "# 💬 면접 질문 1\n## TSID 선택 이유\n\n**질문**\nTSID를 도입하셨다고 하셨는데, 이 기술을 선택한 이유는 무엇인가요?\n\n---\n\n**답변 요약**\n유저 테스트에서 공유 링크가 길다는 피드백 → UUID가 너무 길어서 줄이기 위해 도입\n\n---\n\n**피드백**\n- ✅ 유저 피드백 기반 문제 인식\n- ⚠️ 다른 대안과의 비교 부족\n- ⚠️ TSID의 기술적 장점 언급 필요\n\n---\n\n**개선 포인트**\n- NanoID, ULID 등과 비교\n- 시간순 정렬의 DB 성능 이점\n- 충돌 가능성 관련 설명",
+      "type": "text",
+      "width": 450,
+      "x": 550,
+      "y": 0
+    },
+    {
+      "color": "4",
+      "height": 850,
+      "id": "q2-snowflake-vs-tsid",
+      "styleAttributes": {
+      },
+      "text": "# 💬 면접 질문 2 (깊이 1)\n## Snowflake vs TSID 비교\n\n**질문**\nSnowflake 대신 TSID를 선택한 결정적인 이유는 무엇이었나요?\n\n---\n\n**답변 요약**\n- Snowflake: 데이터센터/워커 ID 비트 필수 할당\n- 단일 서버 환경에서 불필요한 설정\n- TSID는 내부적으로 처리, 설정 불필요\n\n---\n\n**피드백**\n- ✅ 인프라 상황과 연결한 판단\n- ✅ 두 기술의 차이점 인지\n- ⚠️ 비트 구조 상세 설명 보완 필요\n- ⚠️ 확장 시 대응 방안 언급 필요\n\n---\n\n**개선 포인트**\n- Snowflake 64비트 구조 설명\n- TSID 64비트 구조 설명\n- 향후 확장성 대응 방안",
+      "type": "text",
+      "width": 450,
+      "x": 1100,
+      "y": 0
+    },
+    {
+      "color": "4",
+      "height": 850,
+      "id": "q3-tsid-scaling",
+      "styleAttributes": {
+      },
+      "text": "# 💬 면접 질문 3 (깊이 2)\n## TSID 다중 서버 충돌 방지\n\n**질문**\n서비스가 성장해서 다중 서버로 확장해야 하는 상황이 온다면, TSID에서 ID 충돌 문제는 어떻게 해결하실 계획이셨나요?\n\n---\n\n**답변 요약**\n- 노드 ID 설정이 동적으로 가능\n- 각 서버 환경변수로 노드 번호 설정\n- 이를 통해 ID 충돌 방지 가능\n\n---\n\n**피드백**\n- ✅ TSID 노드 ID 동적 설정 인지\n- ✅ 환경변수 활용 방안 제시\n- ⚠️ 오토스케일링 환경 고려 부족\n- ⚠️ 구체적 구현 방안 보완 필요\n\n---\n\n**개선 포인트**\n- 수동 설정의 한계점 언급\n- TsidFactory 활용 방안\n- K8s Pod 인덱스 활용 등",
+      "type": "text",
+      "width": 450,
+      "x": 1650,
+      "y": 0
+    },
+    {
+      "color": "4",
+      "height": 850,
+      "id": "q4-autoscaling",
+      "styleAttributes": {
+      },
+      "text": "# 💬 면접 질문 4 (깊이 3)\n## 오토스케일링 환경 대응\n\n**질문**\n오토스케일링 환경에서 서버가 동적으로 늘어나고 줄어드는 상황에서는 어떻게 노드 ID 충돌을 방지하실 건가요?\n\n---\n\n**답변 요약**\n- 수동 환경변수 방식의 한계 인정\n- 중앙 집중식 관리 시스템 필요성 추론\n- 중앙에서 ID 할당받아 TSID에 주입\n\n---\n\n**피드백**\n- ✅ 솔직한 한계 인정 (좋은 태도)\n- ✅ 논리적 추론으로 핵심 개념 도출\n- ✅ 중앙 레지스트리 개념 파악\n- 💡 구체적 기술 옵션 학습 권장\n\n---\n\n**학습 포인트**\n- K8s StatefulSet Pod 인덱스\n- Redis/ZooKeeper 레지스트리\n- TSID 랜덤 폴백의 충돌 확률",
+      "type": "text",
+      "width": 450,
+      "x": 2200,
+      "y": 0
+    },
+    {
+      "color": "4",
+      "height": 850,
+      "id": "q5-db-insert-performance",
+      "styleAttributes": {
+      },
+      "text": "# 💬 면접 질문 5 (깊이 4)\n## DB 삽입 성능 16배 향상 원리\n\n**질문**\nDB 삽입 시간이 16배 단축되었다고 하셨는데, 시간순 정렬이 DB 성능에 어떤 영향을 주는 건가요?\n\n---\n\n**답변 요약**\n- InnoDB B+Tree 인덱스 구조 설명\n- TSID: 리프 노드 끝에 순차 삽입\n- UUID: 랜덤 위치 삽입 → 랜덤 I/O\n- 버퍼풀 활용 여부가 성능 차이 원인\n\n---\n\n**피드백**\n- ✅ B+Tree 구조 이해\n- ✅ 버퍼풀 개념 정확히 파악\n- ✅ 랜덤 I/O vs 순차 I/O 핵심 설명\n- 💡 페이지 스플릿 개념 추가 권장\n\n---\n\n**보완 포인트**\n- 페이지 스플릿 오버헤드 언급\n- 클러스터드 인덱스 개념\n- 답변 구조화 연습",
+      "type": "text",
+      "width": 450,
+      "x": 2750,
+      "y": 0
+    },
+    {
+      "color": "4",
+      "height": 850,
+      "id": "q6-clustered-secondary",
+      "styleAttributes": {
+      },
+      "text": "# 💬 면접 질문 6 (깊이 5)\n## 클러스터드 vs 세컨더리 인덱스\n\n**질문**\n클러스터드 인덱스와 세컨더리 인덱스에서 이 영향이 다르게 나타날까요?\n\n---\n\n**답변 요약**\n- 클러스터드: 리프에 실제 데이터 → I/O 큼\n- 세컨더리: 리프에 PK만 저장 → I/O 적음\n- 트리 구조는 동일하나 영향 정도 차이\n\n---\n\n**피드백**\n- ✅ 두 인덱스의 리프 노드 차이 이해\n- ✅ 데이터 크기와 I/O 연결\n- 💡 세컨더리→클러스터드 조회 언급 필요\n\n---\n\n**보완 포인트**\n- 세컨더리 인덱스 조회 시 PK로\n  클러스터드 재조회 필요\n- 페이지 크기(16KB) 관점 설명\n- 삽입 vs 조회 성능 구분",
+      "type": "text",
+      "width": 450,
+      "x": 3300,
+      "y": 0
+    },
+    {
+      "color": "6",
+      "height": 850,
+      "id": "resume-index-skip-scan",
+      "styleAttributes": {
+      },
+      "text": "# 📄 이력서 키워드\n## 복합 인덱스 성능 테스트\n\n**프로젝트**: 아인슈타임\n\n**상황**\n- 복합 인덱스 선두 컬럼(A)을\n  쿼리 조건절에서 미사용\n- 성능 저하 예상했으나 측정 결과 양호\n\n**문제**\n- Mock 데이터에서 A의 카디널리티가 낮아\n  옵티마이저가 Index Skip Scan 선택\n- 성능 착시 발생\n\n**결과**\n- 운영 유사 분포로 Mock 데이터 수정\n- P95 기준 15x 성능 향상\n- Mock 데이터 값 분포의 중요성 확인",
+      "type": "text",
+      "width": 450,
+      "x": 0,
+      "y": 1000
+    },
+    {
+      "color": "6",
+      "height": 850,
+      "id": "q7-index-skip-scan",
+      "styleAttributes": {
+      },
+      "text": "# 💬 면접 질문 7\n## Index Skip Scan 개념\n\n**질문**\nIndex Skip Scan이란?\n\n---\n\n**답변 요약**\n- 두 개 이상의 컬럼으로 구성된 복합 인덱스\n- 선두 컬럼이 없어도 인덱스 활용 가능\n- 선두 컬럼을 스킵하는 기법\n\n---\n\n**피드백**\n- ✅ Skip Scan 핵심 개념 정확히 이해\n- ⚠️ 동작 원리 설명 보완 필요\n- ⚠️ 적용 조건(카디널리티) 언급 필요\n\n---\n\n**보완 포인트**\n- 선두 컬럼 고유값 순회 방식 설명\n- 낮은 카디널리티일 때 효과적\n- MySQL 8.0부터 지원\n- 비용 기반 옵티마이저 판단",
+      "type": "text",
+      "width": 450,
+      "x": 550,
+      "y": 1000
+    },
+    {
+      "color": "6",
+      "height": 850,
+      "id": "q8-skip-scan-condition",
+      "styleAttributes": {
+      },
+      "text": "# 💬 면접 질문 8 (깊이 1)\n## Skip Scan 효과적인 조건\n\n**질문**\nIndex Skip Scan은 어떤 조건에서 효과적이고, 어떤 조건에서 비효율적인가요?\n\n---\n\n**답변 요약**\n- 선두 컬럼 카디널리티 낮을 때 효과적\n  (예: gender - M/F)\n- 단일 인덱스로 바꾸면 되지 않나?\n  → 언제 Skip Scan이 더 유리한지 모름\n\n---\n\n**피드백**\n- ✅ 낮은 카디널리티 조건 정확히 이해\n- ✅ 비판적 사고 (단일 인덱스 대안)\n- 💡 실제 유용한 시나리오 학습 권장\n\n---\n\n**학습 포인트**\n- 기존 복합 인덱스 재활용\n- 인덱스 추가 없이 쿼리 지원\n- '차선책'으로서의 Skip Scan",
+      "type": "text",
+      "width": 450,
+      "x": 1100,
+      "y": 1000
+    },
+    {
+      "color": "6",
+      "height": 850,
+      "id": "q9-skip-scan-vs-covering",
+      "styleAttributes": {
+      },
+      "text": "# 💬 면접 질문 9 (깊이 2)\n## Skip Scan vs 커버링 인덱스\n\n**질문**\nSkip Scan과 커버링 인덱스의 디스크 I/O 차이는?\n\n---\n\n**답변 요약**\n- 커버링: 클러스터드 조회 불필요\n- 본인 경험: 클러스터드에서 Skip Scan\n  → 데이터 페이지 접근 필요\n- 세컨더리 + 커버링: 리프 노드만으로 완료\n\n---\n\n**피드백**\n- ✅ 질문 의도 확인하는 좋은 커뮤니케이션\n- ✅ 본인 경험과 연결한 설명\n- ✅ 두 개념의 축이 다름을 이해\n\n---\n\n**핵심 정리**\n- Skip Scan: 인덱스 접근 방식\n- 커버링: 추가 조회 회피 여부\n- 두 가지 함께 적용 시 최적 성능",
+      "type": "text",
+      "width": 450,
+      "x": 1650,
+      "y": 1000
+    },
+    {
+      "color": "6",
+      "height": 850,
+      "id": "q10-mock-data-distribution",
+      "styleAttributes": {
+      },
+      "text": "# 💬 면접 질문 10 (깊이 3)\n## 운영 데이터 분포 파악\n\n**질문**\nMock 데이터를 운영과 유사한 분포로 수정했다고 하셨는데, 어떻게 운영 데이터의 분포를 파악하셨나요?\n\n---\n\n**답변 요약**\n- 운영 데이터 규모가 작아 쿼리로 파악 가능\n- 데이터를 점검하며 분포 확인\n- 생성형 AI로 테스트 데이터셋 생성\n\n---\n\n**피드백**\n- ✅ 현실적인 접근 (소규모 데이터)\n- ✅ 생성형 AI 활용한 창의적 해결\n- ⚠️ 구체적 쿼리/방법 설명 보완 필요\n\n---\n\n**보완 포인트**\n- GROUP BY로 분포 확인 쿼리\n- 대규모 시 샘플링/통계 활용\n- INFORMATION_SCHEMA 활용",
+      "type": "text",
+      "width": 450,
+      "x": 2200,
+      "y": 1000
+    },
+    {
+      "color": "6",
+      "height": 850,
+      "id": "q11-p95-reason",
+      "styleAttributes": {
+      },
+      "text": "# 💬 면접 질문 11 (깊이 4)\n## P95 선택 이유\n\n**질문**\n성능 테스트 시 P95를 기준으로 삼으셨는데, P95를 선택한 이유가 있나요? P99나 평균은 왜 안 쓰셨나요?\n\n---\n\n**답변 요약**\n- 처음엔 평균(P50)이 중요하다고 생각\n- 테스트하며 극한 상황이 더 중요함을 깨달음\n- P99는 GC 등 노이즈가 많아 P95 선택\n\n---\n\n**피드백**\n- ✅ 평균의 한계 인식\n- ✅ 백분위수로 전환한 사고 과정\n- ✅ P99 노이즈(GC 등) 고려한 판단\n\n---\n\n**핵심 정리**\n- 평균: 이상치에 민감, 왜곡 가능\n- P95: 95% 사용자 경험 대표\n- P99: 테스트 규모 작으면 노이즈 큼",
+      "type": "text",
+      "width": 450,
+      "x": 2750,
+      "y": 1000
+    },
+    {
+      "color": "6",
+      "height": 850,
+      "id": "q12-gc-algorithm",
+      "styleAttributes": {
+      },
+      "text": "# 💬 면접 질문 12 (깊이 5)\n## GC 알고리즘 선택\n\n**질문**\nGC의 Stop-the-World가 P99에 노이즈로 작용한다고 하셨는데, 프로젝트에서 사용하신 JVM GC 알고리즘은 무엇이었나요?\n\n---\n\n**답변 요약**\n- 기본 GC 사용\n- 힙 구조 설명 (Eden, Survivor, Old)\n- 객체 생명주기 흐름 설명\n\n---\n\n**피드백**\n- ✅ JVM 힙 메모리 구조 이해\n- ✅ Generational GC 개념 파악\n- ⚠️ 질문 핵심(GC 알고리즘 종류) 미응답\n- ⚠️ 선택 이유 설명 부족\n\n---\n\n**학습 포인트**\n- GC 종류: Serial, Parallel, G1, ZGC\n- Java 9+ 기본 GC: G1GC\n- G1 vs ZGC 특성 비교\n- 서비스 규모에 맞는 선택 기준",
+      "type": "text",
+      "width": 450,
+      "x": 3300,
+      "y": 1000
+    }
+  ]
+}
