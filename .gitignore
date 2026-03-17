@@ -10,3 +10,6 @@
 
 # zip files
 *.zip
+
+# Auto-push logs
+.scripts/*.log
