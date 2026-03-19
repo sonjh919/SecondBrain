@@ -5,6 +5,9 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 
+# Obsidian - 민감 정보 포함 플러그인 데이터
+.obsidian/plugins/google-workspace-obsidian/data.json
+
 # Claude Code
 .claude/
 

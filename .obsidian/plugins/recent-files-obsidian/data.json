@@ -5,12 +5,12 @@
       "path": "Dashboard.md"
     },
     {
-      "basename": "review-checklist",
-      "path": "temp/review-checklist.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "review-checklist",
+      "path": "temp/review-checklist.md"
     },
     {
       "basename": "coding-philosophy-2026-03-12",

@@ -1,0 +1,353 @@
+{
+  "workspaces": {
+    "default": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "4509724f8bf84da7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e7a7b303c61786dc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dashboard.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Dashboard"
+                }
+              },
+              {
+                "id": "1efa266e0363cae2",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/sonjunhyeong/Documents/SecondBrain",
+                      "focus": false,
+                      "profile": {
+                        "args": [
+                          "--login"
+                        ],
+                        "executable": "/bin/zsh",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "터미널: sonjunhyeong@sonjunhyung-ui-MacBookAir:~/Documents/SecondBrain"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "7a7987740bb372ee",
+        "type": "split",
+        "children": [
+          {
+            "id": "f6ef861f0d4a7e7e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8c3cf7e70cca4a62",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "파일 탐색기"
+                }
+              },
+              {
+                "id": "8ae6ded257ae2a6b",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "검색"
+                }
+              },
+              {
+                "id": "06b7610794688cb8",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              },
+              {
+                "id": "249d15c3dbd240af",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "북마크"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 275.5
+      },
+      "right": {
+        "id": "cba28aca23a85a56",
+        "type": "split",
+        "children": [
+          {
+            "id": "c5b91286d068ffb4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "785d98386249d105",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "cf5937065db623f2",
+                "type": "leaf",
+                "state": {
+                  "type": "mermaid-toolbar-view",
+                  "state": {},
+                  "icon": "trident-custom",
+                  "title": "Mermaid Toolbar"
+                }
+              },
+              {
+                "id": "52eb13701fb6b4d8",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              },
+              {
+                "id": "f2c1b359f3bfcca4",
+                "type": "leaf",
+                "state": {
+                  "type": "google-workspace-sidebar",
+                  "state": {},
+                  "icon": "lucide-ghost",
+                  "title": "google-workspace-sidebar"
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "d9dfa4439c8b9955",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b2274c875f085902",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "🟧 Organize 영구노트/🔵 Project 프로젝트/테코톡-이벤트 스토밍/이벤트 스토밍 레퍼런스.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "이벤트 스토밍 레퍼런스 의 백링크"
+                }
+              },
+              {
+                "id": "49fc9ccae9fb7bab",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "🟥 Capture 임시메모(inbox)/inbox.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "inbox 의 나가는 링크"
+                }
+              },
+              {
+                "id": "163c1987e3fa271f",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "태그"
+                }
+              },
+              {
+                "id": "5ac63ab9e7bf2d7d",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "그래프 뷰"
+                }
+              },
+              {
+                "id": "af19f7550d48e8de",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🟥 Capture 임시메모(inbox)/Inbox.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Inbox"
+                }
+              },
+              {
+                "id": "5b53d7ac2614df72",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "🟧 Organize 영구노트/🟢 Area 장기적인 책임/Network/REST API.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "REST API 의 개요"
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "107b16cbf2afe5f2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e9cec14adaa58051",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {},
+                  "icon": "checkmark",
+                  "title": "Todo List"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 288.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "google-workspace-obsidian:Google Workspace": false,
+          "bases:새 베이스 생성하기": false,
+          "command-palette:명령어 팔레트 열기": false,
+          "switcher:빠른 전환기 열기": false,
+          "publish:변경사항 게재": false,
+          "ribbon-divider:ribbon-divider-26b8407d-2713-4cbd-90d3-352835c94484": false,
+          "graph:그래프 뷰 열기": false,
+          "daily-notes:오늘의 일일 노트 열기": false,
+          "templates:템플릿 삽입": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "templater-obsidian:Templater": false,
+          "ribbon-divider:ribbon-divider-fd6c5f2b-30ec-47e8-a8e0-f1e774489248": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "canvas:새 캔버스 만들기": false,
+          "ribbon-divider:ribbon-divider-4c8312ff-f56b-4b75-9d14-24861531d356": false,
+          "terminal:Open terminal": false,
+          "homepage:Open homepage": false,
+          "hidden-folder-obsidian:Show Folders": false,
+          "obsidian-task-progress-bar:Open Task Genius view": false,
+          "workspaces:작업 공간 레이아웃 관리": false
+        }
+      },
+      "active": "8c3cf7e70cca4a62",
+      "mtime": "2026-03-19T16:27:17+09:00"
+    }
+  },
+  "active": "default"
+}
