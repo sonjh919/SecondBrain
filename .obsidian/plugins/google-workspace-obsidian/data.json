@@ -1,0 +1,8 @@
+{
+  "accessToken": "",
+  "refreshToken": "",
+  "tokenExpiry": 0,
+  "connectedEmail": "",
+  "notesFolder": "Assignments",
+  "autoSync": true
+}

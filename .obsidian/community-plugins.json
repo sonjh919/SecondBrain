@@ -20,5 +20,7 @@
   "highlightr-plugin",
   "obsidian-local-rest-api",
   "terminal",
-  "obsidian-file-color"
+  "obsidian-file-color",
+  "dataview",
+  "google-workspace-obsidian"
 ]

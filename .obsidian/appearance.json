@@ -6,7 +6,9 @@
     "extended-colorschemes",
     "custom-admonitions.4efbfe",
     "obsidian-css",
-    "list_line"
+    "list_line",
+    "Dashboard-Zen",
+    "zen-os-accent"
   ],
   "theme": "obsidian",
   "interfaceFontFamily": "맑은 고딕",
