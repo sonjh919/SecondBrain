@@ -1,28 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "알아두면 이해하기 편한 문법",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/내부코드 까보기/알아두면 이해하기 편한 문법.md"
+    },
+    {
+      "basename": "review-checklist",
+      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/리뷰분석/review-checklist.md"
+    },
+    {
+      "basename": "coding-philosophy-2026-03-12 ver2",
+      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/리뷰분석/coding-philosophy-2026-03-12 ver2.md"
+    },
+    {
+      "basename": "coding-philosophy-2026-03-12 ver1",
+      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/리뷰분석/coding-philosophy-2026-03-12 ver1.md"
+    },
+    {
+      "basename": "coding-philosophy-2026-03-12",
+      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/리뷰분석/coding-philosophy-2026-03-12.md"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "review-checklist",
-      "path": "temp/review-checklist.md"
-    },
-    {
-      "basename": "coding-philosophy-2026-03-12",
-      "path": "temp/coding-philosophy-2026-03-12.md"
-    },
-    {
-      "basename": "coding-philosophy-2026-03-12 ver2",
-      "path": "temp/coding-philosophy-2026-03-12 ver2.md"
-    },
-    {
-      "basename": "coding-philosophy-2026-03-12 ver1",
-      "path": "temp/coding-philosophy-2026-03-12 ver1.md"
     },
     {
       "basename": "datarize-domain-structure",
@@ -179,22 +183,6 @@
     {
       "basename": "LockManager 인터페이스",
       "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/LockManager 인터페이스.md"
-    },
-    {
-      "basename": "Aggregate와 Transaction",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/Aggregate와 Transaction.md"
-    },
-    {
-      "basename": "aggregatetransaction",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/img/aggregatetransaction.png"
-    },
-    {
-      "basename": "오프라인 선점 잠금",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/오프라인 선점 잠금.md"
-    },
-    {
-      "basename": "선점 잠금",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/선점 잠금.md"
     }
   ],
   "omittedPaths": [],
