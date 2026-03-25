@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "알아두면 이해하기 편한 문법",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/내부코드 까보기/알아두면 이해하기 편한 문법.md"
-    },
-    {
       "basename": "review-checklist",
       "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/리뷰분석/review-checklist.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "basename": "알아두면 이해하기 편한 문법",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/내부코드 까보기/알아두면 이해하기 편한 문법.md"
     },
     {
       "basename": "coding-philosophy-2026-03-12 ver2",
@@ -19,10 +23,6 @@
     {
       "basename": "coding-philosophy-2026-03-12",
       "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/리뷰분석/coding-philosophy-2026-03-12.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
     },
     {
       "basename": "README",
