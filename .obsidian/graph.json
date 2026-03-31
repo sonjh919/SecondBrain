@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#네트워크  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -123,6 +123,6 @@
   "repelStrength": 6.00016276041667,
   "linkStrength": 1,
   "linkDistance": 278,
-  "scale": 2.3678738688432626,
-  "close": false
+  "scale": 0.49764745241110225,
+  "close": true
 }

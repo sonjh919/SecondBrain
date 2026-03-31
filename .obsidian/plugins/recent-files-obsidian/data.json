@@ -1,32 +1,152 @@
 {
   "recentFiles": [
     {
-      "basename": "coding-philosophy-2026-03-12 ver1",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/리뷰분석/coding-philosophy-2026-03-12 ver1.md"
+      "basename": "Dashboard",
+      "path": "Dashboard.md"
     },
     {
-      "basename": "review-checklist",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/리뷰분석/review-checklist.md"
+      "basename": "1. 개발 철학",
+      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/ppt/1. 개발 철학.md"
+    },
+    {
+      "basename": "3. 나만의 언어",
+      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/ppt/3. 나만의 언어.md"
+    },
+    {
+      "basename": "2. 나만의 언어 효과",
+      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/ppt/2. 나만의 언어 효과.md"
+    },
+    {
+      "basename": "4. 끗",
+      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/ppt/4. 끗.md"
+    },
+    {
+      "basename": "다시추상화시키기",
+      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/자료/다시추상화시키기.canvas"
+    },
+    {
+      "basename": "블랙잭 설계",
+      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/자료/블랙잭 설계.canvas"
+    },
+    {
+      "basename": "오브젝트",
+      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/자료/오브젝트.canvas"
+    },
+    {
+      "basename": "장기",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/level1/장기.canvas"
+    },
+    {
+      "basename": "장기말 설계",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/level1/장기말 설계.md"
+    },
+    {
+      "basename": "링크 대본",
+      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/etc/링크 대본.md"
+    },
+    {
+      "basename": "06 메시지와 인터페이스",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/06 메시지와 인터페이스.md"
+    },
+    {
+      "basename": "05 책임 할당하기",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/05 책임 할당하기.md"
+    },
+    {
+      "basename": "04 설계 품질과 트레이드오프",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/04 설계 품질과 트레이드오프.md"
+    },
+    {
+      "basename": "03 역할, 책임, 협력",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/03 역할, 책임, 협력.md"
+    },
+    {
+      "basename": "02 객체지향 프로그래밍",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/02 객체지향 프로그래밍.md"
+    },
+    {
+      "basename": "01 객체, 설계",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/01 객체, 설계.md"
+    },
+    {
+      "basename": "자바 8",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/모던 자바 인 액션/Part1/자바 8.canvas"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "Dashboard.md"
+      "basename": "20241228",
+      "path": "Setting/20241228.png"
+    },
+    {
+      "basename": "오브젝트 리마인드",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/오브젝트 총정리/오브젝트 리마인드.md"
+    },
+    {
+      "basename": "10 상속과 코드 재사용",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/10 상속과 코드 재사용.md"
     },
     {
       "basename": "우테코에서 나를 찾는 방법?성장하는법?",
-      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/우테코에서 나를 찾는 방법?성장하는법?.md"
+      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/etc/우테코에서 나를 찾는 방법?성장하는법?.md"
     },
     {
-      "basename": "선수타",
-      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/선수타.md"
+      "basename": "선수타 작업 맥락",
+      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/etc/선수타 작업 맥락.md"
     },
     {
-      "basename": "알아두면 이해하기 편한 문법",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/내부코드 까보기/알아두면 이해하기 편한 문법.md"
+      "basename": "링크 정리",
+      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/etc/링크 정리.md"
+    },
+    {
+      "basename": "링크 슬라이드",
+      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/etc/링크 슬라이드.md"
+    },
+    {
+      "basename": "07 객체 분해",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/07 객체 분해.md"
+    },
+    {
+      "basename": "11 합성과 유연한 설계",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/11 합성과 유연한 설계.md"
+    },
+    {
+      "basename": "13 서브클래싱과 서브타이핑",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/13 서브클래싱과 서브타이핑.md"
+    },
+    {
+      "basename": "05-2",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/05-2.md"
+    },
+    {
+      "basename": "PR-808-Code-Review",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/codereview/blackjack/PR-808-Code-Review.canvas"
+    },
+    {
+      "basename": "최종의최종",
+      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/etc/최종의최종.md"
+    },
+    {
+      "basename": "최종3",
+      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/etc/최종3.md"
+    },
+    {
+      "basename": "최종2",
+      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/etc/최종2.md"
+    },
+    {
+      "basename": "최종",
+      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/etc/최종.md"
+    },
+    {
+      "basename": "review-checklist",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/리뷰분석/review-checklist.md"
+    },
+    {
+      "basename": "coding-philosophy-2026-03-12 ver1",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/리뷰분석/coding-philosophy-2026-03-12 ver1.md"
     },
     {
       "basename": "coding-philosophy-2026-03-12 ver2",
@@ -37,160 +157,48 @@
       "path": "🟧 Organize 영구노트/🟤 Archive 보관소/리뷰분석/coding-philosophy-2026-03-12.md"
     },
     {
+      "basename": "선수타 대본",
+      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/선수타 대본.pdf"
+    },
+    {
+      "basename": "04 TDD 기능, 명세, 설계",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/테스트 주도 개발 시작하기/04 TDD 기능, 명세, 설계.md"
+    },
+    {
+      "basename": "08 테스트 가능한 설계",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/테스트 주도 개발 시작하기/08 테스트 가능한 설계.md"
+    },
+    {
+      "basename": "10 테스트 코드와 유지보수",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/테스트 주도 개발 시작하기/10 테스트 코드와 유지보수.md"
+    },
+    {
+      "basename": "02 TDD 시작",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/테스트 주도 개발 시작하기/02 TDD 시작.md"
+    },
+    {
+      "basename": "03 테스트 코드 작성 순서",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/테스트 주도 개발 시작하기/03 테스트 코드 작성 순서.md"
+    },
+    {
+      "basename": "08 의존성 관리하기",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/08 의존성 관리하기.md"
+    },
+    {
+      "basename": "요청응답",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/요청응답.canvas"
+    },
+    {
+      "basename": "알아두면 이해하기 편한 문법",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/내부코드 까보기/알아두면 이해하기 편한 문법.md"
+    },
+    {
       "basename": "datarize-domain-structure",
       "path": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/datarize/datarize-domain-structure.canvas"
     },
     {
       "basename": "제이슨강의",
       "path": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/제이슨강의.md"
-    },
-    {
-      "basename": "🙌 Welcome!!",
-      "path": "Setting/🙌 Welcome!!.md"
-    },
-    {
-      "basename": "20241228",
-      "path": "Setting/20241228.png"
-    },
-    {
-      "basename": "DDD",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/DDD.canvas"
-    },
-    {
-      "basename": "도메인 언어와 유비쿼터스 언어",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/1. 도메인 모델/도메인 언어와 유비쿼터스 언어.md"
-    },
-    {
-      "basename": "Domain Model",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain Model.md"
-    },
-    {
-      "basename": "Domain model 도출",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain model 도출.md"
-    },
-    {
-      "basename": "Domain",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/1. 도메인 모델/Domain.md"
-    },
-    {
-      "basename": "계층 구조 아키텍처",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/계층 구조 아키텍처.md"
-    },
-    {
-      "basename": "네 개의 영역",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/네 개의 영역.md"
-    },
-    {
-      "basename": "모듈 구성",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/모듈 구성.md"
-    },
-    {
-      "basename": "인프라스트럭처 개요",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/인프라스트럭처 개요.md"
-    },
-    {
-      "basename": "Aggregate",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Aggregate.md"
-    },
-    {
-      "basename": "Repository",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Repository.md"
-    },
-    {
-      "basename": "Domain 영역의 주요 구성요소",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/2. 아키텍처 개요/Domain 영역의 주요 구성요소.md"
-    },
-    {
-      "basename": "domainmodel2",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/img/Architecture/domainmodel2.png"
-    },
-    {
-      "basename": "domainmodel1",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/img/Architecture/domainmodel1.png"
-    },
-    {
-      "basename": "Component",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/img/Architecture/Component.png"
-    },
-    {
-      "basename": "ContextMapping",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/img/Architecture/ContextMapping.png"
-    },
-    {
-      "basename": "Command",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/img/Architecture/Command.png"
-    },
-    {
-      "basename": "BoundedContextDuduction",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/img/Architecture/BoundedContextDuduction.png"
-    },
-    {
-      "basename": "boris3",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/img/Architecture/boris3.png"
-    },
-    {
-      "basename": "boris2",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/img/Architecture/boris2.png"
-    },
-    {
-      "basename": "boris1",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/img/Architecture/boris1.png"
-    },
-    {
-      "basename": "Aggregate",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/img/Architecture/Aggregate.png"
-    },
-    {
-      "basename": "actor",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/img/Architecture/actor.png"
-    },
-    {
-      "basename": "MOC",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/MOC.md"
-    },
-    {
-      "basename": "CQRS",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/11. CQRS/CQRS.md"
-    },
-    {
-      "basename": "단일 모델의 단점",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/11. CQRS/단일 모델의 단점.md"
-    },
-    {
-      "basename": "간접 통합",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/간접 통합.md"
-    },
-    {
-      "basename": "도메인 모델과 경계",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/도메인 모델과 경계.md"
-    },
-    {
-      "basename": "직접 통합",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/직접 통합.md"
-    },
-    {
-      "basename": "Bounded Context",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Bounded Context.md"
-    },
-    {
-      "basename": "Bounded Context 간 관계",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Bounded Context 간 관계.md"
-    },
-    {
-      "basename": "Bounded Context 간 통합",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Bounded Context 간 통합.md"
-    },
-    {
-      "basename": "Bounded Context 구현",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Bounded Context 구현.md"
-    },
-    {
-      "basename": "Context Mapping",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/9. 도메인 모델과 바운디드 컨텍스트/Context Mapping.md"
-    },
-    {
-      "basename": "LockManager 인터페이스",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/도메인 주도 개발 시작하기/8. 애그리거트 트랜잭션 관리/LockManager 인터페이스.md"
     }
   ],
   "omittedPaths": [],

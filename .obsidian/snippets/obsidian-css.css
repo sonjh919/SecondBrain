@@ -10,3 +10,14 @@
     font-weight: normal;
     font-style: normal;
 }
+
+/* 다크 모드 코드 배경색 */
+.theme-dark pre[class*="language-"],
+.theme-dark code[class*="language-"],
+.theme-dark .HyperMD-codeblock,
+.theme-dark .cm-s-obsidian .HyperMD-codeblock-bg,
+.theme-dark pre code,
+.theme-dark .markdown-rendered pre,
+.theme-dark .markdown-rendered code {
+    background-color: #1E1F22 !important;
+}

@@ -14,5 +14,7 @@
   "interfaceFontFamily": "맑은 고딕",
   "textFontFamily": "고도 M",
   "monospaceFontFamily": "G마켓 산스",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "showRibbon": false,
+  "showViewHeader": true
 }

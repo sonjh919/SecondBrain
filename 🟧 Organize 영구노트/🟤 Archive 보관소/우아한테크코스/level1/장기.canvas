@@ -1143,6 +1143,18 @@
       "y": -1200
     },
     {
+      "color": "4",
+      "height": 60,
+      "id": "32c554b681e7e7d6",
+      "styleAttributes": {
+      },
+      "text": "상차림 strategy",
+      "type": "text",
+      "width": 260,
+      "x": 2100,
+      "y": -920
+    },
+    {
       "height": 60,
       "id": "bbd11248a28bbc97",
       "styleAttributes": {
@@ -1199,18 +1211,6 @@
       "y": -740
     },
     {
-      "color": "4",
-      "height": 60,
-      "id": "32c554b681e7e7d6",
-      "styleAttributes": {
-      },
-      "text": "상차림 strategy",
-      "type": "text",
-      "width": 260,
-      "x": 2100,
-      "y": -920
-    },
-    {
       "height": 60,
       "id": "436366a4e710ddee",
       "styleAttributes": {
@@ -1244,17 +1244,6 @@
       "y": -1100
     },
     {
-      "height": 270,
-      "id": "48b0d55f80c34253",
-      "styleAttributes": {
-      },
-      "text": "Turn\n`Team currentTeam`\n`boolean isRested`\n```java\npublic Turn(){\n\tcurrentTeam = CHO\n}\n```\n책임 : 턴 계산",
-      "type": "text",
-      "width": 580,
-      "x": 2530,
-      "y": -510
-    },
-    {
       "height": 180,
       "id": "8683bac343d4a9c8",
       "styleAttributes": {
@@ -1267,72 +1256,6 @@
     },
     {
       "height": 60,
-      "id": "748e9120be903ba7",
-      "styleAttributes": {
-      },
-      "text": "상",
-      "type": "text",
-      "width": 260,
-      "x": 410,
-      "y": 20
-    },
-    {
-      "height": 60,
-      "id": "c2d3ce9c2cdf0665",
-      "styleAttributes": {
-      },
-      "text": "마",
-      "type": "text",
-      "width": 260,
-      "x": 700,
-      "y": 20
-    },
-    {
-      "height": 60,
-      "id": "332a1ca9b85620fc",
-      "styleAttributes": {
-      },
-      "text": "2 상마마상",
-      "type": "text",
-      "width": 260,
-      "x": 1970,
-      "y": -1100
-    },
-    {
-      "height": 60,
-      "id": "aa115bae6ca91d70",
-      "styleAttributes": {
-      },
-      "text": "궁",
-      "type": "text",
-      "width": 260,
-      "x": 1700,
-      "y": 20
-    },
-    {
-      "height": 60,
-      "id": "59d3ce55ec3088ed",
-      "styleAttributes": {
-      },
-      "text": "포",
-      "type": "text",
-      "width": 260,
-      "x": 1380,
-      "y": 20
-    },
-    {
-      "height": 60,
-      "id": "d2d368e7480ecef4",
-      "styleAttributes": {
-      },
-      "text": "Position(src)",
-      "type": "text",
-      "width": 260,
-      "x": 1310,
-      "y": -740
-    },
-    {
-      "height": 60,
       "id": "193c690c26438636",
       "styleAttributes": {
       },
@@ -1341,28 +1264,6 @@
       "width": 260,
       "x": 1310,
       "y": -480
-    },
-    {
-      "height": 60,
-      "id": "1d44f9cf85eb58de",
-      "styleAttributes": {
-      },
-      "text": "병",
-      "type": "text",
-      "width": 260,
-      "x": 1050,
-      "y": 20
-    },
-    {
-      "height": 60,
-      "id": "3b5eb93ad6654194",
-      "styleAttributes": {
-      },
-      "text": "차",
-      "type": "text",
-      "width": 260,
-      "x": 3760,
-      "y": 20
     },
     {
       "height": 60,
@@ -1387,26 +1288,26 @@
       "y": 20
     },
     {
-      "height": 1630,
-      "id": "189989aece939f5f",
+      "height": 60,
+      "id": "332a1ca9b85620fc",
       "styleAttributes": {
       },
-      "text": "장기 행동\n\n장기판\n- 장기판은 9x10으로 구성된다.\n```java\nnew Board();\n```\n\n기물 이동\n + 이동(도착) 경로에 다른 말이 존재하면 이동할(갈) 수 없다.\n```java\nboolean hasPiece(\bPosition dst);\n-> 해당 포지션에 피스가 있는지?\n-> 가지고 있어야 하는 정보 : 포지션별로 피스 매핑\n```\n\n + 도착 지점에 같은 팀의 말이 있으면 이동할 수 없다.\n + 도착 지점에 다른 팀의 말이 있으면 잡을 수 있다.\n + 장기판 밖으로 이동할 수 없다.\n\n궁\n + 궁이 잡히면 게임이 끝난다.\n + 궁은 상하좌우로 한칸만 이동할 수 있다.\n\n사\n\n+ 사는  상하좌우로 한칸만 이동할 수 있다.\n\n병\n+ 병은  상,좌,우로 한칸만 이동할 수 있다.\n\n차\n + 차는 상하좌우로 n칸 이동할 수 있다.\n\n포\n+ 포는 포를 잡을 수 없다.\n+ 포는 기물을 하나 넘어서만 이동할 수 있다.\n+ 포는 포를 넘을 수 없다.\n\n마\n + 마는 상하좌우로 한칸, 같은 방향으로 대각선으로 한칸 이동할 수 있다.\n\n상\n+  상은 상하좌우로 한칸, 같은 방향으로 대각선으로 두칸 이동할 수 있다.\n\n\n상차림\n+ 마상상마\n+ 마상마상\n+ 상마상마\n+ 상마마상\n\n게임 규칙\n+ 초나라부터 게임 시작\n+ 번갈아가면서 게임 진행\n+ 한턴쉼\n\t+ 한턴 쉬었을 때, 상대도 한턴 쉰다면 무승부이다.\n+ 기권\n\n나중에~~\n\n+ 장군\n+ 외통수",
+      "text": "2 상마마상",
       "type": "text",
-      "width": 840,
-      "x": -1260,
-      "y": -670
+      "width": 260,
+      "x": 1970,
+      "y": -1100
     },
     {
-      "height": 1060,
-      "id": "bae1186cacbd964a",
+      "height": 60,
+      "id": "d2d368e7480ecef4",
       "styleAttributes": {
       },
-      "text": "이동 규칙\n\n- [ ] 기물(piece) 종류  \n  - [ ] 궁(宮): Palace (1개)  \n      - 이동 가능 방향: [-1, 0], [0, +1], [+1, 0], [0, -1] (추가 구현 예정)  \n  - [ ] 차(車): Chariot (2개)  \n      - 이동 가능 방향: [0, +n]  \n        - 이동 가능 방향: [0, -n]  \n        - 이동 가능 방향: [+n, 0]  \n        - 이동 가능 방향: [-n, 0]  \n    - [ ] 포(包): Pao (2개)  \n      - 이동 가능 방향: 다른 기물을 지나 -> [0, +n]  \n        - 이동 가능 방향: 다른 기물을 지나 -> [0, -n]  \n        - 이동 가능 방향: 다른 기물을 지나 -> [+n, 0]  \n        - 이동 가능 방향: 다른 기물을 지나 -> [-n, 0]  \n    - [ ] 마(馬): Horse (2개)  \n      - 이동 가능 방향: [0, +1] -> [+1, +1]  \n        - 이동 가능 방향: [0, +1] -> [-1, +1]  \n        - 이동 가능 방향: [0, -1] -> [-1, -1]  \n        - 이동 가능 방향: [0, -1] -> [+1, -1]  \n        - 이동 가능 방향: [-1, 0] -> [-1, +1]  \n        - 이동 가능 방향: [-1, 0] -> [-1, -1]  \n        - 이동 가능 방향: [+1, 0] -> [+1, +1]  \n        - 이동 가능 방향: [+1, 0] -> [+1, -1]  \n    - [ ] 상(象): Elephant (2개)  \n      - 이동 가능 방향: [0, +1] -> [+1, +1] -> [+1, +1]  \n        - 이동 가능 방향: [0, +1] -> [-1, +1] -> [-1, +1]  \n        - 이동 가능 방향: [0, -1] -> [-1, -1] -> [-1, -1]  \n        - 이동 가능 방향: [0, -1] -> [+1, -1] -> [+1, -1]  \n        - 이동 가능 방향: [-1, 0] -> [-1, +1] -> [-1, +1]  \n        - 이동 가능 방향: [-1, 0] -> [-1, -1] -> [-1, -1]  \n        - 이동 가능 방향: [+1, 0] -> [+1, +1] -> [+1, +1]  \n        - 이동 가능 방향: [+1, 0] -> [+1, -1] -> [+1, -1]  \n    - [ ] 사(士): Soldier (2개)  \n      - 이동 가능 방향: [-1, 0], [0, +1], [+1, 0], [0, -1] (추가 구현 예정)   \n  - [ ] 병(兵): Pawn (5개)  \n      - 이동 가능 방향: [-1, 0], [0, +1] ,  [0,-1], [+1, 0]\n      - 초나라면 [0,+1], 한나라면 [0,-1]",
+      "text": "Position(src)",
       "type": "text",
-      "width": 680,
-      "x": 150,
-      "y": 120
+      "width": 260,
+      "x": 1310,
+      "y": -740
     },
     {
       "height": 200,
@@ -1421,114 +1322,91 @@
     },
     {
       "height": 60,
-      "id": "a3876aaf944c694c",
+      "id": "aa115bae6ca91d70",
       "styleAttributes": {
       },
-      "text": "",
+      "text": "궁",
       "type": "text",
       "width": 260,
-      "x": 3940,
-      "y": 1880
-    },
-    {
-      "height": 60,
-      "id": "8f6c7489b1643001",
-      "styleAttributes": {
-      },
-      "text": "병",
-      "type": "text",
-      "width": 260,
-      "x": 5000,
+      "x": 1700,
       "y": 20
     },
     {
       "height": 60,
-      "id": "662b8dbae1fe1a14",
+      "id": "59d3ce55ec3088ed",
+      "styleAttributes": {
+      },
+      "text": "포",
+      "type": "text",
+      "width": 260,
+      "x": 1380,
+      "y": 20
+    },
+    {
+      "height": 270,
+      "id": "48b0d55f80c34253",
+      "styleAttributes": {
+      },
+      "text": "Turn\n`Team currentTeam`\n`boolean isRested`\n```java\npublic Turn(){\n\tcurrentTeam = CHO\n}\n```\n책임 : 턴 계산",
+      "type": "text",
+      "width": 580,
+      "x": 2530,
+      "y": -510
+    },
+    {
+      "height": 60,
+      "id": "748e9120be903ba7",
       "styleAttributes": {
       },
       "text": "상",
       "type": "text",
       "width": 260,
-      "x": 4360,
+      "x": 410,
       "y": 20
     },
     {
       "height": 60,
-      "id": "1874548c82781da7",
+      "id": "1d44f9cf85eb58de",
       "styleAttributes": {
       },
-      "text": "사",
+      "text": "병",
       "type": "text",
       "width": 260,
-      "x": 4060,
+      "x": 1050,
       "y": 20
     },
     {
       "height": 60,
-      "id": "bf216bc998edc443",
+      "id": "c2d3ce9c2cdf0665",
       "styleAttributes": {
       },
-      "text": "HanPawn\nroutes();",
+      "text": "마",
       "type": "text",
       "width": 260,
-      "x": 2980,
-      "y": 2780
+      "x": 700,
+      "y": 20
     },
     {
-      "color": "2",
-      "height": 60,
-      "id": "91971ffd44b1397c",
+      "height": 1060,
+      "id": "bae1186cacbd964a",
       "styleAttributes": {
       },
-      "text": "(abstract) Pawn",
+      "text": "이동 규칙\n\n- [ ] 기물(piece) 종류  \n  - [ ] 궁(宮): Palace (1개)  \n      - 이동 가능 방향: [-1, 0], [0, +1], [+1, 0], [0, -1] (추가 구현 예정)  \n  - [ ] 차(車): Chariot (2개)  \n      - 이동 가능 방향: [0, +n]  \n        - 이동 가능 방향: [0, -n]  \n        - 이동 가능 방향: [+n, 0]  \n        - 이동 가능 방향: [-n, 0]  \n    - [ ] 포(包): Pao (2개)  \n      - 이동 가능 방향: 다른 기물을 지나 -> [0, +n]  \n        - 이동 가능 방향: 다른 기물을 지나 -> [0, -n]  \n        - 이동 가능 방향: 다른 기물을 지나 -> [+n, 0]  \n        - 이동 가능 방향: 다른 기물을 지나 -> [-n, 0]  \n    - [ ] 마(馬): Horse (2개)  \n      - 이동 가능 방향: [0, +1] -> [+1, +1]  \n        - 이동 가능 방향: [0, +1] -> [-1, +1]  \n        - 이동 가능 방향: [0, -1] -> [-1, -1]  \n        - 이동 가능 방향: [0, -1] -> [+1, -1]  \n        - 이동 가능 방향: [-1, 0] -> [-1, +1]  \n        - 이동 가능 방향: [-1, 0] -> [-1, -1]  \n        - 이동 가능 방향: [+1, 0] -> [+1, +1]  \n        - 이동 가능 방향: [+1, 0] -> [+1, -1]  \n    - [ ] 상(象): Elephant (2개)  \n      - 이동 가능 방향: [0, +1] -> [+1, +1] -> [+1, +1]  \n        - 이동 가능 방향: [0, +1] -> [-1, +1] -> [-1, +1]  \n        - 이동 가능 방향: [0, -1] -> [-1, -1] -> [-1, -1]  \n        - 이동 가능 방향: [0, -1] -> [+1, -1] -> [+1, -1]  \n        - 이동 가능 방향: [-1, 0] -> [-1, +1] -> [-1, +1]  \n        - 이동 가능 방향: [-1, 0] -> [-1, -1] -> [-1, -1]  \n        - 이동 가능 방향: [+1, 0] -> [+1, +1] -> [+1, +1]  \n        - 이동 가능 방향: [+1, 0] -> [+1, -1] -> [+1, -1]  \n    - [ ] 사(士): Soldier (2개)  \n      - 이동 가능 방향: [-1, 0], [0, +1], [+1, 0], [0, -1] (추가 구현 예정)   \n  - [ ] 병(兵): Pawn (5개)  \n      - 이동 가능 방향: [-1, 0], [0, +1] ,  [0,-1], [+1, 0]\n      - 초나라면 [0,+1], 한나라면 [0,-1]",
       "type": "text",
-      "width": 260,
-      "x": 3140,
-      "y": 2600
+      "width": 680,
+      "x": 150,
+      "y": 120
     },
     {
-      "height": 60,
-      "id": "9442fbef62bbd34e",
+      "height": 1630,
+      "id": "189989aece939f5f",
       "styleAttributes": {
       },
-      "text": "Palace",
+      "text": "장기 행동\n\n장기판\n- 장기판은 9x10으로 구성된다.\n```java\nnew Board();\n```\n\n기물 이동\n + 이동(도착) 경로에 다른 말이 존재하면 이동할(갈) 수 없다.\n```java\nboolean hasPiece(\bPosition dst);\n-> 해당 포지션에 피스가 있는지?\n-> 가지고 있어야 하는 정보 : 포지션별로 피스 매핑\n```\n\n + 도착 지점에 같은 팀의 말이 있으면 이동할 수 없다.\n + 도착 지점에 다른 팀의 말이 있으면 잡을 수 있다.\n + 장기판 밖으로 이동할 수 없다.\n\n궁\n + 궁이 잡히면 게임이 끝난다.\n + 궁은 상하좌우로 한칸만 이동할 수 있다.\n\n사\n\n+ 사는  상하좌우로 한칸만 이동할 수 있다.\n\n병\n+ 병은  상,좌,우로 한칸만 이동할 수 있다.\n\n차\n + 차는 상하좌우로 n칸 이동할 수 있다.\n\n포\n+ 포는 포를 잡을 수 없다.\n+ 포는 기물을 하나 넘어서만 이동할 수 있다.\n+ 포는 포를 넘을 수 없다.\n\n마\n + 마는 상하좌우로 한칸, 같은 방향으로 대각선으로 한칸 이동할 수 있다.\n\n상\n+  상은 상하좌우로 한칸, 같은 방향으로 대각선으로 두칸 이동할 수 있다.\n\n\n상차림\n+ 마상상마\n+ 마상마상\n+ 상마상마\n+ 상마마상\n\n게임 규칙\n+ 초나라부터 게임 시작\n+ 번갈아가면서 게임 진행\n+ 한턴쉼\n\t+ 한턴 쉬었을 때, 상대도 한턴 쉰다면 무승부이다.\n+ 기권\n\n나중에~~\n\n+ 장군\n+ 외통수",
       "type": "text",
-      "width": 260,
-      "x": 2500,
-      "y": 2600
-    },
-    {
-      "height": 60,
-      "id": "0b9fc1c463e729a9",
-      "styleAttributes": {
-      },
-      "text": "ChoPawn\nroutes();",
-      "type": "text",
-      "width": 260,
-      "x": 3270,
-      "y": 2780
-    },
-    {
-      "height": 60,
-      "id": "e6fa6a9bbc5b7ece",
-      "styleAttributes": {
-      },
-      "text": "Elephant\nroutes();",
-      "type": "text",
-      "width": 260,
-      "x": 3460,
-      "y": 2600
-    },
-    {
-      "height": 60,
-      "id": "4dace57ee2a0c090",
-      "styleAttributes": {
-      },
-      "text": "Soldier\nroutes();",
-      "type": "text",
-      "width": 260,
-      "x": 2820,
-      "y": 2600
+      "width": 840,
+      "x": -1260,
+      "y": -670
     },
     {
       "height": 60,
@@ -1551,28 +1429,6 @@
       "width": 260,
       "x": 4410,
       "y": 2010
-    },
-    {
-      "height": 60,
-      "id": "d728c57437c0d030",
-      "styleAttributes": {
-      },
-      "text": "사",
-      "type": "text",
-      "width": 260,
-      "x": 4050,
-      "y": 1770
-    },
-    {
-      "height": 60,
-      "id": "3f9d79c1fd57120a",
-      "styleAttributes": {
-      },
-      "text": "상",
-      "type": "text",
-      "width": 260,
-      "x": 4350,
-      "y": 1770
     },
     {
       "color": "2",
@@ -1598,6 +1454,29 @@
       "y": 2780
     },
     {
+      "color": "2",
+      "height": 100,
+      "id": "db17ab4d0f9fbcc9",
+      "styleAttributes": {
+      },
+      "text": "(abstract) straightPiece\n\n possibleRoutes();",
+      "type": "text",
+      "width": 260,
+      "x": 4540,
+      "y": 2400
+    },
+    {
+      "height": 60,
+      "id": "e6fa6a9bbc5b7ece",
+      "styleAttributes": {
+      },
+      "text": "Elephant\nroutes();",
+      "type": "text",
+      "width": 260,
+      "x": 3460,
+      "y": 2600
+    },
+    {
       "height": 60,
       "id": "682d82b61c417593",
       "styleAttributes": {
@@ -1606,6 +1485,96 @@
       "type": "text",
       "width": 260,
       "x": 3780,
+      "y": 2600
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "91971ffd44b1397c",
+      "styleAttributes": {
+      },
+      "text": "(abstract) Pawn",
+      "type": "text",
+      "width": 260,
+      "x": 3140,
+      "y": 2600
+    },
+    {
+      "height": 60,
+      "id": "bf216bc998edc443",
+      "styleAttributes": {
+      },
+      "text": "HanPawn\nroutes();",
+      "type": "text",
+      "width": 260,
+      "x": 2980,
+      "y": 2780
+    },
+    {
+      "height": 60,
+      "id": "0b9fc1c463e729a9",
+      "styleAttributes": {
+      },
+      "text": "ChoPawn\nroutes();",
+      "type": "text",
+      "width": 260,
+      "x": 3270,
+      "y": 2780
+    },
+    {
+      "color": "2",
+      "height": 360,
+      "id": "9bcedf83da90478b",
+      "styleAttributes": {
+      },
+      "text": "(abstract) Piece\n\nabstract possibleRoutes();\nRoutes();\n\n```java\nmove(){\n\tpossibleRoutes();\n\t\n};\n```\n",
+      "type": "text",
+      "width": 290,
+      "x": 3780,
+      "y": 2040
+    },
+    {
+      "height": 60,
+      "id": "a9e04353dfbe48dd",
+      "styleAttributes": {
+      },
+      "text": "차",
+      "type": "text",
+      "width": 260,
+      "x": 3750,
+      "y": 1770
+    },
+    {
+      "height": 60,
+      "id": "a3876aaf944c694c",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 260,
+      "x": 3940,
+      "y": 1880
+    },
+    {
+      "height": 60,
+      "id": "d728c57437c0d030",
+      "styleAttributes": {
+      },
+      "text": "사",
+      "type": "text",
+      "width": 260,
+      "x": 4050,
+      "y": 1770
+    },
+    {
+      "height": 60,
+      "id": "badb65ca6056d92a",
+      "styleAttributes": {
+      },
+      "text": "Chariot\nroutes();",
+      "type": "text",
+      "width": 260,
+      "x": 4540,
       "y": 2600
     },
     {
@@ -1620,26 +1589,25 @@
       "y": 2810
     },
     {
-      "color": "2",
-      "height": 100,
-      "id": "db17ab4d0f9fbcc9",
+      "height": 60,
+      "id": "9442fbef62bbd34e",
       "styleAttributes": {
       },
-      "text": "(abstract) straightPiece\n\n possibleRoutes();",
+      "text": "Palace",
       "type": "text",
       "width": 260,
-      "x": 4540,
-      "y": 2400
+      "x": 2500,
+      "y": 2600
     },
     {
       "height": 60,
-      "id": "badb65ca6056d92a",
+      "id": "4dace57ee2a0c090",
       "styleAttributes": {
       },
-      "text": "Chariot\nroutes();",
+      "text": "Soldier\nroutes();",
       "type": "text",
       "width": 260,
-      "x": 4540,
+      "x": 2820,
       "y": 2600
     },
     {
@@ -1666,50 +1634,26 @@
       "y": 2150
     },
     {
-      "color": "6",
-      "height": 60,
-      "id": "86eec29fa57eef89",
+      "height": 180,
+      "id": "569d785109626101",
       "styleAttributes": {
       },
-      "text": "Row",
+      "text": "Routes\n`Set<Route>`\nofHorse();\nofElephant();\n...",
       "type": "text",
       "width": 260,
-      "x": 2840,
-      "y": 2280
+      "x": 3400,
+      "y": 1850
     },
     {
-      "color": "2",
-      "height": 100,
-      "id": "e075fdf606030d71",
+      "height": 130,
+      "id": "25869e8d6a12a660",
       "styleAttributes": {
       },
-      "text": "(abstract) NomalPiece\n\n possibleRoutes();\n",
+      "text": "board\n`Map<Position, Piece>`",
       "type": "text",
       "width": 260,
-      "x": 3460,
-      "y": 2400
-    },
-    {
-      "height": 60,
-      "id": "70df613384ecaaa1",
-      "styleAttributes": {
-      },
-      "text": "병",
-      "type": "text",
-      "width": 260,
-      "x": 4990,
-      "y": 1770
-    },
-    {
-      "height": 100,
-      "id": "81ecfac127a254cc",
-      "styleAttributes": {
-      },
-      "text": "Piece(src)\n`Team team`\n`List<Route> routes`",
-      "type": "text",
-      "width": 260,
-      "x": 5250,
-      "y": 1270
+      "x": 2970,
+      "y": 1940
     },
     {
       "color": "6",
@@ -1724,6 +1668,18 @@
       "y": 2280
     },
     {
+      "color": "6",
+      "height": 60,
+      "id": "86eec29fa57eef89",
+      "styleAttributes": {
+      },
+      "text": "Row",
+      "type": "text",
+      "width": 260,
+      "x": 2840,
+      "y": 2280
+    },
+    {
       "height": 60,
       "id": "d54e64eed9cc04a1",
       "styleAttributes": {
@@ -1733,6 +1689,18 @@
       "width": 260,
       "x": 2970,
       "y": 2120
+    },
+    {
+      "color": "2",
+      "height": 100,
+      "id": "e075fdf606030d71",
+      "styleAttributes": {
+      },
+      "text": "(abstract) NomalPiece\n\n possibleRoutes();\n",
+      "type": "text",
+      "width": 260,
+      "x": 3460,
+      "y": 2400
     },
     {
       "color": "6",
@@ -1747,17 +1715,6 @@
       "y": 2240
     },
     {
-      "height": 180,
-      "id": "569d785109626101",
-      "styleAttributes": {
-      },
-      "text": "Routes\n`Set<Route>`\nofHorse();\nofElephant();\n...",
-      "type": "text",
-      "width": 260,
-      "x": 3400,
-      "y": 1850
-    },
-    {
       "height": 60,
       "id": "4fef13717f8becee",
       "styleAttributes": {
@@ -1769,38 +1726,26 @@
       "y": 2120
     },
     {
-      "color": "2",
-      "height": 360,
-      "id": "9bcedf83da90478b",
+      "height": 60,
+      "id": "4eaf1558ae78f9a1",
       "styleAttributes": {
       },
-      "text": "(abstract) Piece\n\nabstract possibleRoutes();\nRoutes();\n\n```java\nmove(){\n\tpossibleRoutes();\n\t\n};\n```\n",
+      "text": "Piece(dst)",
       "type": "text",
-      "width": 290,
-      "x": 3780,
-      "y": 2040
+      "width": 260,
+      "x": 6040,
+      "y": 1710
     },
     {
       "height": 60,
-      "id": "a9e04353dfbe48dd",
+      "id": "70df613384ecaaa1",
       "styleAttributes": {
       },
-      "text": "차",
+      "text": "병",
       "type": "text",
       "width": 260,
-      "x": 3750,
+      "x": 4990,
       "y": 1770
-    },
-    {
-      "height": 130,
-      "id": "25869e8d6a12a660",
-      "styleAttributes": {
-      },
-      "text": "board\n`Map<Position, Piece>`",
-      "type": "text",
-      "width": 260,
-      "x": 2970,
-      "y": 1940
     },
     {
       "height": 60,
@@ -1826,47 +1771,69 @@
     },
     {
       "height": 60,
-      "id": "4eaf1558ae78f9a1",
+      "id": "88e26a70b0d48dd4",
       "styleAttributes": {
       },
-      "text": "Piece(dst)",
+      "text": "마",
       "type": "text",
       "width": 260,
-      "x": 6040,
-      "y": 1710
+      "x": 4640,
+      "y": 1770
     },
     {
       "height": 60,
-      "id": "acb793be1ca04d57",
+      "id": "3f9d79c1fd57120a",
+      "styleAttributes": {
+      },
+      "text": "상",
+      "type": "text",
+      "width": 260,
+      "x": 4350,
+      "y": 1770
+    },
+    {
+      "height": 100,
+      "id": "098f524a5e6ba1fa",
+      "styleAttributes": {
+      },
+      "text": "Piece(src)\n`Team team`\n`List<Route> routes`",
+      "type": "text",
+      "width": 260,
+      "x": 5260,
+      "y": -480
+    },
+    {
+      "height": 60,
+      "id": "d3a490d33ef53463",
+      "styleAttributes": {
+      },
+      "text": "View",
+      "type": "text",
+      "width": 260,
+      "x": 7130,
+      "y": -1040
+    },
+    {
+      "height": 60,
+      "id": "46abdf94fe434cfb",
+      "styleAttributes": {
+      },
+      "text": "Application",
+      "type": "text",
+      "width": 260,
+      "x": 7130,
+      "y": -840
+    },
+    {
+      "height": 60,
+      "id": "8cf5b0c52feca1cd",
       "styleAttributes": {
       },
       "text": "Position(dst)",
       "type": "text",
       "width": 260,
-      "x": 6040,
-      "y": 1270
-    },
-    {
-      "height": 200,
-      "id": "322e2bc0cb66834c",
-      "styleAttributes": {
-      },
-      "text": "Piece\n`방향벡터 리스트`\n내가 가능한 경로가 dst를 포함하고 있는가?",
-      "type": "text",
-      "width": 260,
-      "x": 4590,
-      "y": 1200
-    },
-    {
-      "height": 270,
-      "id": "8943302d9943a6d4",
-      "styleAttributes": {
-      },
-      "text": "Turn\n`Team currentTeam`\n`boolean isRested`\n```java\npublic Turn(){\n\tcurrentTeam = CHO\n}\n```\n책임 : 턴 계산",
-      "type": "text",
-      "width": 580,
-      "x": 6470,
-      "y": 1240
+      "x": 6050,
+      "y": -480
     },
     {
       "color": "2",
@@ -1892,94 +1859,6 @@
       "y": -1100
     },
     {
-      "height": 60,
-      "id": "d3a490d33ef53463",
-      "styleAttributes": {
-      },
-      "text": "View",
-      "type": "text",
-      "width": 260,
-      "x": 7130,
-      "y": -1040
-    },
-    {
-      "height": 60,
-      "id": "88e26a70b0d48dd4",
-      "styleAttributes": {
-      },
-      "text": "마",
-      "type": "text",
-      "width": 260,
-      "x": 4640,
-      "y": 1770
-    },
-    {
-      "height": 60,
-      "id": "46abdf94fe434cfb",
-      "styleAttributes": {
-      },
-      "text": "Application",
-      "type": "text",
-      "width": 260,
-      "x": 7130,
-      "y": -840
-    },
-    {
-      "height": 60,
-      "id": "4c1be8c4ba75bbb6",
-      "styleAttributes": {
-      },
-      "text": "Piece(dst)",
-      "type": "text",
-      "width": 260,
-      "x": 6050,
-      "y": -40
-    },
-    {
-      "height": 180,
-      "id": "29223e70bc26b5e0",
-      "styleAttributes": {
-      },
-      "text": "1 상마상마\n```java\nnew Position(x,y,new Horse()); // *4\n```\n",
-      "type": "text",
-      "width": 460,
-      "x": 5420,
-      "y": 560
-    },
-    {
-      "height": 60,
-      "id": "adfb1d64d8fcb06c",
-      "styleAttributes": {
-      },
-      "text": "4 마상상마",
-      "type": "text",
-      "width": 260,
-      "x": 6520,
-      "y": 650
-    },
-    {
-      "height": 60,
-      "id": "c7dc8b9d4bf52cfc",
-      "styleAttributes": {
-      },
-      "text": "3 마상마상",
-      "type": "text",
-      "width": 260,
-      "x": 6210,
-      "y": 650
-    },
-    {
-      "height": 60,
-      "id": "3f283d61e42cd241",
-      "styleAttributes": {
-      },
-      "text": "2 상마마상",
-      "type": "text",
-      "width": 260,
-      "x": 5910,
-      "y": 650
-    },
-    {
       "height": 270,
       "id": "fa56618ec783380d",
       "styleAttributes": {
@@ -1989,28 +1868,6 @@
       "width": 580,
       "x": 6480,
       "y": -510
-    },
-    {
-      "height": 100,
-      "id": "098f524a5e6ba1fa",
-      "styleAttributes": {
-      },
-      "text": "Piece(src)\n`Team team`\n`List<Route> routes`",
-      "type": "text",
-      "width": 260,
-      "x": 5260,
-      "y": -480
-    },
-    {
-      "height": 60,
-      "id": "8cf5b0c52feca1cd",
-      "styleAttributes": {
-      },
-      "text": "Position(dst)",
-      "type": "text",
-      "width": 260,
-      "x": 6050,
-      "y": -480
     },
     {
       "height": 60,
@@ -2025,6 +1882,28 @@
     },
     {
       "height": 60,
+      "id": "4c1be8c4ba75bbb6",
+      "styleAttributes": {
+      },
+      "text": "Piece(dst)",
+      "type": "text",
+      "width": 260,
+      "x": 6050,
+      "y": -40
+    },
+    {
+      "height": 60,
+      "id": "8f6c7489b1643001",
+      "styleAttributes": {
+      },
+      "text": "병",
+      "type": "text",
+      "width": 260,
+      "x": 5000,
+      "y": 20
+    },
+    {
+      "height": 60,
       "id": "3880a8b189d9743d",
       "styleAttributes": {
       },
@@ -2033,29 +1912,6 @@
       "width": 260,
       "x": 5650,
       "y": 20
-    },
-    {
-      "color": "2",
-      "height": 200,
-      "id": "07288347e9ad4908",
-      "styleAttributes": {
-      },
-      "text": "장기판 밖인지 확인 -> 9x10\n`List<position>`\n```java\nnew Board(new 4Strategy)\n```",
-      "type": "text",
-      "width": 320,
-      "x": 6490,
-      "y": 960
-    },
-    {
-      "height": 60,
-      "id": "df137ee8e22a185b",
-      "styleAttributes": {
-      },
-      "text": "Application",
-      "type": "text",
-      "width": 260,
-      "x": 7120,
-      "y": 910
     },
     {
       "height": 60,
@@ -2069,71 +1925,15 @@
       "y": 710
     },
     {
-      "color": "4",
       "height": 60,
-      "id": "84bc6fed0e314b70",
+      "id": "df137ee8e22a185b",
       "styleAttributes": {
       },
-      "text": "상차림 strategy",
+      "text": "Application",
       "type": "text",
       "width": 260,
-      "x": 6040,
-      "y": 830
-    },
-    {
-      "height": 140,
-      "id": "7205938778337567",
-      "styleAttributes": {
-      },
-      "text": "Position(src)\n`int x`\n`int y`\n`Piece piece`",
-      "type": "text",
-      "width": 260,
-      "x": 5250,
-      "y": 930
-    },
-    {
-      "height": 100,
-      "id": "cc860ac65c2d1e13",
-      "styleAttributes": {
-      },
-      "text": "Board\n책임 : postion 검증",
-      "type": "text",
-      "width": 260,
-      "x": 6040,
-      "y": 1010
-    },
-    {
-      "height": 140,
-      "id": "81ccb8e0414d2cad",
-      "styleAttributes": {
-      },
-      "text": "Position(src)\n`int x`\n`int y`\n`Piece piece`",
-      "type": "text",
-      "width": 260,
-      "x": 5260,
-      "y": -820
-    },
-    {
-      "height": 180,
-      "id": "b94893658730e889",
-      "styleAttributes": {
-      },
-      "text": "1 상마상마\n```java\nnew Position(x,y,new Horse()); // *4\n```\n",
-      "type": "text",
-      "width": 460,
-      "x": 5430,
-      "y": -1190
-    },
-    {
-      "height": 60,
-      "id": "66279dbf64196900",
-      "styleAttributes": {
-      },
-      "text": "마",
-      "type": "text",
-      "width": 260,
-      "x": 4650,
-      "y": 20
+      "x": 7120,
+      "y": 910
     },
     {
       "color": "4",
@@ -2159,6 +1959,39 @@
       "y": -1100
     },
     {
+      "height": 270,
+      "id": "8943302d9943a6d4",
+      "styleAttributes": {
+      },
+      "text": "Turn\n`Team currentTeam`\n`boolean isRested`\n```java\npublic Turn(){\n\tcurrentTeam = CHO\n}\n```\n책임 : 턴 계산",
+      "type": "text",
+      "width": 580,
+      "x": 6470,
+      "y": 1240
+    },
+    {
+      "height": 140,
+      "id": "81ccb8e0414d2cad",
+      "styleAttributes": {
+      },
+      "text": "Position(src)\n`int x`\n`int y`\n`Piece piece`",
+      "type": "text",
+      "width": 260,
+      "x": 5260,
+      "y": -820
+    },
+    {
+      "height": 180,
+      "id": "b94893658730e889",
+      "styleAttributes": {
+      },
+      "text": "1 상마상마\n```java\nnew Position(x,y,new Horse()); // *4\n```\n",
+      "type": "text",
+      "width": 460,
+      "x": 5430,
+      "y": -1190
+    },
+    {
       "height": 60,
       "id": "477db62e54b86d3a",
       "styleAttributes": {
@@ -2168,6 +2001,74 @@
       "width": 260,
       "x": 5920,
       "y": -1100
+    },
+    {
+      "height": 60,
+      "id": "adfb1d64d8fcb06c",
+      "styleAttributes": {
+      },
+      "text": "4 마상상마",
+      "type": "text",
+      "width": 260,
+      "x": 6520,
+      "y": 650
+    },
+    {
+      "color": "2",
+      "height": 200,
+      "id": "07288347e9ad4908",
+      "styleAttributes": {
+      },
+      "text": "장기판 밖인지 확인 -> 9x10\n`List<position>`\n```java\nnew Board(new 4Strategy)\n```",
+      "type": "text",
+      "width": 320,
+      "x": 6490,
+      "y": 960
+    },
+    {
+      "height": 60,
+      "id": "3b5eb93ad6654194",
+      "styleAttributes": {
+      },
+      "text": "차",
+      "type": "text",
+      "width": 260,
+      "x": 3760,
+      "y": 20
+    },
+    {
+      "height": 60,
+      "id": "acb793be1ca04d57",
+      "styleAttributes": {
+      },
+      "text": "Position(dst)",
+      "type": "text",
+      "width": 260,
+      "x": 6040,
+      "y": 1270
+    },
+    {
+      "height": 100,
+      "id": "cc860ac65c2d1e13",
+      "styleAttributes": {
+      },
+      "text": "Board\n책임 : postion 검증",
+      "type": "text",
+      "width": 260,
+      "x": 6040,
+      "y": 1010
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "84bc6fed0e314b70",
+      "styleAttributes": {
+      },
+      "text": "상차림 strategy",
+      "type": "text",
+      "width": 260,
+      "x": 6040,
+      "y": 830
     },
     {
       "height": 100,
@@ -2181,6 +2082,72 @@
       "y": -740
     },
     {
+      "height": 180,
+      "id": "29223e70bc26b5e0",
+      "styleAttributes": {
+      },
+      "text": "1 상마상마\n```java\nnew Position(x,y,new Horse()); // *4\n```\n",
+      "type": "text",
+      "width": 460,
+      "x": 5420,
+      "y": 560
+    },
+    {
+      "height": 140,
+      "id": "7205938778337567",
+      "styleAttributes": {
+      },
+      "text": "Position(src)\n`int x`\n`int y`\n`Piece piece`",
+      "type": "text",
+      "width": 260,
+      "x": 5250,
+      "y": 930
+    },
+    {
+      "height": 100,
+      "id": "81ecfac127a254cc",
+      "styleAttributes": {
+      },
+      "text": "Piece(src)\n`Team team`\n`List<Route> routes`",
+      "type": "text",
+      "width": 260,
+      "x": 5250,
+      "y": 1270
+    },
+    {
+      "height": 60,
+      "id": "c7dc8b9d4bf52cfc",
+      "styleAttributes": {
+      },
+      "text": "3 마상마상",
+      "type": "text",
+      "width": 260,
+      "x": 6210,
+      "y": 650
+    },
+    {
+      "height": 60,
+      "id": "3f283d61e42cd241",
+      "styleAttributes": {
+      },
+      "text": "2 상마마상",
+      "type": "text",
+      "width": 260,
+      "x": 5910,
+      "y": 650
+    },
+    {
+      "height": 60,
+      "id": "1874548c82781da7",
+      "styleAttributes": {
+      },
+      "text": "사",
+      "type": "text",
+      "width": 260,
+      "x": 4060,
+      "y": 20
+    },
+    {
       "height": 200,
       "id": "bf60b458c71b3ad5",
       "styleAttributes": {
@@ -2190,6 +2157,39 @@
       "width": 260,
       "x": 4600,
       "y": -550
+    },
+    {
+      "height": 60,
+      "id": "662b8dbae1fe1a14",
+      "styleAttributes": {
+      },
+      "text": "상",
+      "type": "text",
+      "width": 260,
+      "x": 4360,
+      "y": 20
+    },
+    {
+      "height": 60,
+      "id": "66279dbf64196900",
+      "styleAttributes": {
+      },
+      "text": "마",
+      "type": "text",
+      "width": 260,
+      "x": 4650,
+      "y": 20
+    },
+    {
+      "height": 200,
+      "id": "322e2bc0cb66834c",
+      "styleAttributes": {
+      },
+      "text": "Piece\n`방향벡터 리스트`\n내가 가능한 경로가 dst를 포함하고 있는가?",
+      "type": "text",
+      "width": 260,
+      "x": 4590,
+      "y": 1200
     }
   ]
 }
