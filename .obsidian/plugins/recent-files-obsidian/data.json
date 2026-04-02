@@ -1,48 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "블랙잭 설계",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/level1/블랙잭 설계.canvas"
+    },
+    {
       "basename": "Dashboard",
       "path": "Dashboard.md"
     },
     {
-      "basename": "1. 개발 철학",
-      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/ppt/1. 개발 철학.md"
+      "basename": "블랙잭 설계",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/선수타/링크/자료/블랙잭 설계.canvas"
     },
     {
-      "basename": "3. 나만의 언어",
-      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/ppt/3. 나만의 언어.md"
-    },
-    {
-      "basename": "2. 나만의 언어 효과",
-      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/ppt/2. 나만의 언어 효과.md"
-    },
-    {
-      "basename": "4. 끗",
-      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/ppt/4. 끗.md"
+      "basename": "레벨인터뷰",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/level1/레벨인터뷰.canvas"
     },
     {
       "basename": "다시추상화시키기",
-      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/자료/다시추상화시키기.canvas"
-    },
-    {
-      "basename": "블랙잭 설계",
-      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/자료/블랙잭 설계.canvas"
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/선수타/링크/자료/다시추상화시키기.canvas"
     },
     {
       "basename": "오브젝트",
-      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/자료/오브젝트.canvas"
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/오브젝트 총정리/오브젝트.canvas"
     },
     {
-      "basename": "장기",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/level1/장기.canvas"
+      "basename": "오브젝트",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/선수타/링크/자료/오브젝트.canvas"
+    },
+    {
+      "basename": "4. 끗",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/선수타/링크/ppt/4. 끗.md"
+    },
+    {
+      "basename": "3. 나만의 언어",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/선수타/링크/ppt/3. 나만의 언어.md"
+    },
+    {
+      "basename": "2. 나만의 언어 효과",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/선수타/링크/ppt/2. 나만의 언어 효과.md"
+    },
+    {
+      "basename": "1. 개발 철학",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/선수타/링크/ppt/1. 개발 철학.md"
+    },
+    {
+      "basename": "오브젝트 리마인드",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/오브젝트 총정리/오브젝트 리마인드.md"
+    },
+    {
+      "basename": "05-2",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/05-2.md"
+    },
+    {
+      "basename": "04 설계 품질과 트레이드오프",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/04 설계 품질과 트레이드오프.md"
+    },
+    {
+      "basename": "02 객체지향 프로그래밍",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/02 객체지향 프로그래밍.md"
+    },
+    {
+      "basename": "01 객체, 설계",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/01 객체, 설계.md"
     },
     {
       "basename": "장기말 설계",
       "path": "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/level1/장기말 설계.md"
     },
     {
-      "basename": "링크 대본",
-      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/etc/링크 대본.md"
+      "basename": "장기",
+      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/level1/장기.canvas"
     },
     {
       "basename": "06 메시지와 인터페이스",
@@ -53,20 +81,8 @@
       "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/05 책임 할당하기.md"
     },
     {
-      "basename": "04 설계 품질과 트레이드오프",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/04 설계 품질과 트레이드오프.md"
-    },
-    {
       "basename": "03 역할, 책임, 협력",
       "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/03 역할, 책임, 협력.md"
-    },
-    {
-      "basename": "02 객체지향 프로그래밍",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/02 객체지향 프로그래밍.md"
-    },
-    {
-      "basename": "01 객체, 설계",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/01 객체, 설계.md"
     },
     {
       "basename": "자바 8",
@@ -81,28 +97,8 @@
       "path": "Setting/20241228.png"
     },
     {
-      "basename": "오브젝트 리마인드",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/오브젝트 총정리/오브젝트 리마인드.md"
-    },
-    {
       "basename": "10 상속과 코드 재사용",
       "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/10 상속과 코드 재사용.md"
-    },
-    {
-      "basename": "우테코에서 나를 찾는 방법?성장하는법?",
-      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/etc/우테코에서 나를 찾는 방법?성장하는법?.md"
-    },
-    {
-      "basename": "선수타 작업 맥락",
-      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/etc/선수타 작업 맥락.md"
-    },
-    {
-      "basename": "링크 정리",
-      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/etc/링크 정리.md"
-    },
-    {
-      "basename": "링크 슬라이드",
-      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/etc/링크 슬라이드.md"
     },
     {
       "basename": "07 객체 분해",
@@ -117,28 +113,8 @@
       "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/13 서브클래싱과 서브타이핑.md"
     },
     {
-      "basename": "05-2",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/독서/Book/오브젝트/05-2.md"
-    },
-    {
       "basename": "PR-808-Code-Review",
       "path": "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/codereview/blackjack/PR-808-Code-Review.canvas"
-    },
-    {
-      "basename": "최종의최종",
-      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/etc/최종의최종.md"
-    },
-    {
-      "basename": "최종3",
-      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/etc/최종3.md"
-    },
-    {
-      "basename": "최종2",
-      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/etc/최종2.md"
-    },
-    {
-      "basename": "최종",
-      "path": "🟧 Organize 영구노트/🔵 Project 프로젝트/선수타/링크/etc/최종.md"
     },
     {
       "basename": "review-checklist",
@@ -187,18 +163,6 @@
     {
       "basename": "요청응답",
       "path": "🟧 Organize 영구노트/🟤 Archive 보관소/우아한테크코스/요청응답.canvas"
-    },
-    {
-      "basename": "알아두면 이해하기 편한 문법",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/내부코드 까보기/알아두면 이해하기 편한 문법.md"
-    },
-    {
-      "basename": "datarize-domain-structure",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/datarize/datarize-domain-structure.canvas"
-    },
-    {
-      "basename": "제이슨강의",
-      "path": "🟧 Organize 영구노트/🟤 Archive 보관소/취준/제이슨강의.md"
     }
   ],
   "omittedPaths": [],
